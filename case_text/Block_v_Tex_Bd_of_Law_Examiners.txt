@@ -1,0 +1,59 @@
+Block v. Tex. Bd. of Law Examiners
+United States Court of Appeals for the Fifth Circuit
+March 10, 2020, Filed
+No. 19-50286
+
+Reporter
+952 F.3d 613 *; 2020 U.S. App. LEXIS 7465 **; 2020 WL 1149547
+ALBERT W. BLOCK, JR., Plaintiff - Appellant v. TEXAS BOARD OF LAW EXAMINERS, Defendant - Appellee
+Prior History:  [**1] Appeals from the United States District Court for the Western District of Texas.
+Block v. Tex. Bd. of Law Examiners, 2019 U.S. Dist. LEXIS 16942 (W.D. Tex., Feb. 1, 2019)
+Counsel: ALBERT W. BLOCK, JR., Plaintiff - Appellant, Pro se, Round Rock, TX.
+For TEXAS BOARD OF LAW EXAMINERS, Defendant - Appellee: Summer Rayne Lee, Assistant Attorney General, Office of the Attorney General, General Litigation Division, Austin, TX.
+Judges: Before DAVIS, SMITH, and STEWART, Circuit Judges.
+Opinion by: W. EUGENE DAVIS
+Opinion
+
+
+ [*615]  W. EUGENE DAVIS, Circuit Judge:
+Out-of-state lawyers can be admitted to the State Bar of Texas without taking the Texas bar exam if, among other things, they have actively practiced law for at least five of the last seven years. Albert Block, Jr., a licensed Louisiana lawyer, sued the Texas Board of Law Examiners  [*616]  for its refusal to waive that requirement to accommodate his disability. Block appeals the district court's dismissal of his claims as barred by sovereign immunity.
+The district court held "that the accommodation obligation imposed by Title II" of the Americans with Disabilities Act ("ADA")—at least "as it relates to non-fundamental rights"—"exceeds that imposed by the Constitution and is not a valid abrogation of state sovereign immunity." But because Block did not allege any conduct that violates [**2]  Title II, we AFFIRM the dismissal of his claims under the first prong of United States v. Georgia, and do not reach the issue relied on by the district court. However, because Block's claims should have been dismissed without prejudice, we modify the district court's judgment from a dismissal with prejudice to a dismissal without prejudice.
+
+I. Background
+Albert Block, Jr. practiced law in Louisiana from 1977 until 2004, when his disability1 forced him to stop. Over ten years later, Block sought admission to the State Bar of Texas. Licensed lawyers can be admitted without taking the Texas bar exam if they (1) have actively practiced law for at least five of the last seven years (the "active practice requirement"); (2) have a J.D. from an approved law school; and (3) have not previously failed the Texas bar exam. Block decided to sit for the bar exam because, he says, he was told there would be no waiver of the active practice requirement for a disabled applicant.
+Block failed the Texas bar exam in July 2015 and again in February 2016. Then, in May 2017, Block applied for admission without examination to the Texas bar, explaining that his disability prevented him from satisfying the active [**3]  practice requirement. Because Block "recently failed the bar exam twice" and "ha[d] not practiced law since 2004," the Texas Board of Law Examiners ("TBLE") denied his application.
+Block sued TBLE, alleging that the active practice requirement—and TBLE's refusal to waive it for him—violate the Americans with Disabilities Act ("ADA"), the Rehabilitation Act, and the Equal Protection Clause. He also alleged that TBLE retaliated against him for requesting the waiver by filing a complaint against him for the unauthorized practice of law.
+TBLE moved to dismiss Block's complaint under Rules 12(b)(1) and (6). The district court adopted the magistrate judge's report and recommendation and dismissed Block's claims. Specifically, the court found that (1) Title II of the ADA does not validly abrogate states' sovereign immunity "as it relates to non-fundamental rights"; (2) Block did not plead that TBLE waived its immunity under the Rehabilitation Act by accepting federal funds; and (3) the Ex parte Young exception did not apply to Block's Fourteenth Amendment claims.
+
+II. Discussion
+We review de novo a Rule 12(b)(1) dismissal based on sovereign immunity,2 applying the same standard as the district court. "When a Rule 12(b)(1) motion is filed in conjunction with other Rule 12 motions, the court [**4]  should consider  [*617]  the Rule 12(b)(1) jurisdictional attack before addressing any attack on the merits."3
+
+A. ADA Title II Claims
+Under the Eleventh Amendment, federal courts lack jurisdiction over suits against nonconsenting states. Congress can abrogate this immunity if it (1) "makes its intention to abrogate unmistakably clear in the language of the statute" and (2) "acts pursuant to a valid exercise of its power under § 5 of the Fourteenth Amendment."4 Here, the first prong is easy: Congress expressly declared that states "shall not be immune" from suit for a violation of the ADA.5 The second—whether Congress's purported abrogation was a valid exercise of its § 5 power—is more complicated.
+Section 5 legislation that targets facially constitutional conduct is valid only if it demonstrates "a congruence and proportionality between the injury to be prevented or remedied and the means adopted to that end."6 In Reickenbacker v. Foster, we held that Title II of the ADA, as a whole, fails that test.7 But three years later, the Supreme Court held that Title II is congruent and proportional—and does validly abrogate states' sovereign immunity—in "cases implicating the fundamental right of access to the courts."8 We did not decide whether Reickenbacker's holding remains valid [**5]  in cases beyond that specific purview.9
+The Supreme Court changed the Title II abrogation landscape a second time with United States v. Georgia.10 Importantly, the Court established a three-part test for determining whether Title II validly abrogates states' sovereign immunity. A court must determine, on a "claim-by-claim basis":
+(1) which aspects of the State's alleged conduct violated Title II; (2) to what extent such misconduct also violated the Fourteenth Amendment; and (3) insofar as such misconduct violated Title II but did not violate the Fourteenth Amendment, whether Congress's purported abrogation of sovereign immunity as to that class of conduct is nevertheless valid.11
+Here, the magistrate judge's report and recommendation (adopted by the district court) skipped to Step 3, and held that "the accommodation obligation imposed by Title II, as it relates to non-fundamental rights" like the right to practice law involved here, "exceeds that imposed by the Constitution and is not a valid abrogation of state sovereign immunity." But under Georgia, we do not reach that question  [*618]  unless and until it is decided that Block has stated a claim under Title II.12
+
+i.
+To [**6]  establish a prima facie case of discrimination under the ADA, Block must show (1) he is a "qualified individual" under the ADA; (2) he was excluded from participation in, or denied the benefits of, services, programs, or activities for which TBLE is responsible; and (3) the exclusion was by reason of disability.13 Title II requires public entities to make "reasonable modifications in policies, practices, or procedures" for disabled individuals, unless the entity can show that a modification would "fundamentally alter the nature" of the service or program it offers.14 A public entity's failure to make a reasonable modification may satisfy the second and third prongs of the prima facie case.15 Block bears the burden of showing that he requested a modification and that it was reasonable.16
+Block alleges that TBLE violated Title II by refusing to waive the active practice requirement for admission without examination to the State Bar of Texas. But Title II "does not require States to compromise their essential eligibility criteria for public programs"—"[i]t requires only reasonable modifications," and "only when the individual seeking modification is otherwise eligible for the service." [**7] 17
+TBLE protects the integrity of its bar by requiring applicants to either pass the Texas bar exam or meet the three requirements for admission without examination.18 The active practice requirement ensures that applicants have both achieved and maintained the skill and knowledge required to practice law in Texas. Waiving it to admit a lawyer who has neither passed the Texas bar exam nor practiced law for thirteen years would not inform TBLE of a vital fact: does Block currently  [*619]  have the necessary knowledge and skill to practice law? The modification Block seeks is not a reasonable one.19
+Because Block has alleged no conduct that violates Title II, TBLE is entitled to Eleventh Amendment immunity.
+
+B. ADA Title V Claims
+With his Title V retaliation claim, Block alleges that TBLE retaliated against him for requesting a waiver of the active practice requirement by filing a complaint against him for the unauthorized practice of law. "Title V itself does not abrogate a state's sovereign immunity. Instead, a plaintiff may bring a retaliation claim against a state entity only to the extent that the underlying claim of discrimination effectively abrogates sovereign immunity of the particular state." [**8] 20 Because Block's underlying Title II claim is barred by sovereign immunity, so is his Title V retaliation claim.
+
+C. Rehabilitation Act Claims
+Block also brings discrimination and retaliation claims under the Rehabilitation Act. A state entity waives sovereign immunity under § 504 of the Rehabilitation Act by accepting federal financial assistance.21 To state a claim under the Rehabilitation Act, "a plaintiff must allege that the specific program or activity with which he or she was involved receives or directly benefits from federal financial assistance."22 Because Block did not allege that TBLE receives federal funds, the district court did not err in dismissing his Rehabilitation Act claims.23
+
+D. Fourteenth Amendment Claims
+Block next argues the district court erred in holding that the Ex parte Young exception to Eleventh Amendment immunity does not apply to his Fourteenth Amendment claims. That exception allows a plaintiff to sue individual state officials for prospective relief—a legal fiction that skirts around the Eleventh Amendment. "To fall within the Ex parte Young exception to sovereign immunity, however, a plaintiff must name individual state officials as defendants in their official capacities."24 Because Block sued only TBLE, and no members in their official [**9]  capacities, Ex parte Young does not apply.25
+
+ [*620]  III. CONCLUSION
+Because Block has not alleged conduct that violates Title II (the first step of Georgia), we AFFIRM the dismissal of his ADA claims as barred by sovereign immunity, and do not decide whether Congress's purported abrogation was a valid exercise of its power under § 5 of the Fourteenth Amendment. We also AFFIRM the district court's dismissal of Block's Rehabilitation Act and Fourteenth Amendment claims as barred by sovereign immunity. However, because "[c]laims barred by sovereign immunity are dismissed without prejudice, not with prejudice,"26 we modify the district court's judgment from a dismissal with prejudice to a dismissal without prejudice.
+As modified, we AFFIRM the district court's judgment.
+
+
+End of Document
+

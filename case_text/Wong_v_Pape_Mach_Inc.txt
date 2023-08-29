@@ -1,0 +1,30 @@
+Wong v. Pape Mach., Inc.
+United States Court of Appeals for the Ninth Circuit
+March 11, 2010 ** , Submitted, San Francisco, California; March 15, 2010, Filed
+No. 09-15846
+
+Reporter
+370 Fed. Appx. 871 *; 2010 U.S. App. LEXIS 5333 **
+CARA WONG, Plaintiff - Appellant, v. PAPE MACHINERY, INC., an Oregon corporation, Defendant - Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Eastern District of California. D.C. No. 2:08-cv-00042-FCD-DAD. Frank C. Damrell, Senior District Judge, Presiding.
+Wong v. Pape Mach., Inc., 2009 U.S. Dist. LEXIS 29252 (E.D. Cal., Apr. 6, 2009)
+Counsel: For CARA WONG, Plaintiff - Appellant: Robert A. Carichoff, Attorney, LAW OFFICE OF ROBERT A. CARICHOFF, Sacramento, CA.
+For PAPE MACHINERY, INC., an Oregon corporation, Defendant - Appellee: Barbara A. Blackburn, Attorney, Matthew J. Ruggles, Esquire, Attorney, LITTLER MENDELSON PC, Sacramento, CA.
+Judges: Before: FERNANDEZ, THOMAS and CALLAHAN, Circuit Judges.
+Opinion
+
+
+ [*872]  MEMORANDUM *
+Before: FERNANDEZ, THOMAS and CALLAHAN, Circuit Judges.
+Cara Wong ("Wong") appeals the district court's grant of Pape Machinery's ("Pape") motion for summary judgment in this diversity case, which alleges disability discrimination in violation of the California Fair Employment and Housing Act ("FEHA"), Cal. Gov't Code §§ 12900 et seq. We have jurisdiction pursuant to 28 U.S.C. § 1291. We review the district court's grant of summary judgment de novo. Canyon Ferry Rd. Baptist Church of East Helena, Inc. v. Unsworth, 556 F.3d 1021, 1027 (9th Cir. 2009).  [**2] We affirm the district court. 1
+1. FEHA prohibits an employer from discriminating against a disabled employee who can perform the essential duties of her position. Cal. Gov't Code § 12940(a)(1). California courts evaluate disability discrimination claims via a three-step burden shifting analysis. Scotch v. Art Inst. of California, 173 Cal. App. 4th 986, 1004, 93 Cal. Rptr. 3d 338 (2009) (internal citations omitted). First, the employee establishes a prima facie case of discrimination by showing she (1) was a member of a protected class; (2) was qualified for the job; and (3) suffered an adverse employment action due to disability. Id. Second, the employer must rebut the resulting presumption of discrimination by showing that  [*873]  it acted for a legitimate, non-discriminatory reason. Id. Finally, the plaintiff must show that the employer's reasons are pretextual. Id.
+2. Assuming that Wong established her prima facie case, Pape adequately rebutted the resulting presumption of discrimination by showing that it terminated Wong, and did not replace her, as part of a significant,  [**3] financially-driven reduction-in-force. Wong has not identified pretext sufficient to create a triable issue of fact material to Pape's motivation in terminating her. The district court properly granted summary judgment against Wong on her FEHA discrimination theory.
+3. FEHA requires that an employer accommodate an employee's known disability, unless the accommodation would pose undue hardship to the employer. Cal. Gov't Code § 12940(m). No authority appears to support Wong's contention that Pape should have continued to accommodate her after its non-discriminatory decision to terminate her. Cf. Nidds v. Schindler Elevator Corp., 113 F.3d 912, 916-19 (9th Cir. 1997). Since Wong's requested accommodation is not reasonable, Pape need not demonstrate the affirmative defense of undue hardship. See Raine v. City of Burbank, 135 Cal. App. 4th 1215, 1226-27, 37 Cal. Rptr. 3d 899 (2006). The district court properly granted summary judgment against Wong on her FEHA reasonable accommodation theory.
+4. FEHA requires that an employer engage in an interactive process with a disabled employee, on request, to determine a reasonable accommodation. Cal. Gov't Code § 12940(n). Wong's interactive process claim fails because  [**4] FEHA does not require an employer to reasonably accommodate an employee after termination for a non-discriminatory reason, there is no evidence that Wong requested Pape to engage in the interactive process prior to her termination, and she failed to set forth her interactive process claim prior to summary judgment. See Nadaf-Rahrov v. Neiman Marcus Group, Inc., 166 Cal. App. 4th 952, 983-84, 83 Cal. Rptr. 3d 190 (2008); Wysinger v. Auto. Club of S. California, 157 Cal. App. 4th 413, 424-25, 69 Cal. Rptr. 3d 1 (2007). The district court properly granted summary judgment against Wong on her FEHA interactive process theory.
+5. Wong has failed to raise and argue her remaining causes of action in her opening brief. We thus deem them abandoned. See Rattlesnake Coal. v. U.S. EPA, 509 F.3d 1095, 1100 (9th Cir. 2007).
+Accordingly, the judgment of the district court is AFFIRMED.
+
+
+End of Document
+

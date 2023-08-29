@@ -1,0 +1,32 @@
+Smith v. Noah Webster Basic Sch.
+United States Court of Appeals for the Ninth Circuit
+April 13, 2010, Argued and Submitted, San Francisco, California; July 28, 2010, Filed
+No. 09-15694
+
+Reporter
+389 Fed. Appx. 698 *; 2010 U.S. App. LEXIS 15719 **
+RHONDA SMITH, Plaintiff - Appellant, v. NOAH WEBSTER BASIC SCHOOL, Defendant - Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the District of Arizona. Susan R. Bolton, District Judge, Presiding. D.C. No. 2:07-CV-2020-PHXSRB.
+Smith v. Noah Webster Basic Sch., 2009 U.S. Dist. LEXIS 140906 (D. Ariz., Mar. 10, 2009)
+Disposition: AFFIRMED IN PART; REVERSED AND REMANDED IN PART.
+Counsel: For RHONDA SMITH, Plaintiff - Appellant: William Russell Hobson, Attorney, Chandler, AZ; Kevin Koelbel, LAW OFFICES OF KEVIN KOELBEL, P.C., Chandler, AZ.
+For NOAH WEBSTER BASIC SCHOOL, Defendant - Appellee: Lori Anne Higuera, Esquire, Janice Procter-Murphy, Esquire, Joshua L. Waltman, Esquire, Attorney, FENNEMORE CRAIG PC, Phoenix, AZ.
+Judges: Before: SCHROEDER and N.R. SMITH, Circuit Judges, and MOODY, District Judge.**
+Opinion
+
+
+
+ [*698]  MEMORANDUM*
+Rhonda Smith appeals the district court's grant of summary judgment on her  [*699]  claim of discrimination brought pursuant to The Americans with Disabilities Act (the "ADA"). The district court had jurisdiction under 28 U.S.C. § § 1331 and 1343, and we have jurisdiction under 28 U.S.C. § 1291. We review de novo, Toguchi v. Chung, 391 F.3d 1051, 1056 (9th Cir.2004),  [**2] and we affirm in part and reverse and remand in part.
+Smith, who is legally blind, was employed by the Noah Webster Basic School, (the "School"), a charter school in Mesa, Arizona, as a kindergarten teacher for the 2006-2007 academic term. When Smith's teaching contract was not renewed for the 2007-2008 academic term, she filed a complaint in district court contending that the School discriminated against her in violation of the ADA based upon her disability.
+"[T]o state a prima facie case under the ADA, [a plaintiff] must show that (1) she is a disabled person within the meaning of the ADA; (2) she is a qualified individual, meaning she can perform the essential functions of her job; and (3) [that her employer] terminated her because of her disability." See Nunes v. Wal-Mart Stores, Inc., 164 F.3d 1243, 1246 (9th Cir. 1999) (citation omitted).
+The district court correctly concluded that there was no direct evidence of discrimination, and thus applied the burden-shifting analysis set forth in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802-05, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). Applying that framework, the district court granted the School's motion for summary judgment finding that Smith had failed to establish  [**3] a prima facie case of discrimination because she had failed to show that she was performing her job satisfactorily and that even if she had established a prima facie case, she had failed to come forward with evidence of pretext.
+We disagree. The Court finds that Smith has raised a contested issue of material fact on whether she was qualified, with or without reasonable accommodation, to perform the essential job functions of a kindergarten teacher based upon the School's failure to make further accommodations after October of 2006. See Nunes, 164 F.3d at 1246 (defining "qualified individual" under the ADA). Moreover, the Court finds that there is a contested issue of material fact on whether Smith presented evidence of pretext based upon the School's director's statement that Smith's contract was not renewed because Smith did "not fit in."
+We affirm the district court, however, as to Smith's claim that the School failed to initiate, engage, and pursue an interactive process with Smith. Though the School had a duty to explore further methods of accommodation had it known its initial accommodations were failing, see Humphrey v. Memorial Hospitals Ass'n, 239 F.3d 1128, 1137 (9th Cir. 2001),  [**4] the record indicates that the School was not aware that Smith's difficulties were linked to a failure of its accommodations, or even to Smith's disability.
+The parties shall bear their own costs.
+AFFIRMED IN PART; REVERSED AND REMANDED IN PART.
+
+
+End of Document
+

@@ -1,0 +1,33 @@
+Revol v. Wellington Reg'l Med. Ctr.
+United States Court of Appeals for the Eleventh Circuit
+August 11, 2021, Decided
+No. 20-14745 Non-Argument Calendar
+
+Reporter
+855 Fed. Appx. 658 *; 2021 U.S. App. LEXIS 23819 **; 2021 WL 3522427
+MAGARETTE REVOL, Plaintiff-Appellant, versus WELLINGTON REGIONAL MEDICAL CENTER, WELLINGTON REGIONAL MEDICAL CENTER, INCORPORATED, MARIE JO CARRICILO, SAM CASTLE, Defendants-Appellees.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Southern District of Florida. D.C. Docket No. 9:19-cv-80979-RS.
+Revol v. Wellington Reg'l Med. Ctr., 2020 U.S. Dist. LEXIS 44885, 2020 WL 1244866 (S.D. Fla., Mar. 16, 2020)
+Disposition: AFFIRMED.
+Counsel: MAGARETTE REVOL, Plaintiff - Appellant, Pro se, WELLINGTON, FL.
+For WELLINGTON REGIONAL MEDICAL CENTER, WELLINGTON REGIONAL MEDICAL CENTER, INCORPORATED, MARIE JO CARRICILO, SAM CASTLE, Defendants - Appellees: Jay Cohen, The Law Offices of Jay Cohen, FORT LAUDERDALE, FL.
+Judges: Before ROSENBAUM, NEWSOM, and ANDERSON, Circuit Judges.
+Opinion
+
+
+ [*658]  PER CURIAM:
+Margarette Revol appeals from the district court's dismissal of her pro se complaint under the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12112(a), for failure to follow court orders and amend her complaint to comply with Federal Rule of Civil Procedure 10. After careful review, we affirm.
+
+I
+Revol, proceeding pro se, sued her employer under the ADA for retaliation and failure to accommodate. The district court ordered her to file an amended complaint within a certain time period to comply with Rule 10. After she failed to do so, it dismissed her complaint with prejudice. She now argues, however, that the basis for dismissal was actually a separate finding by the district court that she had failed to timely make Rule 26 disclosures, which she asserts was erroneous. She contends that she did everything the district court requested [**2]  of her, but she does not address her failure to file an amended complaint within the period ordered by the district  [*659]  court.1
+
+II
+Under Federal Rule of Civil Procedure 10, a complaint must state its claims in numbered paragraphs, "each limited as far as practicable to a single set of circumstances." Fed. R. Civ. P. 10(b). Rule 26 requires that parties disclose to other parties the identity of expert witnesses that they may use to present expert testimony at trial, as well as the facts or data considered by such witnesses in forming the opinions that they will express. Fed. R. Civ. P. 26(a)(2). All litigants in federal court—pro se or counseled—are required to comply with applicable procedural rules. See Albra v. Advan, Inc., 490 F.3d 826, 829 (11th Cir. 2007).
+If a plaintiff fails to prosecute or to comply with the Federal Rules of Civil Procedure or a court order, a defendant may move to dismiss an action or any claim against it. Fed. R. Civ. P. 41(b). Dismissal with prejudice under Rule 41(b), whether on motion or sua sponte, is appropriate where (i) there is a clear pattern of delay or willful contempt and (ii) the district court finds that lesser sanctions would not suffice. Betty K Agencies, Ltd. v. M/V MONADA, 432 F.3d 1333, 1338 (11th Cir. 2005). The latter finding may be implicit or explicit. Gratton v. Great Am. Commc'ns., 178 F.3d 1373, 1374 (11th Cir. 1999).
+Here, Revol's appeal fails. First, her brief, even liberally construed, fails to address the basis for the court's dismissal of her [**3]  suit—her failure to timely file an amended complaint. Accordingly she has failed to present any argument why the district court abused its discretion in dismissing her complaint. Second, as for the challenge that she does assert, any error related to Rule 26 is now moot, given her failure to comply with the court's order directing her to file an amended complaint. See Christian Coal. of Fla., Inc. v. United States, 662 F.3d 1182, 1189 (11th Cir. 2011) (holding that an issue becomes moot "when it no longer presents a live controversy with respect to which the court can give meaningful relief."). Accordingly, order of the district court is affirmed.
+AFFIRMED.
+
+
+End of Document
+

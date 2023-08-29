@@ -1,0 +1,32 @@
+Kong v. Shirazi-Fard
+United States Court of Appeals for the Ninth Circuit
+May 4, 2020**, Submitted Pasadena, California; June 1, 2020, Filed
+No. 19-55465
+
+Reporter
+807 Fed. Appx. 692 *; 2020 U.S. App. LEXIS 17238 **; 2020 WL 2844495
+NEHEMIAH KONG, Plaintiff-Appellant, v. SHAMSI SHIRAZI-FARD, in individual and representative capacity as trustee of the Shamsi-Fard Trust dated February 25, 1977; MICHAEL CHRISTOFORAKIS, Defendants-Appellees, and VESTAKIS, VESTAKIS AND CHRISTOFORAKIS, a General Partnership; DOES, 1-10, Defendants.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: Rehearing granted by Nehemiah Kong v. Shirazi-Fard, 814 Fed. Appx. 292, 2020 U.S. App. LEXIS 22196 (9th Cir. Cal., July 16, 2020)
+Reprinted as amended at, On rehearing at, Remanded by Kong v. Shirazi-Fard, 814 Fed. Appx. 292, 2020 U.S. App. LEXIS 22214 (9th Cir. Cal., July 16, 2020)
+Prior History:  [**1] Appeal from the United States District Court for the Central District of California. John F. Walter, District Judge, Presiding. D.C. No. 2:18-CV-02933-JFW-FFM.
+Kong v. Shirazi-Fard, 2019 U.S. Dist. LEXIS 231437 (C.D. Cal., Apr. 22, 2019)
+Counsel: For Nehemiah Kong, Plaintiff - Appellant: Russell Clive Handy, Esquire, Potter Handy LLP, San Diego, CA.
+For SHAMSI SHIRAZI-FARD, in individual and representative capacity as trustee of the Shamsi-Fard Trust dated February 25, 1977, VESTAKIS, VESTAKIS AND CHRISTOFORAKIS, a General Partnership, Defendant - Appellee: Stephen Edward Abraham, Attorney, Lewis Brisbois Bisgaard and Smith LLP, Los Angeles, CA.
+Judges: Before: OWENS and BADE, Circuit Judges, and MOSKOWITZ,*** District Judge.
+Opinion
+
+
+
+ [*692]  MEMORANDUM*
+Nehemiah Kong, an individual with a disability, sued Appellees Shamsi Shirazi-Fard and Michael Christoforakis under the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et seq., alleging twenty-one architectural features at the restaurant Mike's Classic Burgers ("Mike's") that rendered Mike's inaccessible for a disabled person. Architectural standards for public accommodations like Mike's are set forth in the ADA Standards for Accessible Design, 28 C.F.R. pt. 36, app. D; 36 C.F.R. pt. 1191, apps. B, D; 28 C.F.R. § 36.104. As an "existing facilit[y]," Mike's must comply with these standards to the extent that they are "readily [**2]  achievable." 42 U.S.C. § 12182(b)(2)(A)(iv); 28 C.F.R. § 36.304(a). Appellees remedied nearly every ADA-noncompliant feature identified in Kong's complaint. This appeal concerns the remaining one: Mike's front entrance.
+Mike's has two public entrances: one in the front and one on the west side of the building. Kong's complaint identified with specificity how each entrance was deficient under the ADA. Second Amended Complaint ¶¶ 21c, o—q. But after Appellees brought the side entrance into compliance, they moved for summary judgment, arguing that Kong had only sought a means of entering the restaurant, not two accessible entrances. The district court agreed and reasoned that Kong's complaint did not give Appellees fair notice that he wanted both entrances ADA-compliant. The court entered summary judgment for Appellees and against Kong. It also declined supplemental jurisdiction over Kong's companion state law claim for violation of the Unruh Civil Rights Act, Cal. Civ. Code § 51 et seq.  [*693]  Kong appeals these rulings. We vacate and remand for proceedings consistent with this disposition.
+We review de novo a district court's order on summary judgment and its determination of whether a complaint provides fair notice. Pickern v. Pier 1 Imports (U.S.), Inc., 457 F.3d 963, 966, 968 (9th Cir. 2006) (citations omitted). The decision [**3]  to decline supplemental jurisdiction is reviewed for abuse of discretion. Binder v. Gillespie, 184 F.3d 1059, 1066 (9th Cir. 1999).
+A complaint must contain "a short and plain statement of the claim showing that the pleader is entitled to relief," Fed. R. Civ. P. 8(a)(2), and "give the defendant fair notice of what the . . . claim is and the grounds upon which it rests," Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (alteration in original) (citation omitted). A heightened pleading standard may be imposed only by legislative directive, not by judicial interpretation. Swierkiewicz v. Sorema N. A., 534 U.S. 506, 515, 122 S. Ct. 992, 152 L. Ed. 2d 1 (2002). The Federal Rules of Civil Procedure do not impose a heightened pleading standard for ADA cases and no Ninth Circuit opinion may be read to do so.
+Kong provided specific "disclosures of barriers in a properly pleaded complaint" and thus gave Appellees fair notice under Rule 8. Oliver v. Ralphs Grocery Co., 654 F.3d 903, 909 (9th Cir. 2011). Though "[s]pecific facts are not necessary," Skaff v. Meridien N. Am. Beverly Hills, LLC, 506 F.3d 832, 841 (9th Cir. 2007) (per curiam) (citation omitted), Kong's complaint details every inadequacy in the two entrances with precise measurements. This meets the requirement to identify "the allegedly non-compliant architectural features at the facility." Oliver, 654 F.3d at 908 (citing Pickern, 457 F.3d at 968). Kong did not plead ADA violations hypothetically, Pickern, 457 F.3d at 968-69, nor did he raise a wholly new legal theory at summary judgment, Coleman v. Quaker Oats Co., 232 F.3d 1271, 1294 (9th Cir. 2000). Instead, his claim was transparent and remained consistent: the front [**4]  entrance was ADA-noncompliant and needed to be remedied. Kong did not lead the Appellees or the district court into believing that he was only seeking one accessible entrance. For example, in paragraph 22 of the Second Amended Complaint, Kong stated that he "seeks to have all ADA violations related to his disability removed so that he enjoys full and equal access at Mike's Classic Burgers." Appellees had fair notice of this claim. The district court erred in concluding otherwise.
+Because Kong's federal ADA claim remains, we also vacate the district court's order declining to exercise supplemental jurisdiction over the parallel California Unruh Act claim.
+VACATED AND REMANDED. COSTS AWARDED TO APPELLANT.
+
+
+End of Document
+

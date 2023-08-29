@@ -1,0 +1,33 @@
+Smith v. Sturgill
+United States Court of Appeals for the Eleventh Circuit
+April 9, 2013, Decided
+No. 12-14298 Non-Argument Calendar
+
+Reporter
+516 Fed. Appx. 775 *; 2013 U.S. App. LEXIS 7091 **; 27 Am. Disabilities Cas. (BNA) 1463; 2013 WL 1442522
+DARLENE DAVIS SMITH, Plaintiff-Appellant, versus JACK STURGILL, Branch Manager, Weiser Security Services, Inc., Defendant, WEISER SECURITY SERVICES, INC., Defendant-Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: US Supreme Court certiorari denied by Smith v. Weiser Sec. Sys., 133 S. Ct. 2838, 2013 U.S. LEXIS 4624 (U.S., June 17, 2013)
+Prior History:  [**1] Appeal from the United States District Court for the Southern District of Alabama. D.C. Docket No. 1:11-cv-00204-KD-M.
+Smith v. Weiser Sec. Sys., 2012 U.S. Dist. LEXIS 106549 (S.D. Ala., July 31, 2012)
+Disposition: AFFIRMED.
+Counsel: Darlene Davis Smith, Plaintiff - Appellant, Pro se, MOBILE, AL.
+For WEISER SECURITY SERVICES, INC., Defendant - Appellee: John A. Unzicker, Jr., Vernis & Bowling of Northwest Florida, PA, PENSACOLA, FL.
+Judges: Before BARKETT, MARCUS and KRAVITCH, Circuit Judges.
+Opinion
+
+
+ [*775]  PER CURIAM:
+Darlene Davis Smith appeals from the district court's grant of summary judgment to Weiser Security Services, Inc. ("Weiser"), on her action brought pursuant to the Americans with Disabilities Act ("ADA"). Smith served as a Security Officer for Weiser. After working a job site in January 2011, she requested time off to see a doctor as a result of lower back pain she was experiencing. Smith never rejoined Weiser after requesting the time off, and ultimately filed the present suit. Her original complaint, filed pro se, alleged intentional discrimination in violation of the ADA and also mentioned retaliation. When she was later briefly represented by counsel, she filed an amended complaint alleging only the former ADA violation. The district court granted summary judgment after it found that Smith was  [**2] not a "qualified individual" under the Act, because she did not demonstrate an ability to perform the essential functions of her job  [*776]  with or without a reasonable accommodation.
+On appeal, she argues that the district court should have considered additional documents, should have allowed her case to proceed to the jury, and should have considered her complaint as also including a claim for retaliation. She also asserts that certain evidence submitted by Weiser was fraudulent or the result of perjury.
+We review de novo a district court's grant of summary judgment, drawing all inferences and viewing all evidence in the light most favorable to the non-moving party. Martin v. Brevard Cnty. Pub. Schs., 543 F.3d 1261, 1265 (11th Cir. 2008); Fed.R.Civ.P. 56(a). It is insufficient to defeat a summary judgment motion to present mere conclusions and unsupported factual allegations. Ellis v. England, 432 F.3d 1321, 1326 (11th Cir. 2005).
+To establish a prima facie case of discrimination under the ADA, a plaintiff may show that: (1) she is disabled; (2) she is a qualified individual; and (3) she was subjected to unlawful discrimination because of her disability. Holly v. Clairson Indus., L.L.C., 492 F.3d 1247, 1255-56 (11th Cir. 2007).  [**3] To show that she is a qualified individual, a plaintiff must show that she can perform the essential functions of the employment position that she holds with or without reasonable accommodations. Id. at 1256. An accommodation is reasonable and necessary under the ADA only if it will enable the employee to perform the essential functions of the job. Id. Essential functions "are the fundamental job duties of a position that an individual with a disability is actually required to perform." Id. at 1257 (quotation omitted). "Consideration shall be given to the employer's judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job." Id. (quotation omitted).
+The employee has the burden of identifying a reasonable accommodation that would allow her to perform the essential functions of her job. Earl v. Mervyns, Inc., 207 F.3d 1361, 1367 (11th Cir. 2000). An employer need not create a new position for an employee as an accommodation; nor must an employer allow an employee to take an indefinite leave of absence.  [**4] Lucas v. W.W. Grainger, Inc., 257 F.3d 1249, 1257-58 (11th Cir. 2001); Wood v. Green, 323 F.3d 1309, 1312-14 (11th Cir. 2003).
+An amended pleading "supersedes the former pleading; the original pleading is abandoned by the amendment, and is no longer a part of the pleader's averments against his adversary." Pintando v. Miami-Dade Hous. Agency, 501 F.3d 1241, 1243 (11th Cir. 2007).
+Even if we liberally construe Smith's brief on appeal to contest the district court's determination that she was not a qualified individual, we conclude that the district court correctly granted summary judgment to Weiser. Smith testified that she could not stand or walk for prolonged periods of time and that she had trouble staying awake as a result of sleep apnea. Accordingly, she was unable to fulfill the essential functions of a Security Officer as established by the job posting and affidavits from Weiser management. The evidence did not show that she ever requested an accommodation as a result of her disability, as was her burden, other than potentially requesting an indefinite period of leave or a transfer to a new position when there was no vacancy. Earl, 207 F.3d at 1367. Neither accommodation was reasonable.  [**5] Lucas, 257 F.3d at 1257-58; Wood, 323 F.3d at 1312-14. Accordingly, Smith was not a qualified individual under  [*777]  the ADA and the district court correctly granted summary judgment.
+Smith's other arguments do not affect the determination of whether she was a qualified individual. Similarly, to the extent that she argues she also brought a claim of retaliation, no such claim was included in the amended complaint, and the original complaint was abandoned with the filing of the amended complaint.
+AFFIRMED.
+
+
+End of Document
+

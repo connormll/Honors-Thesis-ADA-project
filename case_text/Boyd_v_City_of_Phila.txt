@@ -1,0 +1,34 @@
+Boyd v. City of Phila.
+United States Court of Appeals for the Third Circuit
+March 26, 2021, Submitted Under Third Circuit L.A.R. 34.1(a); March 30, 2021, Filed
+No. 20-1931
+
+Reporter
+841 Fed. Appx. 437 *; 2021 U.S. App. LEXIS 9200 **; 2021 WL 1191625
+LESLIE BOYD, Appellant v. CITY OF PHILADELPHIA; CORIZON HEALTH, INC.; MHM SERVICES, INC.
+Notice: NOT PRECEDENTIAL OPINION UNDER THIRD CIRCUIT INTERNAL OPERATING PROCEDURE RULE 5.7. SUCH OPINIONS ARE NOT REGARDED AS PRECEDENTS WHICH BIND THE COURT.
+PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] On Appeal from the United States District Court for the Eastern District of Pennsylvania. (D.C. No. 2:17-cv-03195). District Judge: Honorable Chad F. Kenney.
+Counsel: For LESLIE BOYD, Plaintiff - Appellant: Stephen H. Cristal, Esq., Rio Grande, NJ.
+For MHM SERVICES INC, Defendant - Appellee: Alan S. Baum, Esq., Cassidy L. Neal, Esq., Matis Baum & O'Connor, Pittsburgh, PA.
+For CORIZON HEALTH INC, Defendant - Appellee: Alexander R. Ferrante, Esq., Alan S. Gold, Esq., Gold & Ferrante, Lower Gwynedd, PA.
+For CITY OF PHILADELPHIA, Defendant - Appellee: Zachary G. Strassburger, Esq., City of Philadelphia, Philadelphia, PA.
+Judges: Before: HARDIMAN, GREENAWAY, JR., and BIBAS, Circuit Judges.
+Opinion by: BIBAS
+Opinion
+
+
+
+ [*437]  OPINION*
+BIBAS, Circuit Judge.
+Prison officials and doctors are not liable for inmates' injuries if they provide reasonable disability accommodations and medical care. Leslie Boyd served a bit more than three months in a Philadelphia prison. He suffered from back pain and mobility problems as well as bipolar disorder. He repeatedly fell and complained of sickness and pains. A couple of months into his time there, he fell again, lapsed into a coma, suffered spinal damage, and grew sicker. He charged the City of Philadelphia [**2]  with disability discrimination and also sued the City and the medical and mental-health providers in tort. The District Court granted summary judgment for the defendants on all claims. Reviewing de novo, we will affirm. Cranbury Brick Yard, LLC v. United States, 943 F.3d 701, 708 (3d Cir. 2019).
+Boyd got reasonable accommodations, as required by the Americans with Disabilities Act and the Rehabilitation Act. Furgess v. Pa. Dep't of Corr., 933 F.3d 285, 287 (3d Cir. 2019). Contrary to his assertions, there is no record dispute that Boyd got a lower bunk, followed soon by a cane and then a wheelchair. He says that he complained about the height of his bed and toilet. But at his deposition, he admitted that he got a lower bunk immediately and could get from his bed to the toilet using his wheelchair. He also says that he asked for "grab bars" and "floor padding." App. 623. But at his deposition, when asked if he requested accommodations, he never mentioned these. And he says now that when he fell, the guards refused to help him. But at his deposition, he admitted that when he asked for help getting off the floor, "the guards always helped me. The guards helped me a lot." App. 147.
+Boyd never tries to explain these contradictions. So the District Court properly  [*438]  disregarded his declaration as a sham affidavit. Boyd v. City of Philadelphia, No. 17-3195, 2020 U.S. Dist. LEXIS 55620, 2020 WL 1531454, at *2 n.2 (E.D. Pa. Mar. 31, 2020); Jiminez v. All Am. Rathskeller, Inc., 503 F.3d 247, 254 (3d Cir. 2007). That leaves [**3]  no genuine dispute of material fact. And he offers no proof that anyone denied him an accommodation because of his disability. So the District Court rightly granted summary judgment against him on the ADA and Rehabilitation Act claims.
+Boyd's tort claims likewise fail. Start with his Eighth Amendment claim. That requires not just medical mistakes, but deliberate indifference to his serious medical needs. The prison staff, however, did not ignore objective evidence that he needed medical care. See Natale v. Camden Cnty. Corr. Facility, 318 F.3d 575, 582 (3d Cir. 2003). Boyd made sick calls on thirty-eight separate days, sometimes multiple times per day. Each time, staff responded within two or three days. Medical staff repeatedly prescribed medications and treatment and monitored his lab work.
+Next, Boyd's medical-malpractice claims also fail. Though Boyd filed two expert reports by the discovery deadline, neither report describes the standard of care or how the Providers fell short of it. Later, he did offer a third report with his response to the summary-judgment motions. But he filed it months late, even though he had been sitting on the report for years. He gave no justification for his delay, nor does he suggest that it was harmless. Plus, the report would have prejudiced [**4]  the Providers, who had no reason to anticipate it in developing their strategy, getting their own expert reports, and moving for summary judgment. So the District Court properly exercised its discretion to exclude it. Fed. R. Civ. P. 37(c)(1). Without the report, he failed to make out a prima facie case of medical malpractice. Toogood v. Rogal, 573 Pa. 245, 824 A.2d 1140, 1145 (Pa. 2003). And all three reports were inadequate as to the mental-health provider.
+Finally, Boyd offered no proof that anyone intentionally inflicted emotional distress on him. Throughout his prison stay, guards gave him the mobility aids he asked for and helped him up whenever he fell. Medical and mental-health staff saw him regularly and evaluated his condition. They prescribed medications, treatments, and counseling, and never kept him waiting long. His treatment was hardly "atrocious, and utterly intolerable in a civilized society." Hoy v. Angelone, 554 Pa. 134, 720 A.2d 745, 754 (Pa. 1998) (quoting Buczek v. First Nat'l Bank of Mifflintown, 366 Pa. Super. 551, 531 A.2d 1122, 1125 (Pa. Super. 1987)). The District Court thus properly rejected this claim too.
+Boyd no doubt became ill in prison. But he got frequent care and help from guards, doctors, and nurses and was given mobility aids. So he has not shown that the City or the Providers are liable. We will affirm.
+
+
+End of Document
+

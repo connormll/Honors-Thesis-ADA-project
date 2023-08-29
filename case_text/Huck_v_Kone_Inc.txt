@@ -1,0 +1,32 @@
+Huck v. Kone, Inc.
+United States Court of Appeals for the Ninth Circuit
+August 13, 2013**, Submitted, San Francisco, California; August 26, 2013, Filed
+No. 12-15082
+
+Reporter
+539 Fed. Appx. 754 *; 2013 U.S. App. LEXIS 17800 **; 28 Am. Disabilities Cas. (BNA) 821; 2013 WL 4505137
+RANDALL G. HUCK, Plaintiff - Appellant, v. KONE, INC., Defendant - Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Northern District of California. D.C. No. 3:10-cv-01845-RS. Richard Seeborg, District Judge, Presiding.
+Huck v. Kone Inc., 2011 U.S. Dist. LEXIS 144438 (N.D. Cal., Dec. 15, 2011)
+Disposition: AFFIRMED.
+Counsel: RANDALL G. HUCK, Plaintiff - Appellant, Pro se, San Francisco, CA.
+For KONE, INC., Defendant - Appellee: Stephen Scott Muhich, Dykema Gossett, Grand Rapids, MI; Dawn Williams, DYKEMA GOSSETT, PLLC, Chicago, IL.
+Judges: Before: HAWKINS, THOMAS, and McKEOWN, Circuit Judges.
+Opinion
+
+
+
+ [*755]  MEMORANDUM *
+Randall Huck appeals the district court's dismissal of his employment discrimination claims pursuant to defendant Kone, Inc.'s motion for summary judgment. We have jurisdiction and we affirm.
+A plaintiff bringing a discrimination claim under California Fair Employment and Housing Act ("FEHA"), Cal. Gov. Code § 12940 et seq., FEHA must show in general terms: (1) disability; (2) the ability to perform job duties; and (3) discrimination. Zeinali v. Raytheon Co., 636 F.3d 544, 552 (9th Cir. 2011) (citation omitted). The parties do not dispute on appeal the district court's finding that Huck was disabled under FEHA and that he could have continued  [**2] to fulfill his job duties. They dispute only whether Huck provided sufficient evidence that he was fired because of his disability.
+Huck was terminated shortly after going on medical leave for his carpal tunnel syndrome. This circumstance establishes a prima facie case of discrimination, which Kone rebutted with evidence that Huck was terminated because he traveled to Hawaii on a ticket paid for by Kone in contravention of a specific directive from his supervisor and charged additional personal travel expenses to his company credit card in violation of company policy. Contrary to Huck's argument on appeal, he could only rebut this showing at summary judgment with specific and substantial evidence that the proffered reason was pretextual. Lawler v. Montblanc N. Am., LLC, 704 F.3d 1235, 1244 (9th Cir. 2013). Huck did not meet this burden. His only evidence of discrimination was the temporal proximity of his termination to his medical leave, which is insufficient to prove pretext. See id.
+Huck's retaliation claim fails because he engaged in no protected activity prior to his termination. Requesting leave is not a protected activity under FEHA, and Huck's request was in any event granted.  [**3] See Yanowitz v. L'Oreal USA, Inc., 36 Cal. 4th 1028, 1046-47, 32 Cal. Rptr. 3d 436, 116 P.3d 1123 (2005) (employee must protest or complain about discriminatory conduct to have viable retaliation claim). Although Huck did file a discrimination complaint with the EEOC, he did so after he was terminated, so that act could not have caused the retaliation.
+There is no evidence of failure to accommodate or to engage in the interactive process. Kone accommodated Huck by purchasing dictation software and allowed Huck to take temporary medical leave as directed by his doctor. See Wilson v. Cnty. of Orange, 169 Cal. App. 4th 1185, 1195, 87 Cal. Rptr. 3d 439 (2009) (An "employer  [*756]  cannot be held liable for failing to engage in interactive process when the employee was in fact offered a reasonable accommodation") (citation omitted).
+Huck also brings a harassment claim based on his allegations that his supervisor screamed and cursed at him because Huck had missed a meeting during his leave and that the supervisor was angry that Huck would miss another meeting during leave. These two incidents are not the "severe or pervasive" behavior required for a FEHA harassment claim. Aguilar v. Avis Rent A Car Sys., Inc., 21 Cal. 4th 121, 130-31, 87 Cal. Rptr. 2d 132, 980 P.2d 846 (1999) ("[H]arassment  [**4] cannot be occasional, isolated, [or] sporadic," but must be a "concerted pattern" that "would have seriously affected the psychological well-being of a reasonable employee") (citation omitted).
+Finally, there is no evidence of the "extreme" conduct necessary to sustain a claim for intentional infliction of emotional distress, and no evidence of emotional distress. See Hughes v. Pair, 46 Cal.4th 1035, 1050-51, 95 Cal. Rptr. 3d 636, 209 P.3d 963 (2009).
+AFFIRMED.
+
+
+End of Document
+

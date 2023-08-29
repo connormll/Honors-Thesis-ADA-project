@@ -1,0 +1,42 @@
+Berrett v. Clark Cnty. Sch. Dist. No. 161
+United States Court of Appeals for the Ninth Circuit
+March 9, 2017, Argued and Submitted, Seattle, Washington; March 17, 2017, Filed
+No. 14-35894
+
+Reporter
+682 Fed. Appx. 623 *; 2017 U.S. App. LEXIS 4802 **; 2017 WL 1031357
+RONALD RYAN BERRETT; LANIE BERRETT, Plaintiffs-Appellants, v. CLARK COUNTY SCHOOL DISTRICT NO. 161, Defendant-Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: On remand at, Motion granted by, Dismissed without prejudice by Berrett v. Clark Cnty. Sch. Dist. No. 161, 2017 U.S. Dist. LEXIS 59159 (D. Idaho, Apr. 18, 2017)
+Prior History:  [**1] Appeal from the United States District Court for the District of Idaho. D.C. No. 4:12-cv-00626-EJL-CWD. Edward J. Lodge, District Judge, Presiding.
+Berrett v. Clark County Sch. Dist. No. 161, 2014 U.S. Dist. LEXIS 141308 (D. Idaho, Sept. 30, 2014)
+Disposition: AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.
+Counsel: For RONALD RYAN BERRETT, LANIE BERRETT, Plaintiffs - Appellants: Jacob Scott Wessel, Thomsen Holman Wheiler, PLLC, Idaho Falls, ID.
+For CLARK COUNTY SCHOOL DISTRICT NO. 161, Defendant - Appellee: Blake G. Hall, Hall Angell & Associates, LLP, Idaho Falls, ID.
+Judges: Before: GRABER, IKUTA, and HURWITZ, Circuit Judges. IKUTA, Circuit Judge, dissenting in part.
+Opinion
+
+
+
+ [*624]  MEMORANDUM*
+Plaintiffs Ronald Ryan and Lanie Berrett appeal the district court's order granting summary judgment in favor of defendant Clark County School District (Clark County). We have jurisdiction under 28 U.S.C. § 1291.
+The district court erred in granting Clark County's motion for summary judgment on Mr. Berrett's claim for retaliatory discharge under the Idaho Protection of Public Employees Act (Idaho Whistleblower Act). Mr. Berrett established a prima facie case of retaliatory conduct by presenting evidence that: he engaged in protected activity by reporting "a violation or suspected violation of a law," Idaho Code § 6-2104(1)(a); he suffered an "adverse action" when he was terminated, [**2]  id. § 6-2103(1); and the "close relation in time" between them, among other factors, suggests he may have been fired for reporting the propane issue. Curlee v. Kootenai Cty. Fire & Rescue, 148 Idaho 391, 397, 224 P.3d 458 (2008). This is sufficient to create a genuine issue of material fact to survive summary judgment. Id. at 396 (holding that the McDonnell Douglas burden-shifting framework does not apply to claims under the Idaho Whistleblower Act at the summary judgment stage).
+The district court correctly held that Ms. Berrett did not engage in any protected activity and therefore cannot bring a claim under the Idaho Whistleblower Act. However, the court failed to address Ms. Berrett's common law claim for termination in violation of public policy—that is, firing her in retaliation for her husband's statutorily protected whistleblower activity—and should consider on remand whether  [*625]  this claim also survives summary judgment.
+The district court did not err in granting Clark County's motion for summary judgment on the Berretts' claims under the Americans with Disabilities Act of 1990 (ADA), because the Berretts failed to raise a genuine issue of material fact as to whether they were terminated "because of [Mr. Berrett's] disability." Allen v. Pacific Bell, 348 F.3d 1113, 1114 (9th Cir. 2003) (per curiam). The Berretts also argue that they [**3]  were terminated for Mr. Berrett's reasonable accommodation requests but failed to produce evidence supporting this theory.
+Nor did the district court err in granting Clark County's motion for summary judgment on the Berretts' claims under the Fair Housing Act. Clark County provided evidence that the Berretts were evicted because they were no longer employees, and the Berretts do not offer any direct or circumstantial evidence that they were evicted because of Mr. Berrett's disability. Nor is there a genuine issue of material fact as to whether Clark County raised the Berretts' rent or altered the Berretts' payment policy because of Mr. Berrett's disability. Although Clark County asserted that it changed the Berretts' payment policy to avoid raising Mr. Berrett's income to the point where he would lose his disability benefits, such economic considerations do not constitute discrimination based on disability.
+Finally, the district court did not err by declining to rule on evidentiary objections that were not "material to its ruling." Norse v. City of Santa Cruz, 629 F.3d 966, 973 (9th Cir. 2010) (en banc).
+The parties shall bear their own costs on appeal.
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.
+Dissent by: IKUTA (In Part)
+Dissent
+
+
+IKUTA, Circuit Judge, dissenting [**4]  in part:
+I disagree only with the majority's ruling that the district court failed to address Ms. Berrett's claim relating to public policy. The district court reasonably addressed (and rejected) this claim to the extent Ms. Berrett raised and argued it.
+The Berretts argued that they were terminated in violation of public policy both under the Idaho Whistleblower Act and as a common law claim. But Ms. Berrett did not explain how she established the elements of either the statutory or common law claim. In their complaint, the Berretts merely claimed that "Plaintiffs' terminations from employment were also a common law action that is contrary to the public policy of the State of Idaho." In their opposition to Clark County's motion for summary judgment, the Berretts claimed only that "they were terminated in violation of public policy, the ADA and Idaho Code § 6-2101 et seq." Moreover, their opposition conceded that the public policy exception is triggered "only where an employee is terminated for engaging in some protected activity," and the "claimed public policy generally must be rooted in 'case law or statutory language.'" Ms. Berrett did not claim that the public policy exception is triggered when an employee [**5]  is terminated due to the employee's spouse's engaging in protected activity, and she failed to point to any case law or statutory language so holding.
+The district court addressed Ms. Berrett's claim and rejected it. The court held that "Ms. Berrett's situation in the school lunchroom" did not qualify as "'protected activities' that would be covered under the public policy exception to the at-will doctrine or under the Whistleblower Act." Noting that "Ms. Berrett has not provided facts to support her termination violated  [*626]  public policy or was due to any concerns she raised under the Whistleblower Act," the court expressly dismissed her statutory claim and implicitly dismissed her common law claim. Any error in failing to expressly dismiss her common law claim was harmless.
+On appeal, Ms. Berrett argues at length that the proffered reason for her termination (budget exceedances) was pretextual, but does not provide any argument or authority supporting a contention that she was fired in violation of Idaho public policy because her spouse engaging in protected activity. Because "[w]e will not manufacture arguments for an appellant, and a bare assertion does not preserve a claim," Greenwood v. FAA, 28 F.3d 971, 977 (9th Cir. 1994), Ms. Berrett [**6]  has waived the argument the majority reserves for her, see Martinez-Serrano v. INS, 94 F.3d 1256, 1259 (9th Cir. 1996). Accordingly, remand is unwarranted on Ms. Berrett's common law claim. Therefore, I respectfully dissent in part.
+
+
+End of Document
+

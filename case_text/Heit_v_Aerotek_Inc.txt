@@ -1,0 +1,28 @@
+Heit v. Aerotek, Inc.
+United States Court of Appeals for the Ninth Circuit
+June 12, 2018**, Submitted, Seattle, Washington; June 14, 2018, Filed
+No. 16-35981
+
+Reporter
+726 Fed. Appx. 648 *; 2018 U.S. App. LEXIS 16016 **; 2018 WL 2978997
+MICHAEL HEIT, Plaintiff-Appellant, v. AEROTEK, INC., Defendant-Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Western District of Washington. D.C. No. 2:15-cv-01805-JCC. John C. Coughenour, District Judge, Presiding.
+Heit v. Aerotek Inc., 2016 U.S. Dist. LEXIS 149222 (W.D. Wash., Oct. 27, 2016)
+Disposition: AFFIRMED.
+Counsel: For MICHAEL HEIT, Plaintiff - Appellant: Daniel R. Fjelstad, Esquire, Attorney, Daniel R. Fjelstad, PLLC, Seattle, WA.
+For AEROTEK, INC., Defendant - Appellee: William E. Corum, HUSCH BLACKWELL LLP, Kansas City, MO; Brian K. Keeley, Attorney, Schlemlein Goetz Fick & Scruggs, PLLC, Seattle, WA.
+Judges: Before: D.W. NELSON and WATFORD, Circuit Judges, and PREGERSON,*** District Judge.
+Opinion
+
+
+
+ [*649]  MEMORANDUM*
+Michael Heit ("Heit") appeals the district court's granting summary judgment to Aerotek, Inc. ("Aerotek") on his claims for disability discrimination under the Americans with Disabilities Act ("ADA") and the Washington Law Against Discrimination ("WLAD"). We "review the district court's grant . . . of motions for summary judgment de novo." Animal Legal Defense Fund v. U.S. Food & Drug Admin., 836 F.3d 987, 988 (9th Cir. 2016) (citations and internal quotation marks omitted). We have jurisdiction under 28 U.S.C. § 1291, and we AFFIRM.
+1. Heit failed to raise a genuine dispute of fact as to whether he actually suffers from Shy Bladder Syndrome.1 He produced a doctor's note stating he has this condition, but that doctor later testified she never conducted [**2]  any medical examination on Heit, did not review his records, and merely wrote down what he told her during their conversation. Without the note, Heit is left with only his own testimony regarding his condition. "[L]ay witnesses [like Heit, however, are] incompetent to testify as to the existence . . . of [medical] illnesses." Frisone v. United States, 270 F.2d 401, 403 (9th Cir. 1959) (citations omitted). While he is competent to testify about the effects of the alleged condition—that he was unable to urinate during the drug tests—the "cause of such a condition is a medical question . . . not within the certain knowledge of laymen," and "must be proved by expert testimony." Nelson v. Murphy, 42 Wash. 2d 737, 740, 258 P.2d 472 (1953); see also Frisone, 270 F.2d at 403 (citations omitted); Felkins v. City of Lakewood, 774 F.3d 647, 651-52 (10th Cir. 2014) (citing Fed. R. Evid. 701). Accordingly, Heit cannot rely on his testimony alone to raise a genuine dispute of fact about whether he actually suffers from paruresis.
+2. Even if Heit had raised a dispute about whether he suffers from paruresis, summary judgment was still proper because he raises no issues with respect to his failure-to-accommodate claims. The record establishes that Aerotek did not accommodate Heit's request for alternative drug testing because it did not have the requisite documentation to determine what kind of testing would be appropriate. [**3]  An employer has a right to this documentation under both the ADA and the WLAD. See  [*650]  Vinson v. Thomas, 288 F.3d 1145, 1153 (9th Cir. 2002) (citation omitted) (ADA); Wash. Rev. Code § 49.60.040(7)(d)(ii) (requiring "medical documentation" for accommodation purposes). Because Heit was responsible for the breakdown of the interactive process, the district court properly granted summary judgment in favor of Aerotek. See Dep't of Fair Emp't & Hous. v. Lucent Techs., Inc., 642 F.3d 728, 743 (9th Cir. 2011) (dismissing failure-to-accommodate claim under California law where the plaintiff was responsible for breakdown); Maxwell v. State, Dep't of Corr., 91 Wash. App. 171, 180, 956 P.2d 1110 (1998) (same, under Washington law).
+AFFIRMED.
+
+
+End of Document
+

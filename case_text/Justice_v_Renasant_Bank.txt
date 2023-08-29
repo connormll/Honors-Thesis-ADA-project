@@ -1,0 +1,27 @@
+Justice v. Renasant Bank
+United States Court of Appeals for the Fifth Circuit
+September 11, 2017, Filed
+No. 16-60778
+
+Reporter
+697 Fed. Appx. 357 *; 2017 U.S. App. LEXIS 17533 **; 2017 WL 4005110
+DIANNE S. JUSTICE, Plaintiff - Appellant v. RENASANT BANK, also known as Renasant Corporation, Defendant - Appellee
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Northern District of Mississippi. USDC No. 1:15-CV-136.
+Justice v. Renasant Bank, 2016 U.S. Dist. LEXIS 155459 (N.D. Miss., Nov. 8, 2016)
+Counsel: For DIANNE S. JUSTICE, Plaintiff - Appellant: Jim D. Waide, III, Esq., Ronnie Lee Woodruff, Esq., Waide & Associates, P.A., Tupelo, MS.
+For RENASANT BANK, also known as Renasant Corporation, Defendant - Appellee: William Thomas Siler, Jr., Esq., Howard David Clark, III, Esq., Phelps Dunbar, L.L.P., Jackson, MS.
+Judges: Before STEWART, Chief Judge, and KING and JONES, Circuit Judges.
+Opinion
+
+
+ [*357]  PER CURIAM:*
+Dianne Justice ("Justice") was terminated from her job at Renasant Bank ("Renasant") in February 2015. She filed a complaint against Renasant and her supervisor, Hozay Hausley, alleging state law claims and claims under the Americans with Disabilities Act ("ADA"), as amended, and the Family and Medical Leave Act ("FMLA"). The district court granted Renasant's and Hausley's motion for summary judgment. The district court  [*358]  held in relevant part that although Justice had raised a disputed fact issue whether her occasional migraine headaches constitute a disability, she was not qualified for her job because she was unable to work when she had a migraine. The district court also noted that Renasant allowed [**2]  Justice to take time off work each time she requested it, thereby accommodating her requests for ADA purposes. The court rejected her FMLA claim.
+On appeal, Justice challenges only the dismissal of her ADA claim against Renasant, asserting that she was terminated in violation of 42 U.S.C. § 12112(a) because of her migraine headache disability. Justice reasons that the close timing between a negative evaluation of her work performance and the fact that she was fired a day after taking off work because of a migraine suggest that Renasant retaliated against her.
+We review a district court's grant of summary judgment de novo. Kemp v. Holder, 610 F.3d 231, 234 (5th Cir. 2010). A party is entitled to summary judgment if there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a)). We may affirm a grant of summary judgment on any grounds supported by the record and presented to the district court. Campbell v. Lamar Inst. of Tech., 842 F.3d 375, 379 (5th Cir. 2016). To make out a prima facie case of discrimination under the ADA, an employee must demonstrate that the employer subjected her to adverse employment decisions on account of her disability. E.E.O.C. v. LHC Grp., Inc., 773 F.3d 688, 695 (5th Cir. 2014). Termination is an adverse employment decision. See id.
+Justice was not terminated because of her migraines but because she violated [**3]  company policy by signing a loan agreement falsely made out to her sister. In December of 2013, Justice generated, processed, and signed a loan for $3,140 in her sister's name. Justice then used the loan money to pay her own mortgage. In January 2015, Hausley reviewed the past due loan report and discovered Justice's sister's delinquent loan. He mentioned the loan to Justice and asked her to notify her sister of the delinquent status of her loan. Upon reviewing the next week's report, however, Hausley learned that Justice had paid off the delinquent loan from her personal account. Hausley referred the matter to Human Resources, which conducted an investigation and concluded that Justice had created the loan for her personal benefit and had deviated from safe banking practices against the bank's loan policy. In an exchange of emails on February 2, 2015, management subsequently recommended that Justice be terminated. Justice was fired later that day.
+Renasant therefore did not fire Justice because of absences allegedly due to migraines, but because she violated company policy. Although her performance evaluation was close in time to the company's investigation into her sister's loan, [**4]  Hausley expressly stated in her evaluation that "[Justice] and I have talked and we are expecting 2015 to be much better," demonstrating that Hausley had no intention of firing her based on her absences. We do not endorse the district court's finding that there was a genuine issue of material fact whether migraine headaches, especially Justice's migraine headaches, may constitute a disability under the ADA. We nevertheless AFFIRM the district court's grant of summary judgment in favor of Renasant for the foregoing reasons.
+
+
+End of Document
+

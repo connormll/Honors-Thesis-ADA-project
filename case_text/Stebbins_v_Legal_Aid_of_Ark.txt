@@ -1,0 +1,26 @@
+Stebbins v. Legal Aid of Ark.
+United States Court of Appeals for the Eighth Circuit
+May 15, 2013, Submitted; May 21, 2013, Filed
+No. 12-3981
+
+Reporter
+512 Fed. Appx. 662 *; 2013 U.S. App. LEXIS 10164 **; 2013 WL 2158660
+David Anthony Stebbins, Plaintiff - Appellant v. Legal Aid of Arkansas, Defendant - Appellee
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from United States District Court for the Western District of Arkansas - Harrison.
+Stebbins v. Legal Aid, 2012 U.S. Dist. LEXIS 158797 (W.D. Ark., Nov. 6, 2012)
+Counsel: David Anthony Stebbins, Plaintiff - Appellant, Pro se, Harrison, AR.
+For Legal Aid of Arkansas, Defendant - Appellee: Constance G. Clark, J. David Dixon, Don A. Taylor, DAVIS & CLARK, Fayetteville, AR.
+Judges: Before BYE, ARNOLD, and SHEPHERD, Circuit Judges.
+Opinion
+
+
+ [*663]  PER CURIAM.
+David Stebbins brought this suit claiming that Legal Aid of Arkansas (LAA) refused to represent him in various legal matters because of his disability, failed to accommodate his disability with modifications to its policies, and retaliated against him, all in violation of the Americans with Disabilities Act (ADA). The district court 1 denied his summary judgment motions, granted LAA's summary judgment motions, and dismissed the case. Stebbins appeals. After careful consideration, see Myers v. Lutsen Mts. Corp., 587 F.3d 891, 892 (8th Cir. 2009) (de novo review), we affirm.
+First,  [**2] we agree that Stebbins did not meet his summary judgment burden as to the discrimination and failure-to-modify claims; but even if he had, Title III of the ADA does not provide for private actions seeking damages—the sole remedy that he requested. See 42 U.S.C. § 12188(a) (unless enforced by Attorney General, only remedy for violation of Title III of ADA is injunctive relief); Goodwin v. C.N.J., Inc., 436 F.3d 44, 50 (1st Cir. 2006) (§ 12188(a) does not contemplate damages awards in suits brought by private parties; listing cases). Second, even assuming that Stebbins made a prima facie case of retaliation, see Mershon v. St. Louis Univ., 442 F.3d 1069, 1074 (8th Cir. 2006) (absent direct evidence, ADA retaliation claims are analyzed under framework of McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973)), we conclude that LAA proffered legitimate reasons for declining to represent him, including that (1) he had not properly applied  [*664]  for LAA's legal services, and (2) a conflict of interest existed between him and LAA based on this ongoing lawsuit. Nothing in the record beyond Stebbins's own assumptions and speculation suggests that those reasons were a pretext for retaliation. See Green v. Franklin Nat'l Bank of Minneapolis, 459 F.3d 903, 917 (8th Cir. 2006)  [**3] (plaintiff's discrimination claim failed when her evidence of pretext was "entirely speculative").
+Stebbins also challenges various discovery rulings made by the magistrate judge. We may not review them, however, because Stebbins did not file objections to those rulings in the district court. See Fed. R. Civ. P. 72(a); McDonald v. City of St. Paul, 679 F.3d 698, 709 (8th Cir. 2012) (magistrate judge's order denying discovery motion was unreviewable because party failed to file objection in district court).
+We therefore affirm the judgment of the district court. See 8th Cir. R. 47B. We deny Stebbins's pending motion.
+
+
+End of Document
+

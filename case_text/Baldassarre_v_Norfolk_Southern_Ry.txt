@@ -1,0 +1,32 @@
+Baldassarre v. Norfolk Southern Ry.
+United States Court of Appeals for the Fourth Circuit
+July 28, 2021, Submitted; July 29, 2021, Decided
+No. 20-1308
+
+Reporter
+854 Fed. Appx. 540 *; 2021 U.S. App. LEXIS 22518 **; 2021 WL 3205734
+ALFRED BALDASSARRE, Plaintiff - Appellant, v. NORFOLK SOUTHERN RAILWAY CO., Defendant - Appellee, DISABILITY LAW CENTER OF VIRGINIA, Amicus Supporting Appellant.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Eastern District of Virginia, at Norfolk. (2:18-cv-00598-HCM-LRL). Henry Coke Morgan, Jr., Senior District Judge.
+Baldassarre v. Norfolk Southern Ry., 2020 U.S. Dist. LEXIS 29540, 2020 WL 855964 (E.D. Va., Feb. 19, 2020)
+Disposition: AFFIRMED.
+Counsel: Adam W. Hansen, APOLLO LAW LLC, Minneapolis, Minnesota; Michael E. Bourne, Minneapolis, Minnesota; Nicholas D. Thompson, THE MOODY LAW FIRM, Portsmouth, Virginia, for Appellant.
+Raymond Baldwin, Julie Loring, SEYFARTH SHAW LLP, Washington, D.C., for Appellee.
+Kalena C. M. Elk, Kerry M. Chilton, Steven M. Traubert, DISABILITY LAW CENTER OF VIRGINIA, Richmond, Virginia, for Amicus disAbility Law Center of Virginia.
+Judges: Before KING, AGEE, and WYNN, Circuit Judges.
+Opinion
+
+
+ [*540]  PER CURIAM:
+Alfred Baldassarre appeals the district court's order granting summary judgment to Norfolk Southern Railway Company ("Norfolk") on his civil action commenced under the Americans with Disabilities Act (ADA), 42 U.S.C. §§ 12101-12213. On appeal, Baldassarre disputes the court's decision to consider a declaration from a witness that Norfolk failed to timely disclose. Baldassarre also challenges the court's conclusion that no reasonable jury could find in his favor on his failure to accommodate claims under the ADA. We affirm.
+"We review evidentiary rulings for abuse of discretion and will only overturn an evidentiary [**2]  ruling that is arbitrary and irrational." Gentry v. E. W. Partners Club Mgmt. Co., 816 F.3d 228, 239 (4th Cir. 2016) (internal quotation marks omitted). "If a party fails to provide information or identify a witness as required by [Fed. R. Civ. P.] 26(a) or (e), the party is not allowed  [*541]  to use that information or witness to supply evidence on a motion, . . . unless the failure was substantially justified or is harmless." Fed. R. Civ. P. 37(c)(1). In determining whether the failure was substantially justified or harmless, a court should be guided by the factors articulated by this court in S. States Rack & Fixture, Inc. v. Sherwin-Williams Co., 318 F.3d 592, 597 (4th Cir. 2003). We have thoroughly reviewed the record and conclude that the district court did not abuse its broad discretion in admitting the declaration despite Norfolk's failure to timely disclose the declarant as a witness.
+Next, "[w]e review de novo a district court's grant or denial of a motion for summary judgment, construing all facts and reasonable inferences therefrom in favor of the nonmoving party." Gen. Ins. Co. of Am. v. U.S. Fire Ins. Co., 886 F.3d 346, 353 (4th Cir. 2018). Summary judgment is appropriate "if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). We will uphold the district court's grant of summary judgment unless we find that a reasonable jury could return a verdict for the nonmoving party on [**3]  the evidence presented. See Reyes v. Waples Mobile Home Park Ltd. P'ship, 903 F.3d 415, 423 (4th Cir. 2018).
+The ADA prohibits employers from "discriminat[ing] against a qualified individual on the basis of disability in regard to . . . the hiring, advancement, or discharge of employees, . . . and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). "[T]he term 'discriminate against a qualified individual' . . . includes . . . not making reasonable accommodations." 42 U.S.C. § 12112(b)(5)(A).
+To establish a prima facie case for failure to accommodate, [Baldassarre] must show: (1) that [he] was an individual who had a disability within the meaning of the statute; (2) that the employer had notice of [his] disability; (3) that with reasonable accommodation [he] could perform the essential functions of the position, and (4) that the employer refused to make such accommodations.
+Jacobs v. N.C. Admin. Office of Courts, 780 F.3d 562, 579 (4th Cir. 2015) (internal quotation marks omitted). "A reasonable accommodation is one that enables a qualified individual with a disability to perform the essential functions of a position." Id. at 580 (internal quotation marks and brackets omitted). "To overcome a motion for summary judgment, [Baldassarre] was required to present evidence from which a jury may infer that the proposed accommodation is reasonable on its face." Reyazuddin v. Montgomery Cnty., 789 F.3d 407, 414 (4th Cir. 2015) (internal [**4]  quotation marks and brackets omitted). After thoroughly reviewing the record, we conclude that no reasonable juror could find, under the totality of the circumstances, that Norfolk violated the ADA by failing to reasonably accommodate Baldassarre's condition.
+Accordingly, we affirm the district court's order granting summary judgment to Norfolk. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before this court and argument would not aid the decisional process.
+AFFIRMED
+
+
+End of Document
+

@@ -1,0 +1,45 @@
+Antolini v. Thurman
+United States Court of Appeals for the Second Circuit
+January 31, 2023, Decided
+21-2028-cv
+
+Reporter
+2023 U.S. App. LEXIS 2419 *; 2023 WL 1113535
+DINO ANTOLINI, Plaintiff-Counter-Defendant-Appellant, v. BRAD THURMAN, 33 BRE INC., Defendants-Counter-Claimants-Appellees, HAROLD THURMAN, Defendant-Counter-Claimant.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [*1] Appeal from a judgment of the United States District Court for the Southern District of New York. (Jesse M. Furman, Judge).
+Antolini v. Thurman, 2021 U.S. Dist. LEXIS 135989, 2021 WL 3115169 (S.D.N.Y., July 21, 2021)
+Counsel: FOR PLAINTIFF-COUNTER-DEFENDANT-APPELLANT: Stuart H. Finkelstein, Finkelstein Law Group, Syosset, NY.
+FOR DEFENDANTS-COUNTER-CLAIMANTS-APPELLEES: Robert Silversmith, Silversmith & Associates Law Firm, PLLC, New York, NY.
+Judges: PRESENT: JOSÉ A. CABRANES, ROSEMARY S. POOLER, RAYMOND J. LOHIER, JR., Circuit Judges.
+Opinion
+
+
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the District Court be and hereby is AFFIRMED.
+Plaintiff-Appellant Dino Antolini ("Plaintiff") appeals from the July 23, 2021 judgment of the District Court granting a motion for summary judgment for Brad Thurman and 33 Bre Inc. ("Defendants") as to Plaintiff's Americans with Disabilities Act ("ADA") and New York law claims pertaining to wheelchair accessibility at 82-88 Fulton Street in Manhattan. We assume the parties' familiarity with the underlying facts, the procedural history of the case, and the issues on appeal.
+We review a grant of summary judgment de novo, "resolv[ing] all ambiguities and draw[ing] all inferences against the moving party." Garcia v. Hartford Police Dep't, 706 F.3d 120, 126-27 (2d Cir. 2013). "Summary [*2]  judgment is proper only when, construing the evidence in the light most favorable to the non-movant, 'there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.'" Doninger v. Niehoff, 642 F.3d 334, 344 (2d Cir. 2011) (quoting Fed. R. Civ. P. 56(a)).
+
+I. Americans with Disabilities Act Claim
+ADA Title III "prohibits discrimination against individuals 'on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation . . . .'" Roberts v. Royal Atl. Corp., 542 F.3d 363, 368 (2d Cir. 2008) (quoting 42 U.S.C. § 12182(a)). We have held that a plaintiff's Title III claim must establish that "(1) he or she is disabled within the meaning of the ADA; (2) that the defendants own, lease, or operate a place of public accommodation; and (3) that the defendants discriminated against the plaintiff within the meaning of the ADA." Id. Under the third requirement, a defendant can discriminate against a plaintiff in two ways: (1) by altering its facility "in a manner that affects or could affect [its] usability" and failing to ensure that the affected area is "readily accessible to and usable by individuals with disabilities . . . to the maximum extent feasible," id. at 368 (emphasis omitted) (quoting 42 U.S.C. § 12183(a)(2)); and (2) in the absence of ADA alterations, [*3]  by failing to remove architectural barriers "where such removal is readily achievable," id. at 371-72 (quoting 42 U.S.C. § 12182(b)(2)(A)(iv)). Here, the parties do not dispute that the first two requirements are met but contest whether wheelchair inaccessibility at 82-88 Fulton Street constitutes discrimination.
+
+II. Alterations Affecting Usability
+Antolini argues that both external and internal work at 82-88 Fulton Street qualified as alterations under the ADA. We are not persuaded.
+In Roberts, on appeal after a bench trial, we held that a burden-shifting framework governs whether an alteration has taken place for purposes of the ADA. Id. at 371. First, "a plaintiff fulfills his or her initial burden of production by identifying a modification to a facility and by making a facially plausible demonstration that the modification is an alteration under the ADA." Id. Second, if the plaintiff has met the initial burden, "[t]he defendant then bears the burden of persuasion to establish that the modification is in fact not an alteration." Id. Considerations include, but are not limited to, (1) the overall cost of the modification, (2) the scope of the modification, (3) "the reason for the modification (including whether the goal is maintenance or improvement, [*4]  and whether it is to change the purpose of function of the facility)," and (4) "[w]hether the modification affects only the facility's surfaces or also structural attachments and fixtures that are part of the realty." Id. at 370.
+In the context of a defendant's motion for summary judgment, a movant can prevail in showing no alteration in one of two ways. In the motion papers, the movant can either "point to an absence of evidence" to show that the plaintiff could not fulfill the "initial burden of production" at trial to "identify[] a modification to a facility and [to] mak[e] a facially plausible demonstration that the modification is an alteration under the ADA." Goenaga v. Mar. of Dimes Birth Defects Found., 51 F.3d 14, 18 (2d Cir. 1995); Roberts, 542 F.3d at 371. Or the movant can show that "there is no genuine dispute as to any material fact," Fed. R. Civ. P. 56(a), as to whether the movant would meet, at trial, the "burden of persuasion to establish that the modification is in fact not an alteration," Roberts, 542 F.3d at 371. If the movant makes either of these two showings, then "the nonmoving party must 'come forward with evidence that would be sufficient to support a jury verdict in its favor.'" McKinney v. City of Middletown, 49 F.4th 730, 738 (2d Cir. 2022) (quoting Burt Rigid Box, Inc. v. Travelers Prop. Cas. Corp., 302 F.3d 83, 91 (2d Cir. 2002)).
+Upon our de novo review of the record, we agree with the District Court that there was no evidence that any post-ADA enactment [*5]  exterior work at 82-88 Fulton Street qualified as an "alteration" under the ADA.1 Special App'x 48, 48 n.2 (regarding the exterior of 82-88 Fulton, "Antolini does not point to any modifications that could qualify as 'alterations' for purposes of 42 U.S.C. § 12183"). And we need not address whether any internal modifications were alterations, because, even under the more rigorous standard that applies where defendants have altered their facilities, we conclude that Plaintiff failed to show that he could meet his trial burden of "identifying some manner in which the alteration could be, or could have been, made 'readily accessible [to] and usable by individuals with disabilities.'" Roberts, 542 F.3d at 372 (quoting 42 U.S.C. § 12183(a)(2)).
+
+III. Readily Achievable Removals
+In the absence of alterations, "'discrimination' includes 'a failure to remove architectural barriers . . . where such removal is readily achievable.'" Roberts, 542 F.3d at 368-69 (quoting 42 U.S.C. § 12182(b)(2)(A)(iv)). As the District Court correctly noted, in order to demonstrate that the removal of a barrier is "readily achievable," Plaintiff needed to "articulate a plausible proposal for barrier removal, the costs of which, facially, do not clearly exceed its benefits." Special App'x 48 (quoting Roberts, 542 F.3d at 373). The District Court concluded [*6]  that Plaintiff could not meet his burden at trial for showing such a proposal. Id. at 50-51. On appeal, Plaintiff argues that the District Court employed a heightened standard that should have been reserved for the trial and did not properly consider the entirety of the record. Pl. Br. 31. We disagree that the District Court applied a heightened standard and observe that the District Court evaluated the full record. See, e.g., Special App'x 49 n.3. Upon our de novo review of the record, we conclude that Plaintiff could not meet his burden to demonstrate a "readily achievable" removal at trial and that summary judgment was warranted.
+
+IV. Conclusion
+To summarize, we conclude the following:
+(1) Plaintiff could not demonstrate that exterior modifications at 82-88 Fulton Street were "alterations" under 42 U.S.C. § 12183(a)(2).
+(2) The record demonstrates that Plaintiff would be unable, at trial, to "articulate a plausible proposal for barrier removal, the costs of which facially do not clearly exceed its benefits." Roberts, 542 F.3d at 373.
+(3) Even assuming that the more rigorous post-alteration standard would apply to the interior of 82-88 Fulton Street, the record demonstrates that Plaintiff could not show, at trial, "some manner in which the alteration [*7]  could be, or could have been, made 'readily accessible [to] and usable by individuals with disabilities.'" Roberts, 542 F.3d at 372 (quoting 42 U.S.C. § 12183(a)(2)).
+We have reviewed all of the remaining arguments raised by Plaintiff on appeal and find them to be without merit. For the foregoing reasons, we AFFIRM the July 23, 2021 judgment of the District Court.
+
+
+End of Document
+

@@ -1,0 +1,33 @@
+Sarfaty v. City of Los Angeles
+United States Court of Appeals for the Ninth Circuit
+March 8, 2019, Argued and Submitted, Pasadena, California; April 3, 2019, Filed
+No. 17-56468
+
+Reporter
+765 Fed. Appx. 280 *; 2019 U.S. App. LEXIS 9824 **; 2019 WL 1484012
+RON SARFATY; GARY SCHERER, Plaintiffs-Appellants, v. CITY OF LOS ANGELES; DOES, 1-10, Defendants-Appellees.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: On remand at, Dismissed by, in part, Motion denied by, in part Sarfaty v. City of Los Angeles, 2019 U.S. Dist. LEXIS 228872 (C.D. Cal., Oct. 16, 2019)
+Prior History:  [**1] Appeal from the United States District Court for the Central District of California. D.C. No. 2:17-cv-03594-SVW-KS. Stephen V. Wilson, District Judge, Presiding.
+Sarfaty v. City of L.A., 2017 U.S. Dist. LEXIS 222158, 2017 WL 6551234 (C.D. Cal., Aug. 28, 2017)
+Disposition: REVERSED and REMANDED.
+Counsel: For RON SARFATY, GARY SCHERER, Plaintiffs - Appellants: Dennis J. Price, II, Esquire, Mr., Potter Handy LLP, San Diego, CA.
+For CITY OF LOS ANGELES, Defendant - Appellee: Kevin Gilbert, Orbach, Huff, Suarez & Henderson, Oakland, CA; Thomas H. Peters, Gabriel Dermer, Esquire, Los Angeles City Attorney's Office, Los Angeles, CA.
+Judges: Before: WARDLAW and BENNETT, Circuit Judges, and CARDONE,** District Judge.
+Opinion
+
+
+ [*281]  MEMORANDUM*
+Ron Sarfaty and Gary Scherer ("Plaintiffs") sued the City of Los Angeles (the "City") for alleged violations of the Americans with Disabilities Act ("ADA"), the Rehabilitation Act, and similar provisions of California law. The district court granted the City's motion to dismiss the complaint, and this appeal followed. We have jurisdiction pursuant to 28 U.S.C. § 1291, and we reverse and remand.
+1. The district court first concluded that the City's class action settlement in Willits v. City of Los Angeles released Plaintiffs' injunctive claims. In reaching this conclusion, the court did not consider the extrinsic evidence [**2]  that Plaintiffs tendered to support their interpretation of the Willits release language. As a matter of California law, this was error. See Pac. Gas & Elec. Co. v. G.W. Thomas Drayage & Rigging Co., 69 Cal. 2d 33, 69 Cal. Rptr. 561, 442 P.2d 641, 645 (Cal. 1968); see also Trident Ctr. v. Conn. Gen. Life Ins. Co., 847 F.2d 564, 565 (9th Cir. 1988) ("This case therefore presents the question whether parties in California can ever draft a contract that is proof to parol evidence. Somewhat surprisingly, the answer is no."). The court should have "review[ed] the proffered material regarding the parties' intent to see if the language is 'reasonably susceptible' of the interpretation urged by" Plaintiffs. Appleton v. Waessil, 27 Cal. App. 4th 551, 32 Cal. Rptr. 2d 676, 677 (Ct. App. 1994). If so, "the extrinsic evidence is then admitted to aid in the second step, which involves actually interpreting the contract." Id. at 678.
+If, on remand, the district court concludes that Plaintiffs' claims here are encompassed by the Willits release, it must then compare Plaintiffs' claims to the claims asserted by the class in Willits to determine whether the two sets of claims share an "identical factual predicate." See Reyn's Pasta Bella, LLC v. Visa USA, Inc., 442 F.3d 741, 748 (9th Cir. 2006). The Willits release is binding as to Plaintiffs here only if their claims "depend[] upon the same set of facts." Williams v. Boeing Co., 517 F.3d 1120, 1134 (9th Cir. 2008) (citation omitted).
+Because the district court did not consider Plaintiffs' extrinsic evidence as to the scope of the Willits release, and because the court [**3]  failed to conduct the "identical factual predicate" test that our precedent requires, we reverse the grant of the City's motion to dismiss Plaintiffs' injunctive claims.1
+2. Plaintiffs also argue that the district court improperly dismissed their damages claims.
+At the outset, we disagree with the City that Plaintiffs waived their damages claims by failing to amend their complaint. See WMX Techs., Inc. v. Miller, 104 F.3d 1133, 1136 (9th Cir. 1997) (en banc).
+The district court concluded that Plaintiffs' complaint did not adequately allege a damages claim. "To succeed on a civil rights claim in this context, the plaintiffs must show intentional discrimination." T.B. ex rel. Brenneise v. San Diego Unified Sch. Dist., 806 F.3d 451, 469 (9th Cir. 2015). Deliberate indifference satisfies this standard, Duvall v. County of Kitsap, 260 F.3d 1124, 1138 (9th Cir. 2001), and can be established by "show[ing] [that] the defendant had notice of [Plaintiffs'] need for an accommodation and failed to act," A.G. v.  [*282]  Paradise Valley Unified Sch. Dist. No. 69, 815 F.3d 1195, 1207 (9th Cir. 2016) (internal quotation marks and citation omitted). The district court dismissed Plaintiffs' complaint without prejudice, and Plaintiffs stood on their complaint on this issue and chose not to amend.
+The district court did not reach the question of notice (by assuming arguendo that Plaintiffs satisfied the notice prong), but found that Plaintiffs "pleaded no facts that would allow a reasonable jury to conclude [**4]  that the City acted with deliberate indifference." Like the district court, we do not reach the issue of notice.2 We agree with the district court as to Plaintiff Scherer's failure to plead sufficient facts as to deliberate indifference,3 but disagree as to Plaintiff Sarfaty. The complaint alleges that, despite the fact that the City was on notice of Sarfaty's need for accommodation, its ADA Coordinator affirmatively told Sarfaty that the City would not act on his needs. Thus, as alleged, the City's failure to act was not "negligent, lazy, or careless," it was intentional. Oden v. N. Marianas Coll., 440 F.3d 1085, 1089 (9th Cir. 2006). Notwithstanding our agreement with the district court that Plaintiff Scherer failed to adequately allege deliberate indifference; in light of our other rulings, we remand with direction to allow leave to amend to both plaintiffs, including as to notice and deliberate indifference.
+REVERSED and REMANDED.
+
+
+End of Document
+

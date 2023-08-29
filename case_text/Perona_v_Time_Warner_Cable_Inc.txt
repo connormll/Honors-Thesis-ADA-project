@@ -1,0 +1,33 @@
+Perona v. Time Warner Cable, Inc.
+United States Court of Appeals for the Ninth Circuit
+April 11, 2018, Argued and Submitted, Pasadena, California; May 24, 2018, Filed
+No. 16-56897
+
+Reporter
+724 Fed. Appx. 595 *; 2018 U.S. App. LEXIS 13730 **; 2018 WL 2371647
+KATRINA PERONA, an individual, Plaintiff-Appellee, v. TIME WARNER CABLE, INC., a corporation; DOES, 1 through 50, inclusive, Defendants-Appellants.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: Rehearing denied by, Rehearing, en banc, denied by Perona v. Time Warner Cable, Inc., 2018 U.S. App. LEXIS 17960 (9th Cir. Cal., June 29, 2018)
+Motion granted by, Costs and fees proceeding at Perona v. Time Warner Cable, Inc., 2018 U.S. App. LEXIS 21978 (9th Cir. Cal., Aug. 7, 2018)
+Prior History:  [**1] Appeal from the United States District Court for the Central District of California. D.C. No. 5:14-cv-02501-MWF-SP. Michael W. Fitzgerald, District Judge, Presiding.
+Perona v. Time Warner Cable Inc., 2016 U.S. Dist. LEXIS 188651 (C.D. Cal., Aug. 12, 2016)
+Disposition: AFFIRMED.
+Counsel: For KATRINA PERONA, an individual, Plaintiff - Appellee: Frank Alfredo Magnanimo, Esquire, Attorney, Audrey Priolo, Attorney, Magnanimo & Dean, LLP, Woodland Hills, CA.
+For TIME WARNER CABLE, INC., a corporaiton, Defendant - Appellant: James Bowles, Casey L. Morris, Esquire, Attorney, Hill, Farrer & Burrill, LLP, Los Angeles, CA.
+Judges: Before: SCHROEDER, CLIFTON, and M. SMITH, Circuit Judges.
+Opinion
+
+
+
+ [*596]  MEMORANDUM*
+Time Warner Cable, Inc. ("Time Warner") appeals the district court's judgment, imposed after a seven-day jury trial which resulted in a jury awarding Plaintiff-Appellee Katrina Perona $160,000. Time Warner also appeals the district court's subsequent order awarding Ms. Perona substantial fees and costs and denying Time Warner's motion for judgment as a matter of law or, alternatively, partial new trial. Our appellate jurisdiction rests on 28 U.S.C. § 1291, and we AFFIRM.
+Time Warner first contends the jury's verdict was inconsistent and should be set aside because the jury found both that Time Warner did not fail to provide reasonable accommodation [**2]  and that it failed to engage in the interactive process. But there is no fatal inconsistency. California law is clear that "an employer's failure to properly engage in the process is separate from the failure to reasonably accommodate an employee's disability and gives rise to an independent cause of action." Swanson v. Morongo Unified Sch. Dist., 232 Cal. App. 4th 954, 181 Cal. Rptr. 3d 553, 567 (Ct. App. 2014).
+As the district court explained, the relevant time period extended over many months, and while Time Warner originally provided an accommodation, the jury could, and reasonably did, find it did not do so later. See id. at 567-68. As we recognized in Snapp v. United Transportation Union, No. 15-35410, 889 F.3d 1088, 2018 U.S. App. LEXIS 12336, 2018 WL 2168653, at *4 (9th Cir. May 11, 2018), there can be no liability under the federal Americans with Disabilities Act for a failure to engage in the interactive process when no reasonable accommodation would have been possible. The jury here specifically identified two reasonable accommodations Time Warner could have provided had the interactive process continued. Time Warner's arguments that Ms. Perona suffered no damages as a matter of law and that the jury's interactive process finding was surplusage fail for the same reason. The district court followed its obligation to reconcile the jury's findings wherever possible. See Norris v. Sysco Corp., 191 F.3d 1043, 1048 (9th Cir. 1999).
+Time Warner also contends that the jury verdict is contrary [**3]  to the evidence because there was evidence there were no part-time morning shifts or open positions available as a result of its Shift Bid system, that Ms. Perona was not eligible for a part-time morning shift, and that Ms. Perona was responsible for the breakdown in the interactive process. The jury also heard evidence that Ms. Perona was amenable to at least attempting to work an afternoon shift, her medical expert would have considered authorizing such work, and that Human Resources Manager Anne Long did no research to see if there were any available accommodations the company could provide. The verdict is not contrary to the evidence.
+The district court did not abuse its discretion when it imposed attorneys' fees in the amount of $964,938. In awarding fees the district court properly considered and applied the factors set out in Hensley v. Eckerhart, 461 U.S. 424, 434-36, 103 S. Ct. 1933, 76 L. Ed. 2d 40 (1983). The district court took into consideration the fact that Ms. Perona prevailed on only one of the claims she presented to the jury, but reasonably concluded that Ms. Perona's unsuccesful  [*597]  claims, save for her inadequate rest periods claim, arose out of the same set of circumstances as Ms. Perona's claim for failure to engage in the interactive process.  [**4] See id. at 435.
+The district court was also not obligated to apply the United States Attorneys' Office Attorney's Fee Matrix, formerly known as the "Laffey matrix." See Prison Legal News v. Schwarzenegger, 608 F.3d 446, 454 (9th Cir. 2010) ("We thus cannot fault the district court for declining to use the Laffey matrix."). The district court gave adequate reasons for its decision to apply a lodestar multiplier of 1.3 under the circumstances of this case. See Ketchum v. Moses, 24 Cal. 4th 1122, 104 Cal. Rptr. 2d 377, 17 P.3d 735, 741, 744 (Cal. 2001).
+AFFIRMED.
+
+
+End of Document
+

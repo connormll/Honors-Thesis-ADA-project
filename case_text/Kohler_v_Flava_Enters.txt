@@ -1,0 +1,59 @@
+Kohler v. Flava Enters.
+United States Court of Appeals for the Ninth Circuit
+February 3, 2015, Argued and Submitted, Pasadena, California; March 6, 2015, Filed
+No. 11-56814, No. 12-55518
+
+Reporter
+779 F.3d 1016 *; 2015 U.S. App. LEXIS 3594 **
+CHRIS KOHLER, Plaintiff-Appellant, v. FLAVA ENTERPRISES, INC., Defendant-Appellee.
+Prior History:  [**1] Appeal from the United States District Court for the Southern District of California. D.C. NO. 3:10-cv-00730-IEG-NLS. D.C. NO. 3:10-cv-00730-IEG-NLS. Irma E. Gonzalez, District Judge, Presiding.
+Kohler v. Flava Enters., 2012 U.S. Dist. LEXIS 17261 (S.D. Cal., Feb. 13, 2012)
+Kohler v. Flava Enters., 826 F. Supp. 2d 1221, 2011 U.S. Dist. LEXIS 140306 (S.D. Cal., 2011)
+Counsel: Scottlyn J. Hubbard IV (argued), Law Offices of Lynn Hubbard, Chico, California, for Plaintiff-Appellant/Cross-Appellee.
+David Warren Peters (argued), California Justice Alliance, APC, San Diego, California, for Defendant-Appellee/Cross-Appellant.
+Judges: Before: Stephen Reinhardt and Ronald M. Gould, Circuit Judges and J. Frederick Motz, Senior District Judge.* Opinion by Judge Motz.
+Opinion by: Motz
+Opinion
+
+
+
+SUMMARY**
+
+Americans with Disabilities Act
+The panel affirmed the district court's grant of summary judgment and its denial of attorneys' fees in an action under Title III of the Americans with Disabilities Act.
+Affirming the district court's summary judgment in favor of the defendant, the panel held that a dressing room bench longer than forty-eight inches complied [**2]  with the 1991 version of the ADA Accessibility Guidelines even though the arrangement of the bench prevented the plaintiff from making a diagonal transfer onto the bench from his wheelchair. The panel held that the bench did not comply with the ADAAG's mandate but nonetheless qualified as an "equivalent facilitation" because the plaintiff could make a parallel transfer. Because the bench thus complied with the 1991 standards and had not been altered since March 15, 2012, it fell within a safe harbor and was not required to comply with the newer ADAAG standards promulgated in 2010.
+The panel also affirmed the district court's denial of defendant's motion for attorneys' fees under the ADA and 28 U.S.C. § 1927.
+
+ [*1018]  OPINION
+MOTZ, Senior District Judge:
+Chris Kohler appeals the district court's grant of summary judgment to defendant Flava Enterprises Inc. ("Flava"), on Kohler's claim under Title III of the Americans with Disabilities Act ("ADA"). Kohler appeals only the district court's conclusion that a dressing room bench longer than forty-eight inches complies with the Americans with Disabilities Act Accessibility Guidelines ("ADAAG"). We affirm. Flava cross-appeals the district court's denial of Flava's motion [**3]  for attorneys' fees. We affirm the district court's ruling on attorneys' fees.
+I.
+Kohler is disabled and uses a wheelchair. In February 2010 he visited Flava's retail clothing store "House of Flava" to browse and try on clothing. While doing so, he allegedly encountered various barriers that interfered with his ability to use and enjoy "House of Flava." The barrier he encountered that is relevant to this appeal was a bench in the dressing room that was longer than forty-eight inches and ran along the entire length of the dressing room wall. This arrangement prevented Kohler from making a diagonal transfer onto the bench from his wheelchair.
+Kohler filed suit against Flava alleging violations of Title III of the ADA; the California Disabled Persons Act ("DPA"), Cal. Civ. Code § 54; the Unruh Civil Rights Act, Cal. Civ. Code § 51; and the California Health and Safety Code. The parties filed cross-motions for summary judgment. The district court granted Flava's motion for summary judgment on all of Kohler's ADA claims, and declined to exercise jurisdiction over his state law claims. Kohler v. Flava Enters., Inc., 826 F. Supp. 2d 1221 (S.D. Cal. 2011). Flava timely appealed only the district court's ruling with respect to the bench length.
+Following the district court's grant of summary judgment, [**4]  Flava filed a motion for attorneys' fees, litigation expenses, and costs under the ADA, 42 U.S.C. § 12205; Section 1927, 28 U.S.C. § 1927; and the "inherent power of the court." Flava argued that Kohler's lawsuit was frivolous. The district court denied Flava's motion and Flava timely cross-appealed that decision.
+II.
+We review the granting of summary judgment de novo. Curley v. City of North Las Vegas, 772 F.3d 629, 631 (9th Cir. 2014). A district court's decision to deny a motion for attorneys' fees is reviewed for abuse of discretion. Skaff v. Meridien N. Am. Beverly Hills, LLC, 506 F.3d 832, 837 (9th Cir. 2007).
+III.
+Title III of the ADA requires public accommodations to provide equal access to disabled patrons. 42 U.S.C. § 12182(a). To clarify what constitutes "equal access" in specific circumstances, the Department of Justice has promulgated the Accessibility Guidelines ("ADAAG") that specify precise structural requirements. See, e.g., Chapman v. Pier I Imports (U.S.) Inc., 631 F.3d 939, 945 (9th Cir. 2011) (en banc). Regarding dressing room benches, the 1991 ADAAG standards require that:
+ [*1019]  [E]very accessible dressing room shall have a 24 in by 48 in . . . bench fixed to the wall along the longer dimension. . . . Clear floor space shall be provided alongside the bench to allow a person using a wheelchair to make a parallel transfer onto the bench.
+28 C.F.R. Pt. 36, App. A § 4.35.4 (emphasis added).
+The 1991 ADAAG also contain an "equivalent facilitation" provision. See id. Pt. 36, App. D § 2.2. This allows [**5]  "[d]epartures from particular technical and scoping requirements" of the ADAAG, if those variations "provide substantially equivalent or greater access to and usability of the facility." Id. Pt. 36, App. A § 2.2.
+The parties stipulate that the bench is longer than the required forty-eight inches. Given the ADAAG's use of the word "shall," it is clear that the bench does not comply with the guideline's mandate. The issue is then whether the bench qualifies as an "equivalent facilitation" under the ADAAG. We conclude that it does.
+The key fact is that Kohler admitted he could perform a parallel transfer onto the bench in Flava's store. See Kohler, 826 F. Supp. 2d at 1230 (citing Kohler's deposition). The guidelines only require that a person "using a wheelchair" be able "to make a parallel transfer onto the bench." 28 C.F.R. Pt. 36, App. A § 4.35.4. Given Kohler's ability to do so, the bench at Flava "provide[s] substantially equivalent or greater access" to him. Id. Pt. 36, App. A, § 2.2. Accordingly, it qualifies as an equivalent facilitation.
+Kohler attempts to avoid this conclusion with two arguments. First, he claims that he did not receive adequate notice because Flava did not properly plead equivalent facilitation as an affirmative defense. The district court rejected this [**6]  argument, and we agree. Flava pleaded in its answer that its store was compliant due to its use of "alternative methods" of accessibility. This term does stem from a distinct portion of the ADA apart from the equivalent facilitation. Compare 42 U.S.C. § 12182(b)(2)(A)(v) (alternative methods) with 28 C.F.R. Pt. 36, App. A § 2.2 (equivalent facilitation). Nonetheless, the "fair notice" required by the pleading standards only requires describing the defense in "general terms." 5 Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure § 1274 (3d ed. 1998). We will not disturb the district court's finding that Kohler received sufficient notice.
+Second, Kohler argues that because the bench is not exactly forty-eight inches, it does not comply with the 1991 ADAAG and must comply with the newer ADAAG guidelines promulgated in 2010. The 2010 guidelines require that "seats [] are 42 inches [] long minimum," and that a minimum of "30 inches . . . by 48 inches" of clear space is provided at the end of the bench. 36 C.F.R. Pt. 1191, App. D §§ 305, 903. Clear space at the end of the bench allows disabled persons the ability to make a distinct maneuver, known as a diagonal transfer, onto the bench.
+Kohler's argument misinterprets the statutory scheme. The 2010 guidelines went into [**7]  effect on March 15, 2012. See 28 C.F.R. § 36.304(d)(2)(ii)(B). The guidelines explicitly contain a "safe harbor" provision, however, which provides that accommodations, which have not been altered in existing facilities on or after March 15, 2012, and that complied with the 1991 guidelines, are not required to be modified to conform to the 2010 standards. 28 C.F.R. § 36.304(d)(2)(i).
+Kohler's argument then must be that if the bench is an "equivalent facilitation" under the 1991 standards, it is non-compliant, and as a result, it is required to comply with the 2010 standards.  [*1020]  But Kohler has not cited any authority which indicates that an "equivalent facilitation" is non-compliant. By definition, an equivalent facilitation provides "equal or greater access" to disabled patrons—it cannot provide less access. 28 C.F.R. Pt. 36, App. A § 2.2. To say that such a facilitation is non-compliant would undermine Congress's objective in including the "equivalent facilitation" provision in the ADA.1 We thus hold that a longer bench that permits patrons to complete a parallel transfer is an equivalent facilitation under the 1991 ADAAG. For accommodations that have not been altered since March 15, 2012, the facilities are not required to be equipped to allow a diagonal transfer. This ruling [**8]  makes explicit what a panel of this court suggested in an unpublished decision in 2014. See Martinez v. Columbia Sportswear USA Corp., 553 F. App'x 760, 762 (9th Cir. 2014).2
+IV.
+We affirm the district court's denial of Flava's motion for attorneys' fees. Flava seeks attorneys' fees under the ADA. See 42 U.S.C. § 12205. We have held that civil defendants can be awarded fees under this statute only in exceptional circumstances. Summers v. Teichert, 127 F.3d 1150, 1154 (9th Cir. 1997). Such circumstances include complaints that are "frivolous, unreasonable, or without foundation." Id. (internal citation omitted).
+Kohler's claims were not frivolous. The claims resulted in us interpreting a provision of the ADA for the first time in a published opinion and clarifying a question with split district court decisions. Kohler was entitled to bring this suit to seek resolution of this question.
+Flava also seeks fees under 28 U.S.C. § 1927. This statute requires proving that the opposing party acted with "subjective bad faith." New Alaska Dev. Corp. v. Guetschow, 869 F.2d 1298, 1306 (9th Cir. 1989); see also Estate of Blas v. Winkler, 792 F.2d 858, 860 (9th Cir. 1986) ("Bad faith is present when an attorney knowingly or recklessly raises a frivolous argument . . . or argues a meritorious claim for the purpose of harassing an opponent . . . .") (internal citations omitted).
+Flava makes allegations of subjective bad faith but there is no evidence in the record to support its claims. [**10]  Moreover, nothing in the record would substantiate sanctions under the court's inherent power. Accordingly, the district court's ruling on the fees is affirmed.
+
+ [*1021]  V.
+The district court did not err in granting summary judgment to Flava and in denying Flava's motion for attorneys' fees.
+AFFIRMED.
+
+
+End of Document
+

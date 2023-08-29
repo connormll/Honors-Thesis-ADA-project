@@ -1,0 +1,30 @@
+Johnson v. Royal Chem. Co.
+United States Court of Appeals for the Sixth Circuit
+October 27, 2017, Filed
+No. 17-3234
+
+Reporter
+2017 U.S. App. LEXIS 21543 *
+ERIC J. JOHNSON, Plaintiff-Appellant, v. ROYAL CHEMICAL COMPANY, LTD., Defendant-Appellee.
+Notice: NOT RECOMMENDED FOR FULL-TEXT PUBLICATION. SIXTH CIRCUIT RULE 28 LIMITS CITATION TO SPECIFIC SITUATIONS. PLEASE SEE RULE 28 BEFORE CITING IN A PROCEEDING IN A COURT IN THE SIXTH CIRCUIT. IF CITED, A COPY MUST BE SERVED ON OTHER PARTIES AND THE COURT. THIS NOTICE IS TO BE PROMINENTLY DISPLAYED IF THIS DECISION IS REPRODUCED.
+Prior History:  [*1] ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF OHIO.
+Johnson v. Royal Chem. Co., Ltd., 2017 U.S. Dist. LEXIS 13153 (N.D. Ohio, Jan. 31, 2017)
+Counsel: ERIC J. JOHNSON, Plaintiff - Appellant, Pro se, Shaker Heights, OH.
+For ROYAL CHEMICAL COMPANY, LTD., Defendant - Appellee: David Ryan Vance, Zashin & Rich, Cleveland, OH; David Patrick Frantz, Zashin & Rich, Cleveland, OH.
+Judges: Before: ROGERS, SUTTON, and BUSH, Circuit Judges.
+Opinion
+
+
+
+ORDER
+Eric J. Johnson, an Ohio resident proceeding pro se, appeals a district court judgment in favor of Royal Chemical Company, Ltd. ("Royal") on his claims of disability discrimination, intentional infliction of emotional distress, breach of contract, and promissory estoppel. This case has been referred to a panel of the court that, upon examination, unanimously agrees that oral argument is not needed. See Fed. R. App. P. 34(a).
+Johnson filed a complaint against Royal alleging (1) disability discrimination in violation of the Americans with Disabilities Act ("ADA"); (2) disability discrimination in violation of Ohio Revised Code § 4112.02(A); (3) intentional infliction of emotional distress; (4) bad faith breach of contract; (5) breach of contract; and (6) promissory estoppel. Royal filed a motion for summary judgment, and the district court granted the motion. On appeal, Johnson argues [*2]  that the district court erred in granting summary judgment on his failure to accommodate, breach of contract, and promissory estoppel claims and that the district court should not have granted summary judgment prior to the completion of discovery. Johnson has forfeited review of any claims that he raised in the district court but did not raise in his appellate brief. See Agema v. City of Allegan, 826 F.3d 326, 331 (6th Cir. 2016).
+We review de novo a district court's decision to grant summary judgment. Lockett v. Suardini, 526 F.3d 866, 872 (6th Cir. 2008). Summary judgment is proper "if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a).
+The district court did not err in granting summary judgment as to Johnson's claim that Royal failed to provide reasonable accommodations as required under the ADA. To prevail on a failure to accommodate claim, a plaintiff must show, among other things, that he requested an accommodation and his employer failed to provide a reasonable accommodation. Green v. BakeMark USA, LLC, 683 F. App'x 486, 491 (6th Cir. 2017). While Johnson argues that Royal failed to provide reasonable accommodations when he was moved back to the production floor and when he was not provided a constant sit-down position, Johnson has conceded that he did not contest his [*3]  move back to the production floor nor did he ask to return to a light duty position. Because Johnson has failed to identify an accommodation request that was denied, the district court did not err in granting summary judgment in favor of Royal on this claim.
+The district court did not err in granting summary judgment as to Johnson's breach of contract and promissory estoppel claims because Johnson has failed to show that the return-to-work-authorization form completed by his doctor was a contract or that Royal promised to employ him in the future. See Rayess v. Educ. Comm. for Foreign Med. Graduates, 134 Ohio St. 3d 509, 2012 Ohio 5676, 983 N.E.2d 1267, 1271 (Ohio 2012); Weiper v. W.A. Hill & Assocs., 104 Ohio App. 3d 250, 661 N.E.2d 796, 803 (Ohio Ct. App. 1995).
+We review a claim that summary judgment was entered prematurely because additional discovery was needed for an abuse of discretion. Alspaugh v. McConnell, 643 F.3d 162, 166 (6th Cir. 2011). Federal Rule of Civil Procedure 56(d) allows for discovery "[i]f a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition." "[T]o preserve the argument that the grant of summary judgment was too hasty and precluded necessary discovery, the appellant must have complied with the strictures of Federal Rule of Civil Procedure 56[(d)]." Plott v. Gen. Motors Corp., Packard Elec. Div., 71 F.3d 1190, 1196 (6th Cir. 1995). Because Johnson failed to satisfy the requirements of Rule 56(d) or otherwise move for additional discovery, the district court did not abuse its discretion by ruling on the motion [*4]  for summary judgment without allowing further discovery.
+For the foregoing reasons, we hereby AFFIRM the judgment of the district court.
+
+
+End of Document
+

@@ -1,0 +1,60 @@
+Allen v. Adams
+United States Court of Appeals for the Tenth Circuit
+March 8, 2022, Filed
+No. 21-3208
+
+Reporter
+2022 U.S. App. LEXIS 6001 *; 129 A.F.T.R.2d (RIA) 2022-958; 2022 WL 680336
+MIKE ALLEN, Plaintiff - Appellant, v. KADEN ADAMS, Defendant - Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: US Supreme Court certiorari denied by Allen, Mike v. Adams, Kaden, 2022 U.S. LEXIS 3074 (U.S., June 27, 2022)
+Prior History:  [*1] (D.C. No. 6:21-CV-01221-JAR-KGG). (D. Kan.).
+Allen v. Adams, 2021 U.S. Dist. LEXIS 218789, 2021 WL 5279642 (D. Kan., Nov. 12, 2021)
+Counsel: MIKE ALLEN, Plaintiff - Appellant, Pro se, Wichita, KS.
+For KADEN ADAMS, Defendant - Appellee: Emily K. Arida, Ryan Meyer, Fleeson, Gooing, Coulson & Kitch, Wichita, KS.
+Judges: Before MORITZ, BRISCOE, and CARSON, Circuit Judges.
+Opinion by: Mary Beck Briscoe
+Opinion
+
+
+
+ORDER AND JUDGMENT*
+Mike Allen appeals the district court's grant of Kaden Adams's motion to dismiss for failure to state a claim and entry of judgment with prejudice. Exercising jurisdiction under 28 U.S.C. § 1291, we AFFIRM.
+
+I. Background
+Allen is disabled. In or around August of 2021, the Martin Pringle law firm in Wichita, Kansas, referred Allen to Kaden Adams, an accountant at Adams & Associates (referred to by Allen as "Dave Adams and Associates"). While the parties never had a written agreement, Adams agreed to assist Allen recover withheld taxes from 2016. Allen mailed a 1040 tax return and W-2 for 2016 to Adams, as well as a "Social Security disability document, and a copy of another attorney's document." ROA at 9.
+On August 31, 2021, Allen called Adams seeking an update. Adams told Allen the statute of limitations for a 2016 tax refund had run. The next day, Allen called Adams's office and spoke to an unidentified woman. [*2]  He requested his documents be mailed back to him. Allen called Adams's office again with the same request on September 5, and again on September 7. On the September 7 call, Adams told Allen he would mail the documents back that day. As of the filing of Allen's complaint on September 12, 2021, he had not received his documents.1
+Allen's complaint asserted claims under the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et seq., and a provision of the United States Criminal Code, 18 U.S.C. § 1028. He stated that he wished to recover "[a]ll future expenses arising from this petition" and that the relief sought was "[t]o protect the plaintiff from discrimination against the disabled." ROA at 7. He checked boxes on a form complaint indicating he claims both actual and punitive damages. Where the form indicated he should state the amounts claimed and reasons for entitlement to money damages, Allen wrote: "Any monetary damages arising from this petition." ROA at 11. He also asked for an order directing Adams to return the documents.
+On October 8, 2021, Adams filed a Rule 12(b)(6) motion to dismiss for failure to state a claim for which relief can be granted. In response, Allen filed a document captioned "Motion to Deny Defendant's Request to Dismiss Plaintiff's Complaint Before [*3]  Returning Plaintiff's Documents to Plaintiff" and attached a document captioned "Objection to Dismiss Plaintiff's Complaint Before Returning Plaintiff's Documents to Plaintiff," both of which asserted that, if the court determined Allen had no remedy under the ADA, two provisions of the United States Tax Code, 26 U.S.C. §§ 6694 and 6695, would compel Adams to return the documents. ROA at 27-30. Allen then filed a document captioned "Objection to Dismiss Plaintiff's Complaint with Prejudice." ROA at 35.
+On November 12, 2021, the district court granted Adams's motion to dismiss and dismissed the case without prejudice. Allen filed a notice of appeal, but we abated the appeal when Adams filed a motion to alter or amend the judgment, requesting the district court correct its dismissal without prejudice to a dismissal with prejudice. Allen requested that counsel be appointed, but the district court denied his motion. Allen did not otherwise respond to the motion to alter or amend the judgment. The district court then granted Adams's motion and dismissed the case with prejudice. We lifted the abatement and now affirm.
+
+II. Standard of Review
+We review de novo a district court's decision to dismiss a complaint pursuant [*4]  to Rule 12(b)(6) for failure to state a claim. Smallen v. The Western Union Co., 950 F.3d 1297, 1305 (10th Cir. 2020). "To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Id. "The plausibility standard is not akin to a 'probability requirement,' but it asks for more than a sheer possibility that a defendant has acted unlawfully." Id. (quoting Twombly, 550 U.S. at 556). "Where a complaint pleads facts that are merely consistent with a defendant's liability, it stops short of the line between possibility and plausibility of entitlement to relief." Id. (quotation marks omitted).
+We review a district court's denial of leave to amend for abuse of discretion. Carroll v. Lawton Indep. Sch. Dist. No. 8, 805 F.3d 1222, 1231 (10th Cir. 2015). This review "includes de novo review of the legal basis for the finding of futility" of a proposed amendment." Adams v. C3 Pipeline Constr. Inc., 17 F.4th 40, 69 (10th Cir. 2021).
+
+III. The District Court Did Not Err.
+Allen's opening and reply briefs do not clearly state the issues on appeal. Adams frames the issues as:
+1. Was the district court correct in granting Mr. Adams' motion to dismiss Mr. Allen's [*5]  complaint for failure to state a claim upon which relief can be granted?
+2. Did the district court correctly deny Mr. Allen's motion for leave to amend as futile?
+Aple. Br. at 3.
+We liberally construe pro se filings, but we "will not supply additional factual allegations to round out a plaintiff's complaint or construct a legal theory on a plaintiff's behalf." Whitney v. New Mexico, 113 F.3d 1170, 1173-74 (10th Cir. 1997). Liberally construing Allen's filings, we review the district court's dismissal of Allen's claim for violation of the ADA, dismissal of a claim under the United States Criminal Code, and refusal to grant leave to amend to add claims under the United States Tax Code.2
+A. ADA Claims
+The ADA protects against discrimination on the basis of disability. Title I protects against employment discrimination; Title II protects against discrimination by public entities; and Title III protects against discrimination by owners or operators of public accommodations. See 42 U.S.C. §§ 12112(a), 12132, & 12182(a). Allen never specified which title of the ADA he claims Adams has violated. The district court assumed he meant to assert a claim under Title III, and we agree. The facts Allen alleged are inconsistent with a Title I or Title II claim because Allen does not claim Adams [*6]  employed him or that Adams is a public entity.
+To state a claim under Title III of the ADA, Allen must allege: (1) that he is disabled under the ADA; (2) that Adams owns, leases, or operates a place of public accommodation; and (3) that Adams discriminated against Allen on the basis of his disability. See 42 U.S.C. § 12182; Roberts v. Royal Atlantic Corp., 542 F.3d 363, 368 (2d Cir. 2008).
+Adams does not contest that Allen alleged that he is disabled, nor that an accounting firm is a public accommodation. Rather, Adams asserts that Allen never alleged that Adams owns, leases, or operates the public accommodation at issue and that Allen does not plausibly allege that Adams discriminated against Allen on the basis of a disability.
+Allen's complaint names the defendant as "Kaden Adams aka (Dave Adams and Associates)," but we need not decide whether this is sufficient when liberally construed to assert that Adams owns or operates a public accommodation. Rather, we agree with the district court that Allen failed to allege Adams discriminated against him on the basis of a disability.
+Allen does not plausibly allege that Adams refused to return Allen's documents because Allen is disabled. He does not allege Adams used discriminatory language or committed other forms of overt [*7]  discrimination. Aside from a passing statement that "Kaden obviously reserved professional courtesy for some, and then declined service to a disabled person," which is an unsupported assumption, he does not allege that he was subject to disparate treatment. This is the kind of speculation that fails to meet Rule 8's pleading standard. See Iqbal, 556 U.S. at 678.
+B. Criminal Code Claim
+Allen attempts to assert a claim under 18 U.S.C. § 1028, which criminalizes fraudulent and other activities relating to identification documents. As this statute does not provide a private right of action, the district court correctly dismissed Allen's claim under the United States Criminal Code. See Andrews v. Heaton, 483 F.3d 1070, 1076 (10th Cir. 2007) ("[D]ismissal . . . was proper because these are criminal statutes that do not provide for a private right of action and are thus not enforceable through a civil action.").
+C. Tax Code Claims
+The district court construed Allen's invocation of 26 U.S.C. §§ 6694 and 6695 as a request for leave to amend his complaint to assert claims under those statutes. The district court did not abuse its discretion in denying that motion because these statutes are only enforceable by the Secretary of the Internal Revenue Service, and any penalties under those provisions "shall be assessed [*8]  and collected in the same manner as taxes." 26 U.S.C. § 6671. To the extent Allen argues that these provisions are applicable beyond providing a cause of action, he does not explain or develop that argument and it is unclear how these provisions could compel a court to consider Allen's ADA claim differently.
+
+IV. Conclusion
+Because the district court did not err in dismissing Allen's complaint for failure to state a claim, we AFFIRM.
+Entered for the Court
+Mary Beck Briscoe
+Circuit Judge
+
+
+End of Document
+

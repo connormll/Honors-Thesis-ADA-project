@@ -1,0 +1,29 @@
+Sprague v. N. Va. Crim. Justice Training Acad.
+United States Court of Appeals for the Fourth Circuit
+November 22, 2019, Submitted; February 21, 2020, Decided
+No. 19-1508
+
+Reporter
+794 Fed. Appx. 314 *; 2020 U.S. App. LEXIS 5361 **; 2020 WL 864904
+SHERRY LYNN SPRAGUE, Plaintiff - Appellant, v. NORTHERN VIRGINIA CRIMINAL JUSTICE TRAINING ACADEMY; DEAN C. GOODWIN; DAVID S. VICE, Defendants - Appellees, and CITY OF FALLS CHURCH, Defendant.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Eastern District of Virginia, at Alexandria. Leonie M. Brinkema, District Judge. (1:18-cv-00411-LMB-IDD).
+Disposition: AFFIRMED.
+Counsel: Carla D. Brown, Daphne S. Gebauer, CHARLSON BREDEHOFT COHEN & BROWN, P.C., Reston, Virginia, for Appellant.
+Julia B. Judkins, BANCROFT, MCGAVIN, HORVATH & JUDKINS, P.C., Fairfax, Virginia, for Appellees.
+Judges: Before GREGORY, Chief Judge, RICHARDSON, Circuit Judge, and HAMILTON, Senior Circuit Judge.
+Opinion
+
+
+ [*314]  PER CURIAM:
+On July 31, 2017, Sherry Lynn Sprague, then an employee of the Northern Virginia Criminal Justice Training Academy ("the Academy"), suffered a traumatic brain injury caused by an off-duty motorcycle accident. She tendered her resignation a year later, on July 25, 2018, her first day back to work. Believing that the Academy acted in bad faith in responding to her injury, Sprague commenced the instant action alleging that the Academy violated the Americans with Disabilities Act (ADA), 42 U.S.C.A. §§ 12101 to 12213 (West 2013 & Supp. 2018), by discriminating against her and refusing to accommodate her disability.* The district court granted summary judgment to the Academy, and we affirm.
+"We review de novo a district court's grant or denial [**2]  of a motion for summary judgment, construing all facts and reasonable inferences therefrom in favor of the nonmoving party." Gen. Ins. Co. of Am. v. U.S. Fire Ins. Co., 886 F.3d 346, 353 (4th Cir. 2018). Summary judgment is appropriate "if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a).
+A plaintiff alleging an ADA failure-to-accommodate claim must demonstrate "(1) that [she] was an individual who had a  [*315]  disability within the meaning of the statute; (2) that the employer had notice of [her] disability; (3) that with reasonable accommodation [she] could perform the essential functions of the position; and (4) that the employer refused to make such accommodations." Wilson v. Dollar Gen. Corp., 717 F.3d 337, 345 (4th Cir. 2013) (ellipsis, some brackets, and internal quotation marks omitted). Generally, when an employer receives notice of an employee's disability, the employer has "a good-faith duty to engage [with the employee] in an interactive process to identify a reasonable accommodation." Jacobs v. N.C. Admin. Office of the Courts, 780 F.3d 562, 581 (4th Cir. 2015) (internal quotation marks omitted).
+Sprague, who received fitness-for-duty certifications several months before she returned to work, contends that the Academy acted in bad faith during the interactive process by questioning her medical clearances. [**3]  However, based on our review of the record, we conclude that the alleged acts of bad faith simply demonstrate the Academy's engagement in the interactive process and desire to ensure that the physicians evaluating her fitness actually knew what her job entailed. Specifically, the Academy initially disallowed Sprague from returning based on legitimate concerns both that the doctor who certified her fitness had reviewed a copy of Sprague's official job description and that the proposed accommodations were adequately responsive to Sprague's responsibilities at work. In addition, we find no support for Sprague's contention that the Academy nefariously embellished her job duties so that her doctor would withdraw her medical clearance. Although Sprague clearly disagreed with the Academy's reluctance to accept her clearances without scrutiny, she failed to produce evidence establishing that the Academy acted in bad faith. Thus, we conclude that the district court properly awarded summary judgment to the Academy on Sprague's failure-to-accommodate claim.
+Sprague also alleged an ADA claim for disability discrimination, which requires a plaintiff to show "(1) that she has a disability, (2) that [**4]  she is a qualified individual for the employment in question, and (3) that her employer discharged her (or took other adverse employment action) because of her disability." Jacobs, 780 F.3d at 572 (brackets and internal quotation marks omitted). On appeal, Sprague, whose separation from the Academy resulted from her own resignation, explicitly disavows any argument premised on constructive discharge. And although she cites several incidents that, according to her, evince the Academy's discriminatory disposition toward her disability, she identifies no evidence demonstrating that the Academy's actions "affect[ed] the terms, conditions, or benefits of [her] employment." Holland v. Washington Homes, Inc., 487 F.3d 208, 219 (4th Cir. 2007) (internal quotation marks omitted). For this reason, we conclude that Sprague's disability discrimination claim necessarily failed.
+Accordingly, we affirm the district court's judgment. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before this court and argument would not aid the decisional process.
+AFFIRMED
+
+
+End of Document
+

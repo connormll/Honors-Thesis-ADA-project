@@ -1,0 +1,39 @@
+Pinero v. 4800 W. Flagler L.L.C.
+United States Court of Appeals for the Eleventh Circuit
+June 17, 2011, Decided; June 17, 2011, Filed
+No. 10-13617 Non-Argument Calendar
+
+Reporter
+430 Fed. Appx. 866 *; 2011 U.S. App. LEXIS 12485 **
+EMILIO PINERO, Plaintiff - Appellant, versus 4800 WEST FLAGLER L.L.C., Defendant - Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Southern District of Florida. D.C. Docket No. 1:09-cv-21349-PAS.
+Pinero v. 4800 West Flagler, L.L.C., 2011 U.S. Dist. LEXIS 9427 (S.D. Fla., Jan. 31, 2011)
+Counsel: For EMILIO PINERO, Plaintiff - Appellant: Lauren Nicole Wassenberg, Lauren Wassenberg & Assoc, MIAMI BEACH, FL.
+For 4800 WEST FLAGLER L.L.C., Defendant - Appellee: Alan Keith Marcus, Coral Gables, FL.
+Judges: Before BARKETT, MARCUS and WILSON, Circuit Judges.
+Opinion
+
+
+ [*867]  PER CURIAM:
+Emilio Pinero, a left-leg amputee, brought an action under Title III of the Americans with Disabilities Act ("ADA"), 42 U.S.C. §§ 12181-12189, against to [*868]  Defendant's premises because of barriers that existed at the facility, which was built before the enactment of the ADA. The district court conducted a bench trial in July 2010. At the close of Pinero's case, Defendant moved for judgment as a matter of law,1 and the court granted that motion. Pinero raises a number of issues on appeal,2 which we address in turn.
+
+I. Motion to Amend
+First, Pinero argues the district court erred in denying his motion to amend his complaint to add an additional defendant. We review the denial of a motion to amend for abuse of discretion. Corsello v. Lincare, Inc., 428 F.3d 1008, 1012 (11th Cir. 2005) (per curiam).
+The district court did not abuse its discretion in denying Pinero's motion to amend. The court's scheduling order imposed a deadline for amending pleadings, chosen by the parties, of September 28, 2009. Pinero sought to add Raimundo Gonzalez, the sole member of the Defendant [*869]  L.L.C.,  [**5] on March 4, 2010—more than five months after the deadline. When a motion to amend is filed after a scheduling-order deadline, Federal Rule of Civil Procedure 16 controls. Sosa v. Airprint Sys., Inc., 133 F.3d 1417, 1418 n.2 (11th Cir. 1998) (per curiam). Under Rule 16, scheduling orders may be modified only for good cause, and only when the schedule "cannot 'be met despite the diligence of the party seeking the extension.'" Id. at 1418 (quoting Fed. R. Civ. P. 16 advisory committee's notes). Pinero makes no attempt on appeal to demonstrate good cause, and our review indicates that the court did not abuse its discretion in finding none existed.
+
+II. Evidentiary Issues
+Next, Pinero raises three evidentiary issues, namely, whether the court erred (1) in determining Pinero's expert, David Goldfarb, was not qualified to testify as to whether the proposed modifications to Defendant's property were "readily achievable"; (2) in excluding the testimony of Robert Oransky; and (3) in precluding Mr. Goldfarb from testifying about the cost estimate Mr. Oransky prepared. We review evidentiary rulings, including the exclusion of expert testimony, for abuse of discretion. Rink v. Cheminova, Inc., 400 F.3d 1286, 1291 (11th Cir. 2005);  [**6] Tran v. Toyota Motor Corp., 420 F.3d 1310, 1315 (11th Cir. 2005).
+The district court did not abuse its discretion in precluding Mr. Goldfarb from testifying as to what proposed changes to Defendant's facility were readily achievable. District courts act as "gatekeepers" under Federal Rule of Evidence 702 and Daubert to admit expert3 estimony only if it is both reliable and relevant; we give district courts "considerable leeway" in executing this duty. Rink, 400 F.3d at 1291. Mr. Goldfarb testified that it was neither his expertise nor his role to make the determinations necessary to establish whether the barrier removal would be readily achievable. Accordingly, the district court did not abuse its discretion in limiting Mr. Goldfarb's testimony at trial.
+Nor did the district court abuse its discretion in excluding Mr. Oransky's testimony or in precluding Mr. Goldfarb from considering his cost estimates. Federal Rule of Civil Procedure 26(a)(1) requires parties to disclose, among other things, individuals likely to have discoverable information that the disclosing party may use to support its claims or defenses,  [**7] as well as supporting documents, items, and information. Rule 26(a)(2) establishes additional disclosure requirements for expert witnesses, including the submission of a written report outlining, among other things, the expert's opinions, the basis and reasons therefor, and the data or other information considered in forming them. If a party fails to meet Rule 26's disclosure requirements, Federal Rule of Civil Procedure 37(c)(1) prohibits that party from "us[ing] that information or witness to supply evidence . . . at a trial, unless the failure was substantially justified or is harmless." Pinero failed to disclose Mr. Oransky—as either a fact witness or an expert—during discovery, and because he has failed to demonstrate that this failure to comply with Rule 26's disclosure requirements was substantially justified or harmless, we cannot say that the district court abused its discretion in either ruling.
+
+ [*870]  III. Judgment on Partial Findings
+Finally, Pinero argues the district court erred in granting Defendant's motion for judgment. A Rule 52(c) motion for judgment on partial findings presents a mixed question of law and fact; we review the district court's factual findings for clear error  [**8] and its conclusions of law de novo. See Veale v. Citibank, F.S.B., 85 F.3d 577, 579 (11th Cir. 1996).
+After hearing arguments on Defendant's motion for judgment following the close of Pinero's case, the district court recounted testimony pertaining to each alleged barrier. It then reiterated Pinero's burden under Garthright-Dietrich: "the plaintiff has the initial burden of production to show (1) that an architectural barrier exists; and (2) that the proposed method of architectural barrier removal is 'readily achievable,' i.e., 'easily accomplishable and able to be carried out without much difficulty or expense' under the particular circumstances of the case." 452 F.3d at 1273 (quoting Colo. Cross Disability Coal. v. Hermanson Family Ltd. P'ship I, 264 F.3d 999, 1007 (10th Cir. 2001)). Noting the evidentiary deficiencies in Pinero's case, the district court concluded that Pinero failed to meet his burden and that judgment for Defendant was appropriate. Based on our review, we do not find fault with either the court's factual findings or its conclusions of law.
+
+IV. Conclusion
+For the foregoing reasons, the judgment of the district court is AFFIRMED.
+
+
+End of Document
+

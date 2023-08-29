@@ -1,0 +1,31 @@
+Feemster v. Beard
+United States Court of Appeals for the Fifth Circuit
+December 17, 2021, Filed
+No. 19-40815 Summary Calendar
+
+Reporter
+2021 U.S. App. LEXIS 37292 *; 2021 WL 6058706
+TODD ALAN FEEMSTER, Plaintiff-Appellant, versus R. BEARD, JR., Stevenson Unit; V. MACIEL, Program Supervisor I, Stevenson Unit; T. SALLES, Correction Officer, Stevenson Unit; V. TIJERINA, Correction Officer, Stevenson Unit; C. TUPA, Medical Officer, Stevenson Unit; TEXAS DEPARTMENT OF CRIMINAL JUSTICE, Defendants-Appellees.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [*1] Appeal from the United States District Court for the Southern District of Texas. USDC No. 6:17-CV-39.
+Feemster v. Chapa, 2019 U.S. Dist. LEXIS 159214, 2019 WL 4451124 (S.D. Tex., Sept. 16, 2019)
+Counsel: Todd Alan Feemster, Plaintiff - Appellant, Pro se, Rosharon, TX.
+For R Beard, Jr., Stevenson Unit, V. Maciel, Program Supervisor I, Stevenson Unit, T. Salles, Correction Officer, Stevenson Unit, V. Tijerina, Correction Officer, Stevenson Unit, Texas Department of Criminal Justice, Defendants - Appellee: Christopher Lee Lindsey, Assistant Attorney General, Office of the Attorney General, for the State of Texas, Austin, TX.
+For C. Tupa, Medical Officer, Stevenson Unit, Defendant - Appellee: Jeanine Marie Coggeshall, Office of the Attorney General, for the State of Texas, Austin, TX.
+Judges: Before HIGGINBOTHAM, HIGGINSON, and DUNCAN, Circuit Judges.
+Opinion
+
+
+Per Curiam:*
+Todd Alan Feemster, Texas prisoner # 1539283, filed this 42 U.S.C. § 1983 action against the Texas Department of Criminal Justice (TDCJ) and numerous TDCJ officers, alleging that (1) they were deliberately indifferent to his serious medical needs and (2) they refused to accommodate his disabilities in violation of the Americans with Disabilities Act (ADA)1 and the Rehabilitation Act (RA).2 The district court granted the defendants' summary judgment motions, and Feemster timely appealed.
+This court reviews the grant of [*2]  summary judgment de novo, applying the same standards as were used by the district court. Austin v. Kroger Tex., L.P., 864 F.3d 326, 328 (5th Cir. 2017). "The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a).
+The district court did not err in declining to consider as competent summary judgment evidence Feemster's amended complaints, which did not include a declaration that they were signed under penalty of perjury. See 28 U.S.C. § 1746; Nissho-Iwai Amer. Corp. v. Kline, 845 F.2d 1300, 1305-06 (5th Cir. 1988). With respect to Feemster's argument that the district court clerk's office omitted some pages from documents he filed, he does not show that any error led to incorrect findings by the district court or affected the district court's decision to grant summary judgment.
+Arguably, Feemster has abandoned any challenge to the district court's grant of summary judgment by failing to set forth the material facts that were genuinely in dispute, supported by "citations to the authorities and parts of the record on which [he] relies." Fed. R. App. P. 28(a)(8); see also Yohey v. Collins, 985 F.2d 222, 224-25 (5th Cir. 1993); Brinkmann v. Dallas Cty. Deputy Sheriff Abner, 813 F.2d 744, 748 (5th Cir. 1987).
+Regardless, the district court did not err in granting summary judgment on Feemster's deliberate indifference claim. "Deliberate indifference 'is an extremely high standard [*3]  to meet.'" Gobert v. Caldwell, 463 F.3d 339, 346 (5th Cir. 2006) (citation omitted). Based on Feemster's medical records, the district court correctly found there was no evidence that defendants "refused to treat him, ignored his complaints, intentionally treated him incorrectly, or engaged in any similar conduct that would clearly evince a wanton disregard for any serious medical needs." Id. Feemster's disagreement with Dr. Tupa's medical judgment is insufficient to support a claim of a constitutional violation. See id.
+The district court also did not err in granting summary judgment on Feemster's ADA/RA claim. Feemster did not present any competent summary judgment evidence showing that his kitchen and janitor job assignments were inconsistent with his medical work restrictions. Further, he failed to point to any evidence that the defendants either denied him benefits or intentionally discriminated against him on account of a disability or knew of his disability and failed to make reasonable accommodations. See Hale v. King, 642 F.3d 492, 499 (5th Cir. 2011); Smith v. Harris Cty., 956 F.3d 311, 317 (5th Cir. 2020).
+Finally, Feemster argues that the district court and the magistrate judge made numerous errors over the course of the proceedings, listing 21 separate rulings that he seeks to challenge. However, Feemster did not brief the [*4]  reasons he deserves the requested relief with legal and record citations, as required by Rule 28 of the Federal Rules of Appellate Procedure. Moreover, he does not address the district court's findings that he failed to exhaust his individual capacity claims against the TDCJ defendants and that his claims for injunctive relief were moot. Thus, he has abandoned these issues by failing to brief them adequately. See Yohey, 985 F.2d at 225; Brinkmann, 813 F.2d at 748.
+For the foregoing reasons, the district court's judgment is AFFIRMED. Additionally, Feemster's motion for appointment of counsel on appeal is DENIED. See Cupit v. Jones, 835 F.2d 82, 86 (5th Cir. 1987); Ulmer v. Chancellor, 691 F.2d 209, 212 (5th Cir. 1982).
+
+
+End of Document
+

@@ -1,0 +1,32 @@
+Williams v. United Airlines, Inc.
+United States Court of Appeals for the Ninth Circuit
+November 18, 2020**, Submitted, San Francisco, California; November 27, 2020, Filed
+No. 19-16440
+
+Reporter
+830 Fed. Appx. 242 *; 2020 U.S. App. LEXIS 37360 **; 2020 WL 7009676
+NANCI WILLIAMS, Plaintiff-Appellant, v. UNITED AIRLINES, INC., Defendant-Appellee.
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] Appeal from the United States District Court for the Northern District of California. DC No. 3:18-cv-00881-JCS. Joseph C. Spero, Magistrate Judge, Presiding.
+Williams v. United Airlines, Inc., 2019 U.S. Dist. LEXIS 106308, 2019 WL 2603317 (N.D. Cal., June 25, 2019)
+Disposition: AFFIRMED.
+Counsel: For NANCI WILLIAMS, Plaintiff - Appellant: Douglas Watts, Esquire, Attorney, Watts Law Offices, Folsom, CA; David M. Poore, Attorney, Brown Poore LLP, Walnut Creek, CA.
+For UNITED AIRLINES, INC., Defendant - Appellee: Judith Droz Keyes, Monder A. Khoury, Davis Wright Tremaine LLP, San Francisco, CA.
+Judges: Before: TASHIMA, NGUYEN, and HURWITZ, Circuit Judges.
+Opinion
+
+
+
+ [*242]  MEMORANDUM*
+Plaintiff-Appellant Nanci Williams ("Williams") appeals the judgment in favor of Defendant-Appellee United Airlines, Inc. ("United") on her claims under the California Fair Employment and Housing Act ("FEHA") and related state laws. oral argument. See Fed. R. App. P. 34(a)(2)(C). We  [*243]  have jurisdiction under 28 U.S.C. § 1291, we review de novo a grant of summary judgment, Feldman v. Allstate Ins. Co., 322 F.3d 660, 665 (9th Cir. 2003), and we affirm.
+1. FEHA makes it unlawful for an employer to discharge an employee "because of" physical disability. Cal. Gov't Code § 12940(a). "To establish a prima facie case of physical disability discrimination under FEHA, the employee must demonstrate that he or she is disabled, is otherwise qualified to do the job, and was subjected to an adverse employment action [**2]  because of such disability." Furtado v. State Pers. Bd., 212 Cal. App. 4th 729, 151 Cal. Rptr. 3d 292, 303 (Ct. App. 2013). "If the employee meets this burden, it is then incumbent on the employer to show that it had a legitimate, nondiscriminatory reason for its employment decision." Id. "When this showing is made, the burden shifts back to the employee to produce substantial evidence that [the] employer's given reason was either 'untrue or pretextual,' or that the employer acted with discriminatory animus, in order to raise an inference of discrimination." Id. (quoting Hersant v. Dep't of Soc. Servs., 57 Cal. App. 4th 997, 67 Cal. Rptr. 2d 483, 488 (Ct. App. 1997)).
+The district court properly concluded that Williams failed to establish a prima facie case. There was evidence from which a reasonable jury could conclude that Williams was discharged because she and her pass riders disrupted and delayed a United flight. There was also evidence from which a reasonable jury could find that Williams was discharged because she was dishonest about her medical limitations. There was no evidence, however, from which a reasonable jury could find that Williams was discharged because of disability. Williams's comparative evidence is insufficient to raise an inference of discrimination because the flight attendants she points to did not "display similar conduct." Gupta v. Trs. of Cal. State Univ., 40 Cal. App. 5th 510, 253 Cal. Rptr. 3d 277, 285 (Ct. App. 2019) (quoting Vasquez v. County of Los Angeles, 349 F.3d 634, 641 (9th Cir. 2003) (as amended)). [**3]  Williams therefore did not establish a prima facie case.
+Even assuming that Williams established a prima facie case, the district court properly concluded that United articulated a legitimate, nondiscriminatory reason for the discharge—the flight disruption and delay caused by Williams and her guests. Williams's argument that the discharge was contrary to California law, and thus that United failed to offer a legitimate reason for the discharge, is not well taken. There is no evidence in the record to suggest that Williams was discharged "because of [her] status as a victim of domestic violence." Cal. Lab. Code § 230(e).
+Finally, even if Williams established a prima facie case, she has not adduced evidence of pretext. As noted, Williams did not offer evidence from which a reasonable jury could find that United discharged her because of disability.
+2. FEHA makes it unlawful for an employer "to fail to engage in a timely, good faith, interactive process with the employee or applicant to determine effective reasonable accommodations," Cal. Gov't Code § 12940(n), and "to fail to make reasonable accommodation for the known physical or mental disability of an applicant or employee," id. § 12940(m)(1). Williams contends that United violated these provisions [**4]  by (1) failing to contact her treating physician to determine whether her vacation travel comported with her medical restrictions, and (2) refusing to accept a letter from her physician during her disciplinary hearing. Williams, however, did not present these arguments in her opposition to United's motion for summary judgment. We therefore decline to consider them. See  [*244]  Smith v. Marsh, 194 F.3d 1045, 1052 (9th Cir. 1999) ("As a general rule, we will not consider arguments that are raised for the first time on appeal.").
+3. As Williams concedes, her claims for wrongful termination in violation of public policy, see City of Moorpark v. Super. Ct., 18 Cal. 4th 1143, 77 Cal. Rptr. 2d 445, 959 P.2d 752, 763 (Cal. 1998), and for failure to prevent discrimination, see Cal. Gov't Code § 12940(k), are derivative of the above claims. The district court therefore properly granted summary judgment to United on these claims.
+AFFIRMED.
+
+
+End of Document
+
