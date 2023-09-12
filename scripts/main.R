@@ -4,11 +4,38 @@
 options(java.parameters = "-Xmx6g")
 
 #basic Mallet setup
+
+#@alpha_iterations : controls the mixture of topics. 
+#alpha < 1 = distribution nearer to the topics, less mixture of topics
+#alpha => 1 = distribution is mixed together, more representative of all topics
+#should generally be alpha = 1/# of topics
+
+#@burn_in : number of first iterations discarded
+
+#@iterations : # of times sampling is ran to train model
+
+#@freq_words : the maximum number of documents a phrase can be in without being 
+#pruned. A freq_words of 10, for instance, would prune a word/phrase if it was 
+#10 or more documents. 
+#@rare_words : opposite of freq_words, min # of documents a word/phrase needs to
+#appear in. 
+#@min_IDF & @max_idf = inverse document frequency. Measure of importance of a 
+#word/phrase. finds log of rare/freq words (don't worry about it too much)
+
 library(mallet)
 
 alpha_iterations <- 20
-burn_in <- 50
+alpha_sum <- 1
+
+burn_in <- 10
 iterations <- 200
+freq_words <- 
+rare_words <-
+topics <- 10
+
+min_IDF <- log(rare_words)
+max_IDF <- log(freq_words)
+
 
 #reads data into R
 
@@ -35,7 +62,7 @@ cases.instances <-
 
 #topic trainer
 
-topic.model <- MalletLDA(num.topics = 10, alpha.sum = 1, beta = 0.1)
+topic.model <- MalletLDA(num.topics = topics, alpha.sum = alpha_sum, beta = 0.1)
 topic.model$loadDocuments(cases.instances)
 
 vocabulary <- topic.model$getVocabulary()
@@ -47,6 +74,7 @@ head(word_freq)
 topic.model$setAlphaOptimization(alpha_iterations,burn_in)
 
 #basic analysis - adds smoothing so no probability = 0
+#smoothing amount = alpha_sum
 #NOTE - Java indexes from 0, so the 1st model is topic 0, 2nd is topic 1, etc.
 
 doc.topics <- mallet.doc.topics(topic.model, smoothed = TRUE, normalized = TRUE)
