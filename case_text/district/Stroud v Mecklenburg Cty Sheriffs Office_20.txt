@@ -1,0 +1,58 @@
+Stroud v. Mecklenburg Cty. Sheriff's Office
+United States District Court for the Western District of North Carolina, Charlotte Division
+February 15, 2018, Decided; February 15, 2018, Filed
+3:17-cv-204-GCM
+
+Reporter
+2018 U.S. Dist. LEXIS 24662 *; 2018 WL 912283
+KIMBERLY STROUD, Plaintiff, v. MECKLENBURG COUNTY SHERIFF'S OFFICE, and NICOLE HAILEY, Sergeant, Defendants.
+Subsequent History: Modified by, Affirmed by Stroud v. Mecklenburg Cty. Sheriff's Office, 2018 U.S. App. LEXIS 17189 (4th Cir. N.C., June 25, 2018)
+Counsel:  [*1] Kimberly Stroud, Plaintiff, Pro se, Charlotte, NC.
+For Mecklenburg County Sheriff's Office, Nicole Hailey, Sergeant, Defendants: Sean F. Perrin, LEAD ATTORNEY, Womble, Carlyle, Sandridge & Rice, Charlotte, NC.
+Judges: Graham C. Mullen, United States District Judge.
+Opinion by: Graham C. Mullen
+Opinion
+
+
+
+ORDER
+THIS MATTER is before the Court on the Motion to Dismiss (Doc. No. 7) filed jointly by Defendant Mecklenburg County Sheriff's Office and Defendant Sergeant Nicole Hailey. Plaintiff Kimberly Stroud, acting pro se, has responded. The matter is now ripe for decision. For the reasons set forth below, Defendants' Motion is granted.
+
+I. BACKGROUND
+Plaintiff Kimberly Stroud ("Stroud") was employed as a Detention Officer by Defendant Mecklenburg County Sheriff's Office (the "Sheriff's Office") beginning in March 2009. Stroud alleges that she was injured in 2014 and began reporting to a new supervisor, Defendant Sergeant Nicole Hailey ("Hailey"), in February 2015. In July 2016 Stroud required medical leave as a result of a negative reaction to a cortisone shot. After returning to work on August 19, Stroud found out that she was "under investigation" for failing to report for duty on July 22, 2016. Stroud provided the relevant [*2]  medical records to Hailey and Captain O'Malley, and then asked HR Manager Olivia Watts if she could be transferred to work with a different supervisor. Stroud informed Olivia Watts that she had been harassed by Hailey beginning in February 2015. When told that a transfer would be difficult, Stroud resigned that day.
+Stroud filed a Charge of Discrimination with the EEOC on April 30, 2016, alleging that she was harassed, retaliated against, constructively discharged, and denied a reasonable accommodation of her disability in violation of the Americans with Disabilities Act ("ADA"). The EEOC issued a Dismissal and Notice of Rights to Stroud on January 25, 2017.
+Stroud subsequently brought this action against the Sheriff's Office and Hailey, alleging that she was harassed, denied a necessary accommodation, and retaliated against in violation of her rights under the ADA.
+The Defendants collectively filed this Motion to Dismiss pursuant to Rules 12(b)(1) and 12(b)(6) of the Federal Rules of Civil Procedure.
+
+II. STANDARD OF REVIEW
+The Defendants raise two separate grounds for dismissal in their Motion: lack of subject matter jurisdiction under Rule 12(b)(1) and failure to state a claim under Rule 12(b)(6).
+When a defendant asserts a facial challenge to the sufficiency of a complaint [*3]  for lack of subject matter jurisdiction in a motion to dismiss under Rule 12(b)(1) of the Federal Rules of Civil Procedure "the trial court must apply a standard patterned on Rule 12(b)(6) and assume the truthfulness of the facts alleged." Kerns v. United States, 585 F.3d 187, 193 (4th Cir. 2009).
+When faced with a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure, the Court must "accept as true all well-pleaded allegations and . . . view the complaint in a light most favorable to the plaintiff." Mylan Labs, Inc. v. Matkari, 7 F.3d 1130, 1134 (4th Cir. 1993). The Court "assume[s] the[] veracity" of these factual allegations, and "determine[s] whether they plausibly give rise to an entitlement to relief." Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). However, the court "need not accept as true unwarranted inferences, unreasonable conclusions, or arguments." E. Shore Mkts., Inc. v. J.D. Assocs. LLP, 213 F.3d 175, 180 (4th Cir. 2000). Thus, to survive a motion to dismiss, the plaintiff must include within his complaint "sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Iqbal, 556 U.S. at 678 (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)).
+The Fourth Circuit requires district courts to construe pro se complaints liberally to ensure that valid claims do not fail merely for lack of legal specificity. Gordon v. Leeke, 574 F.2d 1147, 1151 (4th Cir.1978). Ensuring that form does not trump substance also requires courts to "look beyond the face of the complaint to allegations made in any additional materials filed by the plaintiff" to determine whether a pro se plaintiff [*4]  can survive a motion to dismiss. Garrett v. Elko, 1997 U.S. App. LEXIS 21271, 1997 WL 457667, at *1 (4th Cir.1997) (per curiam) (referencing Gordon, 574 F.2d at 1149-1151). However, this liberal construction need not extend to outright advocacy for the pro se plaintiff. Gordon, 574 F.2d at 1151. Pro se plaintiffs, with the assistance of the district court's lenient eye, must still do more than a "formulaic recitation of the elements of a cause of action." Twombly, 550 U.S. at 555 (internal citations omitted).
+
+III. DISCUSSION
+
+A. Defendant Mecklenburg County Sheriff's Office
+The Sheriff's Office argues that it is entitled to dismissal because it is not a suable entity. "The capacity of a governmental body to be sued in the federal courts is governed by the law of the state in which the district court is held." Avery v. Burke Cty., 660 F.2d 111, 113-14 (4th Cir. 1981) (citing Fed. R. Civ. P. 17(b)). Under North Carolina law, "[u]nless a statute provides to the contrary, only persons in being may be sued." Coleman v. Cooper, 89 N.C. App. 188, 366 S.E.2d 2, 5 (N.C. Ct. App. 1988). And while North Carolina acknowledges that a county is a legal entity which may be sued, N.C. Gen. Stat. § 153A-11, "there is no corresponding statute authorizing suit against a North Carolina county's sheriff department," Parker v. Bladen Cty., 583 F. Supp. 2d 736, 740 (E.D.N.C. 2008).
+Thus, the Mecklenburg County Sheriff's Office is not an entity with the capacity to be sued. See Landry v. North Carolina, No. 3:10-cv-585-RJC-DCK, 2011 U.S. Dist. LEXIS 94322, 2011 WL 3682788, at *2 (W.D.N.C. Aug. 23, 2011). As a result, all claims against the Sheriff's Office must be dismissed.
+
+B. Defendant [*5]  Sergeant Nicole Hailey
+Hailey argues that the Court lack subject matter jurisdiction over the suit against her for two reasons: (1) because the ADA does not provide a cause of action against defendants in their individual capacities who are not employers, and (2) because Hailey is not named in Stroud's EEOC charge.
+First, Hailey is correct that the ADA does not provide causes of action for individual defendants in their personal capacities. Baird ex rel. Baird v. Rose, 192 F.3d 462, 472 (4th Cir. 1999). And second, even construing the complaint liberally to allege a claim against Hailey in her official capacity, the Court finds that it would not have subject matter jurisdiction because Hailey is not named as a respondent in Stroud's EEOC charge of discrimination. To make a claim of discrimination in an employment matter under the ADA, the employee must first file a charge with the EEOC, regardless of whether the employer is private or public. 42 U.S.C. § 2000e-5 (e)(1) (prescribing charge filing procedure for Title VII claims); 42 U.S.C. §§ 12117 (incorporating Title VII procedural requirements to ADA claims); see also 28 C.F.R. § 35.140(b)(1) (applying requirements to public entities in ADA employment claims).
+Although Stroud names Hailey in the "particulars" section of the EEOC charge, the only named respondent [*6]  is "Mecklenburg County Sheriff." Thus, the reference to Hailey is insufficient to put her on notice of a complaint, as required by the ADA. Tuttle v. Anuvia Prevention & Recovery, No. 3:13-cv-134-GCM, 2013 U.S. Dist. LEXIS 105931, 2013 WL 3899666, at *3 (W.D.N.C. July 29, 2013). Thus, Stroud's claim against Hailey must also be dismissed.
+
+IV. CONCLUSION
+For the foregoing reasons, the Court orders that Defendants' Motion to Dismiss is GRANTED. Plaintiff's claims against all Defendants are hereby dismissed with prejudice.
+SO ORDERED. 
+Signed: February 15, 2018
+/s/ Graham C. Mullen
+Graham C. Mullen
+United States District Judge
+JUDGMENT IN CASE
+DECISION BY COURT. This action having come before the Court and a decision having been rendered;
+IT IS ORDERED AND ADJUDGED that Judgment is hereby entered in accordance with the Court's February 15, 2018 Order.
+February 15, 2018
+
+
+End of Document
+

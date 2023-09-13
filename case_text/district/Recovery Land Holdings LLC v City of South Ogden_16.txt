@@ -1,0 +1,39 @@
+Recovery Land Holdings, LLC v. City of South Ogden
+United States District Court for the District of Utah
+December 16, 2019, Decided; December 16, 2019, Filed
+Case No. 1:17-CV-152 TS
+
+Reporter
+2019 U.S. Dist. LEXIS 216603 *; 2019 WL 6840702
+RECOVERY LAND HOLDINGS, LLC, a Utah limited liability company, Plaintiff, v. CITY OF SOUTH OGDEN, and DOE DEFENDANTS I through X, Defendants.
+Prior History: Recovery Land Holdings, LLC v. City of S. Ogden, 2019 U.S. Dist. LEXIS 58499 (D. Utah, Apr. 4, 2019)
+Counsel:  [*1] For Recovery Land Holding, a Utah limited liability company, Plaintiff: Cameron J. Cutler, Timothy J. Dance, LEAD ATTORNEYS, SNELL & WILMER LLP, SALT LAKE CITY, UT.
+For City of South Ogden, Defendant: Daniel J. McDonald, LEAD ATTORNEY, MCDONALD FIELDING PLLC, ALPINE, UT.
+Judges: Ted Stewart, United States District Judge.
+Opinion by: Ted Stewart
+Opinion
+
+
+MEMORANDUM DECISION AND ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT - DISPARATE IMPACT CLAIMS
+This matter is before the Court on Defendant's Motion for Summary Judgment on Plaintiff's disparate impact claims. For the reasons discussed below, the Court will grant the Motion.
+I. BACKGROUND
+Plaintiff Recovery Land Holdings, LLC ("Brighton") operates a residential facility for people recovering from alcoholism and substance abuse located in South Ogden, Utah. Plaintiff requested an application for a reasonable accommodation from Defendant City of South Ogden (the "City") to allow it to provide treatment for up to 32 people. That request was denied by the City's Accommodation Review Committee, and that denial was later upheld by a Hearing Officer.
+Brighton brought this action on September 29, 2017. Brighton asserted claims under the Fair Housing Act ("FHA"), the Americans with Disabilities Act ("ADA"), [*2]  and the Rehabilitation Act ("RA"). Brighton advanced three theories of liability under these provisions: (1) disparate treatment discrimination; (2) disparate impact discrimination; and (3) failure to grant a reasonable accommodation.
+The Court previously granted summary judgment on Plaintiff's reasonable accommodation claim. Defendant now seeks summary judgment on Plaintiff's disparate impact claim.
+II. SUMMARY JUDGMENT STANDARD
+Summary judgment is appropriate "if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law."1 In considering whether a genuine dispute of material fact exists, the Court determines whether a reasonable jury could return a verdict for the nonmoving party in the face of all the evidence presented.2 The Court is required to construe all facts and reasonable inferences in the light most favorable to the nonmoving party.3
+III. DISCUSSION
+A disparate-impact claim "challenges a facially neutral policy that actually or predictably results in . . . discrimination."4 "This 'is generally shown by statistical evidence . . . involv[ing] the appropriate comparables' [*3]  necessary to create a reasonable inference that any disparate effect identified was caused by the challenged policy and not other causal factors."5 Without evidence of a disparity, Brighton cannot make out a disparate impact claim.6
+Here, Plaintiff has failed to produce evidence sufficient to make out a disparate impact claim. Plaintiff has failed to provide any of the necessary statistical evidence and has failed to identify an expert to provide such evidence. The time for doing so has expired and, as explained in the Court's Memorandum Decision and Order Denying Plaintiff's Renewed Rule 56(d) Motion and Motion to Amend Scheduling Order, the Court declines to extend that deadline. Without such evidence, Plaintiff's claim necessarily fails.
+IV. CONCLUSION
+It is therefore
+ORDERED that Defendant's Motion for Summary Judgment (Docket No. 46) is GRANTED.
+DATED this 16th day of December, 2019.
+BY THE COURT:
+/s/ Ted Stewart
+Ted Stewart
+United States District Judge
+
+
+End of Document
+

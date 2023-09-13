@@ -1,0 +1,36 @@
+Kylce v. Cent. Marin Police Auth.
+United States District Court for the Northern District of California
+October 25, 2021, Decided; October 25, 2021, Filed
+CASE NO. 4-21-cv-2889-YGR
+
+Reporter
+2021 U.S. Dist. LEXIS 205384 *
+KEVIN KYLCE, Plaintiff, vs. CENTRAL MARIN POLICE AUTHORITY, ET AL., Defendants.
+Counsel:  [*1] For Kevin Klyce, an individual, Plaintiff: Adante Pointer, LEAD ATTORNEY, Patrick Matthew Buelna, Pointer & Buelna, LLP, Oakland, CA.
+For Central Marin Police Authority, a municipal corporation, Defendant: Thomas F. Bertrand, LEAD ATTORNEY, Bertrand, Fox, Elliot, Osman & Wenzel, San Francisco, CA.
+Judges: YVONNE GONZALEZ ROGERS, UNITED STATES DISTRICT JUDGE.
+Opinion by: YVONNE GONZALEZ ROGERS
+Opinion
+
+
+
+Order Granting in Part and Denying in Part Motion to Dismiss
+Re: Dkt. No. 26
+Before the Court is defendant Central Marin Police Authority's ("CMPA") motion to dismiss the third cause of action in plaintiff's first amended complaint. (Dkt. No. 26) ("Compl."). Plaintiff brings three causes of action against CMPA based on excessive force used during the course of a mistaken arrest. These three causes of action include: (1) Fourth Amendment-Excessive Force under 42 U.S.C. § 1983; (2) Fourth Amendment -Unlawful Seizure under 42 U.S.C. § 1983; and (3) violation of Title II of the Americans with Disabilities Act ("ADA") under 42 U.S.C. § 12132.
+Having reviewed the motion to dismiss, the parties' briefing, and argument during the July 28, 2021 case management conference, the Court Grants in Part and Denies in Part the motion to dismiss.
+The standard for a motion to dismiss brought under Federal Rule of Civil Procedure 12(b)(6) is well known and not [*2]  in dispute.
+With respect to the ADA claims brought arising out of the arrest, the Ninth Circuit has recognized "at least two types of Title II claims applicable to arrests": (1) wrongful arrest, where police wrongly arrest someone with a disability because they misperceive the effects of that disability as criminal activity; and (2) reasonable accommodation, where, although the police properly investigate and arrest a person with a disability for a crime unrelated to that disability, they fail to reasonably accommodate the person's disability in the course of investigation or arrest, causing the person to suffer greater injury or indignity in that process than other arrestees. Sheehan v. City & Cnty. of S.F., 743 F.3d 1211, 1232 (9th Cir. 2014) ("Sheehan I") (citations omitted), rev'd in part on other grounds, Sheehan II, 575 U.S. at 617. Plaintiff pursues both theories.
+The Ninth Circuit has not directly ruled on these issues, but case authority exists noting that to prevail on a wrongful arrest theory under the ADA, a disabled individual must show that "1) he was disabled; 2) the officers knew or should have known he was disabled; and 3) the officers arrested him because of legal conduct related to his disability." Lawman v. City & Cnty. of S.F., 159 F. Supp. 3d 1130, 1147 (N.D. Cal. 2016). To prevail on a reasonable accommodation theory, a disabled individual [*3]  must show that the public entity in question "[had] knowledge that the individual was disabled, either because that disability is obvious or because the individual (or someone else) has informed the entity of the disability," Id. at 1149 (quoting Robertson v. Las Animas Cnty. Sheriff's Dep't, 500 F.3d 1185, 1196 (10th Cir. 2007)), but failed to accommodate the person's disability during the course of the arrest. Sheehan, 743 F.3d at 1232.
+CMPA argues that dismissal under both theories is warranted because plaintiff did not sufficiently allege facts to state an ADA claim against CMPA. The Court GRANTS CMPA's motion to dismiss plaintiff's Title II claim under the wrongful arrest theory but DENIES the motion with respect to the reasonable accommodation theory. Plaintiff's complaint includes the allegations: (a) that plaintiff suffers from Cerebral Palsy, a neurological disorder causing difficulties in body movement, muscle coordination, and balance (Compl., ¶¶ 2, 15); (b) that plaintiff walks with a pronounced limp, such that the officer defendants should have known that plaintiff was disabled (id., ¶ 15); (c) the officers witnessed plaintiff walking back to his car with his pronounced limp (id.); (d) plaintiff told the officers that he was disabled (id., ¶ 16); (e) that plaintiff had difficulties complying [*4]  with the officers' orders because of his physical limitations (id.) and further (f) before the leg sweep, plaintiff was already having difficulties standing and was unstable (id., ¶ 3). It also alleges that CMPA (g) manages and operates the defendant officers involved in the incident (id., ¶ 7); (h) failed to train, supervise, and/or discipline defendants in recognizing symptoms of Cerebral Palsy or other similar neurological disorders and disabilities affecting one's movement and/or muscle control under Title II (id., ¶ 31); and that (i) such failure to train resulted in excessive force being used against plaintiff (id.). Additionally, (j) at the time of the incident, the officer defendant knew defendant had an apparent physical disability (id., ¶ 32); (k) the officers escalated and used force against plaintiff rather than making reasonable accommodations for plaintiff (id.); (l) that plaintiff's disability severely limited his ability to comply with the officers commands as quickly as defendants wished (id.); and (m) that defendants, in their use of force, discriminated against plaintiff because of his recognized disability.
+The Court finds these allegations sufficient to state a [*5]  claim for a reasonable accommodation theory. Plaintiff has sufficiently alleged that the officers, who are trained and supervised by CMPA, failed to make reasonable accommodations for plaintiff's condition after they were put on notice that plaintiff suffered from a disability. The Court finds such allegations sufficient to survive a motion to dismiss. Thus, the Court DENIES CMPA's motion to dismiss plaintiff's Title II claim under the reasonable accommodation theory. However, the Court finds that the complaint does not allege sufficient facts to show that plaintiff was arrested because of legal conduct connected with his disability. Without more, the Court GRANTS the motion to dismiss With Leave to Amend.
+Plaintiff shall file an amended complaint within fourteen (14) days from the date of this Order. CMPA shall file a response to plaintiff's amended complaint within twenty-one (21) days from the date of plaintiff's amended complaint.
+This Order terminates Docket Number 26.
+It Is So Ordered.
+Dated: October 25, 2021
+/s/ Yvonne Gonzalez Rogers
+YVONNE GONZALEZ ROGERS
+UNITED STATES DISTRICT COURT JUDGE
+
+
+End of Document
+

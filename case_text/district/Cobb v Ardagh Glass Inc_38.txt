@@ -1,0 +1,39 @@
+Cobb v. Ardagh Glass, Inc.
+United States District Court for the District of New Jersey
+January 26, 2018, Decided; January 26, 2018, Filed
+Civil No. 17-4399 (RMB/KMW)
+
+Reporter
+2018 U.S. Dist. LEXIS 15252 *
+JOSEPH B. COBB, III, Plaintiff, v. ARDAGH GLASS, INC., et al., Defendants.
+Counsel:  [*1] For JOSEPH B COBB, III, Plaintiff: DANIEL M. KURKOWSKI, LEAD ATTORNEY, KURKOWSKI LAW, LLC, CAPE MAY, NJ.
+For ARDAGH GLASS, INC, doing business as ARDAGH GROUP, JOHN MCLARTY, JAMES STRAHAN, Defendants: PAUL DAVID ERIAN, DLA PIPER LLP (US), SHORT HILLS, NJ.
+Judges: RENÉE MARIE BUMB, UNITED STATES DISTRICT JUDGE.
+Opinion by: RENÉE MARIE BUMB
+Opinion
+
+
+This matter comes before the Court on two motions. Plaintiff Joseph B. Cobb, III's Motion to Remand [Docket No. 23]; and Defendants Ardagh Glass, Inc. et al., John McCarty and James Strahan's Motion to Dismiss [Docket No. 15]. For the reasons below, the Court grants the Motion to Remand and dismisses the Motion to Dismiss as moot.
+Because the Court writes for the benefit of the parties only, it briefly summarizes the allegations of the Complaint. On March 12, 2017, Plaintiff was injured in a workplace accident, and he required off-site medical attention. While there, Plaintiff was administered a drug screen pursuant to Defendant's substance abuse policy. The next day, Plaintiff informed Defendant McLarty, a manager who worked in Defendant Ardagh's safety and human resources department that he expected to test positive for marijuana as he had been previously prescribed medical [*2]  marijuana by his doctor. (Plaintiff suffers from Marfan Syndrome.) Allegedly, Defendant McLarty advised Plaintiff that under Defendant's policy, a positive test result would result in Plaintiff's termination. According to Defendant, McLarty also advised Plaintiff that he would likely be given the opportunity to remain employed if he agreed to participate in the rehabilitation protocol outlined in Defendant's policy. Plaintiff and Defendant McLarty then met with Defendant Strahan who confirmed to Plaintiff what Defendant McLarty had conveyed to Plaintiff.
+Defendants removed the Complaint to this Court on June 16, 2017, pursuant to 28 U.S.C. §§ 1441(a) and 1446(a) based on complete diversity of citizenship under 28 U.S.C. § 1332(a)(1). In support of their removal, Defendants averred that Defendants McLarty and Strahan, both citizens of New Jersey, were fraudulently joined in an effort to defeat diversity jurisdiction. [Docket No. 1, at 2-3].
+In his Motion to Remand, Plaintiff contends, relevant to this Court's ruling, that Defendants McLarty and Strahan are properly joined because neither Defendant considered reasonable accommodations or engaged in an interactive process, in violation of New Jersey's Law Against Discrimination ("LAD"). [*3]  See, e.g., Compl. ¶ 8 ("Defendants did not consider reasonable accommodations nor was anything that could be perceived to be an interactive process performed in relation to Plaintiff"); Amended Compl. ¶ 43 (Defendants Strahan and McLarty "failed to entertain any interactive process with Plaintiff to determine whether or not Plaintiff's disability could be accommodated.")
+Defendants oppose Plaintiff's Motion to Remand, contending that there is no "reasonable basis in fact or colorable ground" to allege a LAD violation against either of the individual Defendants. See, e.g., In re Briscoe, 448 F.3d 201, 216 (3d Cir. 2006)("joinder is fraudulent if 'there is no reasonable basis in fact or colorable ground supporting the claim against the joined defendant, or no real intention in good faith to prosecute the action against the defendant or seek a joint judgment"). Defendants argue that Ardagh had a "zero-tolerance Substance Abuse Policy," the individual Defendants were simply following the policy, and they were not required to accommodate an employee's marijuana usage. Defendants rely on clear statutory language under the New Jersey Compassionate Use Medical Act that provides that an employer is not required "to accommodate the medical [*4]  use of marijuana in any workplace." N.J. Stat. Ann. § 2A:61-14. Thus, they argue, Defendants cannot be exposed to liability as a matter of law under the LAD.
+The problem with Defendants' opposition at this pleading stage is that they read the allegations of Plaintiff's LAD claims too narrowly. In evaluating the fraudulent joinder issue, the Court "must focus on the Plaintiff's Complaint at the time the petition for removal was filed." Batoff v. State Farm Insurance Co., 977 F.2d 848, 851-52 (3d Cir. 1992). While a court may "look to more than just the pleading allegations to identify indicia of fraudulent joinder . . . [it] must" accept all well-pleaded allegations as true, and may not "step 'from the threshold jurisdictional issue into a decision on the merits.'" In re Briscoe, 448 F.3d at 219 (citing Boyer v. Snap on Tools Corp., 913 F.2d 108, 112 (3d Cir. 1990)). Plaintiff not only alleges that Defendants failed to accommodate his medical marijuana usage, but alleges that Defendants "Mr. Strahan and Mr. McLarty failed to entertain any interactive process with Plaintiff to determine whether or not Plaintiff's disability could be accommodated." [Docket No. 1, at ¶ 43]. Plaintiff further alleges: "Instead of conducting an interactive process with Plaintiff as required by the NJLAD and its associated administrative regulations of the New Jersey Department of Labor, Defendants [*5]  told Plaintiff his options under Defendants' policies were to be terminated or enter rehab for drug addiction." [Id. at ¶ 44].
+Defendants have submitted the Declaration of Strahan (in connection with their removal petition) wherein he avers that "Mr. Cobb stated that he would not participate in the rehabilitation and that he intended to continue using marijuana.") [Docket No. 1-7, at 2]. Whether that is true or not is a merits-based question this Court cannot resolve. Briscoe, supra. In addition, even assuming the Complaint alleges only the narrower cause of action as construed by Defendants, i.e., that Defendants have no liability for failing to accommodate Plaintiff's marijuana usage, that is also a decision on the merits. Any uncertainties as to the current state of controlling substantive law must be resolved in favor of the plaintiff. Batoff, 977 F.2d at 852. This Court's "inquiry into the validity of a complaint under Rule 12(b)(6) is more searching than that permissible when a party makes a claim of fraudulent joinder." Id. At 852 (emphasis added). Thus, the Court readily recognizes that the claim against Defendants Strahan and McLarty, if properly construed narrowly by Defendants, may ultimately be dismissed by the state court [*6]  (either on a motion to dismiss or on summary judgment)1 but this Court's role is much more limited, focusing solely on the allegations. Consequently, because this Court cannot find that there is no reasonable basis in fact or colorable claims against Defendants Strahan and McLarty, diversity of citizenship is lacking and remand is appropriate.
+An accompanying Order shall issue.
+/s/ Renée Marie Bumb
+RENÉE MARIE BUMB
+UNITED STATES DISTRICT JUDGE
+Dated: January 26, 2018
+
+ORDER
+This matter comes before the Court on two motions. Plaintiff Joseph B. Cobb, III's Motion to Remand [Docket No. 23]; and Defendants Ardagh Glass, Inc. et al., John McCarty and James Strahan's Motion to Dismiss [Docket No. 15]. For the reasons set forth in the Opinion, and good cause having been shown,
+IT IS ON THIS 26th day of January, ORDERED that the Motion to Remand is GRANTED, the Motion to Dismiss is DISMISSED AS MOOT; and
+IT IS FURTHER ORDERED that this case is remanded to the Superior Court for Cumberland County, Civil Law Division, for lack of subject matter jurisdiction.
+/s/ Renée Marie Bumb
+RENÉE MARIE BUMB
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

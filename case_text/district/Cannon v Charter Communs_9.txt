@@ -1,0 +1,54 @@
+Cannon v. Charter Communs.
+United States District Court for the District of Columbia
+November 15, 2018, Decided; November 15, 2018, Filed
+Civil Action No. 18-624 (JEB)
+
+Reporter
+2018 U.S. Dist. LEXIS 194687 *; 2018 WL 5996526
+NATHANIEL CANNON, Plaintiff, v. CHARTER COMMUNICATIONS, Defendant.
+Counsel:  [*1] NATHANIEL CANNON, Plaintiff, Pro se, White Plains, MD.
+For CHARTER COMMUNICATIONS, Defendant: Jocelyn R. Cuttino, LEAD ATTORNEY, MORGAN, LEWIS & BOCKIUS LLP, Washington, DC.
+Judges: JAMES E. BOASBERG, United States District Judge.
+Opinion by: JAMES E. BOASBERG
+Opinion
+
+
+
+MEMORANDUM OPINION
+Pro se Plaintiff Nathaniel Cannon brings this suit alleging that his former employer in North Carolina, Defendant Charter Communications, violated the Americans with Disabilities Act when it denied him the reasonable accommodation of working from home. In now moving to dismiss, Charter argues both that this Court has no personal jurisdiction over it and that the Amended Complaint does not sufficiently allege an ADA claim. Without needing to address the latter point, the Court will dismiss the case without prejudice as it has no basis to hale Charter into a District of Columbia court.
+
+I. Background
+As this Opinion concerns only jurisdiction, the Court will not linger on the particulars of Cannon's ADA claim. It sets forth the facts as alleged in both the Amended Complaint and the Opposition to Defendant's Motion to Dismiss. See ECF Nos. 10 (Amended Complaint), 16 (Opposition); Brown v. Whole Foods Market Group, Inc., 789 F.3d 146, 151-52, 416 U.S. App. D.C. 1 (D.C. Cir. 2015) (court should consider facts alleged in pro se plaintiff's [*2]  opposition to motion to dismiss).
+"Plaintiff worked at Charter Communications and [its predecessor] Time Warner Cable in Charlotte, North Carolina[,] from January 6, 2012[,] to October 16, 2017[,] beginning in the position of Retention Representative and ending [in the] position [of] Order Management Scheduling Representative." Opp. at 3-4. (As Plaintiff misnumbers the pages in his Opposition, the Court will rely on the ECF pagination.) While there, he "developed additional chronic medical conditions," including "hypertension, obstructive sleep apnea[,] . . . [v]ertigo and Sinus Node Dysfunction with heart arrhythmia." Id. at 4. After a surgery, he returned to work in September 2014 and requested the accommodation of working from home. See Am. Compl., ¶¶ 4, 6. He successfully did so for over two years, but following Time Warner's sale to Charter, his new employer terminated the work-from-home program, requiring Cannon to return to the office in 2017. Id., ¶¶ 13-15. Feeling unable to perform the work in that environment, he "was forced to resign employment." Id., ¶ 63. This suit followed, and Charter now moves for dismissal.
+
+II. Legal Standard
+Under Federal Rule of Civil Procedure 12(b)(2), a defendant may move to dismiss a suit if the court lacks [*3]  personal jurisdiction over it. The plaintiff bears the burden of establishing personal jurisdiction, FC Inv. Grp. LC v. IFX Mkts., Ltd., 529 F.3d 1087, 1091, 381 U.S. App. D.C. 383 (D.C. Cir. 2008), and its requirements "must be met as to each defendant." Rush v. Savchuk, 444 U.S. 320, 332, 100 S. Ct. 571, 62 L. Ed. 2d 516 (1980). In deciding whether the plaintiff has shown a factual basis for personal jurisdiction, courts resolve factual discrepancies in his favor. See Crane v. N.Y. Zoological Soc'y, 894 F.2d 454, 456, 282 U.S. App. D.C. 295 (D.C. Cir. 1990). When personal jurisdiction is challenged, "the district judge has considerable procedural leeway in choosing a methodology for deciding the motion." 5B Charles A. Wright & Arthur R. Miller, Federal Practice & Procedure § 1351 (3d ed. 2004). The court may rest on the allegations in the pleadings, collect affidavits and other evidence, or even hold a hearing. Id.
+
+III. Analysis
+There are two types of personal jurisdiction that a plaintiff may invoke: general and specific. Each must meet the requirements of the Constitution's Due Process Clause. See United States v. Ferrara, 54 F.3d 825, 828, 311 U.S. App. D.C. 421 (D.C. Cir. 1995). Cannon here appears to rely exclusively on the former.
+The Due Process Clause permits general jurisdiction when a non-resident defendant maintains sufficiently systematic and continuous contacts with the forum state, regardless of whether those contacts gave rise to the claim in the particular suit. See Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408, 414-15, 104 S. Ct. 1868, 80 L. Ed. 2d 404 (1984). General jurisdiction is appropriate based on "only a limited set of affiliations [*4]  with a forum," all of which are tantamount to Defendant's domicile. See Daimler AG v. Bauman, 571 U.S. 117, 137, 134 S. Ct. 746, 187 L. Ed. 2d 624 (2014). For corporations, general jurisdiction may be asserted if the forum is one in which the corporation is "'fairly regarded as at home,'" which has been defined as generally being either its "place of incorporation" or its "principal place of business." Id. (quoting Goodyear Dunlop Tires Operations, S.A. v. Brown, 564 U.S. 915, 924, 131 S. Ct. 2846, 180 L. Ed. 2d 796 (2011)).
+On this score, Cannon alleges that "Charter has a Government Affairs office in the District of Columbia conducting business on behalf of Charter Communications by Charter employees." Opp. at 2. That is insufficient, as it cannot be said that Defendant is "fairly regarded as at home" in the District. See Daimler, 571 U.S. at 137-39 ("[T]he inquiry under Goodyear is not whether a foreign corporation's in-forum contacts can be said to be in some sense continuous and systematic, it is whether that corporation's affiliations with the State are so continuous and systematic as to render [it] essentially at home in the forum State.") (internal quotations and citations omitted). In fact, Charter avers that it "is a Delaware limited liability company . . . and has its principal executive offices . . . [in] Stamford, Connecticut." ECF 13-2 (Declaration of Bradley P. Nelson), ¶ 6.
+In any event, even [*5]  if Plaintiff could demonstrate that Defendant had sufficient contacts with the District, he still would not satisfy the service requirements of D.C. law. A foreign defendant must be served "in the District" for the exercise of general jurisdiction. See D.C. Code § 13-334(a). "Where the basis for obtaining jurisdiction over a foreign corporation is § 13-334(a), . . . a plaintiff who serves the corporation by mail outside the District is 'foreclosed from benefitting from [the statute's] jurisdictional protection.'" Gorman v. Ameritrade Holding Corp., 293 F.3d 506, 514, 352 U.S. App. D.C. 229 (D.C. Cir. 2002) (quoting Everett v. Nissan Motor Corp., 628 A.2d 106, 108 (D.C. 1993)); see also Gowens v. Dyncorp, 132 F. Supp. 2d 38, 42 (D.D.C. 2001) (service at defendant's Virginia headquarters). Here, it appears that Plaintiff did not serve Defendant in the District. See ECF No. 5 (Service Affidavit). The Court, consequently, may not exercise general jurisdiction over it via § 13-334(a).
+Plaintiff does not argue that, in the alternative, specific jurisdiction could apply, and he is right to so abstain. Specific jurisdiction permits a court to adjudicate those "issues deriving from, or connected with, the very controversy that establishes jurisdiction." Goodyear, 564 U.S. at 919 (citation omitted). In other words, specific jurisdiction exists where a claim arises out of the non-resident defendant's contacts with the forum state. There is no allegation here that Charter's [*6]  failure to accommodate arose or had any connection with employees in its D.C. office.
+As there is no basis for personal jurisdiction over Defendant, the Court will dismiss the case and permit Plaintiff to refile in a permissible court - e.g., one in North Carolina.
+
+IV. Conclusion
+The Court will, accordingly, grant Defendant's Motion. A separate Order consistent with this Opinion will issue this day.
+/s/ James E. Boasberg
+JAMES E. BOASBERG
+United States District Judge
+Date: November 15, 2018
+
+ORDER
+For the reasons set forth in the accompanying Memorandum Opinion, the Court ORDERS that:
+1. Defendant's Motion to Dismiss is GRANTED; and
+2. The case is DISMISSED WITHOUT PREJUDICE.
+IT IS SO ORDERED.
+/s/ James E. Boasberg
+JAMES E. BOASBERG
+United States District Judge
+Date: November 15, 2018
+
+
+End of Document
+

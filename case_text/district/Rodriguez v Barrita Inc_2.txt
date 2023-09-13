@@ -1,0 +1,90 @@
+Rodriguez v. Barrita, Inc.
+United States District Court for the Northern District of California, San Jose Division
+November 21, 2011, Decided; November 21, 2011, Filed
+Case No.: 09-04057 RS-PSG
+
+Reporter
+2011 U.S. Dist. LEXIS 134079 *; 2011 WL 5854397
+ARMANDO RODRIGUEZ, Plaintiff, v. BARRITA, INC. dba LA VICTORIA TAQUERIA; NICANDRO BARRITA; ENS ASSOCIATES INVESTMENTS, LLC; MASOUD SHAHIDI; AND DOES 1-10 INCLUSIVE, Defendants.
+Subsequent History: Summary judgment denied by, Motion granted by Rodriguez v. Barrita, Inc., 2012 U.S. Dist. LEXIS 91749 (N.D. Cal., Feb. 29, 2012)
+Prior History: Rodriguez v. Barrita, Inc., 2011 U.S. Dist. LEXIS 101726 (N.D. Cal., Sept. 8, 2011)
+Counsel:  [*1] For Armando Rodriguez, Plaintiff: Catherine M. Cabalo, Celia Louise McGuinness, Paul Leslie Rein, Law Offices of Paul L. Rein, Oakland, CA.
+For Barrita, Inc., doing business as LA Victoria Taqueria, Nicandro Barrita, ENS Associates Investments, LLC, Masoud Shahidi, Defendants: David Irwin Kornbluh, LEAD ATTORNEY, Miller Morton Caillat & Nevis, LLP, San Jose, CA; James R Cracolice, LEAD ATTORNEY, Cracolice & Associates, San Jose, CA.
+Judges: PAUL S. GREWAL, United States Magistrate Judge.
+Opinion by: PAUL S. GREWAL
+Opinion
+
+
+
+ORDER GRANTING-IN-PART DEFENDANTS' MOTION FOR PROTECTIVE ORDER AND GRANTING-IN-PART PLAINTIFF'S MOTION TO COMPEL
+
+(Re: Dockets Nos. 71 and 76)
+
+I. INTRODUCTION
+Defendants Nicandro Barrita ("Barrita") and Masoud Shahidi ("Shahidi") request a protective order in response to Plaintiff Armando Rodriguez's ("Rodriguez") attempt to obtain Defendants' personal tax returns. Rodriguez in turn seeks to compel (1) production of Barrita and Shahidi's personal income tax returns and (2) responses to his third set of Requests for Admissions (RFAs) about the building's construction and alteration history. On November 8, 2011, the parties appeared for hearing. Having reviewed the papers and considered the arguments  [*2] of counsel, Barrita and Shahidi's motion is GRANTED-IN-PART and Rodriguez's motion is GRANTED-IN-PART.
+
+II. BACKGROUND
+
+A. Case History
+On September 1, 2009, Rodriguez filed a complaint against Defendants, the operators of a chain of taqueria restaurants and the owner of the building which houses one branch, for discrimination against him as a disabled wheelchair user. 1 Rodriguez previously filed a motion to deem admitted certain requests for admission. 2 This court ordered Defendants to provide supplemental responses to Rodriguez's RFAs at issue in that motion. 3
+
+B. Present Dispute
+Rodriguez served Defendants' accountants with subpoenas duces tecum on September 13, 2011, seeking disclosure of Defendants' personal income tax returns. 4 Defense counsel directed the accountants not to disclose any documents related to Defendants and filed a motion for protective order to prevent disclosure of the records. 5 Contemporaneous to filing his opposition to the motion for protective order, Rodriguez filed a motion to compel, seeking production of documents related  [*3] to Defendants' financial resources and responses to his third set of RFAs that relate to the building's construction and alteration history. 6
+
+C. Shahidi and Barrita
+Shahidi purchased the subject property in December 1999 and transferred ownership of the property to ENS Associates in April 2005. 7 Shahidi is one of two equal partners in ENS Associates. 8 The company occasionally holds corporate meetings, although no minutes are kept. 9 ENS Associates has never been profitable and Shahidi has invested personal finances to cover expenses on behalf of ENS Associates, including approximately $35,000 in 2010. 10 ENS Associates has no employees and Shahidi handles all of the day-to-day work for the company. 11
+Barrita is the President of Barrita, Inc. and entered into a lease agreement as an individual  [*4] to operate La Victoria Taqueria on the subject property beginning in 1998. 12 Barrita, Inc. assumed the lease in March 2008. 13 As President, Barrita oversees and manages all the restaurants that Barrita, Inc. owns. 14 Barrita, Inc. has no by-laws, no Board of Directors, and holds meetings only once every few months during which no minutes are kept. 15 Barrita used funds from Barrita, Inc. to purchase a residential property in which his mother currently resides. 16
+
+III. LEGAL STANDARD
+Under Rule 26(b), "[p]arties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense." 17 "Relevant information need not be admissible at the trial if the discovery appears reasonably calculated to lead to the discovery of admissible evidence." 18 To succeed on a motion to compel, the moving party bears the burden of demonstrating that it is entitled to the requested discovery and has satisfied the proportionality and other requirements of Rule 26. 19 When claims arising under California law implicate a party's privacy rights, courts engage in a careful balancing of the right of privacy against the need for discovery.  [*5] 20 Under Rule 26(c), the court may issue a protective order to a party to forbid discovery of certain matters. 21
+Fed. R. Civ. P. 36 states that, "[a] party may serve on any other party a written request to admit [any fact]." 22 Subsection (a)(4) requires one of three answers: (1) an admission; (2) a denial; or (3) a statement detailing why the answering party is unable to admit or deny the matter despite making a reasonable inquiry. 23 "Even when a party's answer [fails to comply] with the literal requirements of the Rule, courts generally order an amended answer rather than deem the matter admitted." 24 However, the district court has the power to "control the discovery process [which] allows for the severe sanction of ordering a matter admitted when it has been demonstrated that a party has intentionally disregarded the obligations imposed by Rule 36(a)." 25
+
+IV.  [*6] DISCUSSION
+
+A. Readily Achievable
+Before turning to each of the present motions, the court must consider the issue of whether the architectural changes Rodriguez seeks are readily achievable is an affirmative defense that Defendants waived by failing to include it in their Answer. 26
+Under the ADA, "the term 'readily achievable' means easily accomplishable and able to be carried out without much difficulty or expense." 27 Courts consider the following factors when determining whether an action is readily achievable:
+(A) the nature and cost of the action needed under this Act;
+(B) the overall financial resources of the facility or facilities involved in the action; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
+(C) the overall financial  [*7] resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
+(D) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative or fiscal relationship of the facility or facilities in question to the covered entity. 28
+Defendants did not plead the "readily achievable" affirmative defense in their Answer. The Ninth Circuit, however, has "liberalized the requirement that defendants must raise affirmative defenses in their initial pleadings [so] defendants may raise an affirmative defense for the first time in a motion for summary judgment only if the delay does not prejudice the plaintiff." 29 Rodriguez admits that "[D]efendants' expert opined, in both her expert report and her deposition, that remediation was not readily achievable [and] Defense counsel has repeatedly represented to plaintiff's counsel that defendants will rely on the readily achievable defense at summary judgment and trial."  [*8] 30
+As a result, even though Defendants did not raise the issue of whether the remediation is readily achievable in their Answer, Rodriguez admittedly has been on notice of Defendants' intention to rely on the defense. Because Rodriguez cannot show that he will be prejudiced if Defendants are allowed to rely on this defense going forward, the court will permit Defendants to argue that remediation was not readily achievable. 31
+
+B. Defendants' Personal Tax Returns
+Tax returns do not enjoy an absolute privilege from discovery. 32 The Ninth Circuit, however, recognizes "a public policy against unnecessary public disclosure [of tax returns] to encourage taxpayers to file complete and accurate returns." 33 "Accordingly, the Court may only order the production of [Defendants'] tax returns if they are relevant and when there is a compelling need for them because the information sought is not otherwise available." 34
+
+i.  [*9] Relevance
+"No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of . . . any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation." 35 As noted earlier, discrimination includes "a failure to remove architectural barriers ... that are structural in nature, in existing facilities ... where such removal is readily achievable." 36 The financial resources of owners, lessors, and operators are thus relevant to the issue of whether removing the alleged architectural barriers at the public accommodation is readily achievable.
+Barrita and Shahidi argue that they are not individually liable because they do not own, lease, or operate La Victoria. 37 They further assert that only the financial records of ENS Associates and Barrita, Inc. are relevant because they own and lease the subject property. 38 But in Lentini v. Cal. Ctr. for the Arts, the court affirmed individual "operator" liability under 42 U.S.C. § 12182 (a) because "'to operate' means 'to put or keep in operation,' 'to control or direct the functioning of,' or 'to  [*10] conduct the affairs of; manage,'" and the individual at issue had the "requisite authority" that included the ability to decide who could and could not be admitted into the center. 39
+Barrita and Shahidi fall within the definition of "operator" adopted by the Ninth Circuit in Lentini. Shahidi is one of two partners of ENS Associates and he controls the day-to-day operations of the company that owns the subject property. 40 ENS Associates does not keep minutes of their meetings because they are "fairly casual conversations," the company has never been profitable, and Shahidi has invested substantial personal finances to cover the company's operating expenses. 41 Barrita is the president and one of two officers of Barrita, Inc., the company has no Board of Directors, no by-laws, and Barrita co-mingles funds with the company. 42 These facts are sufficient to show that Shahidi and Barrita respectively "control[,] direct [or manage] the functioning of" the companies that own or lease the subject property and can be held individually liable if their respective companies are found to have violated  [*11] the ADA. 43
+The Barrita and Shahidi financial records relevant to this case, therefore, are those that cover the time periods for which they have operated the premises. For Shahidi, this includes financial records starting from the time ENS Associates acquired the property, which occurred in April 2005. 44 In regards to Barrita, this includes records starting from when his company took over the lease in March 2008. 45
+
+ii.  [*12] Compelling Need
+As discussed above, Rodriguez will need to assess the financial capabilities of the parties who were in a position to remedy the alleged ADA violation, including Barrita and Shahidi. Because Barrita and Shahidi identify no other way for Rodriguez to obtain this information, the court must conclude that Rodriguez has demonstrated a compelling need for their personal tax returns.
+
+C. Responses to RFAs (Set Three)
+
+i. RFAs Nos. 1-4
+In these RFAs, Rodriguez requests Defendants to determine whether the restroom at dispute in this case, in its present condition and at the time of the alleged incident, complies with certain State and Federal regulations, thereby making it "accessible" to the physically disabled. 46 Defendants respond that the restroom is not "accessible" because it is not open to the general public. 47 The term "accessible," however, is defined as "meeting the requirements of the code" regardless of whether the facility is open to the public. 48 Here, Defendants are clearly avoiding the substance of the question. Defendants' alternative contention that the RFAs require that an expert be retained is unpersuasive because they have already retained an expert in this  [*13] case.
+Rodriguez's request to compel further responses to RFAs Nos. 1-4 is GRANTED.
+
+ii. RFAs Nos. 5-8
+These RFAs seek information about changes the subject property underwent in 1985. 49 Defendants respond that they have no knowledge of these changes and cannot reasonably obtain the answers. Defendants are required to make a reasonable inquiry in response to RFAs, but they are not required to investigate changes that occurred on their property more than ten years before they owned or leased it. 50
+Rodriguez's request to compel further responses to RFAs Nos. 5-8 is DENIED.
+
+iii. RFAs Nos. 9-11
+These RFAs seek information about construction that occurred at the subject property in 2007. 51 This construction took place while Defendants owned the property and operated the restaurant; therefore, they should have knowledge of the underlying facts. Defendants' contention that answering these questions will require the opinion of an expert is again unpersuasive because they have retained an expert in this case. In any event,  [*14] at the oral argument, Defendants withdrew their objections.
+Rodriguez's request to compel further responses to RFAs Nos. 9-11 is GRANTED.
+
+V. CONCLUSION
+Barrita and Shahidi's motion for protective order is GRANTED-IN-PART. Rodriguez's motion to compel is GRANTED-IN-PART. Shahidi shall disclose his personal tax returns from April 2005 to the present. Barrita shall disclose his personal tax returns from March 2008 to the present. Defendants shall supplement their responses to RFAs Nos. 1-4 and Nos. 9-11. Defendants shall comply with this order no later than December 9, 2011.
+IT IS SO ORDERED.
+Dated: November 21, 2011
+/s/ Paul S. Grewal
+PAUL S. GREWAL
+United States Magistrate Judge
+
+
+End of Document
+

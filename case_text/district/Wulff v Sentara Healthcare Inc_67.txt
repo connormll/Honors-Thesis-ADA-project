@@ -1,0 +1,56 @@
+Wulff v. Sentara Healthcare, Inc.
+United States District Court for the Eastern District of Virginia, Alexandria Division
+February 1, 2012, Decided; February 1, 2012, Filed
+Case No.: 1:11-cv-577
+
+Reporter
+2012 U.S. Dist. LEXIS 12227 *; 25 Am. Disabilities Cas. (BNA) 1349; 2012 WL 320518
+VIVIENNE WULFF, Plaintiff, v. SENTARA HEALTHCARE, INC., Defendant.
+Subsequent History: Affirmed by Wulff v. Sentara Healthcare, Inc., 2013 U.S. App. LEXIS 4446 (4th Cir. Va., Mar. 4, 2013)
+Counsel:  [*1] For Vivienne Wulff, Plaintiff: John Rankin Ates, Ates Law Firm PC, Alexandria, VA.
+For Sentara Healthcare, Inc., Defendant: William McCardell Furr, LEAD ATTORNEY, Bryan Christopher Royal Skeen, Willcox & Savage PC, Norfolk, VA.
+Judges: Liam O'Grady, United States District Judge.
+Opinion by: Liam O'Grady
+Opinion
+
+
+
+MEMORANDUM OPINION
+Before the Court is Defendant Sentara Healthcare, Inc.'s ("Sentara") Motion for Summary Judgment (Dkt. No. 22). For the reasons that follow, as well as the reasons given in open Court, Defendant's Motion is GRANTED pursuant to the preceding Order.
+
+I. Background
+Registered Nurse Vivienne Wulff ("Wulff") alleges that Sentara's decision to terminate her employment as a Nurse Clinician in the emergency department violated the Americans with Disabilities Act ("ADA") in that the termination was discriminatory, retaliatory, and failed to account for reasonable accommodations. On September 3, 2009, Wulff presented Sentara with a physician's note restricting her from lifting more than ten pounds with her left arm for a period of six weeks. Sentara confirmed that they could accommodate these restrictions, and they continued to do so for approximately thirteen weeks when Wulff provided a new physician's  [*2] note on December 8, 2009. The new note listed identical restrictions as the first note, and Sentara again agreed that they could accommodate Wulff's restrictions.
+Wulff continued to work under this restriction until March 31, 2010, when she provided Sentara with a Potomac Hospital Physical Capacities Form ("Capacities Form") from her physician. The restrictions on the Capacities Form far surpassed those on the prior physician's notes, including: "[n]o lifting/carrying 0-20 lbs.," "[n]o pushing/pulling," "[n]o climbing ladders, poles, etc [sic]," and "[n]o stretching or working above shoulders." The form did not limit any of these restrictions to the left arm. On April 1, 2010, in response to the Capacities Form restrictions, Wulff's supervisors found that they were unable to accommodate her in such a manner that she would remain able to perform the essential functions of her job. Sentara told Wulff that they would be removing her from the schedule until she provided documentation altering her restrictions.
+In fact, on April 9, 2010, Sentara informed Wulff by telephone that if her conditions improved, and her physician lessened her restrictions, Sentara would bring Wulff back to work  [*3] upon notification. Wulff never provided an updated doctor's note or attempted to contact Sentara in an attempt to return to work.
+In July 2010, Wulff's attorney sent Sentara a letter informing them that the prior restrictions had been lifted. In response, Sentara offered Wulff employment in her prior position on August 3, 2010 and again on September 16, 2010. Sentara never heard from Wulff.
+
+II. Legal Standard
+Under Rule 56 of the Federal Rules of Civil Procedure, summary judgment is proper "if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law." Fed. R. Civ. P. 56(c). Entry of summary judgment is mandated "against a party who fails to make a showing sufficient to establish the existence of an element essential to that party's case, and on which that party will bear the burden of proof at trial." Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). "Mere unsupported speculation is not sufficient to defeat a summary judgment motion if the undisputed evidence indicates that the other party should  [*4] win as a matter of law." Francis v. Booz, Allen & Hamilton, Inc., 452 F.3d 299, 308 (4th Cir. 2006).
+
+III. Analysis
+
+A. Failure to Accommodate
+Plaintiff alleges that Defendant removed her from her employment in spite of available accommodations that would have allowed her to continue in her position. To establish a prima facie case of disability discrimination under the ADA for failure to accommodate, Plaintiff has the burden of proving: "(1) that [s]he was an individual who had a disability within the meaning of the statute; (2) that the [employer] had notice of [her] disability; (3) that with reasonable accommodation [s]he could perform the essential functions of the position ....; and (4) that the [employer] refused to make such accommodations." Rhoads v. F.D.I.C., 257 F.3d 373, 387 (4th Cir. 2001) (quoting Mitchell v. Washingtonville Cent. School Dist., 190 F.3d 1, 6 (2d Cir. 1999)). The decisive issue of contention in the present case is the third element—whether Plaintiff could perform the essential functions of her job with a reasonable accommodation.
+Defendant provided evidence that in the emergency department, Nurse Clinicians must be able to lift heavy equipment; push and pull  [*5] stretchers and wheelchairs; support patients who are weak or unsteady; assist patients with walking, standing, or sitting; physically assist patients to chairs, wheelchairs, stretchers, exam tables, or bathrooms; lift patients to chairs and exam tables; roll patients on stretchers; grab and use equipment located above shoulder-level; perform CPR and other life-saving procedures; perform medical procedures on patients who might resist; move equipment or emergency furniture; etc. Sentara also noted the unpredictability of the essential job functions, given the nature of the emergency department.
+Plaintiff's failure to accommodate claim fails as a matter of law because lifting, pushing, pulling, and stretching and working above the shoulders are all essential functions of her position, and Plaintiff's doctor indicated that she was unable to perform these duties. No reasonable jury could find otherwise. Moreover, no reasonable accommodation existed that would have allowed Plaintiff to perform these essential functions. It is Plaintiff's burden to show that a reasonable accommodation exists. Lamb v. Qualex, Inc., 33 Fed. Appx. 49, 59 (4th Cir. 2002). Plaintiff has not met that burden as she  [*6] has not offered any plausible reasonable accommodation that would have allowed a person with the disabilities listed in the Capacities Form to work as an emergency nurse. Again, a reasonable jury could not disagree.
+In making their decision, Sentara relied on the Capacities Form, the only medical documentation with which they were provided. 1 Based on that information, Sentara found that no accommodation would allow Wulff to perform the essential functions of her job. 2 Wulff failed to seek alternate medical documentation or suggest an accommodation that would render Wulff able to perform her job with the disabilities listed on the Capacities Form. Wulff ignored Sentara's follow up calls. Sentara even offered Wulff her former job after learning from Wulff's council that her disabilities were no longer an issue. Wulff remained unresponsive. Plaintiff has not shown that she would have performed the essential functions of her job given the restrictions in the Capacities Form. Accordingly, no reasonable jury could find in her favor and her failure to accommodate claim must fail.
+
+B. Discriminatory Discharge
+To make out a claim for discriminatory discharge  [*8] under the ADA the Plaintiff must prove: "(1) that [s]he has a disability; (2) that [s]he is otherwise qualified for the employment or benefit in question; and (3) that [s]he was excluded from the employment or benefit due to discrimination solely on the basis of the disability." Doe v. Univ. of Md. Med. Sys. Corp., 50 F.3d 1261, 1265 (4th Cir. 1995).
+The parties do not dispute that Plaintiff had a disability. Rather, the disagreement arises over whether Plaintiff was qualified for her employment. To determine if the Plaintiff is a "qualified individual," the Court "must decide (1) whether she could "perform the essential functions of the job, i.e., functions that bear more than a marginal relationship to the job at issue," and (2) if not, whether "any reasonable accommodation by the employer would enable [her] to perform those functions." Tyndall v. Nat'l Educ. Ctrs., Inc. of Ca., 31 F.3d 209, 213 (4th Cir. 1994) (quoting Chandler v. City of Dallas, 2 F.3d 1385, 1393-94 (5th Cir. 1993)). As discussed in Part II.A above, Plaintiff fails to meet this standard as there was no reasonable accommodation that would render her able to perform the essential functions of her job. Consequently,  [*9] Plaintiff's discriminatory discharge claims fail.
+
+C. Retaliatory Termination
+Plaintiff also claims that she was fired for seeking a reasonable accommodation for her medical conditions—a protected activity. To make out a retaliation claim, the Plaintiff must prove that: "(1) she engaged in a protected activity; (2) her employer acted adversely against her; and (3) her protected activity was causally connected to her employer's adverse action." Rhoads, 257 F.3d at 392. Once the Plaintiff makes this prima facie showing, the burden shifts to the employer "to rebut the presumption of retaliation by articulating a legitimate nonretaliatory reason for its actions." Beall v. Abbott Labs., 130 F.3d 614, 619 (4th Cir. 1997). If the employer rebuts the presumption, the plaintiff "must demonstrate that the proffered reason is a pre-text for forbidden retaliation." Haulbrook v. Michelin N. Am., Inc., 252 F.3d 696, 706 (4th Cir. 2001).
+Assuming, without deciding, that Plaintiff has established a prima facie retaliation case, Defendant clearly has a nonretaliatory reason for removing Plaintiff from the nursing schedule. As discussed supra in Part II.A. Plaintiff could not perform the essential functions  [*10] of her position even with an accommodation. Plaintiff has not shown that this proffered reason is pre-text for retaliatory termination. Sentara even looked for other positions for Plaintiff at the hospital; however, there were no positions that would accommodate Plaintiff given her health restrictions. After Sentara learned that the restrictions were removed, Sentara offered Wulff her job back. Wulff failed to respond to any of Sentara's communications. No reasonable jury could find that Sentara was retaliating against Wulff.
+
+IV. Conclusion
+Because Wulff has failed to provide evidence that would enable a reasonable jury to find in her favor on any of her alleged ADA claims, her cause of action fails as a matter of law. Accordingly, Defendant's Motion for Summary Judgment (Dkt. No. 22) is GRANTED.
+February 1, 2012
+Alexandria, Virginia
+/s/ Liam O'Grady
+Liam O'Grady
+United States District Judge
+
+
+End of Document
+

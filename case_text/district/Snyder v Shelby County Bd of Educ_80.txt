@@ -1,0 +1,44 @@
+Snyder v. Shelby County Bd. of Educ.
+United States District Court for the Western District of Tennessee, Western Division
+January 6, 2015, Decided; January 6, 2015, Filed
+No. 2:14-cv-02048-dkv
+
+Reporter
+2015 U.S. Dist. LEXIS 187327 *
+CATHERINE SNYDER, Plaintiff, vs. SHELBY COUNTY BOARD OF EDUCATION, Defendant.
+Subsequent History: Decision reached on appeal by Snyder v. Shelby Cnty. Bd. of Educ., 647 Fed. Appx. 618, 2016 U.S. App. LEXIS 8682 (6th Cir.), 2016 FED App. 249N (6th Cir.) (6th Cir. Tenn., May 9, 2016)
+Prior History: Snyder v. Shelby County Bd. of Educ., 2014 U.S. Dist. LEXIS 195376 (W.D. Tenn., Mar. 27, 2014)
+Counsel:  [*1] Donna Russell, Miscellaneous, Pro se, Memphis, TN.
+For Catherine Snyder, Plaintiff: Beth Brooks, LEAD ATTORNEY, BROOKS LAW FIRM, Memphis, TN; Steven George Wilson, LEAD ATTORNEY, Memphis, TN.
+For Shelby County Board Of Education, Defendant: Jennifer Hinds Collins, SHELBY COUNTY SCHOOLS, Office of General Counsel, Memphis, TN.
+Judges: DIANE K. VESCOVO UNITED, STATES MAGISTRATE JUDGE.
+Opinion by: DIANE K. VESCOVO
+Opinion
+
+
+ORDER DENYING PLAINTIFF'S MOTION TO AMEND COMPLAINT
+On December 30, 2013, the plaintiff, Catherine Snyder ("Snyder") filed a civil action against the Shelby County Board of Education ("SCBOE") in the Chancery Court of Shelby County, Tennessee, alleging violations of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et seq., and the Age Discrimination in Employment Act ("ADEA"), 29 U.S.C. § 621 et seq. (Civil Compl., ECF No. 1-2.) On January 22, 2014, SCBOE removed the case to this court pursuant to 28 U.S.C. § 1441 and 1446. (ECF No. 1.) The parties have consented to the jurisdiction of the United States Magistrate Judge. (ECF No. 6.)
+Before the court is Snyder's December 12, 2014 motion to amend her complaint to include a retaliation claim under the ADA. (First Mot. to Amend, ECF No. 13.) On December 16, 2014, SCBOE filed a response in opposition. (ECF No. [*2]  14.) For the reasons that follow, Snyder's motion to amend her complaint is denied.
+I. PROCEDURAL AND FACTUAL BACKGROUND
+In her complaint, Snyder alleges that she was employed by SCBOE as a teacher from August 22, 1988 until her termination on November 10, 2011. (Civil Compl., ECF No. 1-2.) According to Snyder, on January 24, 2011, she "suffered from an incident related to her major depressive disorder [and] received intensive outpatient therapy." (Id. ¶ 10.) As a result, Snyder was instructed by her doctor to take leave from work until May 30, 2011. (Id. ¶ 11.) Snyder alleges that the SCBOE failed "to grant [Snyder's] requests for reasonable accommodations pursuant to the [ADA]," and terminated her because of her disability. (Id. ¶¶ 33-37.) Snyder additionally alleges that SCBOE violated the ADEA because it has an "unwritten policy . . . of terminating employees who had been working longer, therefore making more and [SCBOE] discriminated against the older employees, who were making more in salary and benefits, to help with budget concerns." (Id. ¶¶ 16, 38-42.)
+On March 1, 2012, Snyder filed a charge with the Equal Employment Opportunity Commission ("EEOC"). Snyder's EEOC charge, attached [*3]  to the complaint, alleges discrimination based on her disability and age, and contains the following allegations:
+On or around October 3, 2011, I was discharged from the position of Classroom Teacher. I had worked for the above-named company since August 1988.
+I was advised by the Unemployment Office the company holds I abandoned my job (which is not true). I was on suspension without pay as of July 2011/or August 2011 (no reason was given).
+I believe I have been discriminated against because of my known disability in violation of the ADA Amendment Act of 2008. In addition, I believe the above-named employer is trying to force employees out with many years of service for budgetary reasons in violation of the Age Discrimination in Employment Act.
+(Id. at 12.) The EEOC issued a notice of right to sue on September 30, 2013. (Id. at 13.)
+In the instant motion, Snyder purports to amend her complaint to add an ADA retaliation claim against SCBOE. Specifically, Snyder alleges that "[SCBOE's] interference with [Snyder's] right to engage in an interactive process, in good faith, on how to implement or effect appropriate reasonable accommodations; and, [SCBOE's] decision to terminate Snyder while on notice of her disability and ongoing treatment [*4]  constituted an act of intimidation and retaliation." (Am. Compl. ¶ 57, ECF No. 13-1.) The deadline to file motions to amend pleadings was set for April 30, 2014. (Scheduling Order, ECF No. 8.)
+II. ANALYSIS
+Rule 15(a)(2) provides that "the court should freely give leave [to amend] when justice so requires." Fed. R. Civ. P. 15(a). Under Rule 15(a), the court has some discretion in allowing amendments. Factors to consider include futility of amendments and prejudice to the opposing party. Foman v. Davis, 371 U.S. 178, 182, 83 S. Ct. 227, 9 L. Ed. 2d 222 (1962). A motion for leave to amend may be denied for futility if the pleading as amended could not withstand a motion to dismiss. Midkiff v. Adams Cnty. Reg=l Water Dist., 409 F.3d 758, 767 (6th Cir. 2005)(citation omitted).
+The Sixth Circuit analyzed the overlap of Rule 15(a) and Rule 16(b), and held that once a scheduling order's deadline has passed, the movant must show good cause under Rule 16(b) for failing to seek leave to amend the complaint at an earlier date before the court considers if the amendment is proper under Rule 15(a). Leary v. Daeschner, 349 F.3d 888, 909 (6th Cir. 2003). A movant can prove "good cause" by showing that despite their diligence they were not able to meet the original deadline for amending the pleadings. Id. at 906. Another consideration in the "good cause" analysis is whether the opposing party will be prejudiced if the amendment is allowed. Id. In the instant case, [*5]  the scheduling order's deadline has passed and Snyder has not shown good cause for failing to amend the complaint before the deadline.
+Even assuming arguendo that Snyder has good cause for her failure to timely amend her complaint, Snyder's motion to amend is futile because she wishes to add a claim for which she has not exhausted her administrative remedies. Title VII requires that a plaintiff exhaust her administrative remedies prior to bringing suit in federal court by filing a charge of discrimination with the EEOC within three hundred days of the alleged unlawful employment practice. 42 U.S.C. § 2000e-5(e)(1); see also Randolph v. Ohio Dep't of Youth Servs., 453 F.3d 724, 731 (6th Cir. 2006). For a discrimination claim to be amenable to suit in federal court, "[t]he claim must grow out of the investigation or the facts alleged in the charge must be sufficiently related to the claim such that those facts would prompt an investigation of the claim." Jones v. Sumser Ret. Vill., 209 F.3d 851, 853 (6th Cir. 2000)(citing Davis v. Sodexho, 157 F.3d 460, 463 (6th Cir. 1998). Accordingly, "[i]f a charge of discrimination contains no facts that would put a defendant or the EEOC on notice of a particular type of discrimination, a plaintiff may not file suit to remedy it under Title VII." Powers v. Sonoco Prods., Co., No. 11-02061, 2011 U.S. Dist. LEXIS 138518, 2011 WL 6012603, at *3 (W.D. Tenn. Dec. 1, 2011)(citing Davis v. Sodexho, Cumberland Coll. Cafeteria, 157 F.3d 460, 464 (6th Cir. 1998)).
+Snyder neither checked the "Retaliation" box on the EEOC charge of discrimination nor included allegations in [*6]  the EEOC narrative that could be interpreted as claiming retaliation. Snyder's instant ADA retaliation claim is not sufficiently related to the facts alleged in the EEOC charge; the EEOC charge does not allege that Snyder requested reasonable accommodations pursuant to the ADA and that the SCBOE retaliated against her for this reason. The EEOC charge contains no facts that would put SCBOE on notice of this particular type of discrimination; therefore, Snyder's ADA retaliation claim is not amendable to suit in federal court because she has not exhausted her administrative remedies on this claim.1 See Younis v. Pinnacle Airlines, Inc., 610 F.3d 359, 363 (6th Cir. 2010)(holding that the plaintiff had not exhausted administrative remedies on his retaliation claim because he did not check the proper box on the charge or allege any facts about the retaliatory conduct).
+III. CONCLUSION
+For the foregoing reasons, Snyder's motion to amend her complaint is denied.
+IT IS SO ORDERED this 6th day of January, 2014.
+/s/ Diane K. Vescovo
+DIANE K. VESCOVO
+UNITED STATES MAGISTRATE JUDGE
+
+
+End of Document
+

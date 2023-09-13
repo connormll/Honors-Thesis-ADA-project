@@ -1,0 +1,113 @@
+Wilhite v. Wal-Mart Stores East, LP
+United States District Court for the Western District of Kentucky, Paducah Division
+September 18, 2014, Decided; September 19, 2014, Filed
+CIVIL ACTION NO. 5:13-CV-0056-TBR
+
+Reporter
+2014 U.S. Dist. LEXIS 131405 *; 30 Am. Disabilities Cas. (BNA) 1375; 2014 WL 4684009
+DONALD W. WILHITE, Plaintiff v. WAL-MART STORES EAST, LP, Defendant
+Counsel:  [*1] For Donald W. Wilhite, Plaintiff: Donald D. Zuccarello, LEAD ATTORNEY, Nashville, TN.
+For Wal-Mart Stores East, L.P., Defendant: Sadhna True, LEAD ATTORNEY, Dinsmore & Shohl LLP - Lexington, Lexington, KY.
+Judges: Thomas B. Russell, Senior United States District Judge.
+Opinion by: Thomas B. Russell
+Opinion
+
+
+
+MEMORANDUM OPINION
+This matter is before the Court upon Defendant Wal-Mart Stores East, LP's Motion for Summary Judgment. (Docket No. 17). Plaintiff Donald Wilhite has responded to Defendant's Motion. (Docket No. 18). Wal-Mart has filed a reply. (Docket No. 21). Accordingly, these matters now are ripe for adjudication. For the reasons that follow, Defendant's Motion will be GRANTED.
+BACKGROUND
+This matter arises out of Defendant Wal-Mart Stores East, LP's ("Wal-Mart") termination of Plaintiff Donald Wilhite. Wilhite was hired as a greeter in 2006 and worked several positions for Wal-Mart. In July of 2009, Wilhite was transferred to the position of unloader at the Wal-Mart distribution center located in Hopkinsville. (Docket #18).
+On March 20, 2010, Wilhite suffered a wrist injury while unloading a trailer. Wal-Mart put Wilhite on "temporary alternative duty," a light duty which consisted of cleaning and other housekeeping [*2]  duties normally shared by all employees. (Docket #18). Following his injury, Wilhite regularly visited a doctor and at least twice attempted to return to regular duty. (Docket #17). However, Wilhite continued to experience pain and was kept on temporary alternative duty by Wal-Mart.
+On July 15, 2010, Wilhite saw a hand specialist who recommended surgery. Coverage for this surgery was denied by the workers' compensation insurance claims adjuster. (Docket #17). Wilhite appealed this denial. In May of 2011 an Administrative Law Judge found in Wilhite's favor and ordered Wal-Mart to pay Wilhite's disability benefits and medical costs. (Docket #18). Wilhite received wrist surgery on August 18, 2011.
+After the initial denial of Wilhite's claim, Wal-Mart informed Wilhite that he was no longer eligible for temporary alternative duty. Wal-Mart offered Wilhite the choice of unpaid leave or termination. Wilhite opted for unpaid leave. He requested several extensions, ultimately up to the full year offered by Wal-Mart. (Docket #18). During this year of unpaid leave, Wilhite did not request a transfer to any other position at Wal-Mart. (Docket #17, Ex. 3, p. 174).
+In August 2011, Wilhite's year of [*3]  unpaid leave was ending at approximately the same time he was scheduled to have his hand surgery. Wal-Mart and Wilhite met to discuss when Wilhite would be able to return to work. Wilhite did not provide an exact date because he claimed he did not know when his wrist would be healed and because Wal-Mart had talked to his doctor and could determine the date. (Docket #17, Ex. 3, pg. 151-52). At that meeting, Wal-Mart representatives asked Wilhite to apply for an extension of unpaid leave past the one-year limit. (Docket #17, Ex. 3, p. 153). Wilhite did submit an extension request, but it was denied. Wilhite was terminated by Wal-Mart in September, 2011.
+Wilhite reached maximum medical improvement in March of 2012. Wilhite was given a lifting restriction of thirty pounds and admits that he still cannot lift sixty or more pounds without assistance. (Docket #18).
+STANDARD
+Summary judgment is appropriate where "the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(c). "[N]ot every issue of fact or conflicting inference presents a genuine issue of [*4]  material fact." Street v. J.C. Bradford & Co., 886 F.2d 1472, 1477 (6th Cir. 1989). The test is whether the party bearing the burden of proof has presented a jury question as to each element in the case. Hartsel v. Keys, 87 F.3d 795, 799 (6th Cir. 1996). The plaintiff must present more than a mere scintilla of evidence in support of her position; she must present evidence on which the trier of fact could reasonably find for her. Id. (citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 252, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986)). Mere speculation will not suffice to defeat a motion for summary judgment: "[T]he mere existence of a colorable factual dispute will not defeat a properly supported motion for summary judgment. A genuine dispute between the parties on an issue of material fact must exist to render summary judgment inappropriate." Monette v. Elec. Data Sys. Corp., 90 F.3d 1173, 1177 (6th Cir. 1996), abrogated on other grounds by Lewis v. Humboldt Acquisition Corp., Inc., 681 F.3d 312 (6th Cir. 2012).
+DISCUSSION
+The ADA prohibits employers from discriminating "against a qualified individual1 on the basis of disability." 42 U.S.C. § 12112(a). The ADA defines "discrimination" to include "not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability." Id. § 12112(b)(5)(A). A "reasonable accommodation" may include:
+job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications [*5]  of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities. Id. § 12111(9).
+Wilhite bases his discrimination claim on Wal-Mart's failure to accommodate his disability. Wilhite argues that Wal-Mart could have accommodated Wilhite's disability by allowing him to work as an unloader who was given "assistance with lifting items over 30 pounds." (Docket #18). Wilhite also argues that Wal-Mart could have transferred Wilhite to an open vacant position in the company which Wilhite was otherwise qualified to perform. Wal-Mart responds that lifting merchandise "greater than 60 pounds without assistance" is an essential function of the unloader position. (Docket #17). Wal-Mart also claims that Wilhite never requested a transfer to any other position in [*6]  the company.
+"[C]laims premised upon an employer's failure to offer a reasonable accommodation necessarily involve direct evidence (the failure to accommodate) of discrimination." Kleiber v. Honda of Am. Mfg., 485 F.3d 862, 867 (6th Cir. 2007). "[I]f the fact-finder accepts the employee's version of the facts, no inference is necessary to conclude that the employee has proven this form of discrimination." Id. In these cases, the Plaintiff's claim is analyzed under the following framework:
+(1) The plaintiff bears the burden of establishing that he or she is "disabled."
+(2) The plaintiff bears the burden of establishing that he or she is "otherwise qualified" for the position despite his or her disability: (a) without accommodation from the employer; (b) with an alleged "essential" job requirement eliminated; or (c) with a proposed reasonable accommodation.
+(3) The employer will bear the burden of proving that a challenged job criterion is essential, and therefore a business necessity, or that a proposed accommodation will impose an undue hardship upon the employer.
+Lane v. Bremner Food Group, Inc., 2010 U.S. Dist. LEXIS 1473 *12 (W.D. Ky. 2010). (quoting Kleiber, 485 F.3d at 869).
+The parties do not dispute that Wilhite is disabled. Instead, the parties dispute whether Wilhite lifting sixty or more pounds was an essential function of the unloader job, whether Wal-Mart [*7]  could have provided assistance to Wilhite to accomplish his job, and whether Wilhite could have been reassigned to another job.
+
+I. Lifting over Thirty Pounds was an Essential Function of an Unloader.
+Under the ADA, "an individual is 'otherwise qualified' if he or she can perform the 'essential functions' of the job with or without reasonable accommodation." Keith v. County of Oakland, 703 F.3d 918, 925 (6th Cir. 2013) (citing 29 CFR § 1630.2(m)).
+"Whether a particular job function is essential is evaluated on a case-by-case basis by examining a number of factors." Cummings v. Dean Transp., Inc., 9 F. Supp. 3d 795, 2014 U.S. Dist. LEXIS 45023 *16 (D. Mich. 2014). These factors include: "(1) the employer's judgment; (2) the written job description; (3) the amount of time spent performing the function; (4) the consequences of not requiring performance of the function; (5) the work experience of past incumbents of the position; and (6) the current work experience of incumbents in similar jobs." Keith, 703 F.3d at 925-26.
+Wilhite does not directly dispute that lifting over thirty pounds was an essential function of the unloader position. Instead, Wilhite stresses that he could perform the other unloader duties, such as "labeling, moving items, making pallets, housekeeping, operating equipment." (Docket #18). He also states he could lift over thirty pounds with "a reasonable accommodation [*8]  of assistance with lifting." (Docket #18).
+Conversely, Wal-Mart states the "primary function of the Unloader position is to unload and process merchandise from the trucks." (Docket #17). The original job description required "frequently lifting up to 50 pounds, occasionally lifting up to 75 pounds, and with assistance of another Associate sometimes up to 100 pounds." (Docket #17, Ex. 1). This job description was revised in 2010 to require an unloader to "move, lift, carry and place merchandise and/or supplies weighing greater than 60 pounds without assistance." (Docket #17, Ex. 1). Wilhite admitted that his shift lasted from "5:30 a.m. to six o'clock p.m." and that he had a "3000-piece daily requirement that we all were, as a projection, expected to try and meet." (Docket #17, Ex. 1).
+Whether a job duty is "essential is highly fact specific" and generally suited for a jury. Hoskins v. Oakland Cnty. Sheriff's Dep't, 227 F.3d 719, 726 (6th Cir. 2000). However, the "Plaintiff still must make an affirmative showing with proper evidence" to "raise a debatable question of fact." Hardenburg v. Dunham's Athleisure Corp., 963 F. Supp. 2d 693, 702 (E.D. Mich. 2013). Since Wilhite has not disputed that lifting sixty or more pounds was an "essential function" of the unloader position, the Court next turns to whether Wilhite could perform this function [*9]  if given a reasonable accommodation.
+
+II. Providing Wilhite Assistance with Lifting Over Thirty Pounds was Not a Reasonable Accommodation.
+"When accommodation is necessary to enable a plaintiff to perform the essential functions of the position in question, it is the plaintiff's burden to propose an accommodation that is 'objectively reasonable.'" Keith, 703 F.3d at 927 (quoting Kleiber, 485 F.3d at 870). A reasonable accommodation includes modifying the responsibilities of a disabled employee. Rorrer v. City of Stow, 743 F.3d 1025, 1039 (6th Cir. 2014). "A suggested accommodation is not reasonable if it requires eliminating an 'essential' function of the job." Id.; see also 42 U.S.C. § 12111(8); Kleiber, 485 F.3d at 870.
+As an unloader, Wilhite was tasked with lifting objects "weighing greater than 60 pounds without assistance." (Docket #17, Ex. 1). Wilhite argues that Wal-Mart could have reasonably accommodated Wilhite's duty to lift heavy objects by providing "assistance with lifting items over 30 pounds." (Docket #18). Wilhite's proposal is not a modification of his duty, but rather an elimination of the job requirement that Wilhite lift objects over 60 pounds without assistance. The "ADA does not require employers to accommodate individuals by shifting an essential job function onto others." Hoskins, 227 F.3d at 729. (holding it was not a reasonable [*10]  accommodation to require a second sheriff to assist a deputy sheriff who could not perform the essential function of physically restraining inmates after she was crushed by a horse); Bratten v. SSI Servs., Inc., 185 F.3d 625, 633 (6th Cir. 1999) (collecting cases) (rejecting Plaintiff's proposed accommodation of having a co-worker assist him with lifting on an ad hoc basis); Steward v. Daimler Chrysler Corp., 533 F. Supp. 2d 717, 722 (E.D. Mich. 2008) (finding the proposed accommodation of having an assistant help the employee was equivalent to eliminating an essential job function).
+Wilhite alternatively argues that Wal-Mart could restore him to the light duty he was performed after his injured. This light duty is a "Temporary Alternative Duty" that Wal-Mart established for injured employees. It allows an injured employee to perform housekeeping and other light duties that all employees normally share for up to 120 days. (Docket #17). Wilhite's proposal is not a reasonable accommodation because it equates to the creation of a new permanent position. Hoskins, 227 F.3d 719 (holding it was not a reasonable accommodation to turn "a rotating or relief position into a permanent position."); see also Dalton v. Subaru-Isuzu Automotive, Inc., 141 F.3d 667, 680 (7th Cir. 1998); Hendricks-Robinson v. Excel Corp., 154 F.3d 685, 697 (7th Cir. 1998). ("it would frustrate the ADA for permanently impaired employees to fill temporary light-duty assignments when those jobs have been set aside specifically [*11]  for recuperating employees").
+Since Wilhite could not perform his job duties, the Court needs no further inquiry into whether Wal-Mart's termination was a mere pretext for unlawful retaliation. Gibson v. Solideal USA, Inc., 2011 U.S. Dist. LEXIS 1855 *4-5 (W.D. Ky. 2011) ("Solideal has clearly articulated a non-retaliatory reason . . . it terminated Gibson because he was unable to perform his regular job duties. All of the medical evidence establishes that Solideal's proferred reason is, in fact, true").
+
+III. Wilhite's Request to Transfer to Another Position.
+Both an employer and employee have a duty to engage in an "interactive process" to find a reasonable accommodation for the disabled employee. "Nonetheless, to overcome summary judgment, the plaintiff generally must identify the specific job he seeks and demonstrate that he is qualified for that position." Kleiber, 485 F.3d at 870 (citing Burns, 222 F.3d at 258); see also Rorrer, 743 F.3d at 1041 ("failure to engage in the interactive process is only an independent violation of the ADA if the plaintiff establishes a prima facie showing that he proposed a reasonable accommodation."); Talley v. Family Dollar Stores of Ohio, Inc., 542 F.3d 1099, 2008 U.S. App. LEXIS 19342 (6th Cir. 2008).
+Wilhite worked as a greeter and service technician at Wal-Mart's retail stores before being transferred to the distribution center. Wilhite alleges that Wal-Mart should have transferred him back [*12]  to a retail store as a reasonable accommodation. However, Wilhite never requested a transfer and only sought to remain in the warehouse on light duty:
+Q: What did you ask for?
+A: Any way that I could continue to work in my department. And they just — to make a long story short, they just told me that they had nothing in the warehouse.
+Q: Were you specifically asking for light duty?
+A: Well, at that time, yes, because I was under a doctor's care and I could not do anything. . .
+Q: Did you ask for any other reasonable accommodation from Wal-Mart at that point in time?
+A: Not that I can recall. (Docket #17, Ex. 3, pg. 99-100).
+. . . . .
+Q: From August 6, 2010, the date when you started your leave of absence, through the date of the termination of your employment, you were continuously on leave; correct, you did not work at Wal-Mart during that period at all?
+A: Correct.
+Q: During that period of time did you apply for any other jobs at Wal-Mart?
+A: No, I did not. (Docket #17, Ex. 3, p. 171).
+. . . . .
+Q: Did you know that Wal-Mart posts its jobs online?
+A: Yes, I did.
+Q: And did you ever look to see if there were anything that you thought you could do?
+A: The only jobs I looked at that were posted were [*13]  in my facility, in the distribution center. . . . (Docket #17, Ex. 3, p. 172).
+. . . . .
+Q: Did you see any of those positions posted while you were on leave?
+A: Yes, they have bulletin board next to the cafeteria. (Docket #17, Ex. 3, p. 173).
+. . . . .
+Q: And you didn't apply for any openings at the retail store or with any other Wal-Mart facility?
+A: No, I didn't want to go to any stores, because I was at the distribution center. . . . (Docket #17, Ex. 3, p. 174).
+. . . . .
+Q: So you didn't consider going back to the retail store even though you're on leave and not earning any money, because you didn't want to take the lower pay rate?
+A: No, that wasn't — I knew they weren't going to let me. I wasn't willing to drop pay. My pay rate, I wasn't willing to drop that. So I basically focused on the distribution center. (Docket #17, Ex. 3, p. 176).
+Wilhite also acknowledges that Wal-Mart did communicate with him during his leave of absence and that Wilhite skipped the final meeting in which Wal-Mart terminated him:
+Q: Did you ever say to anyone at Wal-Mart that you were going to quit?
+A: No.
+Q: Did you ever give any indication to anyone at Wal-Mart that you did not plan to return to the DC?
+A: No.
+Q: [*14]  So when you were on leave of absence, Wal-Mart would contact by phone; is that correct?
+A: Phone or letter.
+Q: And I believe you said before that you had an answering machine; is that correct?
+A: Yes.
+Q: And if someone from Wal-Mart left a message for you, you would respond to it; is that correct?
+A: Yes.
+Q: Did you ever make any appointments to meet with Ron Mitchell and then failed to show up?
+A: Yes.
+Q: When did that happen?
+A: Around September, when they wanted me to come in and do a resignation. (Docket #17, Ex. 3, pg. 177-78).
+Wilhite has not shown that he identified any position which he was qualified for and willing to work. Nor does the record show that Wal-Mart refused to engage in an interactive process to find a reasonable accommodation for Wilhite. Compare Burns v. Coca-Cola Enters., 222 F.3d 247, 258 (6th Cir. 2000) ("Burns's failure to request a transfer to a new position for which he was otherwise qualified precludes him from recovering for discrimination under the ADA.") and Cash v. Siegel-Robert, Inc., 548 Fed. Appx. 330, 335 (6th Cir. 2013) (unpublished) with Rorrer 743 F.3d at 1046-47 (finding Defendant did not participate in good faith when it refused a firefighter's requests for reassignment to Fire Prevention Bureau).
+CONCLUSION
+Wilhite became disabled while working at Wal-Mart. This disability prevented him from performing [*15]  an essential function — lifting sixty or more pounds — of his job as an unloader. Wilhite's proposal that Wal-Mart have an associate assist Wilhite is not a reasonable accommodation. Nor has Wilhite sought a reasonable accommodation in the form of a transfer to another job which Wilhite could perform.
+Wal-Mart has moved to dismiss Wilhite's claims. For all of the foregoing reasons Wal-Mart's motion is GRANTED. A separate order and judgment shall issue.
+/s/ Thomas B. RussellThomas B. Russell
+Thomas B. RussellThomas B. Russell, Senior Judge
+United States District Court
+
+JUDGEMENT
+This matter having come before the Court upon Defendant's Motion for Summary Judgment, (Docket No. 17); Plaintiff having responded, (Docket No. 18); Defendants having replied, (Docket No. 21); and the Court having filed a Memorandum Opinion and being otherwise sufficiently advised;
+IT IS HEREBY ORDERED that Defendants' Motion, (Docket No. 17), is hereby GRANTED. This is a final and appealable judgment.
+/s/ Thomas B. RussellThomas B. Russell
+Thomas B. RussellThomas B. Russell, Senior Judge
+United States District Court
+September 18, 2014
+
+
+End of Document
+

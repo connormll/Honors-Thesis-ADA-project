@@ -1,0 +1,84 @@
+Arroyo v. Pleasant Canyon Hotel, Inc.
+United States District Court for the Northern District of California
+December 10, 2021, Decided; December 10, 2021, Filed
+Case No. 4:21-cv-00437-YGR
+
+Reporter
+2021 U.S. Dist. LEXIS 237240 *; 2021 WL 5865499
+RAFAEL ARROYO, Plaintiff, vs. PLEASANT CANYON HOTEL, INC., Defendant.
+Counsel:  [*1] For Rafael Arroyo, Plaintiff: Zachary Manning Best, Potter Handy LLP, San Diego, CA; Russell Clive Handy, Center for Disability Access, San Diego, CA.
+For Pleasant Canyon Hotel, Inc., a California Corporation, Defendant: Philip Harris Stillman, LEAD ATTORNEY, Stillman & Associates, Miami Beach, FL.
+Judges: YVONNE GONZALEZ ROGERS, UNITED STATES DISTRICT JUDGE.
+Opinion by: YVONNE GONZALEZ ROGERS
+Opinion
+
+
+
+Order Granting Motion to Dismiss
+Re: Dkt. No. 8
+Plaintiff Rafael Arroyo brings this action against defendant Pleasant Canyon Hotel, Inc. Plaintiff asserts two causes of action: (1) violation of the Americans with Disabilities Act of 1990 ("ADA"), 42 U.S.C. § 12101, et. seq.; and (2) violation of the Unruh Civil Rights Act ("UCRA"), Cal. Civ. Code § 51-53. (See Dkt. No. 1) ("Complaint" or "Compl.")
+Now before the Court is defendant's motion to dismiss all causes of action. (Dkt. No. 8.) ("Motion to dismiss" or "Mot.") The matter was fully briefed by the parties. (See also Dkt. Nos. 9, 11, 13, and 14.) The Court determined that this matter was suitable for resolution on the papers and vacated oral argument on the issues. (Dkt. No. 10)
+Having carefully considered the papers submitted and the pleadings in this action, and for the reasons set forth below, the Court GRANTS the motion to dismiss.
+
+I. Background
+The complaint alleges [*2]  the following:
+Plaintiff is a paraplegic and uses a wheelchair for mobility. (Compl. ¶ 1.) He is substantially limited in his ability to walk and is unable to, or seriously challenged in his ability to, stand, ambulate, reach objects, maneuver around fixed objects, and he uses a wheelchair for mobility. (Id. ¶¶ 1, 14.) Defendant owns and operates the Residence Inn by Marriot Pleasanton ("the Hotel") located at 11920 Dublin Canyon Rd., Pleasanton, CA. (Id. ¶ 2.) Plaintiff planned on making a trip in April of 2021 to the Pleasanton, California area, and to stay at the Hotel. (Id. ¶¶ 12-13.) He chose the Hotel because of its desirable price and location. (Id. ¶ 13.)
+On December 20, 2020, while sitting bodily in California, plaintiff went to the Hotel's reservation website at https://www.marriott.com/hotels/travel/oakri-residence-inn-pleasanton/ seeking to book an accessible room at the location. (Id. ¶ 16.) Plaintiff alleges that there was insufficient information about the accessible features in the "accessible rooms" at the Hotel to permit him to assess independently whether a given hotel room would work for him. (Id. ¶ 18.) The lack of information created difficulty for plaintiff and [*3]  the idea of trying to book a room, while essentially ignorant about its accessibility caused him difficulty and discomfort. (Id. ¶ 26.) Making matters worse, the photos that accompany the room descriptions state: "images may not fully represent the room features you booked." (Id. ¶ 21.)
+Plaintiff would like to patronize the hotel once it has been represented to him that defendant has changed its policies to comply with 28 C.F.R. § 36.302(e)(1)(ii) ("the Reservations Rule"). (Id. ¶ 28.) Plaintiff has reason and motive to use the Hotel's reservation system and to stay at the Hotel in the future. (Id. ¶ 29.)
+
+II. Defendant's Request For Judicial Notice
+Defendant asks the Court to take judicial notice of part of its website showing the accessible room descriptions (Dkt. No. 8-2, "Request for Judicial Notice") ("RJN," Exs. 1-2). On defendant's website pages, there is an "Accessibility" section listing several accessibility features of the hotel:
+
+See RJN, Ex. 2.
+Defendant also requests judicial notice of the Accessibility Page of JWMFE's Anaheim Marriot Website depicted below:
+
+See RJN, Ex. 6.
+In addition to the website pages identified above, defendant also requests judicial notice of various materials associated with plaintiff's [*4]  prior cases, including his complaints in (i) Arroyo v. JWMFE Anaheim, LLC, Case No. 8:21-cv-00014-CJC-KES, 2021 U.S. Dist. LEXIS 51569 (C.D. Cal. February 16, 2021) (RJN, Ex. 8), a copy of the order dismissing the complaint (RJN, Ex. 5), and (ii) Arroyo v. AJU II Silicon Valley, LLC, Case No. 20-cv-08218-JSW, 2021 U.S. Dist. LEXIS 71198 (N.D. Cal. Mar. 16, 2021) (RJN, Ex. 10), a copy of the order dismissing that complaint (RJN, Ex. 9), and other related materials.1
+
+III. Legal Standard
+A motion to dismiss under Rule 12(b)(6) tests the legal sufficiency of the claims alleged in the complaint. Ileto v. Glock Inc., 349 F.3d 1191, 1199-1200 (9th Cir. 2003). "Dismissal can be based on the lack of a cognizable legal theory or the absence of sufficient facts alleged under a cognizable legal theory." Balistreri v. Pacifica Police Dep't, 901 F.2d 696, 699 (9th Cir. 1990). All allegations of material fact are taken as true and construed in the light most favorable to the plaintiffs. Johnson v. Lucent Techs., Inc., 653 F.3d 1000, 1010 (9th Cir. 2011). To survive a motion to dismiss, "a complaint must contain sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 557, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). This "facial plausibility" standard requires the plaintiffs to allege facts that add up to "more than a sheer possibility that a defendant has acted unlawfully." Iqbal, 556 U.S. at 678. While courts do not require "heightened [*5]  fact pleading of specifics," plaintiffs must allege facts sufficient to "raise a right to relief above the speculative level." Twombly, 550 U.S. at 555. "[A] plaintiff's obligation to provide the 'grounds' of this 'entitle[ment] to relief' requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." Id.
+In deciding whether the plaintiff has stated a claim upon which relief can be granted, the court must assume that the plaintiff's allegations are true and must draw all reasonable inferences in the plaintiff's favor. See Usher v. City of Los Angeles, 828 F.2d 556, 561 (9th Cir. 1987). However, the court is not required to accept as true "allegations that are merely conclusory, unwarranted deductions of fact, or unreasonable inferences." In re Gilead Scis. Sec. Litig., 536 F.3d 1049, 1055 (9th Cir. 2008).
+
+IV. Analysis
+Defendant argues that collateral estoppel bars plaintiff's claim. The Court first addresses defendant's request for judicial notice before turning to the collateral estoppel issue.
+
+A. Defendant's Request for Judicial Notice
+Defendant requests that the Court take judicial notice of ten different exhibits. See RJN, Exs. 1-10. Plaintiff only objects to the Court taking judicial notice of exhibit 3, the list of federal cases filed by plaintiff, arguing that consideration [*6]  of plaintiff's prior litigation history is improper.
+With respect to Exhibit 3, the Court DENIES the request for judicial notice because the proffered list is not relevant to the issues in this case. The only purpose is to make the Court aware of plaintiff's litigation history. Such consideration is not appropriate. See D'Lil v. Best W. Encina Lodge & Suites, 538 F.3d 1031, 1040 (9th Cir. 2008) ("The attempted use of past litigation to prevent a litigant from pursuing a valid claim in federal court warrants our most scrutiny. . . . This is particularly true in the ADA context.").
+As for the remaining exhibits, the Court GRANTS defendant's request. Documents in the public record and documents filed in other courts are proper subjects of judicial notice. Reyn's Pasta Bella, LLC v. Visa USA, Inc., 442 F.3d 741, 746 n.6 (9th Cir. 2006).
+
+B. Defendant's Motion to Dismiss
+
+1. Overview of the Reservations Rule
+Under Title III of the ADA, a public accommodation that owns, leases (or leases to), or operates a place of lodging must, with respect to reservations made on or after March 15, 2012, by any means, including by telephone, in-person, or through a third-party, must "identify and describe accessible features in the hotels and guest rooms offered through its reservations service in enough detail to reasonably permit individuals with disabilities [*7]  to assess independently whether a given hotel or guest room meets his or her accessibility needs. . . ." 28 C.F.R. § 36.302(e)(1)(ii). The Department of Justice ("DOJ") has issued guidance interpreting the Reservations Rule, to which the Court must generally defer. 28 C.F.R. § pt. 36, App. A (2010), Guidance on Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability by Public Accommodations and Commercial Facilities ("Guidance")"; Kohler v. Presidio Int'l, Inc., 782 F.3d 1064, 1069 (9th Cir. 2015) (explaining that the DOJ guidance is "entitled to substantial deference" and "will be disregarded only if plainly erroneous or inconsistent with the regulation.")
+In the Federal Register, at the time of the final regulation, the DOJ discussed the notice and rule making process and responded to comments. See  Nondiscrimination on the Basis of Disability by Public Accommodations and in Commercial Facilities, 75 FR 56236-01, 2010 WL 3561890 (September 15, 2010). The DOJ explained that commentors had asked the DOJ to "identify the specific accessible features of hotel rooms that must be described in the reservations system." Id. at * 56274. Commentors wanted the regulation to limit the required information to only "bathroom type (tub or roll-in shower) and communication features." Id. In finalizing the regulation, the DOJ rejected those comments, stating that "[b]ecause [*8]  of the wide variations in the level of accessibility that travelers will encounter, the Department cannot specify what information must be included in every instance." Id. "The Department recognizes that a reservations system is not intended to be an accessibility survey. However, specific information concerning accessibility features is essential to travelers with disabilities." Id.
+That Federal Register discussion became the Guidance, now incorporated in the comments to the regulation. See 28 C.F.R. § pt. 36, App. A. The Guidance indicated it "may" be sufficient for a newer hotel built after the 1991 ADA Accessibility Guidelines ("ADAAG") went into place to say rooms or facilities are "accessible" but older hotels cannot just say "accessible" and have it be meaningful. Id. The Guidance requires that older hotels delineate what is and what is not accessible and give specific information about the hotel's inaccessible features. Id.
+
+2. Collateral Estoppel
+Defendant asserts the doctrine of collateral estoppel to plaintiff's claims as they are identical to the claims he brought in Arroyo v. JWMFE Anaheim, LLC, Case No. 8:21-cv-00014-CJC-KES, 2021 U.S. Dist. LEXIS 51569 (C.D. Cal. Feb. 16, 2021) and Arroyo v. AJU II Silicon Valley, LLC, Case No. 20-cv-08218-JSW, 2021 U.S. Dist. LEXIS 71198 (N.D. Cal. Mar. 16, 2021). [*9] 
+Under the collateral estoppel doctrine, once an issue is actually and necessarily determined by a court of competent jurisdiction, that determination is conclusive in subsequent suits based on a different cause of action involving a party to the prior litigation. Allen v. McCurry, 449 U.S. 90, 94, 101 S. Ct. 411, 66 L. Ed. 2d 308 (1980). Collateral estoppel requires (a) an issue at stake is identical to an issue in a prior proceeding; (b) the issue was actually litigated and decided in the prior proceeding; (c) there was a full and fair opportunity to litigate the issue; and (d) the issue was necessary to decide the merits. Oyeniran v. Holder, 672 F.3d 800, 806 (9th Cir. 2012).
+
+a. Whether the Issues Are Identical
+The websites in AJU II Silicon Valley, LLC and JWMFE Anaheim are nearly identical to defendant's website here. This is not surprising as all three websites appear to be Marriot-affiliated hotels. (See RJN, Exs. 2, 6, and 10). All three websites include descriptions of virtually identical accessibility features, including access to "accessible guest rooms with 32" doorways," "accessible route from public entrance to accessible guest rooms," "bathroom grab bars," "bathtub grab bars," roll in showers," "shower wands-adjustable," "toilet seat at wheelchair height," [*10]  "vanities accessible," and "viewports lowered." (See id.) Plaintiff has not pointed out one way in which the websites differ.
+Having found the websites nearly identical, the Court next examines whether the alleged deficiencies in the cases are similar. Here, plaintiff's complaint alleges the following defects in arguing that defendant's website does not comply with the Reservations Rule, namely that the website fails to: (i) tell plaintiff what kind of grab bars are available in the bathroom; (ii) contain information about the accessibility of the table/desk in the accessible guestroom; (iii) provide information about the accessibility of the clear space next to the bed; (iv) provide the width of the door spaces to let plaintiff know whether he is able to get into the room; (v) include the height of the toilet seat; (vi) provide information about the height of the sink and bathroom mirror; and (viii) provide information about the shower, including what kind of shower it is (standard roll-in, alternate roll-in, or transfer), whether there is a seat in the shower, and whether the shower has grab bars and a detachable shower head.
+In both JWMFE Anaheim and AJU II Silicon Valley, LLC, plaintiff's [*11]  claimed defects are identical to the alleged defects in this case. Here, the alleged defects are verbatim to the defects plaintiff alleged in AJU II Silicon Valley, LLC. (Compare Compl. ¶¶ 22) (describing missing features) with RJN, Ex. 10, ¶ 28 (same). Similarly, in JWMFE Anaheim, plaintiff's complaint alleged that the website was missing information on whether the desk/table in the room was accessible, if the sink and toilet were accessible, or if the room has accessible clear floor space. (RJN, Ex. 8, ¶ 5.) Plaintiff alleges the same defects here. (See Compl. ¶ 19) (allegations that the website did not contain sufficient information about whether there are toilet grab bars); (id. ¶ 20) ("the Hotel reservation website provides no information about the accessibility of the table/desk in the accessible guestroom"); (id. ¶ 21) ("the Hotel website provides no information about the accessibility of the clear space next to the bed").
+Thus, having compared plaintiff's allegations and defendant's website in this case with those of JWMFE Anaheim and AJU II Silicon Valley, LLC, the Court finds the issues here identical to the issues litigated in JWMFE Anaheim and AJU II Silicon Valley, LLC [*12] . Accordingly, the first requirement of collateral estoppel is met.
+
+b. The Remaining Collateral Estoppel Requirements
+The Court finds that the remaining elements of collateral estoppel are also satisfied. First, the issue of whether the Reservations Rule requires a website that already discloses several accessible features to disclose the level detail that plaintiff alleges in his complaint was actually litigated in decided in JWMFE Anaheim and AJU II Silicon Valley, LLC. In both cases, the courts found that the Reservations Rule did not require disclosure of the details alleged in plaintiff's complaint.
+Second, the Court considers whether plaintiff had a full and fair opportunity to litigate the issue in the previous cases. In both cases, the motions to dismiss were fully briefed before a decision was rendered. Thus, the Court finds that plaintiff had a full and fair opportunity to litigate the issue.
+Lastly, the Court finds that the issue was necessary to decide the merits, as plaintiff's entire case rested on whether or not the Reservations Rule required the additional disclosures plaintiff alleged in his complaint.
+Accordingly, the Court finds that collateral estoppel bars plaintiff's [*13]  claim.
+
+V. Conclusion
+For the foregoing reasons, the Court GRANTS defendant's motion to dismiss. The Clerkshall close the file.
+This Order terminates Docket Number 8.
+It Is So Ordered.
+Dated: December 10, 2021
+/s/ Yvonne Gonzalez Rogers
+Yvonne Gonzalez Rogers
+United States District Judge
+
+
+End of Document
+

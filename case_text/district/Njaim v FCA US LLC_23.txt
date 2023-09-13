@@ -1,0 +1,151 @@
+Njaim v. FCA US LLC
+United States District Court for the Northern District of Ohio, Western Division
+July 31, 2018, Filed
+Case No. 3:16CV1351
+
+Reporter
+2018 U.S. Dist. LEXIS 127636 *; 18 Accom. Disabilities Dec. (CCH) P18-079; 2018 WL 3629591
+Nick Njaim, Plaintiff v. FCA US LLC, Defendant
+Subsequent History: Affirmed by Njaim v. FCA US LLC, 2019 U.S. App. LEXIS 8064 (6th Cir.), 2019 FED App. 135N (6th Cir.) (6th Cir. Ohio, Mar. 19, 2019)
+Counsel:  [*1] For Nick Njaim, Plaintiff: Frederick M. Bean, LEAD ATTORNEY, Brian D. Spitz, Spitz Law Firm, Beachwood, OH.
+For FCA US LLC, Defendant: Heidi N. Hartman, LEAD ATTORNEY, Eastman & Smith - Toledo, Toledo, OH; Melissa A. Ebel, Eastman & Smith - Columbus, Columbus, OH.
+Judges: James G. Carr, Senior United States District Judge.
+Opinion by: James G. Carr
+Opinion
+
+
+
+ORDER
+This is an employment-discrimination case under the Family and Medical Leave Act, 29 U.S.C. § 2601, et seq. (FMLA), and Ohio law prohibiting discrimination on the basis of a disability, O.R.C. § 4112.02.
+Plaintiff Nick Njaim worked at defendant FCA US LLC's (FCA) assembly plant in Toledo, Ohio. During his tenure, Njaim sought, and FCA granted, periods of paid leave and unpaid FMLA leave to address his opioid addiction and attendant mental-health issues. When Njaim was not on leave, however, he was often late or absent from work. After FCA assessed Njaim seven "occurrence" points for these absences, FCA fired him.
+Njaim then brought this suit, alleging that FCA interfered with his FMLA rights and fired him in retaliation for exercising those rights. He also alleged the company fired him because he was disabled and refused to accommodate his disabilities. Finally, Njaim brought a claim for intentional [*2]  infliction of emotional distress, which he has since withdrawn. (Doc. 30 at 38 n.174).
+Jurisdiction is proper under 28 U.S.C. §§ 1331 and 1367(a).
+Pending is FCA's motion for summary judgment. (Doc. 28). For the following reasons, I grant the motion.
+
+Background
+In August, 2012, Njaim applied to work for FCA. The company hired him as a logistics worker at the Toledo plant in July, 2013. (Doc. 23-2; Doc. 23-1 at 10, 12).
+
+A. Attendance Policy
+As an FCA employee, Njaim was subject to a collective bargaining agreement (CBA) between FCA and the United Auto Workers (UAW), which represented plant workers.
+The CBA contained a "no fault" attendance policy that required employees to "'call in' any absence or tardy at least thirty (30) minutes prior to the start of" the employee's shift. (Doc. 23-3 at 1) (internal capitalizations omitted). "Failure to 'call in' any unscheduled absence or tardy" within that timeframe resulted in "the lost time being considered an occurrence[.]" (Id.) (internal emphasis supplied).
+An unexcused absence counted as one "occurrence," whereas a tardy counted as a "half-occurrence." (Doc. 23-4 at 1). If an employee was tardy four times in a twelve-month period, all further tardies would count as one [*3]  occurrence. (Id.). Seven occurrences subjected an employee to dismissal. (Id.) ("The 7th Occurrence will result in dismissal.").
+
+B. Njaim at Work: 2014
+Njaim apparently worked without incident at the Toledo plant until April 17, 2014, when he was late for work and incurred a half-occurrence. (Doc. 23-11 at 3).
+Three months later, FCA shut down operations at the Toledo plant from July 14 until July 21. (Id. at 9). When the plant reopened, Njaim did not return to work. Because he was absent and called in late on July 21, July 22, and July 24, he earned three full occurrences, bringing his total to 3.5 occurrences. (Doc. 23-11 at 8). FCA's attendance records do show, however, that Njaim worked on both July 23 and July 28. (Doc. 23-11 at 8; Doc. 31-2 at 1).
+
+1. First "Sickness and Accident" Leave
+Around the time of the July plant closure, Njaim testified, he was using heroin, cocaine, and "pills." (Doc. 23-1 at 18). Due to these substance-abuse issues, Njaim, on August 4, entered a rehabilitation program at Arrowhead Behavioral Health in Maumee, Ohio. (Doc. 23-8 at 2). Before he entered that program, Njaim was not seeing a physician or receiving treatment for his addiction and mental-health issues. [*4]  (Doc. 23-1 at 19-20).
+In connection with his stay at Arrowhead, Njaim requested that FCA place him on a paid medical leave of absence. (Id. at 22).
+Covered employees like Njaim are entitled to a form of paid sick leave known as "Sickness & Accident benefits." That type of leave is available when "an employee is totally disabled and unable to perform all the duties of the relevant occupation." (Doc. 27-1 at 2, ¶¶3-4). If an employee requested Sickness and Accident leave, the CBA forbade FCA to "designate S&A leave as FMLA leave unless the employee expressly requested FMLA leave." (Id. at 2, ¶6).
+According to Chris Capaldo, a Human Resources generalist at the Toledo plant, this "leave program allows [FCA] employees to obtain significantly more available leave time than the FMLA allows and is a highly desired benefit by employees." (Id.).
+The administrator of FCA's leave program, Sedgwick CMS, approved Njaim's request. (Doc. 23-7). Njaim therefore received paid benefits from July 28 through August 22. (Id.). An Arrowhead psychiatrist, Dr. Bhandari, cleared Njaim to return to work on August 23.
+
+2. Return to Work
+When an employee returns from a medical leave, FCA requires that "he present [himself] to the Employment [*5]  Office during regularly scheduled office hours with Required Medical Documentation." (Doc. 23-3 at 2) (internal emphasis omitted). If the employee works the second or third shift, as Njaim did, he must "report to HR for reinstatement processing in time to start [his] shift." (Id.). The CBA cautions that, "[i]f an employee does not complete the reinstatement process from leave as required and is not ready and available at the start of the shift . . . then he/she will be sent home and the day counts as an occurrence[.]" (Id.).
+Njaim returned to the Toledo plant on August 23 with the paperwork needed to substantiate his leave. It included a note from Dr. Bhandari stating that Njaim was "temporarily disabled and unable to work" as of on July 21 (Doc. 23-8 at 2), even though Njaim had in fact worked on July 23 and 28. Nevertheless, Njaim earned a half-occurrence on August 23 because he did not arrive early enough to complete the reinstatement process and start his shift on time. (Doc. 27-1 at 2, ¶7). This brought his occurrence tally to four.
+FCA's attendance records show that Njaim was late for work on August 26 and that he was late and did not call in on August 27 and September 3 through [*6]  September 6. (Id. at 2-3, ¶7). Njaim now had ten occurrences on his record, enough to warrant his dismissal. (Id.).
+Njaim testified that he could not remember "that whole period of time" in late August because he was taking as much as "a gram of heroin by IV daily[.]" (Doc. 23-1 at 26).
+
+3. Second "Sickness and Accident" Leave
+On September 7, 2014, a representative of the UAW's Employee Assistance Program referred Njaim to Glenbeigh Hospital for treatment of his opioid addiction. (Id. at 26, 28). Njaim requested Sickness and Accident leave in connection with this treatment, and Sedgwick approved a paid leave period through January 5, 2015. (Id. at 29).
+
+C. Njaim at Work: 2015
+Njaim returned to the Toledo plant on January 6, 2015. His medical documents substantiated his absence from September 7, 2014 through January 5, 2015, but there was no substantiation for his absences in late August and early September, 2014. (Doc. 23-10 at 1-3). Capaldo — the HR generalist who knew that "Njaim had incurred more than seven occurrences" and was therefore subject to dismissal (Doc. 27-1 at 4, ¶11) — discussed Njaim's absenteeism with the UAW. These discussions produced an agreement on FCA's part to waive some of Njaim's occurrences and [*7]  reinstate him "at a sixth attendance occurrence level[.]" (Id.).
+
+1. Request for Intermittent FMLA Leave
+In November, 2014, Njaim had asked Sedgwick to initiate a claim for FMLA leave. (Doc. 26-2 at 2; Doc. 30-5 at 4). He told Sedgwick that he did not want to open the claim until 2015 because he would be on Sickness and Accident leave through 2014. (Doc. 26-2 at 2). Sedgwick approved the claim and authorized intermittent FMLA leave from January 8, 2015 through December 31, 2015. (Doc. 23-13 at 1). The leave entitled Njaim to up to eleven absences per month. (Id.).
+Sedgwick advised Njaim by letter and over the phone that, while he was one leave, he was still "required to report all absences" covered by his leave "in accordance [with FCA's] Mandatory Call-in procedure." (Id.; Doc. 26-2 at 2, 4).
+With the FMLA leave approved, Njaim asked Capaldo if FCA would excuse him from the call-in requirement. (Doc. 23-1 at 34). Capaldo told Njaim that, if he "has a specific condition that makes him unable to follow the policy, he needs to get specific documentation from his doctor and have [the HR department] submit the paperwork to corporate for a decision." (Doc. 24-1 at 34). There is no evidence that [*8]  Njaim did so before FCA fired him.
+
+2. Further Occurrences and Dismissal
+Njaim was regularly tardy or absent from work in January (eight absences and tardies), February (eleven absences and tardies), March (ten absences and tardies), April (one absence), and May, 2015 (six absences and tardies). (Doc. 27-1 at 4, ¶13). These absences and tardies included "seven documented violations" of the call-in policy between January and May, anyone of which could have served as Njaim's seventh occurrence — and the predicate for his dismissal. (Id.). However, it was FCA's policy to discipline an employee for violating the attendance policy only if FCA discovered the violation within eight days after it happened. (Id. at 3, ¶8). Because FCA did not timely discover the first six of these "documented violations," none resulted in an occurrence point. (Id. at 4-5, ¶13).
+On May 22, Njaim violated the attendance policy by calling in at 4:51 p.m. to report that he would be late for his 5:00 p.m. shift. (Doc. 23-1 at 39; Doc. 27-1 at 5). Capaldo met with Njaim and his union representative on May 29, assessed the seventh occurrence, and fired Njaim. (Doc. 24-14 at 1). Njaim grieved his dismissal, but FCA refused to reinstate [*9]  him. (Doc. 23-16). During that process, Njaim submitted a letter from his physician, Dr. Klekot, explaining that Njaim:
+has had trouble with adhering to a strict call-off time frame. Nicholas reports his condition has been triggered instantaneously and he reports it cannot be prevented when flares occur. Should a flare occur, he reports he cannot always adhere to a strict company call-off policy of thirty minutes prior to the start of shift. Please update his FMLA records to include this medically diagnosed qualification.
+(Doc. 23-18).
+
+Standard of Review
+Summary judgment is appropriate under Fed. R. Civ. P. 56 where the opposing party fails to show the existence of an essential element for which that party bears the burden of proof. Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). The movant must initially show the absence of a genuine issue of material fact. Id. at 323.
+The burden then shifts to the nonmoving party to "set forth specific facts showing there is a genuine issue for trial." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). Rule 56 "requires the nonmoving party to go beyond the [unverified] pleadings" and submit admissible evidence supporting its position. Celotex, supra, 477 U.S. at 324.
+I accept the non-movant's evidence as true and construe all evidence in its favor. Eastman Kodak Co. v. Image Tech. Servs., Inc., 504 U.S. 451, 456, 112 S. Ct. 2072, 119 L. Ed. 2d 265 (1992).
+
+A. FMLA Claims
+Njaim claims that FCA interfered with his FMLA [*10]  rights by assessing him three occurrence points for absences in July, 2014 that the FMLA either covered or should have covered. (Doc. 30 at 21-22).
+According to Njaim, FCA never informed him of his right to take FMLA leave — even after he told Sedgwick that he needed a medical leave of absence in July and August, 2014. (Id. at 21). Had Njaim known that he could have requested FMLA leave, he would have done so, Sedgwick would have authorized FMLA leave, and FCA could not have assessed him occurrences for his absences on July 21, 22, and 24. (Id. at 22). In any event, Njaim contends, FCA interfered with his FMLA rights by assessing him occurrence points for those absences even though Dr. Bhandari certified that he was disabled as of July 21. (Id.).
+Njaim also contends that his firing was in retaliation for having taken, or attempted to take, FMLA leave on May 22, 2015. (Id. at 22-24). In Njaim's view, the temporal proximity between that protected activity and his firing on May 29 supports a causal connection. (Id. at 22-23). He further argues that FCA's reliance on the May 22 violation to fire him was pretextual because FCA does not enforce its attendance policy consistently. (Id. at 23-24).
+
+1. Interference
+"The FMLA entitles eligible employees [*11]  to take up to twelve weeks of leave during any twelve month period 'because of a serious health condition[.]'" Demyanovich v. Cadon Plating & Coatings, L.L.C., 747 F.3d 419, 427 (6th Cir. 2014) (quoting 29 U.S.C. § 2612(a)(1)(D)).
+"An employer violates the FMLA when it interferes with, restrains, or denies the exercise of or the attempt to exercise [these] FMLA rights." Id. (internal quotation marks omitted).
+To prevail on his interference claim, Njaim must show that: 1) he was an FMLA-eligible employee; 2) FCA is a covered employer; 3) he was entitled to FMLA leave; 4) he notified FCA that he intended to take leave; and 5) FCA denied him an FMLA benefit to which he was entitled. Stein v. Atlas Indus., Inc., 730 F. App'x 313, 2018 U.S. App. LEXIS 8874, 2018 WL 1719097, *1 (6th Cir. 2018).
+
+a. Notice
+Njaim's claim fails because no reasonable jury could find that he notified FCA that he wanted FMLA leave in connection with his absences on July 21, July 22, and July 24.
+Only on July 31 — between seven and ten days after the unexcused absences at issue — did Njaim contact Sedgwick about taking a medical leave. (Doc. 23-5 at 1). Even then, Njaim requested Sickness and Absence leave, not FMLA leave. (Id.). This is a critical distinction, not only because it entitled him to paid rather than unpaid leave, but also because the CBA then forbade FCA to designate Njaim's leave as FMLA leave without a request from [*12]  Njaim himself. (Doc. 27-1 at 2, ¶6). Njaim made no such request, however.
+To be sure, Njaim's brief asserts that FCA never advised him of his FMLA rights. (Doc. 30 at 21). Yet there is no evidence in the record — not even in Njaim's deposition (Doc. 23-1) or his own declaration (Doc. 30-1) - to that effect. There is thus no basis for a jury to find that FCA interfered with Njaim's FMLA rights by not informing him of those rights.
+
+b. Denial of an FMLA Benefit
+Nor could a reasonable jury find that the FMLA protected Njaim's absences on July 21, July 22, and July 24.
+For one thing, the record establishes that Njaim was working, albeit irregularly, before taking his first Sickness and Accident leave. He was present at the Toledo plant on July 23 and July 28. (Doc. 23-11 at 8; Doc. 31-2 at 1). Similarly, he was absent and called in late on July 21, 22, 24, and 25. This evidence establishes that Njaim was not, in fact, on FMLA leave.
+For another, even if Dr. Bhandari's assertion that Njaim was disabled as of July 21 could retroactively convert what were otherwise days on which Njaim was — or was supposed to be — at work into FMLA-eligible absences, it is undisputed that Njaim failed to comply [*13]  with FCA's call-in procedure on those days.
+"The FMLA explicitly permits employers to condition FMLA-protected leave upon an employee's compliance with the employer's usual notice and procedural requirement, absent unusual circumstances." Srouder v. Dana Light Axle Mfg., LLC, 725 F.3d 608, 614 (6th Cir. 2013). Because Njaim did not timely call in on these days, and because he does not contend there are "unusual circumstances," FCA did not interfere with his FMLA rights by assessing occurrence points for these absences.
+
+2. Retaliation
+"[A]n employer is prohibited from discriminating against employees who used FMLA leave, nor may they use the taking of FMLA leave as a negative factor in employment actions." Marshall v. The Rawlings Co. LLC, 854 F.3d 368, 376 (6th Cir. 2017) (internal ellipses omitted).
+As Njaim has no direct evidence of discrimination, he must show that: 1) he exercised a protected right under the FMLA; 2) FCA knew he exercised that right; 3) he suffered an adverse employment action; and 4) "a causal connection existed between his protected activity and the adverse employment action." Stein, supra, 730 F. App'x at 313, 2018 U.S. App. LEXIS 8874, 2018 WL 1719097 at *3.
+The burden then shifts to FCA to show that it had a legitimate, non-discriminatory reason for the adverse employment action. Seeger v. Cincinnati Bell Tel. Co., 681 F.3d 274, 284 (6th Cir. 2012). Finally, Njaim must show that the company's reason was pretext for unlawful [*14]  discrimination. Id. at 285.
+
+a. Exercise of a Protected Right
+FCA is entitled to summary judgment on the retaliation claim because there is no evidence that Njaim exercised a protected FMLA right on May 22.
+Although FCA had approved Njaim's request for intermittent FMLA leave from January 8, 2015 through the end of the year, it was incumbent upon Njaim to comply with FCA's call-in policy when he decided use his FMLA leave. (Doc. 23-13 at 1, 2, 4).
+There is no dispute, however, that Njaim violated the policy on May 22 by calling in only nine minutes before his shift started to report a tardy. (Doc. 23-1 at 39; Doc. 27-1 at 5). Because Njaim did not comply with FCA's call-in procedure, no jury could find that he exercised an FMLA-protected right on May 22. Alexander v. Kellogg USA, Inc., 674 F. App'x 496, 501 (6th Cir. 2017) (plaintiff who failed to notify his employer that he was taking FMLA leave on days he was absent from work did not exercise an FMLA-protected right on those days).
+
+b. Causation
+FCA is entitled to summary judgment on the further ground that Njaim has no evidence of causation.
+Njaim contends that the very short gap between his attempt to use FMLA leave on May 22 and his firing only a week later suffices to prove causation. But "the relevant timeframe [*15]  . . . to consider in determining whether there was a causal connection between the plaintiff's FMLA leave and the adverse employment action is the time after an employer learns of a protected activity." Bush v. Compass Grp. USA, Inc., 683 F. App'x 440, 452 (6th Cir. 2017) (internal quotation marks omitted).
+Here, FCA learned of the protected activity — Njaim's request to take intermittent FMLA leave — in January, 2015, nearly five months before his firing. Such an extended period of time does not establish causation. Stein, supra, 730 F. App'x 313, 2018 U.S. App. LEXIS 8874, 2018 WL 1719097 at *3 (highlighting the absence of "any binding case suggesting that a period longer than eight weeks will suffice").
+Taking another tack, Njaim contends that FCA has not consistently enforced its call-in policy, both in his own case and in the cases of other employees who were absent or tardy during an FMLA leave period but did not incur occurrence points.
+As Njaim points out, FCA did not assess him an occurrence point on every occasion it might have done so. Yet this is no evidence of causation, for the record suggests that, if anything, FCA was more lenient toward Njaim once his FMLA leave began in January, 2015. Njaim was absent or tardy far more often in 2015 than in 2014, yet the company did not fire him until what [*16]  appears to have been his thirty-sixth tardy or absence that year. That FCA treated Njaim, an employee ostensibly suffering from a drug addiction and mental-health problems, more favorably than its own attendance policy required is hardly a basis to find that FCA fired him because he had exercised his right to FMLA leave.
+Njaim's attempt to prove that FCA did not consistently enforce its attendance policy in the cases of two other "similarly situated" employees founders, too.
+To support this argument, Njaim relies on Exhibit 10 to his declaration, which appears to be the attendance records for two unidentified employees at FCA's Toledo plant. (Doc. 30-10). According to Njaim, these documents are "true and accurate cop[ies] of attendance records from my similarly situated coworkers showing FCA's inconsistent enforcement of the call off policy." (Doc. 30-1 at 4, ¶33). As far as I can tell, the records show that both employees were on FMLA leave for some period of time, that both were absent or tardy on at least one occasion, and that neither incurred an occurrence point for those absences or tardies.
+I cannot consider these materials on summary judgment because Njaim has not properly authenticated [*17]  them. To authenticate the records, Njaim "must produce evidence sufficient to support a finding that the item is what [he] claims it is." Fed. R. Evid. 901(a). But Njaim has not explained how he knows that the records are, in fact, "true and accurate" copies.
+More to the point, the records are inadmissible because they are irrelevant and purely speculative.
+All that the records establish is that two random employees did not incur occurrence points for being late or absent on a few occasions during FMLA leave. The records say nothing about who those employees are, what their circumstances were like at work, or why FCA did not assess them occurrence points. Perhaps FCA did not discover the infractions within the eight-day window it has to discipline employees who violate the attendance policy. Perhaps FCA excused the absences as part of an agreement like the one it reached with Njaim in early 2015. Perhaps there are other explanations for FCA's actions, but nothing in Njaim's declaration establishes that he has personal knowledge of the events underlying the records.
+Because the attendance records provide nothing but fodder for jury speculation, they are not admissible. Lewis v. Phillip Morris Inc., 355 F.3d 515, 533 (6th Cir. 2004) (nonmovant must point to "sufficient [*18]  probative evidence that would permit a finding in his favor on more than mere speculation, conjecture, or fantasy").
+
+c. Pretext
+Finally, Njaim has introduced no evidence that FCA's non-discriminatory reason for firing him — his unexcused absence on May 22 — was pretextual.
+"[A] plaintiff can establish pretext by showing (1) that the proffered reason had no basis in fact, (2) that the proffered reasons did not actually motivate his discipline, or (3) that they were insufficient to motivate discharge." Chattman v. Toho Tenax America, Inc., 686 F.3d 339, 349 (6th Cir. 2012).
+Invoking the latter two theories, Njaim repeats his contentions that: 1) FCA failed to enforce its attendance policy in a consistent fashion; and 2) the occurrences he received in July, 2014, and May, 2015, were improper. (Doc. 30 at 24-25). I have already explained why those contentions would not permit a jury finding for Njaim, see pp. 8-9, 10-12, supra, and I likewise conclude that they do not show pretext.
+
+B. State-Law Disability Claims1
+Njaim next claims that FCA fired him because of his disabilities. According to Njaim, he was absent from work on four days — July 21, 22, and 24, 2014, and May 22, 2015 — "because he was seeking treatment for his disabilities." (Doc. 30 at 37) (emphasis [*19]  in original). Given that "those occurrences [were] inherently connected with Njaim's disabilities," he maintains that a reasonable jury could find "that they were assessed against [him] in an unlawful manner." (Id.).
+Njaim also contends that FCA failed to accommodate his disability. He argues that he twice signaled to FCA that he needed an accommodation from the company's call-in policy, but the company refused to accommodate him without engaging in the interactive process.
+
+1. Discrimination
+To prevail on a claim of disability discrimination, Njaim must establish that: 1) he was disabled; 2) that an adverse employment action was taken, at least in part, because of his disability; and 3) that he can safely and substantially perform the essential functions of the job. Ray v. Ohio Dep't of Pub. Health, 2018-Ohio-2163, ¶24 (Ohio App. 2018).
+If Njaim makes out a prima facie case, FCA must come forward with a legitimate, non-discriminatory reason for the adverse employment action. Id. at ¶24. If FCA does so, "the burden again shifts to [Njaim] to demonstrate that the proffered reason was not the true reason for the adverse employment action." Id.
+Here, assuming arguendo that Njaim made out a prima facie case, Njaim has not created a genuine factual dispute as to [*20]  whether FCA's legitimate, non-discriminatory reason for his dismissal — violation of the attendance policy — was pretextual. Njaim relies on the same evidence and theories to prove pretext here as he did in trying to establish his FMLA retaliation claim. (Doc. 30 at 37-38). But as I have already explained, that evidence does not permit a jury to find pretext. Accordingly, FCA is entitled to summary judgment on the disability-discrimination claim.
+
+2. Failure to Accommodate
+"A plaintiff who has established that he is disabled . . . may further establish a discrimination claim by showing that the employer declined to make a reasonable accommodation to known disabilities if such accommodation would not cause undue hardship on the employer." Niles v. Nat'l Vendor Servs., Inc., 2010-Ohio-4610, ¶27 (Ohio App. 2010).
+"The disabled individual bears the initial burden of proposing an accommodation and showing that the accommodation is objectively reasonable." Id. (internal brackets omitted).
+Once the employee makes such a request, "it may be necessary for the employer to initiate an informal, interactive process with the employee." Kleiber v. Honda of America Mfg., Inc., 485 F.3d 862, 871 (6th Cir. 2007) (applying Ohio law). "The purpose of this process is to identify the precise limitations resulting from the disability and potential reasonable [*21]  accommodations that could overcome those limitations." Id. (internal quotation marks omitted).
+Njaim contends that he twice requested an accommodation from FCA's call-in policy that FCA refused to provide.
+He first points to a letter that he wrote to Capaldo on January 15, 2015. (Doc. 24-13). In this letter, which Njaim submitted in connection with his reinstatement at a sixth-occurrence level, he explained that "the sole reason" for his attendance issues was his "substance abuse/mental tragedy." (Id.). Njaim also cites Dr. Klekot's note, which he submitted during the grievance process, stating that Njaim had trouble "adhering to a strict call-off time frame" and requesting that the company make an exception. (Doc. 23-18).
+This evidence does not support a reasonable finding that FCA failed to accommodate Njaim's disability.
+To begin, Njaim's letter of January 5, 2015 was not a request for an accommodation. It does not even mention the accommodation he claims he requested: to be excused from the call-in requirement. (Doc. 24-13). By that time, moreover, FCA had approved Njaim's request for intermittent FMLA leave, but Njaim's letter did not refer to his FMLA leave or suggest it was in any [*22]  way inadequate. And while Njaim is correct that he need not use "magic words" to request an accommodation, there is simply nothing in the January letter that could have put FCA on notice that Njaim wanted an accommodation from the call-in policy. (This becomes even plainer when one compares this letter with Dr. Klekot's note.).
+Furthermore, it is undisputed that Capaldo instructed Njaim that, if he wanted an accommodation, Njaim would need "to get specific documentation from his doctor and have [the HR department] submit the paperwork to corporate for a decision." (Doc. 24-1 at 34). But Njaim failed to obtain or submit the documentation in the four months between this conversation and his firing.
+Finally, by the time Njaim submitted documentation to support his request for an accommodation — one week after his firing — he was no longer an FCA employee. Because Njaim had already violated the attendance policy for a seventh time, and because he did not submit Dr. Klekot's note beforehand, FCA had no obligation to rescind his dismissal and provide the accommodation he had not timely requested. Yarberry v. Gregg Appliances, Inc., 625 F. App'x 729, 742 (6th Cir. 2015) ("Had Yarberry not already engaged in misconduct meriting termination, it is possible that his [*23]  requests for time off due to his hospitalization might have been timely and Hhgregg would have been obliged to try to accommodate him.").
+Accordingly, FCA is entitled to summary judgment on the failure-to-accommodate claim.
+
+Conclusion
+It is, therefore,
+ORDERED THAT FCA's motion for summary judgment (Doc. 28) be, and the same hereby is, granted.
+So ordered.
+/s/ James G. Carr
+Sr. U.S. District Judge
+
+
+End of Document
+

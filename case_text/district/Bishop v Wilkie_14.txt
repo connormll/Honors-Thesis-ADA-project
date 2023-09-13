@@ -1,0 +1,53 @@
+Bishop v. Wilkie
+United States District Court for the Eastern District of Michigan, Southern Division
+April 9, 2021, Decided; April 9, 2021, Filed
+Case No. 2:19-cv-13552-APP
+
+Reporter
+2021 U.S. Dist. LEXIS 69175 *; 2021 WL 1339504
+WALLACE BISHOP, III, Plaintiff v. ROBERT WILKIE, Defendant.
+Counsel:  [*1] For Wallace Bishop, III, Plaintiff: Matthew Clark, Matthew J. Clark, PC, Detroit, MI.
+For Robert Wilkie, Defendant: Jennifer L. Newby, U.S. Attorney, Defensive Litigation, Detroit, MI.
+Judges: Anthony P. Patti, UNITED STATES MAGISTRATE JUDGE.
+Opinion by: Anthony P. Patti
+Opinion
+
+
+
+OPINION AND ORDER DENYING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT (ECF NO. 24)
+
+I. OPINION:
+
+A. Background
+On December 2, 2019, Wallace Bishop, III initiated this lawsuit against Robert Wilkie, the former Secretary of Veterans Affairs. The factual allegations underlying this complaint stem from Plaintiff's autumn 2018 application for employment as a police officer at the John D. Dingell Veterans Administration Medical Center ("VA Medical Center"). (ECF No. 1, ¶¶ 7-21.) Plaintiff's sole cause of action is an alleged violation of the Rehabilitation Act of 1973, 29 U.S.C. § 701, et seq., within which he alleges:
+• Bishop is a qualified individual with a perceived physical impairment or, in the alternative, an actual physical impairment within the meaning of the Rehabilitation Act.
+• The VA did not properly evaluate whether Bishop can perform the essential functions of the job position for which he applied.
+• Bishop could perform the essential functions of the job position to [*2]  which he applied.
+• Defendant refused to hire Bishop solely based on his perceived or actual disability.
+• Defendant failed to engage in an interactive process to discuss whether reasonable accommodations were appropriate or necessary.
+• Defendant's actions were intentional and violate the Rehabilitation Act of 1973.
+(ECF No. 1, ¶¶ 22-28.)
+
+B. Instant Motion
+Currently before the Court is Defendant's January 4, 2021 motion for summary judgment. Defendant argues that he is entitled to summary judgment on: (1) Plaintiff's claim for disability discrimination; and (2) a claim for failure to accommodate. (ECF No. 24, PageID.93-106.)
+Plaintiff filed a timely response (ECF Nos. 26, 27), and Defendant filed a reply (ECF No. 28). A hearing was noticed for April 7, 2021, at which attorney Matthew Clark and Assistant U.S. Attorney Jennifer L. Newby appeared via video conference. (ECF No. 25.) The Court gave the ruling which is reflected in this Opinion and Order from the bench and explained its reasoning at length on the record.
+
+C. Standard
+Under Federal Rule of Civil Procedure 56, "[t]he court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment [*3]  as a matter of law." Fed. R. Civ. P. 56(a). A fact is material if it might affect the outcome of the case under governing law. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). The Court "views the evidence, all facts, and any inferences that may be drawn from the facts in the light most favorable to the nonmoving party." Pure Tech Sys., Inc. v. Mt. Hawley Ins. Co., 95 F. App'x 132, 135 (6th Cir. 2004) (internal citations omitted).
+"The moving party has the initial burden of proving that no genuine issue of material fact exists . . . ." Stansberry v. Air Wis. Airlines Corp., 651 F.3d 482, 486 (6th Cir. 2011) (internal quotations omitted); cf. Fed. R. Civ. P. 56 (e)(2) (providing that if a party "fails to properly address another party's assertion of fact," then the court may "consider the fact undisputed for the purposes of the motion."). "Once the moving party satisfies its burden, 'the burden shifts to the nonmoving party to set forth specific facts showing a triable issue.'" Wrench LLC v. Taco Bell Corp., 256 F.3d 446, 453 (6th Cir. 2001) (quoting Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986)). The nonmoving party must "make an affirmative showing with proper evidence in order to defeat the motion." Alexander v. CareSource, 576 F.3d 551, 558 (6th Cir. 2009); see also Lee v. Metro. Gov't of Nashville & Davidson Cnty., 432 F. App'x 435, 441 (6th Cir. 2011) ("The nonmovant must, however, do more than simply show that there is some metaphysical doubt as to the material facts . . . . [T]here must be evidence upon which a reasonable jury could return a verdict in favor of the non-moving party to create a genuine dispute.") (internal quotation marks and citations omitted).
+Summary [*4]  judgment is appropriate if the evidence favoring the nonmoving party is merely colorable or is not significantly probative. City Management Corp. v. United States Chem. Co., 43 F.3d 244, 254 (6th Cir. 1994). In other words, summary judgment is appropriate when "a motion for summary judgment is properly made and supported and the nonmoving party fails to respond with a showing sufficient to establish an essential element of its case. . . ." Stansberry, 651 F.3d at 486 (citing Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986)).
+
+D. Discussion
+Upon consideration of the motion papers and oral argument, and for all of the reasons stated on the record by the Court, which are hereby incorporated by reference as though fully restated herein, Defendant's motion for summary judgment (ECF No. 24) is DENIED. Initially, the Court finds that Plaintiff alleges in his complaint, and has taken the position in response to the instant motion, not that Defendant failed to provide an accommodation, but that "Defendant failed to engage in an interactive process to discuss whether reasonable accommodations were appropriate or necessary." (ECF No. 1, PageID.5, ¶ 27.) He explains in his briefing and argument that he is not actually disabled, but was only "regarded as having such an impairment," 42 U.S.C. § 12102(3), that an interactive process should have resulted from this misperception [*5]  under 29 C.F.R. § 1630.2(o)(3), and that such an interactive process would have clarified that he neither suffered from a disability nor required accommodation and was indeed qualified to serve as a police officer for the Veterans Administration in Detroit. (See ECF No. 27, PageID.244-246.) In Plaintiff's own words, "[t]he issue is not that the VA refused to consider an accommodation, but that it withdrew Bishop's employment because it 'regarded him' as disabled[.]" (ECF 27, PageID.245.) This lack of engagement in an interactive process is not a cause of action, in and of itself, for which summary judgment can be granted or denied, but merely a factual allegation in support of his cause of action, although the Court notes that a covered entity is "not required to provide a reasonable accommodation to an individual who meets the definition of disability solely under the 'regarded as' prong . . . ." 29 C.F.R. § 1630.2(o)(4) (emphasis added). Rather, Plaintiff claims only a single cause of action—that Defendant rescinded his offer of employment as a police officer at the Detroit VA solely based upon his perceived or actual disability in violation of the Rehabilitation Act or, in other words, that he suffered discrimination based upon [*6]  failure to hire. (ECF No. 1, PageID.4-5, ¶¶ 22-28.)
+On that claim, and on this record, the Court finds that Defendant is not entitled to judgment as a matter of law because several genuine issues of disputed material fact remain for decision by the jury, including, inter alia: (1) whether the medical examination performed was objectively reasonable; (2) whether Defendant found Plaintiff unqualified for the position because of a perceived physical impairment, as opposed to his performance in the medical examination; (3) whether the examination performed may be considered cursory; (4) whether Dr. Rao conducted an individualized determination based upon a reasonable medical opinion; (5) the appropriateness of the VA's policy itself for determining employment qualification; (6) Dr. Rao's credibility with regard to his stated reasons for the determination and recommendation he rendered; (7) whether Plaintiff was qualified for the police officer position; and (8) whether Plaintiff was denied the position solely by reason of disability as opposed to weakened grip strength or some other reason. Viewing "the evidence, all facts, and any inferences that may be drawn from the facts in the light [*7]  most favorable to the nonmoving party[,]" Pure Tech Sys., Inc., 95 F. App'x at 135, there are genuine disputes as to material facts "upon which a reasonable jury could return a verdict in favor of the non-moving party." Metro. Gov't of Nashville, 432 F. App'x at 441. A trial is required to resolve them.
+
+II. ORDER:
+Accordingly, Defendant's January 4, 2021 motion for summary judgment (ECF No. 24) is DENIED.
+Dated: April 9, 2021
+/s/ Anthony P. Patti
+Anthony P. Patti
+UNITED STATES MAGISTRATE JUDGE
+
+
+End of Document
+

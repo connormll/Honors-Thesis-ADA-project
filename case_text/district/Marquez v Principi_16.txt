@@ -1,0 +1,88 @@
+Marquez v. Principi
+United States District Court for the District of Puerto Rico
+February 18, 2009, Decided; February 18, 2009, Filed
+CIVIL NO. 06-1581 (RLA)
+
+Reporter
+2009 U.S. Dist. LEXIS 12733 *; 13 Accom. Disabilities Dec. (CCH) P13-209
+LIZZETE T. MARQUEZ, Plaintiff, v. ANTHONY PRINCIPI, DEPARTMENT OF VETERANS AFFAIRS, Defendant.
+Counsel:  [*1] For Lizzette T. Marquez, Plaintiff: Elaine Rodriguez-Frank, LEAD ATTORNEY, San Juan, PR.
+For R. James Nicholson, Department of Veterans Affairs, Defendants: Fidel A. Sevillano-Del-Rio, LEAD ATTORNEY, United States Attorneys Office, District of Puerto Rico, San Juan, PR.
+Judges: RAYMOND L. ACOSTA, United States District Judge.
+Opinion by: RAYMOND L. ACOSTA
+Opinion
+
+
+
+ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT
+Defendant has moved the court to enter summary judgment in this case dismissing plaintiff's complaint. The court having reviewed the arguments presented by the parties as well as the documents submitted in support thereof finds that defendant's arguments are valid and that dismissal is warranted.
+
+BACKGROUND
+Plaintiff instituted these proceedings under the Rehabilitation Act of 1973, 29 U.S.C. § 794, claiming failure to accommodate and harassment in her employment allegedly due to her mental and physical disabilities. In the complaint plaintiff also cites unauthorized disclosure of private medical information protected by the Health Insurance Portability and Accountability Act ("HIPAA"), 42 U.S.C. §§ 1320d-1320d-8.
+
+SUMMARY JUDGMENT
+Rule 56(c) Fed. R. Civ. P., which sets forth the standard for ruling on summary  [*2] judgment motions, in pertinent part provides that they shall be granted "if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law." Sands v. Ridefilm Corp., 212 F.3d 657, 660-61 (1st Cir. 2000); Barreto-Rivera v. Medina-Vargas, 168 F.3d 42, 45 (1st Cir. 1999). The party seeking summary judgment must first demonstrate the absence of a genuine issue of material fact in the record. DeNovellis v. Shalala, 124 F.3d 298, 306 (1st Cir. 1997). A genuine issue exists if there is sufficient evidence supporting the claimed factual disputes to require a trial. Morris v. Gov't Dev. Bank of Puerto Rico, 27 F.3d 746, 748 (1st Cir. 1994); LeBlanc v. Great Am. Ins. Co., 6 F.3d 836, 841 (1st Cir. 1993), cert. denied, 511 U.S. 1018, 114 S.Ct. 1398, 128 L.Ed.2d 72 (1994). A fact is material if it might affect the outcome of a lawsuit under the governing law. Morrissey v. Boston Five Cents Sav. Bank, 54 F. 3d 27, 31 (1st Cir. 1995).
+"In ruling on a motion for summary judgment, the court must view 'the facts in the  [*3] light most favorable to the non-moving party, drawing all reasonable inferences in that party's favor.'" Poulis-Minott v. Smith, 388 F.3d 354, 361 (1st Cir. 2004) (citing Barbour v. Dynamics Research Corp., 63 F.3d 32, 36 (1st Cir. 1995)).
+Credibility issues fall outside the scope of summary judgment. "'Credibility determinations, the weighing of the evidence, and the drawing of legitimate inferences from the facts are jury functions, not those of a judge.'" Reeves v. Sanderson Plumbing Prods., Inc., 530 U.S. 133, 150, 120 S.Ct. 2097, 147 L.Ed.2d 105 (2000) (citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986)). See also, Dominguez-Cruz v. Suttle Caribe, Inc., 202 F.3d 424, 432 (1st Cir. 2000) ("court should not engage in credibility assessments."); Simas v. First Citizens' Fed. Credit Union, 170 F.3d 37, 49 (1st Cir. 1999) ("credibility determinations are for the factfinder at trial, not for the court at summary judgment."); Perez-Trujillo v. Volvo Car Corp., 137 F.3d 50, 54 (1st Cir. 1998) (credibility issues not proper on summary judgment); Molina Quintero v. Caribe G.E. Power Breakers, Inc., 234 F.Supp.2d 108, 113 (D.P.R. 2002). "There  [*4] is no room for credibility determinations, no room for the measured weighing of conflicting evidence such as the trial process entails, and no room for the judge to superimpose his own ideas of probability and likelihood. In fact, only if the record, viewed in this manner and without regard to credibility determinations, reveals no genuine issue as to any material fact may the court enter summary judgment." Cruz-Baez v. Negron-Irizarry, 360 F.Supp.2d 326, 332 (D.P.R. 2005) (internal citations, brackets and quotation marks omitted).
+In cases where the non-movant party bears the ultimate burden of proof, she must present definite and competent evidence to rebut a motion for summary judgment, Anderson v. Liberty Lobby, Inc., 477 U.S. at 256-257, 106 S.Ct. 2505, 91 L.Ed.2d 202; Navarro v. Pfizer Corp., 261 F.3d 90, 94 (1st Cir. 2000); Grant's Dairy v. Comm'r of Maine Dep't of Agric., 232 F.3d 8, 14 (1st Cir. 2000), and cannot rely upon "conclusory allegations, improbable inferences, and unsupported speculation". Lopez-Carrasquillo v. Rubianes, 230 F.3d 409, 412 (1st Cir. 2000); Maldonado-Denis v. Castillo-Rodriguez, 23 F.3d 576, 581 (1st Cir. 1994); Medina-Munoz v. R.J. Reynolds Tobacco Co., 896 F.2d 5, 8 (1st Cir. 1990).
+
+THE  [*5] FACTS
+Plaintiff commenced working at the San Juan Veterans Administration Medical Center ("SJ-VA") on June 13, 2004 as a Health Systems Specialist at the Utilization Management Section in the Revenue Program under the Business Office.
+Among her duties as Health Systems Specialist plaintiff had to use clinical judgment in the analysis of medical records in order to determine whether treatment provided to patients at the VA Hospital was consistent with the patient's diagnosis and medical needs. She also had to attend medical rounds and visit the emergency area as well as examine insurance cases and coverage for non-VA cases whenever necessary.
+During plaintiff's tenure, Monserrate Leon held the position of Revenue and Marketing Officer under the Business Office at the SJ-VA.
+Monserrate Leon's duties as Revenue and Marketing Officer included the supervision of the Utilization Revenue Program where plaintiff was assigned. She also signed plaintiff's evaluations.
+Carmen Nereida Garcia Robles was plaintiff's team leader. As such, she assigned plaintiff's work and prepared plaintiff's evaluations for Ms. Leon's signature.
+On or about February 16, 2005 plaintiff was hospitalized at Hospital Panamericano  [*6] due to a mental condition.
+Plaintiff was approved to return back to work by her physician effective March 21, 2005.
+On or about June 10, 2005 plaintiff's request for accommodation in her duties to avoid contact with patients due to her low immune system was denied.
+On June 14, 2005 plaintiff applied for Immediate Retirement from Federal Service.
+On June 15, 2005 plaintiff's request for participation in the Donated Voluntary Leave Transfer Program was approved.
+Plaintiff's last day at work was June 16, 2005.
+Plaintiff had an initial EEO contact on August 24, 2005.
+Plaintiff retired from Federal Service due to disability effective November 25, 2005.
+
+REHABILITATION ACT
+Disability discrimination in federal employment is specifically covered by the provisions of the Rehabilitation Act and not by the American with Disabilities Act ("ADA"), 42 U.S.C. 12101-12213. See, Enica v. Principi, 544 F.3d 328, 338 n.11 (1st Cir. 2008) ("[a]s a federal employee, [plaintiff] is covered under the Rehabilitation Act and not the ADA.")
+"The ADA and Rehabilitation Act prohibit discrimination against an otherwise qualified individual based on his or her disability. The Rehabilitation Act, the precursor of the ADA,  [*7] applies to federal agencies, contractors and recipients of federal financial assistance, while the ADA applies to private employers with over 15 employees and state and local governments." Calero-Cerezo v. United States DOJ, 355 F.3d 6, 19 (1st Cir. 2004).
+The Rehabilitation Act protects employees from disability-based harassment in the workplace if it is severe enough to constitute a hostile work environment. "To establish a hostile work environment, [plaintiff] ha[s] to show that [her] workplace was permeated with discriminatory intimidation, ridicule, and insult that was sufficiently severe or pervasive to alter the conditions of [her] employment and create an abusive working environment." Quiles-Quiles v. Henderson, 439 F.3d 1, 7 (1st Cir. 2006) (citations and internal quotation marks and brackets omitted). See also, Rios-Jimenez v. Sec'y of Veterans Affairs, 520 F.3d 31, 43 (1st Cir. 2008). "Among the factors relevant to this inquiry are the severity of the conduct, its frequency, and whether it unreasonably interfered with the victim's work performance." Quiles-Quiles, 439 F.3d at 7; Rios v. Principi, 520 F.3d at 43.
+Employees with a disability are also entitled to a reasonable accommodation in their  [*8] place of work. "In addition to prohibiting disparate treatment of individuals with disabilities, the Rehabilitation Act and American with Disabilities Act ('ADA') impose an affirmative duty on employers to offer a reasonable accommodation to a disabled employee." Enica v. Principi, 544 F.3d at 338 (internal citation and quotation marks omitted). "The federal statutes barring discrimination based on disability do more than merely prohibit disparate treatment; they also impose an affirmative duty to employers to offer a 'reasonable accommodation' to a disabled employee." Calero-Cerezo, 355 F.3d at 19-20.
+Prior to recurring to the courts for relief, employees claiming violation of the Rehabilitation Act must allow the government an opportunity to review their claims within specific time limitations.
+"An employee suing the federal government under the Rehabilitation Act must exhaust certain administrative remedies before initiating a lawsuit in federal court. The first step is to initiate contact with an EEO Counselor within 45 days of the date of the matter alleged to be discriminatory." Bruce v. U.S. Dep't of Justice, 314 F.3d 71, 74 (2nd Cir. 2002) (citations, internal quotation marks  [*9] and brackets omitted). "Under Title VII and the Rehabilitation Act, federal employees are required to initiate administrative review of any alleged discriminatory or retaliatory conduct with the appropriate agency within 45 days of the alleged discriminatory act." Shiver v. Chertoff, 549 F.3d 1342, 1344 (11th Cir. 2008).
+Failure to comply with the pre-complaint processing requirements of 29 C.F.R. § 1614.105(a)(1) - which mandate contact with an EEO counselor within 45 days of the allegedly discriminatory event - will result in the dismissal of any such claims under the Rehabilitation Act. See i.e., id. ("[g]enerally, when the claimant does not initiate contact within the 45-day charging period, the claim is barred for failure to exhaust administrative remedies"); Henrickson v. Potter, 327 F.3d 444, 446 (5th Cir. 2003) ("no viable claims under the Rehabilitation Act because [plaintiff] failed to contact the EEO counselor within 45 days of the alleged discriminatory act"); Velazquez Rivera v. Danzig, 234 F.3d 790, 794 (1st Cir. 2000) ("administrative remedies had not been exhausted since there had been no contract with an Equal Employment Opportunity Commission (EEOC) counselor within  [*10] 45 days as required by 29 C.F.R. § 1614.105(a)(1)"); Roman-Martinez v. Runyon, 100 F.3d 213, 216-18 (1st Cir. 1996) (failure to timely contact counselor entails waiver of court review).
+In cases of harassment, events occurring outside the 45-day period may be taken into consideration in ascertaining whether or not a violation of the statute has taken place. "Because acts of harassment may not all occur within the filing period, the Supreme Court has held provided that an act contributing to the claim occurs within the filing period, the entire time period of the hostile environment may be considered by a court for the purposes of determining liability." Greer v. Paulson, 378 U.S. App. D.C. 295, 505 F.3d 1306, 1313 (D.C. Cir. 2007) (citations, internal quotation marks and brackets omitted).
+
+Accommodation
+It is evident that plaintiff's claims for alleged failure to accommodate her disability-based needs at work are untimely.
+In her August 24, 2005 initial contact with an EEO counselor plaintiff indicated that she had been denied reasonable accommodation for a second time on June 10, 2005 when her petition not to make hospital rounds was denied. According to plaintiff, the first time her accommodation request had  [*11] been rejected was when she was initially hired on June 13, 2004, when she had informed Ms. Leon of her need for an assessment in her work area to adapt it to her physical disabilities. According to the Initial Contact and Interview Sheet, not only did Ms. Leon not provide her with any assistance in this regard but was angry when plaintiff was able to procure a special chair and a keyboard on her own.
+It is clear that both the June 2004 denial of accommodation in plaintiff's work area as well as the June 13, 2005 denial of plaintiff's request not to come in contact with patients fall outside the 45 day limit set by the applicable regulations.
+Because plaintiff failed to bring these two matters to the attention of the Office of Resolution Management within the required 45 day term plaintiff is precluded from raising them at this time.
+Accordingly, plaintiff's failure to accommodate claims are hereby DISMISSED.
+
+Harassment
+Plaintiff also complains that she was harassed at work due to her disability in that Ms. Leon was constantly inquiring as to her whereabouts and also denied her request for leave for her service-connected appointments.
+Even though plaintiff's June 14, 2005 application for  [*12] disability retirement was approved effective November 25, 2005, as plaintiff herself concedes, she "ceased to actively report to work" on June 17, 2005. 1
+Absent evidence to the contrary, it is axiomatic that once plaintiff ceased to attend work at the SJ-VA she was no longer subject to the alleged discriminatory harassment underlying her Rehabilitation Act complaint. Hence, the 45-day term for the EEO initial contact regarding her alleged discriminatory harassment commenced to run on June 17, 2005 and it elapsed prior to plaintiff's August 24, 2005 initial EEO contact.
+Based on the foregoing, plaintiff's claim based on a hostile environment is hereby DISMISSED.
+
+HIPAA
+In the complaint plaintiff also mentions that Ms. Leon allegedly accessed and/or received medical information regarding plaintiff's  [*13] health conditions and treatment without her authorization on at least three separate occasions.
+HIPAA was enacted to ensure the confidentiality of health information particularly given the developments in electronic communications. In order to ensure compliance, the statute includes both civil and criminal penalties for improper disclosure of protected information. Further, HIPAA specifically delegates enforcement to the Secretary of Health and Human Services.
+All courts which have addressed the issue have consistently held that HIPAA does not provide for a private cause of action to individuals protected by the statute. Acara v. Banks, 470 F.3d 560, 571 (5th Cir. 2006); Butler v. Illinois Dep't of Transp., 533 F.Supp.2d 821, 827 (N.D.Ill. 2008); Buchanan v. Gay, 491 F.Supp.2d 483, 497 (D.Del. 2007); Agee v. United States, 72 Fed. Cl. 284, 289 (Fed.Cl. 2006); Johnson v. Quander, 370 F.Supp.2d 79, 100 (D.D.C. 2005); Valentin Munoz v. Island Fin. Corp., 364 F.Supp.2d 131, 136 (D.P.R. 2005).
+Rather, relief is limited to enforcement of the statute by the Secretary of Health and Human Services as specifically provided for in the statute. Acara, 470 F.3d at 571; Agee, 72 Fed. Cl. at 289; Johnson, 370 F.Supp.2d at 100;  [*14] Valentin Munoz, 364 F.Supp.2d at 136.
+Accordingly, plaintiff is precluded from asserting breach of the HIPAA privacy provisions in this case for we lack subject matter jurisdiction to entertain any such individual claims. See Acara, 470 F.3d at 572 ("[w]e hold there is no private cause of action under HIPAA and therefore no federal subject matter jurisdiction over [plaintiff's] asserted claims"); Johnson, 370 F.Supp.2d at 100 ("because no private right of action exists under the HIPAA, this Court does not have subject matter jurisdiction over this claim"). See also, Valentin Munoz, 364 F.Supp.2d at 136.
+In her memorandum plaintiff argues that the alleged HIPAA violations were "raised in the complaint as evidence of the harassment" 2 she was allegedly subjected to at the SJ-VA. If this were the case these allegations have become moot inasmuch as plaintiff's harassment claim has been dismissed for failure to timely contact an EEO counselor.
+
+CONCLUSION
+Based on the foregoing, Defendant's Motion for Summary Judgment (docket No. 23) 3 is GRANTED.
+Accordingly, plaintiff's claims for alleged failure to accommodate and for harassment under the Rehabilitation Act are DISMISSED for failure to timely approach an EEO counselor.
+It is further ORDERED that plaintiff's claim under HIPAA is DISMISSED for lack of subject matter jurisdiction.
+Judgment shall be entered accordingly.
+IT IS SO ORDERED.
+San Juan, Puerto Rico, this 18th day of February, 2009.
+/S/ Raymond L. Acosta
+RAYMOND L. ACOSTA
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,41 @@
+Alexander v. King Cty.
+United States District Court for the Western District of Washington
+June 8, 2017, Decided; June 8, 2017, Filed
+Case No. C17-653-RSM
+
+Reporter
+2017 U.S. Dist. LEXIS 88441 *; 2017 WL 2483369
+REBECCA ALEXANDER, a single woman, Plaintiff, v. KING COUNTY, WASHINGTON, a county municipality; STATE OF WASHINGTON, one of the fifty states of the United States; BANK OF AMERICA, N.A., a national banking association; NORTHWEST TRUSTEE SERVICES, INC., a Washington corporation; U.S. BANK NATIONAL ASSOCIATION, as Trustee for Harborview Mortgage Loan Trust 2005-12, Mortgage Loan Pass-through Certificates, Series 2005-12 Trust; NATIONSTAR MORTGAGE, LLC, a foreign entity; JOHN DOE TRUSTEE; JOHN DOE TRUST; MERS, a foreign corporation, Defendants.
+Subsequent History: Reconsideration denied by Alexander v. King Cty., 2017 U.S. Dist. LEXIS 96842 (W.D. Wash., June 20, 2017)
+Reconsideration denied by Alexander v. King Cty., 2017 U.S. Dist. LEXIS 98350 (W.D. Wash., June 26, 2017)
+Costs and fees proceeding at, Motion granted by, in part Alexander v. King Cty., 2017 U.S. Dist. LEXIS 107279 (W.D. Wash., July 11, 2017)
+Counsel:  [*1] For Rebecca Alexander, a single woman, Plaintiff: Scott E Stafne, LEAD ATTORNEY, STAFNE TRUMBULL LLC, ARLINGTON, WA.
+For King County, Washington, a county municipality, Defendant: John F. Briggs, KING COUNTY PROSECUTOR'S OFFICE - THIRD AVE, SEATTLE, WA.
+For State of Washington, on of the fifty states of the United States, Defendant: Leslie R Seffern, ATTORNEY GENERAL'S OFFICE (40123-OLY), OLYMPIA, WA.
+For Northwest Trustee Services, Inc., a Washington corporation, Defendant: Joshua Schaer, LEAD ATTORNEY, RCO LEGAL, P.S., BELLEVUE, WA.
+For U.S Bank National Association, as Trustee for Harborview Mortgage Loan Trust 2005-12, Mortgage Loan Pass-through Certificates, Series 2005-12 Trust, Nationstar Mortgage LLC, a foreign entity, MERS, a foreign corporation, Defendants: Adam G Hughes, LEAD ATTORNEY, AFRCT, LLP (WA), SEATTLE, WA.
+Judges: RICARDO S. MARTINEZ, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: RICARDO S. MARTINEZ
+Opinion
+
+
+ORDER GRANTING PLAINTIFF'S MOTION FOR REMAND
+This matter comes before the Court on Plaintiff Rebecca Alexander's Motion to Remand. Dkt. #10. Ms. Alexander points out that, although this case was removed under federal question jurisdiction, see Dkt. #1, her Complaint "does not allege any federal [*2]  cause of action" and "specifically asserts her causes of action, including any related to disability, are not based on federal law." Dkt. #10 at 6 (citing Dkt. #1-1 at 22-31).
+In Response, Defendants argue that Plaintiff's Complaint: a) references the Americans with Disabilities Act ("ADA") by noting that Washington State courts are required to accommodate her disabilities; b) alleges that Defendants actions caused her to become permanently disabled; and c) cites "to a recent Bankruptcy Court decision awarding punitive damages under federal law against Bank of America." Dkt. #14 at 2. Defendants state that Plaintiff's state court Motion for Temporary Restraining Order posited the issue "[s]hould this Court order that Alexander be required to pay no bond, or a nominal bond, as an accommodation under the ADA...?" Id. at 3 (citing Dkt. #2-1 at 8). Defendants argue that, although Plaintiff fails to bring any federal claims, "a federal court has jurisdiction of a state-law claim if it 'necessarily raise[s] a stated federal issue, actually disputed and substantial, which a federal forum may entertain without disturbing any congressionally approved balance' of federal and state power." Id. at 4 (citing Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Manning, 136 S. Ct. 1562, 1570, 194 L. Ed. 2d 671 (2016)). Defendants also [*3]  cite to the "artful pleading" doctrine, which provides that a plaintiff "may not avoid federal jurisdiction by omitting from the complaint allegations of federal law that are essential to the establishment of the claim." Lippitt v. Raymond James Fin. Servs., 340 F.3d 1033, 1041 (9th Cir. 2003) (internal quotation marks omitted). Defendants argue that Plaintiff's Complaint "necessarily raise[s] issues under the ADA that are actually disputed, substantial, and capable of resolution in federal court without disrupting the federal-state balance approved by Congress." Dkt. #14 at 5. Defendants dispute having violated the ADA.
+On Reply, Plaintiff again points out that she did not raise the ADA as a claim against Defendants, but simply "notifie[d] the Snohomish County Superior Court [] that it must follow those requirements imposed on it by... the ADA." Dkt. #17 at 2. Plaintiff argues that "Defendants cite no authority supporting the proposition that mere mention of the word 'disability' in a state tort cause of action allows this Court to jump in and take over." Id. at 3.
+When a case is filed in state court, removal is typically proper if the complaint raises a federal question or where there is diversity of citizenship between the parties and the amount in controversy exceeds $75,000. [*4]  28 U.S.C. §§ 1331, 1332(a). Typically, it is presumed "'that a cause lies outside [the] limited jurisdiction [of the federal courts] and the burden of establishing the contrary rests upon the party asserting jurisdiction.'" Hunter v. Philip Morris USA, 582 F.3d 1039, 1042 (9th Cir. 2009) (quoting Abrego v. Dow Chem. Co., 443 F.3d 676, 684 (9th Cir. 2006) (per curiam) (citing Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375, 377, 114 S. Ct. 1673, 128 L. Ed. 2d 391 (1994)) (alterations in original). An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. 28 U.S.C. § 1447(c). The removal statutes are construed restrictively, and any doubts about removability are resolved in favor of remanding the case to state court. Gaus v. Miles, Inc., 980 F.2d 564, 566 (9th Cir. 1992).
+The Court finds that Plaintiff does not plead a federal cause of action and there is not otherwise a basis for federal question jurisdiction. Plaintiff's references to the ADA in pleading and briefing refer to the state court's obligations, not a claim against Defendants. Plaintiff's allegation that Defendants' actions caused her to become disabled does not create an implicit ADA claim. Given the above standards presuming limited jurisdiction, the Court finds that Defendants have failed to meet their burden for showing this Court's jurisdiction.
+Having reviewed the relevant pleadings, the declarations and exhibits attached thereto, and the [*5]  remainder of the record, the Court hereby finds and ORDERS that:
+1. Plaintiff Rebecca Alexander's Motion to Remand (Dkt. #10) is GRANTED.
+2. Plaintiff is entitled to fees and costs under 28 U.S.C. § 1447(c). No later than ten (10) days from the date of this Order, Plaintiff may file a Supplemental Motion for Attorneys' Fees, noted pursuant to LCR 7(d), and limited to six (6) pages and supported by documentary evidence reflecting the amount of fees and costs sought. Plaintiffs may file a Response addressing only the reasonableness of the fees and costs requested, and limited to six (6) pages. No Reply is permitted.
+3. Defendants' Motion to Dismiss (Dkt. #12) is DENIED AS MOOT.
+4. This case is hereby REMANDED to the Superior Court of Washington State in and for the County of Snohomish.
+5. This matter is now CLOSED.
+DATED this 8th day of June, 2017.
+/s/ Ricardo S. Martinez
+RICARDO S. MARTINEZ
+CHIEF UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

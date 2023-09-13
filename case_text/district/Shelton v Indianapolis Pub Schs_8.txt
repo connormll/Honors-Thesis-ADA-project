@@ -1,0 +1,46 @@
+Shelton v. Indianapolis Pub. Schs
+United States District Court for the Southern District of Indiana, Indianapolis Division
+January 31, 2020, Decided; January 31, 2020, Filed
+No. 1:18-cv-01676-JRS-TAB
+
+Reporter
+2020 U.S. Dist. LEXIS 17098 *; 2020 WL 509176
+DEITRA SHELTON, Plaintiff, v. INDIANAPOLIS PUBLIC SCHOOLS, Defendant.
+Counsel:  [*1] For Deitra Shelton, Plaintiff: Jay Meisenhelder, JAY MEISENHELDER EMPLOYMENT & CIVIL RIGHTS LEGAL SERVICES PC, Indianapolis, IN USA.
+For Indianapolis Public Schools, Lewis D. Ferebee, Kenneth Pack, Defendants: Jeffrey Scott Beck, FAEGRE DRINKER BIDDLE & REATH LLP (Indianapolis), Indianapolis, IN USA; Raphael B. Coburn, FAEGRE BAKER DANIELS LLP (Minneapolis), Minneapolis, MN USA.
+For Indiana-Kentucky Counsel 962 Afscme, Afscme Local 661, Defendants: David T. Vlink, William R. Groth, MACEY SWANSON LLP, Indianapolis, IN USA.
+Judges: JAMES R. SWEENEY II, United States District Judge.
+Opinion by: JAMES R. SWEENEY II
+Opinion
+
+
+
+Entry Granting Defendant's Motion for Summary Judgment
+Plaintiff Deitra Shelton alleges that her former employer, Defendant Indianapolis Public Schools ("IPS"), failed to provide a reasonable accommodation for her disability in violation of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et seq. 1 IPS moves for summary judgment. Because the uncontroverted evidence establishes that IPS did not violate the ADA, IPS is entitled to judgment as a matter of law.
+Shelton worked as a school bus driver for IPS for more than twenty years, until she injured her hip on the job and could not return to duty. (Shelton Dep. 22:6-11, [*2]  38:25-39:10, 43:4-14, ECF No. 46-2.) Shelton's doctor imposed various work restrictions: (1) ten minutes of sitting for each hour of standing; (2) less than 30 percent of each workday spent lifting, carrying, stooping, or bending; and (3) no driving or riding a bus. (Pack Decl., Ex. 3, Ex. 4, ECF No. 46-1.) IPS reassigned Shelton to answer phones, (Shelton Dep. 55:5-16), and after about two months, Shelton took a leave of absence, (id. at 60:23-61:2).
+Shelton requested reassignment as an accommodation, (id, at 81:5-17, 83:22-84:3), and IPS offered to reassign her to various positions, (id. at 91:12-92:19, 94:17-22). Shelton declined those positions. Instead, she sought reassignment to Coordinator of Internal Affairs and Investigations ("CIAI"), Student Information System Specialist, or Administrative Associate — Employee Relations. IPS did not reassign Shelton to any of those positions, and she did not return to work at IPS. (Shelton Dep. 60:23-61:2.) Shelton alleges that IPS denied her a reasonable accommodation by failing "to engage in an interactive process to determine if the [CIAI] position could be modified" for her. (Am. Comp. ¶ 56.)
+To prevail on her failure-to-accommodate claim, [*3]  Shelton must show that (1) she was a qualified individual with a disability, (2) IPS was aware of her disability, and (3) IPS failed to reasonably accommodate her disability. See James v. Hyatt Regency Chicago, 707 F.3d 775, 782 (7th Cir. 2013). The first two elements are undisputed here; the only issue is whether, by declining to reassign Shelton to the CIAI position, IPS failed to reasonably accommodate Shelton's disability. In support of summary judgment, IPS contends that it was not obligated to reassign Shelton to the CIAI position because she was not qualified for the position and because it would have been a promotion from Shelton's bus driver position. IPS further contends that it satisfied its obligations under the ADA by offering Shelton positions within her restrictions. In response, Shelton argues that she was qualified for the CIAI position, that IPS was not prohibited from promoting her, and that IPS could have restructured the position—reducing the salary—so that it would not have been a promotion.
+The ADA requires employers to make reasonable accommodations for the known limitations of an otherwise qualified individual with a disability. 42 U.S.C. § 12112(b)(5)(A). A "reasonable accommodation" may include, among other things, job restructuring or reassignment [*4]  to a vacant position. See id. § 12111(9)(B). But the ADA is a nondiscrimination statute, not a mandatory preference statute, Dalton v. Subaru-Isuzu Auto., Inc., 141 F.3d 667, 679 (7th Cir. 1998), so "the employer is not required to give the disabled employee preferential treatment, as by giving her a job for which another employee is better qualified, or by waiving [the] normal requirements for the job in question," Williams v. United Ins. Co. of Am., 253 F.3d 280, 282 (7th Cir. 2001) (citations omitted). Nor is the employer required to promote the disabled employee. Brown v. Milwaukee Bd. of Sch. Dirs., 855 F.3d 818, 828 (7th Cir. 2017); see also Dalton, 141 F.3d at 679 ("the 'broad range' of jobs to which an employer must look when considering transfer as a reasonable accommodation for a disabled employee is bounded above by the employer's freedom not to offer promotions").
+The uncontroverted evidence shows that the CIAI position paid 25 percent more than Shelton's bus driver position and required more specialized skill and greater education and experience. (Pack Decl. ¶ 16.) A reasonable jury could only conclude that reassignment to the CIAI position would have been a promotion. See Brown, 855 F.3d at 828.
+Shelton concedes that IPS was not obligated to promote her but argues that IPS was not prohibited from promoting her. (Pl.'s Br. Resp. 8.) Liability arises from doing what the law forbids or failing to do what the law requires, not from failing [*5]  to do the infinite variety of things the law does not forbid. IPS did not violate the ADA by declining to promote Shelton from bus driver to Coordinator of Internal Affairs and Investigations.
+Shelton further argues that IPS could have restructured the CIAI position by reducing the salary so that her reassignment would not constitute a promotion. Under certain circumstances, the ADA may require employers to restructure a position to accommodate "the known physical or mental limitations of an otherwise qualified individual with a disability." See 42 U.S.C. §§ 12112(b)(5)(A), 12111(9)(B); Fedro v. Reno, 21 F.3d 1391, 1396 (7th Cir. 1992) ("Under certain circumstances, reasonable accommodation may even include a requirement that an employer alter existing policies or procedures that it would not change for nonhandicapped employees. In each of these cases, however, one factor remained constant: the requested accommodation was related to the individual's handicap.") (citations omitted, emphasis in original). Shelton's proposed restructuring—reducing the salary—has nothing to do with her hip injury or work restrictions. In other words, reducing the salary would not be an accommodation to Shelton's "known physical or mental limitations." IPS did not violate the ADA by failing [*6]  to reduce the salary of the CIAI position.
+IPS is entitled to summary judgment because the CIAI position would have been a promotion, and the ADA does not require employers to promote employees to accommodate them. The Court does not reach IPS's additional arguments (i.e., that Shelton refused positions proposed by IPS and that Shelton was not qualified for the CIAI position).
+Accordingly, IPS's motion for summary judgment (ECF No. 46) is granted, and Shelton's claims are dismissed on the merits with prejudice. Final judgment will be entered separately.
+SO ORDERED.
+Date: 1/31/2020
+/s/ James R. Sweeney II
+JAMES R. SWEENEY II, JUDGE
+United States District Court
+Southern District of Indiana
+
+Final Judgment
+Consistent with the Entry signed today, the Court now enters final judgment in favor of Defendant Indianapolis Public Schools. Plaintiff Deitra Shelton shall taking nothing by her complaint, and this case is closed.
+Date: 1/31/2020
+/s/ James R. Sweeney II
+JAMES R. SWEENEY II, JUDGE
+United States District Court
+Southern District of Indiana
+
+
+End of Document
+

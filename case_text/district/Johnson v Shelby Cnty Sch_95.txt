@@ -1,0 +1,57 @@
+Johnson v. Shelby Cnty. Sch.
+United States District Court for the Western District of Tennessee, Western Division
+April 11, 2017, Decided; April 11, 2017, Filed
+No. 2:17-cv-02144-JTF-dkv
+
+Reporter
+2017 U.S. Dist. LEXIS 55728 *; 2017 WL 1326309
+BRENDA JOHNSON, Plaintiff, v. SHELBY COUNTY SCHOOLS, Defendant.
+Prior History: Johnson v. Shelby Cnty. Sch., 2017 U.S. Dist. LEXIS 55065 (W.D. Tenn., Mar. 9, 2017)
+Counsel:  [*1] Brenda Johnson, Plaintiff, Pro se, Memphis, TN.
+Judges: John T. Fowlkes, Jr., United States District Judge.
+Opinion by: John T. Fowlkes, Jr.
+Opinion
+
+
+
+ORDER ADOPTING THE MAGISTRATE JUDGE'S REPORT AND RECOMMENDATION
+Before the Court is Judge Vescovo's Report and Recommendation for sua sponte Dismissal. (ECF No. 8). This case was referred to the United States Magistrate Judge for management and for all pretrial matters for determination and/or report and recommendation as appropriate. (Admin. Order 2013-05, April 29, 2013). Judge Vescovo issued her Report and Recommendation on March 9, 2017. A copy of the Report and Recommendation was mailed to Brenda Johnson ("Plaintiff"). To date, no objections have been filed.
+After a de novo review, the Court hereby ADOPTS the Magistrate's Repot and Recommendation.
+
+FINDINGS OF FACT
+This Court adopts the Magistrate Judge's proposed findings of fact in this case. See (ECF No. 8).
+
+LEGAL STANDARD
+
+A. Standard for District Court's Review of a Report and Recommendation
+The district court has the authority to refer certain pre-trial matters to a magistrate judge for resolution. 28 U.S.C. § 636(b); Callier v. Gray, 167 F.3d 977, 980 (6th Cir. 1999). These referrals may include non-dispositive pretrial matters, such as a motion to compel or a motion for a protective [*2]  order concerning discovery. 28 U.S.C. § 636(b)(1)(A). The district court has appellate jurisdiction over any decisions the magistrate judge issues pursuant to such a referral. Fed. R. Civ. P. 72. The referrals may also include dispositive matters such as a motion for summary judgment or a motion for injunctive relief. 28 U.S.C. § 636(b)(1)(B). When a dispositive matter is referred, the magistrate judge's duty is to issue proposed findings of fact and recommendations for disposition, which the district court may adopt or not. "The district judge may accept, reject, or modify the recommended disposition; receive further evidence; or return the matter to the magistrate judge with instructions." Fed. R. Civ. P. 72(b)(3).
+The standard of review that is applied by the district court depends on the nature of the matter considered by the magistrate judge. If the magistrate judge issues a non-dispositive pretrial order, the district court should defer to that order unless it is "found to be clearly erroneous or contrary to law." 28 U.S.C. § 636(b)(1)(A); Fed. R. Civ. P. 72(a). However, if the magistrate judge order was issued in response to a dispositive motion, the district court should engage in de novo review of all portions of the order to which specific written objections have been made. 28 U.S.C. § 636(b)(1)(A); Fed. R. Civ. P. 72(a); Baker v. Peterson, 67 Fed. Appx. 308, 311, 2003 WL 21321184 *2 (6th Cir. 2003) ("A district court normally [*3]  applies a 'clearly erroneous or contrary to law' standard of review for non[-]dispositive preliminary measures. A district court must review dispositive motions under the de novo standard.").
+
+B. Standard for Motion To Dismiss
+When assessing a plaintiff's claim at the Fed. R. Civ. P. 12 (b)(6) motion to dismiss stage, the Sixth Circuit has stated that a complaint must allege sufficient facts to state a plausible claim for relief, and that a reviewing court must "construe the complaint in the light most favorable to the plaintiff and accept all allegations as true." Keys v. Humana, Inc., 684 F.3d 605, 608 (6th Cir. 2012). "Pro se complaints are held to a less stringent standard than pleadings drafted by lawyers." Erickson v. Pardus, 551 U.S. 89, 94, 127 S. Ct. 2197, 167 L. Ed. 2d 1081 (2007). However, pro se litigants "are not exempt from the requirements of the Federal Rules of Civil Procedure." Wells v. Brown, 891 F.2d 591, 594 (6th Cir. 1989); see also Brown v. Matauszak, 415 F. App'x 608, 613 (6th Cir. 2011) ("[A] court cannot create a claim which [a plaintiff] has not spelled out in his pleading.") (internal quotation marks omitted).
+
+ANALYSIS
+
+A. Title VII Religious Discrimination Claim
+On March 2, 2017, Plaintiff filed a pro se Complaint under Title VII of the Civil Rights Act of 1964 against the defendant, Shelby County Schools ("SCS"). To establish a prima facie claim for religious discrimination under Title VII, the Sixth Circuit requires a [*4]  plaintiff to show that "(1) [s]he holds a sincere religious belief that conflicts with an employment requirement; (2) [s]he has informed the employer about the conflicts; and (3) [s]he was discharged or disciplined for failing to comply with the conflicting employment requirement." Tepper v. Potter, 505 F.3d 508, 514 (6th Cir. 2007) (citing Smith v. Pyro Mining Co., 827 F.2d 1081, 1084 (6th Cir. 1987)). Plaintiff alleges that Shelia Gray ("Gray"), an employee of Shelby County Schools, terminated her because of religious beliefs held by Gray. (ECF No. 1 at 5). However, Plaintiff does not allege that she was terminated because of any religious beliefs that she personally holds. Therefore, Plaintiff's Complaint fails to allege the essential elements of a religious discrimination claim under Title VII. This claim is DISMISSED.
+
+B. ADA Claims
+Plaintiff also asserts a disability discrimination claim under the Americans with Disabilities Act of 1990 ("ADA") against SCS. If a plaintiff presents direct evidence of disability discrimination,
+(1) The plaintiff bears the burden of establishing that he or she is disabled. (2) The plaintiff bears the burden of establishing that he or she is "otherwise qualified" for the position despite his or her disability: (a) without accommodation from the employer; (b) with an alleged "essential" [*5]  job requirement eliminated; or (c) with a proposed reasonable accommodation. (3) The employer will bear the burden of proving that a challenged job criterion is essential, and therefore a business necessity, or that a proposed accommodation will impose an undue hardship upon the employer.
+Thompson v. Henderson, 226 Fed. Appx. 466, 472 (6th Cir. 2007). However, if a plaintiff seeks to indirectly establish a prima facie claim of disability discrimination under the ADA, a burden-shifting approach applies. Id; see also McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973); Texas Dep't of Cmty. Affairs v. Burdine, 450 U.S. 248, 101 S. Ct. 1089, 67 L. Ed. 2d 207 (1981). The plaintiff must show: "1) he or she is disabled; 2) otherwise qualified for the position, with or without reasonable accommodation; 3) suffered an adverse employment decision; 4) the employer knew or had reason to know of the plaintiff's disability; and 5) the position remained open while the employer sought other applicants or the disabled individual was replaced." Daugherty v. Sajar Plastics, Inc., 544 F.3d 696, 703 (6th Cir. 2008) (citations omitted). Here, Plaintiff does not offer direct evidence that shows a discriminatory motive by SCS. Therefore, Plaintiff must proceed with circumstantial evidence and establish a prima facie case under the McDonnell Douglas/Burdine framework.
+After a review of Plaintiff's Complaint, the Magistrate Judge correctly found that Plaintiff did not pled sufficient [*6]  facts to establish the prima facie elements of her ADA disability discrimination claim. Therefore, this claim is DISMISSED.
+The Magistrate Judge also interpreted Plaintiff's Complaint to allege a failure-to-accommodate claim. To establish a prima facie case for failure to provide a reasonable accommodation, the Sixth Circuit requires a plaintiff to show that: (1) [s]he is disabled within the meaning of the Act; (2) [s]he is otherwise qualified for the position, with or without reasonable accommodation; (3) h[er] employer knew or had reason to know about h[er] disability; (4) [s]he requested an accommodation; and (5) the employer failed to provide the necessary accommodation." Melange v. City of Center Line, 482 F. App'x 81, 84 (6th Cir. 2012) (citing Johnson v. Cleveland City Sch. Dist., 443 F. App'x 974, 982-83 (6th Cir. 2011)).
+Once the prima facie case is established, "the burden shifts to the employer to demonstrate that any particular accommodation would impose an undue hardship on the employer." Johnson, 443 F. App'x at 983. After the employee requests an accommodation, "the employer has a duty to engage in an 'interactive process' to 'identify the precise limitations resulting from the disability and potential reasonable accommodations that could overcome those limitations.'" Melange, 482 F. App'x at 84-85 (citing Kleiber, 485 F.3d at 871). Such "'interactive process requires communication and good-faith exploration of possible [*7]  accommodations.'" Kleiber, 485 F.3d at 871 (citing Barnett v. U.S. Air, Inc., 228 F.3d 1105, 1114 (9th Cir. 2000)).
+"The term 'qualified individual' means an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds . . . ." 42 U.S.C. § 12111(8). "[T]he employee bears the burden of showing she can perform the 'essential functions' of the job, with or without accommodation." Johnson, 443 F. App'x at 983. Additionally, "the ADA does not require employers to accommodate individuals by shifting an essential job function onto others." Hoskins v. Oakland Cnty. Sheriff's Dep't, 227 F.3d 719, 729 (6th Cir. 2000). A job function is essential if its removal would fundamentally alter the position." Kiphart v. Saturn Corp., 251 F.3d 573, 584 (6th Cir. 2001) (citing 42 U.S.C. § 12111(8)).
+After a review of Plaintiff's Complaint, the Magistrate Judge correctly found that Plaintiff did not plead sufficient facts to establish the prima facie elements of her failure-to-accommodate claim. This claim is DISMISSED.
+CONCLUSION
+For the reasons set forth above, the Court ADOPTS the Magistrate Judge's Report and Recommendation.
+IT IS THEREFORE ORDERED that Plaintiff's Complaint is DISMISSED.
+IT IS SO ORDERED on this 11th day of April, 2017.
+/s/ John T. Fowlkes, Jr.
+John T. Fowlkes, Jr.
+United States District Judge
+
+
+End of Document
+

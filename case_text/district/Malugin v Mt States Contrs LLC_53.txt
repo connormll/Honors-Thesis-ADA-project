@@ -1,0 +1,43 @@
+Malugin v. Mt. States Contrs., LLC
+United States District Court for the Middle District of Tennessee, Nashville Division
+February 23, 2017, Filed
+Case No. 3:15-cv-01117
+
+Reporter
+2017 U.S. Dist. LEXIS 25581 *; 2017 WL 712749
+WAYLAN MALUGIN, Plaintiff, v. MOUNTAIN STATES CONTRACTORS, LLC, Defendant.
+Counsel:  [*1] Waylan Malugin, Plaintiff, Pro se, Culleoka, TN.
+For Mountain States Contractors, LLC, Defendant: Jason M. Pannu, LEAD ATTORNEY, Lewis, King, Krieg & Waldrop, P.C., Nashville, TN; Emily Harper Mack, Lewis, Thomason, King, Krieg & Waldrop, P.C. (Nashville), Nashville, TN.
+Judges: KEVIN H. SHARP, UNITED STATES DISTRICT JUDGE. Magistrate Judge Frensley.
+Opinion by: KEVIN H. SHARP
+Opinion
+
+
+
+MEMORANDUM AND ORDER
+Plaintiff Waylan Malugin ("Malugin") brings a claim against Defendant Mountain States Contractors, LLC ("MSC") for disability discrimination under the Americans with Disabilities Act Amendments Act of 2008 ("ADAAA") and "breach of the interactive process for a reasonable accommodation of use of medication." (Docket No. 1, Compl. at 3, ¶ 10). Pending before the Court is Defendant MSC's Motion for Summary Judgment, (Docket No. 19), to which Plaintiff Malugin has neither filed a Response in Opposition,1 nor sought an extension of time within which to respond. For the reasons set forth below, the Court will grant Defendant MSC's Motion for Summary Judgment.
+
+FACTUAL BACKGROUND
+Unless stated otherwise, the following facts come from Defendant MSC's Concise Statement of Undisputed Material Facts. (Docket No. 21). Plaintiff Malugin filed suit for "disability discrimination under [*2]  the ADAAA" and "breach of the interactive process" based on an employee-employer relationship. In Plaintiff Malugin's EEOC Charge of Discrimination, he asserts the following:
+I am an individual with a disability as that term of art is defined by the ADA, with amendments. I was administered a drug test at work and my prescribed medications caused me to fail the drug test. I engaged in the interactive process with my employer concerning how I did not use illicit drugs, but rather prescription drugs. My employer advised me that I would just need a note from my physician indicating how the prescription drug caused the result. I kept in contact with my employer by phone and in person while I awaited my physician's letter. My employer even stated an understanding that I could not hurry up the doctor. However, when I presented the note, I was first told by my employer that it was "too late" and, later, I was told that the employer did not want me working due to the medications I was taking.
+(Docket No. 22-1). That alleged discrimination took place between January 1, 2015 and February 17, 2015. However, Plaintiff Malugin was not an employee of Defendant MSC between those dates. Rather, Jones [*3]  Bros. Contractors, LLC f/k/a HMA Contractors, LLC ("JBC") employed Plaintiff Malugin from January 1, 2015 through February 17, 2015.
+
+STANDARD OF REVIEW
+Summary judgment "is appropriate only where 'the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law.'" Whitfield v. Tennessee, 639 F.3d 253, 258 (6th Cir. 2011) (quoting Fed. R. Civ. P. 56(c)). The burden of establishing that there is no genuine issue of material fact falls upon the moving party. See Celotex Corp. v. Catrett, 477 U.S. 317, 330, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). The Court must view the facts and draw all reasonable inferences therefrom in the light most favorable to the non-moving party. See Reeves v. Sanderson Plumbing Prods., Inc., 530 U.S. 133, 150, 120 S. Ct. 2097, 147 L. Ed. 2d 105 (2000). To establish a genuine issue as to the existence of a particular element, the non-moving party must point to evidence in the record upon which a reasonable jury could find in its favor. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). The genuine issue must also be material; that is, it must involve facts that might affect the outcome of the suit. See id.
+Where, as here, a party fails to respond to a summary judgment motion, the Court may accept the moving party's version of the facts. See Guarino v. Brookfield Twp. Trustees, 980 F.2d 399, 404-05 (6th Cir. 1992). However, "a district court cannot grant summary judgment in favor of a movant simply because [*4]  the adverse party has not responded." Carver v. Bunch, 946 F.2d 451, 455 (6th Cir. 1992). Rather, "[t]he court is required, at a minimum, to examine the movant's motion for summary judgment to ensure that [the movant has demonstrated the absence of a genuine issue of material fact.]" Id.
+
+ANALYSIS
+The ADAAA states that "[n]o covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). A plaintiff establishes a prima facie case of disability discrimination under the ADAAA by showing that: (1) he is disabled within the meaning of the statute; (2) he is otherwise qualified to perform the essential functions of the job, with or without reasonable accommodation; and (3) he suffered an adverse employment action because of the disability. Henderson v. Ardco, Inc., 247 F.3d 645, 649 (6th Cir. 2001).
+Defendant MSC argues that it is entitled to summary judgment as a matter of law. Its argument goes to the third prong of Plaintiff Malugin's prima facie case of disability discrimination, namely that it did not subject Plaintiff Malugin to an adverse employment action because of his disability. [*5]  Defendant MSC argues that it is impossible for it to have committed "any act of employment discrimination or breach of the interactive process" because it did not employ Plaintiff Malugin during the timeframe Plaintiff Malugin alleges that he was subjected to disability discrimination. (Docket No. 20 at 3).
+According to the undisputed evidence in the record, Plaintiff Malugin alleges that the disability discrimination took place between January 1, 2015 and February 17, 2015. However, Defendant MSC has submitted affidavits from Andrew Wall, Chief Manager of Defendant MSC, and Kathleen Keel, Director of Human Resources for JBC, that establish that Plaintiff Malugin was an employee of the latter—not the former—during that time period. (Docket Nos. 22 & 23). Therefore, this Court finds that Defendant MSC has carried its burden and established entitlement to summary judgment as a matter of law.
+
+CONCLUSION
+For the foregoing reasons, Defendant MSC's Motion for Summary Judgment, (Docket No. 19), is GRANTED. This case is hereby DISMISSED, and the Clerk is directed to close the file. This Order shall constitute the final judgment in this case pursuant to Fed. R. Civ. P. 58.
+It is SO ORDERED.
+/s/ Kevin H. Sharp
+KEVIN [*6]  H. SHARP
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

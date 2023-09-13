@@ -1,0 +1,98 @@
+Squiers v. Washtenaw Cnty.
+United States District Court for the Eastern District of Michigan, Southern Division
+May 17, 2023, Decided; May 17, 2023, Filed
+Case No. 21-11956
+
+Reporter
+2023 U.S. Dist. LEXIS 86552 *; 2023 WL 3506422
+KATHLEEN SQUIERS, AS AN INDIVIDUAL, Plaintiff, v. WASHTENAW COUNTY, Defendant.
+Subsequent History: Reconsideration denied by Squiers v. Washtenaw Cnty., 2023 U.S. Dist. LEXIS 122496 ( E.D. Mich., July 17, 2023)
+Counsel:  [*1] For Kathleen Squiers, Plaintiff: Scott P. Batey, Batey Law Firm, PLLC, Bingham Farms, MI.
+For Washtenaw County, Defendant: Richard W. Warren, Miller, Canfield, Detroit, MI; Schuyler Ferguson, Miller Canfield, Detroit, MI.
+Judges: Sean F. Cox, United States District Judge.
+Opinion by: Sean F. Cox
+Opinion
+
+
+
+OPINION AND ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT
+
+INTRODUCTION
+Plaintiff Kathleen Squiers filed this discrimination suit against Defendant Washtenaw County under the Americans with Disabilities Act ("ADA"), the Michigan Persons with Disabilities Civil Rights Act ("MPDCRA"), the Family Medical Leave Act ("FMLA") and Michigan Elliott-Larsen Civil Rights Act ("ELCRA"). The matter currently before the Court is the County's Motion for Summary Judgment, brought pursuant to Fed. R. Civ. P. 56. (ECF No. 22).
+For the reasons set forth below, the Court will GRANT Defendant's Motion for Summary Judgment.
+
+BACKGROUND
+Kathleen Squiers ("Plaintiff") has worked for the Washtenaw County ("the County") Parks and Recreation Commission as the Park Horticulturist for over 20 years. (ECF No. 25, PageID.332). The position includes planning, installation, maintenance, and renovations for up to seven parks. (Id.). Plaintiff suffered from asthma attacks and was certified to take intermittent FMLA leave as needed. (Id. [*2] ). In Spring 2021, Plaintiff was diagnosed with a thoracic aortic aneurysm. (ECF No. 22, PageID.151; ECF No. 25, PageID.332). Upon receiving this diagnosis, Plaintiff provided an accommodation request to the County asking that she no longer be required to lift "over 15 pounds for more than two hours a day and no more than 30 pounds at one time." (ECF No. 25, PageID.332). The County denied that request and instead placed Plaintiff on unpaid medical leave.
+Plaintiff filed suit against the County on August 23, 2021. (ECF No. 1). On August 26, 2022, Plaintiff filed her First Amended Complaint ("FAC"). (ECF No. 18). Plaintiff's FAC contains four counts:
+1. Violations of the Americans with Disabilities Act (Count I)
+2. Violations of the Michigan Persons with Disabilities Act, MCLA § 37.1101 (Count II)
+3. Interference with FMLA (Count III)
+4. Gender/Sex Discrimination (Count IV)
+(ECF No.18). Plaintiff has since stipulated to dismissing her gender discrimination claim, leaving only Counts I-III. (ECF No. 25, PageID.322).
+The parties engaged in approximately two months of discovery. On January 9, 2023, the County filed the present Motion for Summary Judgment, arguing all three remaining counts should be dismissed. (ECF No. 22). First, the County argues [*3]  Counts I and II fail because Plaintiff is not an otherwise qualified individual with a disability, meaning the County is not required to accommodate Plaintiff. Second, the County argues Count III fails because the County did not deny Plaintiff FMLA benefits, and that Plaintiff admitted this in her deposition.
+In response, Plaintiff argues that she is qualified for accommodation under the ADA and that the alternative accommodation she received constituted interference under the FMLA.
+
+STANDARD
+Summary judgment will be granted if there is no genuine issue of material fact. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). There is no genuine issue of material fact if "the record taken as a whole could not lead a rational trier of fact to find for the non-moving party." Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986). The moving party bears the burden to show that there is no genuine issue of material fact, but its burden may be discharged by pointing out the absence of evidence to support the nonmoving party's case. Bennett v. City of Eastpointe, 410 F.3d 810, 817 (6th Cir. 2005); see also Daniels v. Woodside, 396 F.3d 730, 735 (6th Cir. 2005) ("Entry of summary judgment is appropriate against a party who fails to make a showing sufficient to establish an element essential to that party's case, and on which that party will bear the burden of proof at trial.") (citations omitted).
+Once the moving party [*4]  has carried its burden, the nonmoving party must set forth specific facts, supported by evidence in the record, that show there is a genuine issue for trial. Matsushita, 475 U.S. at 586. "The mere existence of a scintilla of evidence in support of the [non-moving party]'s position will be insufficient; there must be evidence on which the jury could reasonably find for the [non-moving party]." Anderson, 477 U.S. at 252. The Court "must view the evidence, all facts, and any inferences that may be drawn from the facts in the light most favorable to the non-moving party." Skousen v. Brighton High Sch., 305 F.3d 520, 526 (6th Cir. 2002).
+
+ANALYSIS
+The County's motion raises two issues: (1) whether Plaintiff is an "otherwise qualified individual" entitled to accommodation under the ADA; and (2) whether the County placing Plaintiff on unpaid medical leave constitutes FMLA interference.
+I. ADA and MPDCRA (Counts I and II)
+Michigan's Persons with Disabilities and Civil Rights Act ("MPDCRA") substantially mirrors the ADA and resolution of a plaintiff's ADA claim will generally, though not always, resolve the plaintiff's MPDCRA claim. Donald v. Sybra, Inc., 667 F.3d 757, 764 (6th Cir. 2012). The parties do not argue these claims should be analyzed separately. As such, the Court will analyze both claims under the ADA. Mosqueda v. Family Dollar Stores of Michigan, LLC, 592 F. Supp. 3d 616, 624 (E.D. Mich. 2022) (J. Luddington).
+a. Failure to Accommodate
+The ADA [*5]  only requires that employers accommodate "an otherwise qualified individual with a disability". An individual is "otherwise qualified" if they can perform the "essential functions" of the job with or without reasonable accommodation. 42 U.S.C. § 12111(8); Keith v. County of Oakland, 703 F.3d 918, 925 (6th Cir. 2013). The County has discretion to establish essential job functions. 42 U.S.C. § 12111(8); 29 C.F.R. § 1630.2(n)(3). A job function may be considered essential if:
+(1) the position exists to perform that function;
+(2) there are a limited number of employees available among whom the performance of that job function can be distributed; or
+(3) the function is highly specialized so that the incumbent in the position is hired for her expertise or ability to perform the particular function.
+Keith v. County of Oakland, 703 F.3d 918, 925 (6th Cir. 2013). A court may consider the following factors in determining whether a job function is essential to the position, including:
+(1) the employer's judgment;
+(2) the written job description;
+(3) the amount of time spent performing the job function;
+(4) the consequences of not requiring performance of the function;
+(5) the work experience of past incumbents of the position; and
+(6) the current work experience of incumbents in similar jobs.
+Id. at 925-26.
+Here, Plaintiff claims lifting was not an essential part of her job. (ECF No. 25, [*6]  PageID.335). Her support for this assertion focuses almost exclusively on her written job description. Plaintiff argues that the County changed the written job description after she requested the accommodation to justify their decision to provide an alternative accommodation. (Id.). Even if this were true, the written job description is only one of several factors for the Court to consider.1 As the Sixth Circuit has held, "the written job description is 'not dispositive.'" Bush v. Compass Grp. USA, Inc., 683 F. App'x 440, 446 (6th Cir. 2017) (quoting Rorrer v. City of Stow, 743 F.3d 1025, 1039 (6th Cir. 2014)). While Plaintiff's written job description did not include any lifting requirements, the remaining factors paint a more holistic picture of Plaintiff's essential job functions.
+First, when Plaintiff rewrote the Parks Horticulturist job description—her job—she included a lifting requirement of 80 pounds. (ECF No. 22, PageID.153; ECF No. 22-8, PageID. 255). Second, in her initial request for sick leave, Plaintiff told the County she could "no longer complete the hard physical labor parts of [her] job," directly contradicting her claim. (ECF No. 22, PageID.154-55.) Finally, a seasonal employee who worked with Plaintiff on a daily basis April through September testified that Plaintiff's job "was physically [*7]  demanding" and involved regularly lifting things over 15 pounds. (ECF No. 30, PageID.522-23).
+While Plaintiff's written job description (ECF No. 22-6) did not include a lifting requirement, it is the totality of these factors that show lifting was in fact an essential part of her job. Because lifting is an "essential function" of Plaintiff's job, she is not "an otherwise qualified individual" and the County was not required to accommodate her under the ADA.
+i. Reasonable Accommodation
+Even if Plaintiff was a qualified individual requiring accommodation under the ADA, Plaintiff's requested accommodation was unreasonable. The Sixth Circuit has held that "[a]n employee raising a failure-to-accommodate claim bears the initial burden to propose an accommodation that is reasonable." Russ v. Memphis Light Gas & Water Div., 720 F. App'x 229, 239 (6th Cir. 2017) (citing Regan v. Faurecia Auto. Seating, Inc., 679 F.3d 475, 480 (6th Cir. 2012); Kleiber v. Honda of Am. Mfg., Inc., 485 F.3d 862, 869 (6th Cir. 2007)). Under the ADA employees are entitled to "reasonable accommodation" which may include "job restructuring". 42 U.S.C. § 12111(9)(B). However, job restructuring only includes "non-essential duties or marginal functions of a job." Bratten v. SSI Servs., Inc., 185 F.3d 625, 632 (6th Cir. 1999). "[E]mployers are not required to assign existing employees or hire new employees to perform certain functions or duties of a disabled employee's job which the employee cannot perform by virtue of [*8]  [her] disability". Id.
+Here, Plaintiff's accommodation requested she have only the lifting functions of her job removed. Specifically, Plaintiff requested "she not lift over 15 pounds for more than two hours a day and no more than 30 pounds at any one time." (ECF No.25, PageID.332). Plaintiff's doctor also stated that Plaintiff "needs other workers to do the heavy lifting." (ECF No. 25-15, PageID.497). But as the Court determined above, Plaintiff's essential duties included lifting. This request would thus be considered an unreasonable accommodation. There are no other employees Plaintiff's duties could be assigned to2, and even if there were, Defendant is not required to assign existing employees or hire new employees to perform these essential job functions. The Court thus finds Plaintiff's requested accommodation to be unreasonable.
+Further, while Plaintiff's requested accommodation was unreasonable, the County provided Plaintiff with an alternative reasonable accommodation. Under the ADA, an employer is not required to provide the accommodation an employee requests. Trepka v. Bd. Of Educ., 28 F. App'x 455, 459 (6th Cir. 2002). Rather, the employer retains the "ultimate discretion" to choose an effective accommodation. Id. Here, the County's [*9]  accommodation placed Plaintiff on unpaid medical leave. Plaintiff argues this is not a reasonable accommodation. However, the Sixth Circuit has held that unpaid medical leave can, in fact, "constitute a reasonable accommodation under the ADA." Williams v. AT&T Mobility Servs. LLC, 847 F.3d 384, 394 (6th Cir. 2017); See also, O'Donnell v. Univ. Hosps. Cleveland Med. Ctr., 833 F. App'x 605, 618 (6th Cir. 2020).
+Here, the Court finds that Plaintiff's requested accommodation was unreasonable, and that Plaintiff has failed to show that the County's alternative accommodation was unreasonable.
+b. Discrimination and Retaliation Under ADA and MPDCRA
+i. Discrimination
+To establish a prima facie case of discrimination, Plaintiff must show that: (1) she has a disability under the ADA; (2) she was otherwise qualified to perform the essential functions of the job, with or without reasonable accommodation; (3) she suffered an adverse employment action; (4) the County knew or had reason to know of her disability; and (5) the position remained open while the County sought other applicants or she was replaced. Hedrick v. W. Reserve Care Sys., 355 F.3d 444, 453 (6th Cir. 2004).
+The parties do not dispute Plaintiff's disability falls within the ADA, and instead argue only as to the second and third elements. First, as the Court determined above, Plaintiff was not otherwise qualified to perform an essential function of her [*10]  job, by her own admission, because she stated she could no longer do any lifting.
+Second, Plaintiff argues she suffered an adverse employment action when she was placed on unpaid medical leave.3 The Supreme Court has previously found that an "employment action constitutes a significant change in employment status, such as hiring, firing, failing to promote, reassignment with significantly different responsibilities, or a decision causing a significant change in benefits." Burlington Indus., Inc. v. Ellerth, 524 U.S. 742, 761, 118 S. Ct. 2257, 2268, 141 L. Ed. 2d 633 (1998).
+The Sixth Circuit has not directly addressed the issue of whether unpaid medical leave is an adverse employment action. Other Circuits, however, have held that unpaid leave is not considered an adverse employment action. See Clark v. Charter Communs., L.L.C., 775 Fed. Appx. 764, 767 (5th Cir. 2019) (rejecting Plaintiff's argument that she suffered an adverse action because she was forced to take unpaid leave during which she lost insurance benefits and access to healthcare); Freelain v. Vill. of Oak Park, 888 F.3d 895, 901 (7th Cir. 2018) (stating that "granting an employee's FMLA rights to unpaid leave consistent with the statute's explicit terms cannot constitute a retaliatory adverse action under the FMLA itself or under the ADA, at least without evidence that his employer deviated from its normal paid leave practices and targeted him for unpaid leave [*11]  because he asserted his statutory rights."). Plaintiff thus cannot claim her placement on unpaid medical leave to be an "adverse employment action."
+ii. Retaliation
+To make a prima facie claim of retaliation under the ADA, Plaintiff must show: (1) she was engaged in a protected activity; (2) the employer knew of that activity; (3) the employer subsequently took adverse employment action against plaintiff, and (4) a causal connection exists between the protected activity and the adverse employment action. Rorrer v. City of Stow, 743 F.3d 1025, 1046 (6th Cir. 2013). The fourth element requires Plaintiff to establish that her protected activity was a but-for cause of the adverse action against her. E.E.O.C. v. Ford Motor Co., 782 F.3d 753, 770 (6th Cir. 2015).
+Here, the protected activity is requesting an accommodation. But, as stated above, Plaintiff cannot establish that the County's actions (placing her on unpaid leave) constituted an adverse employment action. Without a successful claim of an adverse employment action by the County against Plaintiff, Plaintiff's retaliation claim under the ADA fails.
+iii. Pretext
+Even if Plaintiff could successfully establish a prima facie case of discrimination or retaliation, the County need only "articulate a legitimate, nondiscriminatory reason for the challenged employment [*12]  decision." Jones v. Potter, 488 F.3d 397, 403 (6th Cir. 2007) (citation omitted). If the County carries this burden, it falls to Plaintiff to "prove by a preponderance of the evidence that the employer's proffered reason was in fact pretext designed to mask illegal discrimination." Id.
+Here, the County has shown that placing Plaintiff on medical leave is not an adverse employment action. The County has also articulated a legitimate reason for placing Plaintiff on medical leave—to accommodate Plaintiff's disability. Plaintiff thus cannot show that the County's reason for placing Plaintiff on medical leave was pretextual.
+Subsequently, all of Plaintiff's claims under the ADA and MPDCRA (Counts I and II) fail and must be dismissed.
+II. FMLA Interference (Count III)
+To establish whether an employer provided its employee with the entitlements set forth under the FMLA an employee must prove that: (1) she was an eligible employee; (2) defendant was an employer as defined under the FMLA; (3) she was entitled to leave under the FMLA; (4) she gave the employer notice of her intention to take leave; and (5) defendant denied the employee FMLA benefits to which she was entitled. Donald v. Sybra, Inc., 667 F.3d 757, 761 (6th Cir. 2012); Edgar v. JAC Prods. Inc., 443 F.3d 501, 507 (6th Cir. 2006). Only the fifth element is at issue here. Plaintiff claims she was [*13]  forced onto FMLA leave and that this is equivalent to denying Plaintiff the ability to take FMLA leave in the future. (ECF No.25, PageID.351). Plaintiff provides no case law to support this assertion. In fact, Plaintiff admitted in her deposition that she was never denied leave under the FMLA. (ECF No 22-2, PageID.207). Nor was Plaintiff placed on FMLA leave. (ECF No. 22, PageID.161). Rather, Plaintiff was placed on medical leave under a collective bargaining agreement. (Id.).
+Without evidence of a denial of the employee's FMLA benefits, Plaintiff's FMLA interference claim (count III) fails and must be dismissed.
+
+CONCLUSION
+For the reasons above, the Court GRANTS Defendant's Motion for Summary Judgment.
+IT IS SO ORDERED.
+/s/ Sean F. Cox
+Sean F. Cox
+United States District Judge
+Dated: May 17, 2023
+
+JUDGMENT
+For the reasons set forth in an Opinion & Order issued on this date, IT IS ORDERED, ADJUDGED, AND DECREED that all claims in Plaintiff's Complaint are DISMISSED WITH PREJUDICE.
+Dated: May 17, 2023
+/s/ Sean F. Cox
+Sean F. Cox
+U. S. District Judge
+
+
+End of Document
+

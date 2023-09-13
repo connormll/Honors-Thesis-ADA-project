@@ -1,0 +1,55 @@
+Mokiao v. Hawaiian Elec. Light Co.
+United States District Court for the District of Hawaii
+April 19, 2023, Decided; April 19, 2023, Filed
+CIVIL NO. 21-00362 JAO-RT
+
+Reporter
+2023 U.S. Dist. LEXIS 68227 *; 2023 WL 3006904
+LEEANN I. MOKIAO, Plaintiff, vs. HAWAIIAN ELECTRIC LIGHT COMPANY, INC., Defendant.
+Prior History: Mokiao v. Hawaiian Elec. Light Co., 2023 U.S. Dist. LEXIS 50224, 2023 WL 2632216 (D. Haw., Mar. 24, 2023)
+Counsel:  [*1] For Leeann I. Mokiao, Plaintiff: Michael P. Healy, LEAD ATTORNEY, Honolulu, HI; Charles H. Brower, Honolulu, HI.
+For Hawaiian Electric Light Company, Inc., Defendant: Randall C. Whattoff, LEAD ATTORNEY, Cox Fricke LLP, Honolulu, HI; Christine A. Terada, Cox Fricke LLP, Honolulu, HI.
+Judges: Jill A. Otake, United States District Judge.
+Opinion by: Jill A. Otake
+Opinion
+
+
+
+ORDER DENYING PLAINTIFF LEEANN I. MOKIAO'S MOTION FOR RECONSIDERATION OF AND TO ALTER OR AMEND THE COURT'S ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT ENTERED ON MARCH 24, 2023
+On March 24, 2023, the Court issued an Order Granting Defendant's Motion for Summary Judgment ("Order"). ECF No. 68. Plaintiff Leeann I. Mokiao ("Plaintiff") now seeks reconsideration of that order in a Motion for Reconsideration of and to Alter or Amend the Court's Order Granting Defendant's Motion for Summary Judgment ("Motion"). ECF No. 71. For the following reasons, the Court DENIES the Motion.
+
+I. DISCUSSION
+As far as the Court can discern, Plaintiff argues that the Court erred in three ways: (1) failing to consider her September 7, 2018 request to move to a "less stressful position," an event that should have triggered a reasonable accommodation discussion, ECF No. [*2]  71-1 at 10; (2) ignoring Ninth Circuit precedent that a request to rescind a resignation amounts to a reasonable accommodation request, id.; and (3) incorrectly drawing inferences in the record regarding proof of "discrimination animus," Id. at 11.
+Local Rule 60.1 governs motions for reconsideration, and provides three grounds for reconsideration of interlocutory orders:
+(a) Discovery of new material facts not previously available;
+(b) Intervening change in law; and/or
+(c) Manifest error of law or fact.
+Local Rule 60.1. "Motions for reconsideration are disfavored" and "may not repeat arguments already made, unless necessary to present one or more of the [foregoing] permissible grounds for the reconsideration request." Id.
+The Ninth Circuit requires that a successful motion for reconsideration accomplish two goals. "First, a motion for reconsideration must demonstrate some reason why the Court should reconsider its prior decision. Second, the motion must set forth facts or law of a 'strongly convincing' nature to induce the court to reverse its prior decision." Jacob v. United States, 128 F. Supp. 2d 638, 641 (D. Haw. 2000) (citing Decker Coal Co. v. Hartman, 706 F. Supp. 745, 750 (D. Mont. 1988) (citation omitted)). Mere disagreement with a court's analysis in a previous order is not a sufficient basis for reconsideration. See White v. Sabatino, 424 F. Supp. 2d 1271, 1274 (D. Haw. 2006) (citing Leong v. Hilton Hotels Corp., 689 F. Supp. 1572, 1573 (D. Haw. 1988)); Haw. Stevedores, Inc. v. HT&T Co., 363 F. Supp. 2d 1253, 1269 (D. Haw. 2005). "Whether [*3]  or not to grant reconsideration is committed to the sound discretion of the court." Navajo Nation v. Confederated Tribes & Bands of the Yakama Indian Nation, 331 F.3d 1041, 1046 (9th Cir. 2003) (citing Kona Enters., Inc. v. Estate of Bishop, 229 F.3d 877, 890 (9th Cir. 2000)).
+Here, Plaintiff has not demonstrated entitlement to reconsideration, nor has she set forth facts or law of a strongly convincing nature to compel reversal of the challenged portions of the Order. Plaintiff's bases for reconsideration suggest a misunderstanding of either the Order, caselaw, or the record in the case, and she raises arguments not previously raised. Plaintiff clearly disagrees with the adverse ruling, but disagreement is not a basis for reconsideration. The Court addresses Plaintiff's contentions in turn.
+
+A. The September 7, 2018 Communication
+In the Motion, Plaintiff argues that the Court failed to view her September 7, 2018 request to move to a less stressful position due to her "medical condition" as a request for a disability accommodation. ECF No. 71-1 at 10 (citing ECF No. 60 at 15). The problem with this argument is that the medical condition she raised during a September 7, 2018 phone call with Defendant on that date was not Post Traumatic Stress Disorder ("PTSD"), which is the disability asserted in the Complaint. See ECF No. 1 at 3 ("Plaintiff was denied reasonable accommodations [*4]  for her PTSD[.]"). The Court noted as much in the Order. See ECF No. 68 at 5 ("On the same day as her September 7 appointment, Plaintiff later spoke to Waltjen over the phone and told him about Dr. Gedayloo's advice that she was in danger of having a heart attack." (emphasis added)). And so, it was not a manifest error of law or fact when the Court concluded that Plaintiff had "not shown that any adverse employment action was due to her PTSD." ECF No. 68 at 13 (emphasis added).
+
+B. The Henneman Case
+Plaintiff cites Henneman v. Kitsap Cty., 783 Fed. Appx. 723 (9th Cir. 2019)1 for the proposition that a request to rescind a resignation can serve as a request for a reasonable accommodation under the Americans with Disabilities Act ("ADA"). ECF No. 71-1 at 10-11. But Plaintiff did not cite to Henneman in her opposition to the summary judgment motion, see ECF No. 60, and Henneman is not a new case, meaning that it is not an "intervening change in law," Local Rule 60.1.
+But even if the Court were to consider Henneman, that case does not stand for the proposition Plaintiff says it does. That memorandum opinion actually supports the notion that accommodating an attempt to rescind a resignation notice is not required under the ADA, at least under the facts there:
+[T]he County did accommodate Henneman, until he requested that the County [*5]  reinstate him. By that time, however, Henneman had already submitted his retirement notice, and the County had accepted it. Reinstating Henneman would have required the County to "alter the fundamental nature of the job" to accommodate him. . . . As reliability, stability, and trustworthiness are basic job requirements for corrections officers, accommodation by reinstatement after voluntary retirement was not required by the ADA[.]
+Henneman, 783 Fed. App'x. at 725 (internal citation omitted). Even the dissent in that case makes clear that the majority opinion could not possibly support Plaintiff's argument here. See id. at 726 ("While unusual, I do not think that Henneman's request was unreasonable as a matter of law."). Nothing about Henneman strongly convinces the Court that it erred in its conclusions.
+Finally, Plaintiff's arguments on this issue fail to account for the Court's finding that "the record shows that Plaintiff submitted her resignation because of her hypertension and risk of a heart attack," not because of her PTSD. ECF No. 68 at 14. So even if the Court viewed the rescission attempt as a request for reasonable accommodation, that attempt was untethered to the PTSD disability she claimed she has in her Complaint. In [*6]  this regard, the Order did not manifestly err as to law or fact.
+
+C. Inferences Regarding "Discriminatory Animus"
+Plaintiff rounds out the Motion by challenging the Court's finding that it could not draw a reasonable inference of a discriminatory motive for the denial of the rescission request. ECF No. 71-1 at 11. In support, she cites to her "Answers to Interrogatories" and certain passages in her deposition, none of which were referenced in her Concise Statement of Facts or her opposition to the summary judgment motion. Id. Indeed, Plaintiff's Concise Statement of Facts is silent as to the issue of the motivation for the refusal to allow for the rescission. See ECF No. 59. And in her opposition to the summary judgment motion, she spends one short sentence on the topic of motive,2 despite the fact that the summary judgment motion explicitly argued that "[t]he decision to deny Plaintiff's request to rescind her resignation has nothing to do with disability[.]" ECF No. 44-1 at 28. Significantly, most of her opposition addresses the fact of her PTSD and Defendant's awareness of it, not how that knowledge was tied to any of its actions.
+Plaintiff cannot now expect the Court to consider arguments [*7]  and record citations that she failed to raise in her original opposition, and the Court declines to do so. See Novato Fire Protection Dist. v. United States, 181 F.3d 1135, 1141 n.6 (9th Cir. 1999) ("A district court has discretion to decline to consider an issue raised for the first time in a motion for reconsideration.") (citation omitted). Additionally, even if Plaintiff had mentioned these record citations in her opposition to the summary judgment motion, because her Concise Statement of Facts did not include them, she would have violated the Local Rules. See Local Rule 56.1(e). And "[w]hen resolving motions for summary judgment, the court shall have no independent duty to search and consider any part of the court record not otherwise referenced in the separate concise statements of the parties." Local Rule 56.1(f); see also Chale v. Allstate Life Ins. Co., 353 F.3d 742, 750 (9th Cir. 2003) (determining that district court did not abuse discretion by striking material not included in plaintiff's concise statement of facts). Simply put, Plaintiff cannot enjoy a second bite at the apple when she had ample opportunity to take the first bite correctly.
+
+II. CONCLUSION
+For the foregoing reasons, Plaintiff has not articulated valid grounds for reconsideration. The Motion is DENIED.
+IT IS SO ORDERED.
+DATED: Honolulu, Hawai'i, April 19, 2023.
+/s/ Jill A. Otake
+Jill A. Otake
+United [*8]  States District Judge
+
+
+End of Document
+

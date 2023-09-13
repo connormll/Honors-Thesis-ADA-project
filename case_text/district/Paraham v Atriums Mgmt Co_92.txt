@@ -1,0 +1,44 @@
+Paraham v. Atriums Mgmt. Co.
+United States District Court for the District of Kansas
+March 12, 2018, Decided; March 12, 2018, Filed
+Case No. 16-2539
+
+Reporter
+2018 U.S. Dist. LEXIS 39833 *; 2018 WL 1256514
+FREDERICK E. PARAHAM, Plaintiff, v. ATRIUMS MANAGEMENT COMPANY, INC. and TUTERA SENIOR LIVING AND HEALTH CARE, LLC, Defendants.
+Prior History: Paraham v. Atriums Mgmt. Co., 2018 U.S. Dist. LEXIS 17311 (D. Kan., Feb. 2, 2018)
+Counsel:  [*1] For Frederick E. Paraham, Plaintiff: Alexander L. Edelman, Katherine E. Myers, LEAD ATTORNEYS, Edelman, Liesen & Myers, LLP, Kansas City, MO.
+For Atriums Management Company, Inc., Tutera Senior Living and Health Care, LLC, Defendants: Benjamin R. Prell, Matthew T. Geiger, LEAD ATTORNEYS, Geiger Prell, LLC, Overland Park, KS.
+Judges: CARLOS MURGUIA, United States District Judge.
+Opinion by: CARLOS MURGUIA
+Opinion
+
+
+
+MEMORANDUM & ORDER
+This matter comes before the court upon defendants Atriums Management Company, Inc, and Tutera Senior Living and Health Care, LLC's Motion for Correction of Order (Doc 49). (Doc. 50.)
+
+I. Legal Standard
+Federal Rule of Civil Procedure 60(b) allows the court to relieve a party of a final order for various reasons including "any reason that justifies relief." Relief under Rule 60(b) is "extraordinary and may only be granted in exceptional circumstances." Allender v. Raytheon Aircraft Co., 439 F.3d 1236, 1242 (10th Cir. 2006) (quoting Cashner v. Freedom Stores, Inc., 98 F.3d 572, 576 (10th Cir. 1996)). A 60(b) motion is not an opportunity for a party to reargue the facts or the law or "to challenge the correctness of the district court's judgment by arguing that the district court misapplied the law or misunderstood their position." Van Skiver v. United States, 952 F.2d 1241, 1244 (10th Cir. 1991). However, the court does have the equitable power to do justice in a case by correcting an error of law. Id.
+
+II. Background
+On February 2, 2018, the [*2]  court entered a Memorandum and Order (Doc. 49) denying defendants' Motion for Summary Judgment (Doc. 37). The court determined that plaintiff established a prima facie case of disability discrimination and he submitted issues of material fact sufficient for his (1) disparate treatment and denial of reasonable accommodation claim, and (2) retaliation claim to proceed to trial.
+Particularly relevant to defendants' current motion, when discussing whether plaintiff had established a prima facie case of disability discrimination, the court considered whether—through his briefing and references to the record evidence—plaintiff had submitted an issue of material fact that he was disabled according to the ADA. The court determined that plaintiff submitted an issue of material fact as to whether he was "regarded as" disabled by defendants. The court found plaintiff's arguments at summary judgment insufficient to establish a prima facie case based on the "actual disability" and "history of" disability definitions. Because plaintiff established the other elements necessary for a prima facie case of discrimination, the court denied summary judgment—in its entirety.
+
+III. Discussion
+Defendants argue [*3]  that the court should grant summary judgment in their favor on plaintiff's reasonable accommodation claim, because the Americans with Disabilities Act ("ADA"), as amended by the ADA Amendments Act of 2008 ("ADAAA"), 42 U.S.C. §§ 12101-12213, no longer provides a cause of action for reasonable accommodation claims where the plaintiff's prima facie case of discrimination is based solely on him or her being "regarded as" having a disability by his or her employer.
+Specifically, the amendments at 29 C.F.R. § 1630.2(o)(4) provide that:
+[a] covered entity is required, absent undue hardship, to provide a reasonable accommodation to an otherwise qualified individual who meets the definition of disability under the "actual disability" prong (paragraph (g)(1)(i) of this section), or "record of" prong (paragraph (g)(1)(ii) of this section), but is not required to provide a reasonable accommodation to an individual who meets the definition of disability solely under the "regarded as" prong (paragraph (g)(1)(iii) of this section).
+(emphasis added). Although defendants did not raise this argument in their summary judgment briefing, the court agrees that the ADA as amended does not create a cause of action for failure to accommodate where a plaintiff is "regarded as" having a disability but has no "actual disability" or "record of" [*4]  disability.
+Plaintiff's opposition to dismissal of the accommodation claim relies on the fact that the court denied summary judgment in its entirety, without reservation or condition. Plaintiff argues that because summary judgment was not granted on any claim, he still plans to argue that he is "actually disabled" or has a "history of" disability in addition to his "regarded as" theory of disability at trial.
+The court's order denying summary judgment did not bar plaintiff from attempting to establish that he is disabled as defined by the ADA under any of the three definitions. Because the court did not do so, the jury will decide this issue at trial. The court finds this appropriate, especially considering the Tenth Circuit's instruction that establishing a prima facie case should not be onerous. (Doc. 49.) The court denied summary judgment because plaintiff submitted a prima facie case and issues of triable fact. It is possible that a jury might decide that plaintiff has an ADA protected disability based on one of the other definitions. Issues so closely tied to the facts are the jury's purview once plaintiff establishes submits issues of fact sufficient to survive summary judgment. [*5] 
+The court appreciates the parties addressing this issue before trial and finds that raising it under Fed. R. Civ. P. 60(b) was entirely appropriate. However, for the reasons described above, the motion is denied.
+IT IS THEREFORE ORDERED that defendants' Motion for Correction of Order (Doc. 50) is denied.
+Dated March 12, 2018, at Kansas City, Kansas.
+/s/ Carlos Murguia
+CARLOS MURGUIA
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,39 @@
+Berrios v. Univ. of Miami
+United States District Court for the Southern District of Florida
+May 23, 2012, Decided; May 25, 2012, Filed
+Case No. 11-CIV-22586-UU
+
+Reporter
+2012 U.S. Dist. LEXIS 186338 *
+SHEYLA BERRIOS, Plaintiff, v. UNIVERSITY OF MIAMI, Defendant.
+Subsequent History: Summary judgment granted by, Summary judgment denied by Berrios v. Univ. of Miami, 2012 U.S. Dist. LEXIS 186572 (S.D. Fla., June 1, 2012)
+Prior History: Berrios v. Univ. of Miami, 2012 U.S. Dist. LEXIS 186335 (S.D. Fla., Apr. 11, 2012)
+Counsel:  [*1] For Sheyla Berrios, Plaintiff: Joseph Stanley Shook, Coral Gables, FL.
+For University Of Miami, a Florida Corporation doing business as University of Miami Hospital, Defendant: Robert T. Kofman, LEAD ATTORNEY, Bayardo E. Aleman, Stearns Weaver Miller Weissler Alhadeff & Sitterson, Miami, FL; Tobi Beth Lebowitz, Stearns Weaver Miller Weissler Alhadeff & Sitterson, Fort Lauderdale, FL.
+Judges: URSULA UNGARO-BENAGES, UNITED STATES DISTRICT JUDGE.
+Opinion by: URSULA UNGARO-BENAGES
+Opinion
+
+
+
+ORDER DENYING MOTIONS TO STRIKE
+THIS CAUSE is before the Court upon Plaintiff's Motions to Strike (D.E. 73-74).
+THE COURT has considered the motions, the pertinent portions of the record, and is otherwise fully advised in the premises.
+1. Affidavit of Cloris Nuñez
+Plaintiff moves to strike portions of Cloris Nuñez's ("Nuñez") affidavit of April 24, 2012, arguing that the affidavit is irrelevant and contains inadmissible hearsay. D.E. 73. In her affidavit, Nuñez purports to be a competent witness on the identity of Defendant's employees who sought a work accommodation for reasons other than work related injuries and were required to fill out a form requesting leave. D.E. 67-4, ¶¶2-3. Nuñez provides the names of six such individuals. 1 Id.  [*2] ¶4.
+Plaintiff argues that Nuñez's testimony is irrelevant because the relevant comparators are employees, allegedly like Plaintiff, who requested a particular work accommodation—light duty. Additionally, Plaintiff claims that Nuñez's reference to the request forms filled out by the individuals who sought a work accommodation for reasons other than work related injuries is inadmissible hearsay because these forms contain the statements of others and are offered for the truth of the matter asserted. D.E. 73.
+Defendant responds that Nuñez's testimony is relevant because "[t]he correct comparison," in pregnancy discrimination cases, is between the plaintiff and "other employees who suffer non-occupational disabilities." Spivey v. Beverly Enters., 196 F.3d 1309, 1313 (11th Cir. 1999). D.E. 82. Because Nuñez's testimony provides names of other employees who requested a work accommodation due to non work-related injuries, the Court holds that it is relevant to the claims and  [*3] defenses in the present action.
+Additionally, Defendant contends that Nuñez's testimony is not hearsay because Nuñez does not assert the truth of the statements contained in the request forms. Id. According to Defendant, Nuñez testifies only to the fact that the listed individuals submitted the required forms requesting a work accommodation for reasons other than an occupational injury. Id. Because Nuñez's asserts only the fact that the six listed individuals submitted the work accommodation request form for reasons unrelated to pregnancy, and not the truth of anything contained in these forms, her affidavit does not constitute inadmissible hearsay. See Notes to Subdivision (c) of Fed. R. Evid. 801 ("If the significance of an offered statement lies solely in the fact that it was made, no issue is raised as to the truth of anything asserted, and the statement is not hearsay).
+Accordingly, Plaintiff's motion to strike Nuñez's affidavit is DENIED.
+2. Errol Douglas's Affidavit of April 24, 2012
+Plaintiff moves to strike certain portions of the affidavit of Errol Douglas ("Douglas") of April 24, 2012, and the associated portions of Defendant's Reply to Plaintiff's Response to Defendant's Motion  [*4] for Summary Judgment, arguing that this affidavit contradicts Douglas's prior testimony in his affidavit of April 4, 2012, and therefore constitutes a "sham affidavit." D.E. 74. In the earlier affidavit, Douglas testifies: "Light duty jobs are reserved for employees who are part of the Return to Work Program." D.E. 53-1. In the later affidavit, Douglas states: "Employees with non-work place injuries can be provided a light duty job consistent with the reasonable requirements of the American With Disabilities Act." D.E. 67-2.
+To constitute a "sham affidavit," the testimony contained therein must contradict earlier testimony. See Akins v. Fulton County, 278 Fed. Appx. 964, 968 (11th Cir. 2008) ("....we have allowed an affidavit to be disregarded as a 'sham' if it flatly contradicts earlier deposition testimony in a manner that cannot be explained"). Here, Douglas's later affidavit clarifies his earlier one. In the April 4th affidavit, Douglas addressed various employee policies that were in place at the University of Miami Hospital because the Defendant decided to adopt them. After noting that the Defendant "has in place a number of policies and protocols that its employees must follow,  [*5] including required forms to be filled out for employees requesting work accommodations," Douglas mentioned the policies for employees requesting work accommodations for workers' compensation injuries and for employees requesting work accommodations for other reasons. With respect to the former, Douglas cited Defendant's "Return to Work program." D.E. 53-1 ¶¶4-5.
+Significantly, Douglas's April 4th affidavit does not refer to any policy that Defendant follows in order to comply with a state or federal statute or regulation. In this way, Douglas's April 24th affidavit does not contradict his earlier statement. In the later affidavit, Douglas acknowledges that, separate from the programs that Defendant has in place by its own choosing, the hospital also provides employees with disabilities work accommodations, including light duty, as a result of Defendant's compliance with the provisions contained in the American with Disabilities Act (ADA). Because Douglas's clarification of his earlier statement does not constitute a contradiction, his later affidavit cannot be deemed a sham. Accordingly, Plaintiff's motion to strike Douglas's testimony is DENIED.
+It is hereby ORDERED AND ADJUDGED that  [*6] Plaintiff's motions to strike (D.E. 73-74) are DENIED.
+DONE AND ORDERED in Chambers, Miami, Florida, this 23d_day of May, 2012.
+/s/ Ursula Ungaro-Benages
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

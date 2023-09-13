@@ -1,0 +1,85 @@
+Hoppman v. Liberty Mut. Ins. Co.
+United States District Court for the District of Oregon
+May 30, 2018, Decided; May 30, 2018, Filed
+3:17-cv-00402-BR
+
+Reporter
+2018 U.S. Dist. LEXIS 89664 *
+VALERIE HOPPMAN, Plaintiff, v. LIBERTY MUTUAL INSURANCE COMPANY, a foreign business corporation, Defendant.
+Prior History: Hoppman v. Liberty Mut. Ins. Co., 2018 U.S. Dist. LEXIS 62216 (D. Or., Apr. 12, 2018)
+Counsel:  [*1] For Plaintiff: CRAIG A. CRISPIN, ASHLEY A, MARTON, Crispin Employment Lawyers, Portland, OR.
+For Defendant: JAMES M. BARRETT, KELLY S. RIGGS, Ogletree, Deakins, Nash, Smoak & Stewart, P.C., Portland, OR.
+Judges: ANNA J. BROWN, United States Senior District Judge.
+Opinion by: ANNA J. BROWN
+Opinion
+
+
+
+OPINION AND ORDER
+BROWN, Senior Judge.
+This matter comes before the Court on Defendant Liberty Mutual Insurance Company's Bill of Costs (#47). The Court concludes the record is sufficiently developed and oral argument is unnecessary.
+For the reasons that follow, the Court GRANTS Defendant's Motion and AWARDS costs to Defendant in the amount of $4,695.20.
+
+BACKGROUND
+Plaintiff filed a Complaint in this Court in which she alleges Defendant failed to accommodate her disability under the Americans with Disabilities Act (ADA), 42 U.S.C. § 12112(b)(5)(A), and the Oregon counterpart to the ADA (referred to hereinafter as OADA), Oregon Revised Statutes §§ 659A.112 and 659A.118.
+On January 12, 2018, Defendant filed its Motion for Summary Judgment as to each of Plaintiff's claims.
+On April 12, 2018, the Court issued an Opinion and Order (#45) in which it granted Defendant's Motion and entered Judgment (#46) dismissing Plaintiff's Complaint with prejudice.
+On April 25, 2018, Defendant filed a Bill of Costs (#47) [*2]  and seeks costs in the amount of $4,695.20.1
+On May 9, 2018, Plaintiff filed Objections (#51) to Defendant's Bill of Costs.
+
+STANDARDS
+Federal Rule of Civil Procedure 54(d)(1) provides: "Unless a federal statute, these rules, or a court order provides otherwise, costs—other than attorney's fees—should be allowed to the prevailing party." This rule creates a presumption in favor of awarding costs to a prevailing party; i.e., "the losing party must show why costs should not be awarded" in any particular case. Save Our Valley v. Sound Transit, 335 F.3d 932, 944-45 (9th Cir. 2003).
+28 U.S.C. § 1920 allows a federal court to tax specific items as costs against a losing party pursuant to Federal Rule of Civil Procedure 54(d)(1). Section 1920 provides:
+A judge or clerk of any court of the United States may tax as costs the following:
+(1) Fees of the clerk and marshal;
+(2) Fees of the court reporter for all or any part of the stenographic transcript necessarily obtained for use in the case;
+(3) Fees and disbursements for printing and witnesses;
+(4) Fees for exemplification and copies of papers necessarily obtained for use in the case;
+(5) Docket fees under section 1923 of this title;
+(6)Compensation for court-appointed experts, compensation of interpreters, and salaries, fees, expenses, and costs of special interpretation services under § 1828 of this title.
+A bill of costs shall be filed in the [*3]  case and, upon allowance, included in the judgment or decree.
+The court must limit an award of costs to those defined in 28 U.S.C. § 1920 unless otherwise provided for by statute. Grove v. Wells Fargo Fin. Ca., Inc., 606 F.3d 577, 579-80 (9th Cir. 2010). The district court has discretion to refuse to award costs, but it must provide specific reasons for doing so. Escriba v. Foster Poultry Farms, Inc., 743 F.3d 1236, 1247 (9th Cir. 2014) (citing Ass'n of Mexican—Am. Educators v. Cal., 231 F.3d 572, 593 (9th Cir. 2000) (en banc)).
+
+DISCUSSION
+Plaintiff requests the Court to defer ruling on Defendant's Bill of Costs pending resolution of Plaintiff's appeal to the Ninth Circuit. In the alternative, Plaintiff contends the Court should deny Defendant's Bill of Costs based on the "chilling effect" of such an award and the economic disparity of the parties. Plaintiff also contends specific items of Defendant's Bill of Costs are not recoverable.
+
+I. Deferral of Ruling Pending Appeal
+The Court has the responsibility to "secure the just, speedy, and inexpensive determination of every action and proceeding." Fed. R. Civ. P. 1. The Court is unaware of any authority suggesting that responsibility does not apply to resolution of both the merits of Plaintiff's claim and also to the resolution of Defendant's presumptive right to recover costs when it is the prevailing party. Nonetheless, the Advisory Committee Notes to Federal Rule of Civil Procedure 54(d), which governs the [*4]  resolution of motions for attorneys' fees and bills of cost, indicate if an appeal on the merits of a case is taken, "the trial court has discretion to rule on a claim for fees, defer its ruling, or deny the motion without prejudice" and to set a new period for filing after the appeal has been resolved.
+As noted, the Rule creates a strong presumption in favor of awarding costs to the prevailing party. Fed. R. Civ. P. 54(d)(1) ("costs . . . should be allowed to the prevailing party").
+Accordingly, in the exercise of its discretion, the Court denies Plaintiff's request to defer ruling on this issue.2
+
+II. Award of Costs
+As noted, Plaintiff urges the Court to deny Defendant's request for costs based on the "chilling effect" of such an award and the economic disparity of the parties.
+
+A. The Law
+Although Rule 54 creates a presumption in favor of awarding costs to a prevailing party, the district court has the discretion to refuse to award costs. Ass'n of Mexican—Am. Educators, 231 F.3d at 590. As noted, however, the court's discretion is not unlimited, and the court must "specify reasons" for its refusal to award costs. Id. (citing Subscription Television, Inc. v. So. Cal. Theatre Owners Ass'n, 576 F.2d 230, 234 (9th Cir. 1978)).
+In Escriba the Ninth Circuit provided five appropriate reasons for denying costs: "(1) the substantial [*5]  public importance of the case, (2) the closeness and difficulty of the issues in the case, (3) the chilling effect on future similar actions, (4) the plaintiff's limited financial resources, and (5) the economic disparity between the parties." 743 F.3d at 1247-48. These reasons provide "a starting point for the analysis," and the losing party does not need to establish all five factors for a court to deny costs. Draper v. Rosario, 836 F.3d 1072, 1087 (9th Cir. 2016) (citing Escriba, 743 F.3d at 1248).
+
+B. "Chilling Effect" of Awarding Costs to Defendant
+In her Response Plaintiff contends she raised important issues relating to the scope of Defendant's obligation to engage in a good-faith interactive process as part of reasonably accommodating Plaintiff, and, therefore, the Court should not award costs to Defendant. Defendant, in response, contends Plaintiff did not raise an issue of such "substantial public importance" to warrant denying costs to Defendant.
+In Stanley v. University of Southern California the Ninth Circuit held the district court abused its discretion when it denied the losing plaintiff's motion in a civil-rights case to re-tax costs without considering the plaintiff's indigency and the "chilling effect" of imposing such high costs on future civil-rights litigants. 178 F.3d 1069, 1079-80 (9th Cir. 1999) [*6] . The court noted the plaintiff raised "important issues and that the answers were far from obvious." Id. at 1080. The court also noted civil-rights litigants who are willing to "test the boundaries of our laws" are essential to the progress of that area of law. Id.
+Here Plaintiff alleged she was a qualified individual with a disability and that Defendant failed to engage in the interactive process to reasonably accommodate her. This Court concluded Plaintiff failed to show that she had a qualifying disability, and, therefore, Defendant did not have an obligation to engage in the interactive process. Here, Plaintiff's claim was, in this Court's experience, typical of ADA failure-to-accommodate claims and did not "test the boundaries of the law" on this routine issue.
+On this record the Court concludes this factor does not support denying costs to the prevailing-party Defendant.
+
+C. Economic Disparity of the Parties
+Plaintiff also contends the economic disparity of the parties supports a denial of an award of costs to Defendant. Plaintiff asserts she suffered "significant economic losses at the hands of [Defendant]" despite the Court's conclusion that Defendant did not act unlawfully.
+A plaintiff's financial status is an appropriate consideration when determining whether to award costs to a prevailing defendant. Escriba, 743 F.3d at 1248. When conducting this inquiry a district [*7]  court generally looks at the plaintiff's employment status, income, assets, and debts. Powell v. Adlerhorst Int'l., Inc., No. 3:14-cv-01827-MO, 2017 U.S. Dist. LEXIS 57283, 2017 WL 1371269, at *2 (D. Or. Apr. 12, 2017). A court may deny costs "when a plaintiff 'would be rendered indigent should she be forced to pay' the amount assessed." Escriba, 743 F.3d at 1248 (quoting Stanley v. Univ. of S. Cal., 178 F.3d 1069, 1080 (9th Cir. 1999)).
+It is clear that there is economic disparity between Plaintiff and Defendant. Economic disparity, however, is inherent in employment cases because employers generally have greater resources than their individual employees. To recognize this disparity without more as constituting an exception to the presumption that the prevailing party is entitled to an award of costs would render the presumption meaningless and likely eliminate any award of costs to employers in virtually every case. Redwind v. W. Union, LLC, No. 3:14-CV-01699-AC, 2017 U.S. Dist. LEXIS 37857, 2017 WL 1025184, at *5 (D. Or. Mar. 16, 2017).
+Moreover, Plaintiff has not submitted any evidence regarding her debts or assets or that show she would be "indigent" if the Court awarded costs to Defendant. In fact, the record reflects Plaintiff is currently employed in a position similar to the position she held with Defendant and earns approximately $75,000 per year.
+On this record the Court concludes Plaintiff has not established circumstances [*8]  sufficient to rebut the presumption in favor of awarding costs as to this factor.
+
+D. Defendant's Costs for Specific Items
+Finally, Plaintiff contends specific items included in Defendant's Bill of Costs are not recoverable. In its Reply Defendant acknowledges $908.53 should be deducted, and, therefore, Defendant now seeks costs of only $4,695.20.3
+The Court has reviewed all of the remaining items listed in Defendant's Bill of Costs and concludes they are properly recoverable under § 1920. Thus, the Court awards Defendant costs in the amount of $4,695.20.
+
+CONCLUSION
+For these reasons, the Court ALLOWS Defendant's Bill of Costs (#47) and AWARDS costs to Defendant in the amount of $4,695.20.
+IT IS SO ORDERED.
+DATED this 30th day of May, 2018.
+/s/ Anna J. Brown
+ANNA J. BROWN
+United States Senior District Judge
+
+
+End of Document
+

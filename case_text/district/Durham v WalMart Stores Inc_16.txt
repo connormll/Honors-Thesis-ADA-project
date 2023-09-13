@@ -1,0 +1,34 @@
+Durham v. Wal-Mart Stores, Inc.
+United States District Court for the Eastern District of Arkansas, Western Division
+October 12, 2011, Decided; October 12, 2011, Filed
+No. 4:10-cv-1169-DPM
+
+Reporter
+2011 U.S. Dist. LEXIS 118181 *
+KIM DURHAM, PLAINTIFF v. WAL-MART STORES, INC., DEFENDANT
+Counsel:  [*1] Kim Durham, Plaintiff, Pro se, Maumelle, AR.
+For Wal-Mart Inc, Defendant: Jeffrey L. Spillyards, LEAD ATTORNEY, Mitchell, Williams, Selig, Gates & Woodyard, PLLC - LR, Little Rock, AR.
+Judges: D.P. Marshall, Jr., United States District Judge.
+Opinion by: D.P. Marshall, Jr.
+Opinion
+
+
+
+ORDER
+Kim Durham claims that Wal-Mart violated the Americans with Disabilities Act when it failed to grant her the reasonable accommodation she requested — a meeting with her store manager.
+1. The material facts are undisputed. Conseco Life Insurance Co. v. Williams, 620 F.3d 902, 907 (8th Cir. 2010). Durham suffers from schizophrenia. Her condition frequently caused her to miss days or weeks of work. So in late October 2009, Durham submitted a request for intermittent leave under the Family Medical Leave Act. Because of her part-time status, however, Durham was ineligible for FLMA leave. Instead, she had to apply for a leave of absence under Wal-Mart's Personal Leave Policy. She began but never finished the application process.
+Durham quit coming to work in early November. Instead, she asked for a meeting with store manager Sue Goss about the calculation of her hours and her eligibility under the FMLA. Goss scheduled a meeting with Durham  [*2] for November 28th. Goss had to cancel that meeting and rescheduled it for November 30th. Goss had to cancel that meeting too because she was summoned to a meeting at another store; she had an assistant manager notify Durham to come to work on her next scheduled day and just meet with Goss at some point during the day. The canceled meetings caused Durham emotional stress. Durham said that she "could not endure the stress of coming into work and wondering what was going to happen[.]" Document No. 48, at 1. She therefore resigned on December 4th. She now claims that Wal-Mart violated the ADA by not accommodating her with a meeting with Goss about hours worked and FMLA eligibility.
+2. A modified burden-shifting analysis governs Durham's claim. Fenney v. Dakota, Minnesota & Eastern Railroad Co., 327 F.3d 707, 712 (8th Cir. 2003). She "must first make a facial showing that [she] has an ADA disability and that [she] has suffered adverse employment action." Ibid. If she makes that showing, "[t]hen [she] must make a facial showing that [she] is a 'qualified individual.'" Brannon v. Luco Mop Co., 521 F.3d 843, 848 (8th Cir. 2008). Wal-Mart does not dispute Durham's disability. It argues, however,  [*3] that she suffered no adverse employment action and was not a "qualified individual" within the meaning of the ADA.
+A resignation is usually not an adverse employment action. Fenney, 327 F.3d at 717. Durham's claim can survive, however, if she can show that Wal-Mart constructively discharged her. "A constructive discharge occurs when an employer deliberately renders the employee's working conditions intolerable and thus forces [her] to quit [her] job." Thompson v. Bi-State Development Agency, 463 F.3d 821, 825 (8th Cir. 2006) (quotation omitted). In Darby v. Bratch, the Eighth Circuit held that constructive discharge would not be a viable argument for a plaintiff who resigned shortly after returning from FMLA leave because she "had been back at work for only a short period of time. We do not believe a reasonable trier of fact could have found that [Darby] had stuck it out long enough to conclude reasonably that working conditions were intolerable." 287 F.3d 673, 682 (8th Cir. 2002).
+Here, Durham had not been back at work at all. She had been calling in sick for almost a month. She could not reasonably have found her working conditions intolerable because she was not working. Because Durham  [*4] was not constructively discharged, she suffered no adverse employment action, and her ADA claim fails.
+Durham cannot show that she was a "qualified individual" within the meaning of the ADA either. Part of being a qualified individual is that the employee can "perform the essential job functions, with or without reasonable accommodation." Brannon, 521 F.3d at 848 (quotation omitted). And "regular attendance at work is an essential function of employment." Brannon, 521 F.3d at 849. The ADA does not require an employer "to provide an unlimited absentee policy." Brannon, 521 F.3d at 849 (quotation omitted). Durham has likewise failed to demonstrate that her requested accommodation, a meeting with the store manager, "would have enabled her to have consistent attendance at work. . . . Therefore, she failed to make a facial showing that she was a qualified individual[.]" Ibid.
+3. Because Durham cannot make the threshold showings that she suffered an adverse employment action and was a qualified individual, her ADA claim fails as a matter of law. Wal-Mart's motion for summary judgment as supplemented, Document Nos. 38 & 68, is granted. Durham's complaint is dismissed with prejudice.
+So  [*5] Ordered.
+/s/ D.P. Marshall Jr.
+D.P. Marshall Jr.
+United States District Judge
+12 October 2011
+
+
+End of Document
+

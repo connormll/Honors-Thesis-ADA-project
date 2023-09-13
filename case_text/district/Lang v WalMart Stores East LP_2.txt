@@ -1,0 +1,45 @@
+Lang v. Wal-Mart Stores East, L.P.
+United States District Court for the District of New Hampshire
+April 3, 2015, Decided; April 3, 2015, Filed
+Civil No. 13-cv-349-LM
+
+Reporter
+2015 U.S. Dist. LEXIS 44185 *; 2015 DNH 075
+Nicole Lang v. Wal-Mart Stores East, L.P.
+Prior History: Lang v. Wal-Mart Stores East, L.P., 2015 U.S. Dist. LEXIS 25514 (D.N.H., 2015)
+Counsel:  [*1] For Nicole Lang, Plaintiff: Darlene M. Daniele, Salem Legal Services, LLC, Salem, NH.
+For Wal-Mart Stores East, L.P., Defendant: Christopher B. Kaczmarek, LEAD ATTORNEY, Littler Mendelson PC (MA), Boston, MA; Vanessa K. Hackett, PRO HAC VICE, Littler Mendelson PC (MA), Boston, MA.
+Judges: Landya McCafferty, United States District Judge.
+Opinion by: Landya McCafferty
+Opinion
+
+
+
+ORDER
+In an order dated March 3, 2015, this court granted a motion for summary judgment filed by the defendant, Wal-Mart Stores East, L.P. ("Walmart"). Thereafter, the clerk of the court entered judgment in Walmart's favor and closed the case. The plaintiff, Nicole Lang, has now filed a motion for reconsideration, and Walmart has objected. For the reasons that follow, Ms. Lang's motion for reconsideration is denied.
+I. Legal Standard
+"[M]otions for reconsideration are appropriate only in a limited number of circumstances: if the moving party presents newly discovered evidence, if there has been an intervening change in the law, or if the movant can demonstrate that the original decision was based on a manifest error of law or was clearly unjust." United States v. Allen, 573 F.3d 42, 53 (1st Cir. 2009); see also LR 7.2(d) (motions for reconsideration must "demonstrate that the order was based on a manifest error of fact [*2]  or law").
+II. Background
+Ms. Lang was formerly employed by Walmart at a distribution center located in Raymond, New Hampshire. After her employment was terminated in August of 2012, Ms. Lang brought a three-count complaint against Walmart, alleging that Walmart had discriminated against her on the basis of her pregnancy in violation of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12111 et seq. ("Count I"), the New Hampshire Law Against Discrimination, N.H. Rev. Stat. Ann. § 354-A:7, and New Hampshire common law.1 Ms. Lang now seeks reconsideration of the court's entry of summary judgment solely with respect to Count I, the ADA claim.
+The court granted Walmart's motion for summary judgment as to Count I based on a variety of deficiencies in Ms. Lang's case. The court found that Ms. Lang could not satisfy any one of the three elements of her ADA claim, which required that she "produce enough evidence for a reasonable jury to find that (1) [she was] disabled within the meaning of the ADA, (2) [she] was able to perform the essential functions of the job with or without a reasonable accommodation, and (3) [Walmart], despite [*3]  knowing of [her] disability, did not reasonably accommodate it." Rocafort v. IBM Corp., 334 F.3d 115, 119 (1st Cir. 2003). In relevant part, the court found that Ms. Lang was not disabled within the meaning of the ADA because pregnancy, alone, is not considered a disability, that Ms. Lang (by her own admission) could not perform the essential functions of her job involving the lifting of heavy objects, and that Walmart had not failed to provide Ms. Lang with a reasonable accommodation because her two suggested accommodations were per se unreasonable.
+III. Discussion
+In her motion for reconsideration, Ms. Lang proffers two arguments. First, she suggests that 2008 amendments to the ADA expanded the definition of the term "disability" to include pregnancy-related impairments. Second, under the assumption that she was disabled, Ms. Lang suggests that Walmart failed to engage in an "interactive process" to find a suitable accommodation. These two arguments will be addressed in turn.
+A. 2008 Amendments to the ADA
+As Ms. Lang notes in her motion for reconsideration, Congressional passage of the ADA Amendments Act of 2008 ("ADAAA") broadened the definition of the term "disability." See 42 U.S.C. § 12102(1)(C) (defining "disability," in relevant part, as "a physical or mental impairment that substantially [*4]  limits one or more major life activities of [an] individual"); Jones v. Nationwide Life Ins. Co., 696 F.3d 78, 87 n.6 (1st Cir. 2012) (noting that the ADAAA requires that the term "disability" be construed broadly). Ms. Lang contends that the court committed a manifest error of law by relying on precedent that predated the ADAAA in concluding that Ms. Lang was not disabled.
+In guidelines promulgated following the passage of the ADAAA, the Equal Employment Opportunity Commission noted that "[a]lthough pregnancy itself is not an impairment within the meaning of the ADA, and thus is never on its own a disability, some pregnant workers may have impairments related to their pregnancies that qualify as disabilities under the ADA, as amended." Enforcement Guide: Pregnancy Discrimination and Related Issues, available at http://www.eeoc.gov/laws/guidance /pregnancy_guidance.cfm#amer. This guidance is reflective of ADA cases decided after the effective date of the ADAAA, which generally hold that pregnancy is not an actionable disability, unless it is accompanied by a pregnancy-related complication. See, e.g., Annobil v. Worcester Skilled Care Ctr., Inc., No. 11-40131-TSH, 2014 U.S. Dist. LEXIS 126643, at *35-36 (D. Mass. Sept. 10, 2014) ("Being pregnant, in and of itself, is not a handicap. However, complications related to pregnancy can constitute a handicap."); Turner v. Eastconn Reg'l Educ. Serv. Ctr., No. 3:12-CV-788-VLB, 2013 U.S. Dist. LEXIS 169785, at *22 (D. Conn. Dec. 2, 2013) [*5]  ("Given that the plaintiff has not presented any evidence showing that her pregnancy was of such a complicated nature to permit the Court to stray from the accepted holding that pregnancies are not disabilities under the ADA . . . no reasonable trier of fact could find that the plaintiff has a disability as defined in the ADA.").
+As the court explained in detail in its March 3 order, Ms. Lang did not allege facts suggesting that she had a pregnancy-related complication. Rather, her complaint (and now her motion for reconsideration) allege facts indicating that Ms. Lang had lifting restrictions that resulted from an injury that was wholly unrelated to her pregnancy. Thus, the court's finding that Ms. Lang was not disabled within the meaning of the ADA was not a manifest error of fact or law, even as that term is broadly defined in light of the ADAAA.2
+B. Interactive Process
+Ms. Lang next contends that the court committed a manifest error of law in finding that Walmart did not violate the ADA by failing to provide Ms. Lang with a reasonable accommodation. Specifically, Ms. Lang contends that Walmart did not fulfill its obligation to engage in an "interactive process" to identify a suitable accommodation for her pregnancy. See, e.g., Tobin v. Liberty Mut. Ins. Co., 433 F.3d 100, 108 (1st Cir. 2005) (citing 29 C.F.R. § 1630.2(o)(3) (noting that ADA regulations may impose on an employer the duty to initiate an "informal, interactive process" with an employee to identify the "best means of accommodating [a] disability.")).
+As discussed in the court's March 3 order, the obligation under the ADA of an employer to provide a [*7]  reasonable accommodation is triggered only where the employee is, in fact, disabled. See 42 U.S.C. § 12112(b)(5)(A) (discrimination under the ADA entails "not making reasonable accommodations to the known . . . limitations of an otherwise qualified individual with a disability . . . ."); Enica v. Principi, 544 F.3d 328, 338 (1st Cir. 2008). Likewise, an employer is under no obligation to engage in an interactive process regarding a reasonable accommodation for an employee who is not disabled.
+Here, Walmart was under no obligation to engage in an interactive process, or to grant Ms. Lang a reasonable accommodation, because Ms. Lang did not have a "disability" as that term is defined in the ADA.3 Thus, the court's finding that Walmart did not violate the ADA in this respect was not a manifest error of fact or law.
+IV. Conclusion
+For these reasons, Ms. Lang's motion for reconsideration (doc. no. 29) is DENIED.
+SO ORDERED.
+/s/ Landya McCafferty
+Landya McCafferty
+United States District Judge
+April 3, 2015
+
+
+End of Document
+

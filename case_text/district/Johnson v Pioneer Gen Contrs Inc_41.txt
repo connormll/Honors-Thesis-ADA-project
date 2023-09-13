@@ -1,0 +1,63 @@
+Johnson v. Pioneer Gen. Contrs., Inc.
+United States District Court for the Western District of Michigan, Southern Division
+January 22, 2021, Decided; January 22, 2021, Filed
+Case No. 1:19-cv-548
+
+Reporter
+2021 U.S. Dist. LEXIS 11967 *; 2021 WL 222170
+ALLEN J. JOHNSON, Plaintiff, v. PIONEER GENERAL CONTRACTORS, INC., Defendant.
+Counsel:  [*1] For Allen J. Johnson, plaintiff: H. Rhett Pinsky, Pinsky Smith Fayette & Kennedy LLP, Grand Rapids, MI; Jennifer L. Lord, Michael L. Pitt, Channing Elizabeth Robinson-Holmes, Pitt McGehee Palmer & Rivers PC, Royal Oak, MI.
+For Pioneer General Contractors, Inc., defendant: Curtis Lee Underwood, Scott E. Dwyer, Mika Meyers PLC, Grand Rapids, MI; Linda L. Ryan, Timothy J. Ryan, Jackson Lewis P.C. (Grand Rapids), Grand Rapids, MI.
+Judges: HALA Y. JARBOU, UNITED STATES DISTRICT JUDGE.
+Opinion by: HALA Y. JARBOU
+Opinion
+
+
+Plaintiff Allen Johnson is a former employee of Defendant Pioneer General Contractors, Inc. In this action, Johnson asserts various claims arising from his termination by Pioneer. Before the Court is Pioneer's motion to dismiss Count VIII of the second amended complaint for failure to state a claim (ECF No. 24). Count VIII asserts that Pioneer discriminated and retaliated against Johnson in violation of the Americans with Disabilities Act (ADA). For the reasons herein, the Court will deny the motion.
+
+I. Background
+Johnson worked for Pioneer as a "Metal Buildings Laborer," a job in which Pioneer expected him to "stand, walk, bend, squat and climb using his lower limbs." (2d Am. Compl. ¶ 42.) Johnson alleges [*2]  that he sustained a "permanent injury" to his left knee on January 23, 2019, when a co-worker lifted him off the ground and threw him against a table. (Id. ¶ 22.)
+Johnson underwent surgery to repair a torn medial meniscus in his left knee on March 22, 2019, and he took a leave of absence to recover. Even after his recovery, however, Johnson's ability to "stand, walk, bend, squat and climb has been impaired." (Id. ¶ 42.) His left knee "continues to be painful and chronically swells as a result of standing[,] walking, bending, squat[t]ing and climbing." (Id. ¶ 44.) Consequently, he takes pain medication and "anti-inflammatory agents." (Id.)
+On May 4, 2019, Johnson's physician cleared him to return to work with restrictions; those restrictions prohibited Johnson from "bending, squatting, and lunging and lifting more than 10 pounds." (Id. ¶ 38.) He claims, however, that these restrictions "did not prevent him from performing the essential functions of his position." (Id. ¶ 41.) Johnson provided a copy of the restrictions to Pioneer on May 5, 2019.
+Later that day, Pioneer allegedly informed Johnson that "he could not return to work with restrictions even if those restrictions did not prevent [*3]  him from performing the essential duties of his positions with or without a reasonable accommodation." (Id. ¶ 40.)
+Based on the foregoing facts, Johnson claims that Pioneer discriminated against him by terminating him "because of his disability and/or because it regarded Johnson as disabled and/or because Johnson had a history of a disability[.]" (Id. ¶ 109.) He also claims that Pioneer failed to accommodate him by allowing him to return to work "with reasonable restrictions or extending his Medical Leave[.]" (Id. ¶ 111.) Finally, he claims that Pioneer terminated him in retaliation for requesting an accommodation.
+Pioneer argues that Johnson's allegations fail to state a claim under the ADA.
+
+II. Standard
+A complaint may be dismissed for failure to state a claim if it fails "'to give the defendant fair notice of what the . . . claim is and the grounds upon which it rests.'" Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (quoting Conley v. Gibson, 355 U.S. 41, 47, 78 S. Ct. 99, 2 L. Ed. 2d 80 (1957)). While a complaint need not contain detailed factual allegations, a plaintiff's allegations must include more than labels and conclusions. Twombly, 550 U.S. at 555; Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) ("Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice."). The court must determine whether the complaint [*4]  contains "enough facts to state a claim to relief that is plausible on its face." Twombly, 550 U.S. at 570. "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 679. "[W]here the well-pleaded facts do not permit the court to infer more than the mere possibility of misconduct, the complaint has alleged—but it has not 'show[n]'—that the pleader is entitled to relief." Id. (quoting Fed. R. Civ. P. 8(a)(2)).
+Assessment of the complaint must ordinarily be undertaken without resort to matters outside the pleadings; otherwise, the motion must be treated as one for summary judgment under Rule 56. Wysocki v. Int'l Bus. Mach. Corp., 607 F.3d 1102, 1104 (6th Cir. 2010). "However, a court may consider exhibits attached to the complaint, public records, items appearing in the record of the case, and exhibits attached to defendant's motion to dismiss, so long as they are referred to in the complaint and are central to the claims contained therein, without converting the motion to one for summary judgment." Gavitt v. Born, 835 F. 3d 623, 640 (6th Cir. 2016).
+
+III. Analysis
+As noted above, Johnson asserts at least three theories of liability under the ADA: (1) discrimination based on a disability, (2) a failure to accommodate, and (3) retaliation. [*5]  Pioneer argues that the allegations fail to state a claim under any of these theories.
+
+A. Discrimination
+A claim of discrimination under the ADA requires Johnson to show that "1) he is an individual with a disability within the meaning of the ADA; 2) he is qualified to perform the essential functions of the job, with or without reasonable accommodation; and 3) he suffered an adverse employment decision because of his disability." Henschel v. Clare Cnty. Rd. Comm'n, 737 F.3d 1017, 1022 (6th Cir. 2013).
+Pioneer argues that Johnson does not state a discrimination claim because he has not alleged a disability. The Court disagrees. A disability is "a physical or mental impairment that substantially limits one or more major life activities of [an] individual." 42 U.S.C. § 12102(1). Johnson alleges that his knee injury impairs his ability to stand, walk, bend, squat, and climb. He also contends that a physician imposed restrictions on some of these activities. Standing, walking, and bending are all "major life activities." 42 U.S.C. § 12102(2)(A).
+Pioneer focuses on Johnson's allegation that he can perform the essential functions of a job that involves standing, bending, squatting, and climbing. According to Pioneer, if Johnson can do all these things, then he is not disabled. This argument misconstrues [*6]  the pleadings. Johnson does not allege that he can do all these things. Instead, he alleges that "he is expected" to perform these activities when working as a laborer, that his ability to do so is impaired, and that even with his impairment he is able to perform the "essential functions" of his laborer position. (2d. Am. Compl. ¶¶ 41-42.) Pioneer apparently assumes that standing, bending, squatting, and climbing are essential functions of the laborer position, but Johnson never makes that assertion. The activities that Johnson is unable to perform (e.g., bending and squatting) are not necessarily essential functions of that position. Pioneer's expectation that its laborers bend and squat does not necessarily render them essential functions. See Henschel v. Clare Cnty. Rd. Comm'n, 737 F.3d 1017, 1022 (6th Cir. 2013) (noting that an employer's judgment about which functions are essential is one of several factors to consider). Moreover, "[t]o provide a reasonable accommodation, an employer may be required to modify the responsibilities of a disabled employee's existing job or transfer the employee to a vacant position with different responsibilities." Rorrer v. City of Stow, 743 F.3d 1025, 1039 (6th Cir. 2014). In short, Johnson's allegation that he is able to perform the "essential functions" of the laborer position [*7]  does not contradict his allegations about his impairments. Those allegations suffice to state a disability.
+
+B. Failure to Accommodate
+Pioneer contends that Johnson does not state a claim under a failure-to-accommodate theory because he does not allege that he requested an accommodation. On the contrary, Johnson alleges that he gave Pioneer a list of medical restrictions. Under the circumstances alleged, it is difficult to construe this as anything other than a request for accommodations. At the very least, it put Pioneer on notice of Johnson's need for accommodations. See Mobley v. Miami Valley Hosp., 603 F. App'x 405, 413 (6th Cir. 2015) ("[O]ur case law considers letters from physicians sufficient to notify an employer of the need to accommodate a disability."). An employer on notice of the need for accommodations generally must "initiate an informal, interactive process with the [employee]." 29 C.F.R. § 1630.2(o)(3). The purpose of this process is to "identify the precise limitations resulting from the disability and potential reasonable accommodations that could overcome those limitations." Id. This process is "mandatory, and both parties have a duty to participate in good faith." Kleiber v. Honda of Am. Mfg., Inc., 485 F.3d 862, 871 (6th Cir. 2007). "[F]ailing to assist an employee in seeking an accommodation may suggest bad faith." Rorrer, 743 F.3d at 1040. [*8]  Apparently, Pioneer did not engage in this process at all. Accordingly, Johnson's allegations suffice to state a claim under a failure-to-accommodate theory.
+Pioneer relies on cases that set forth the standard for proving a prima facie case of a failure to accommodate, but those cases are not applicable. The Supreme Court has made clear that the elements of a prima facie case are "an evidentiary standard, not a pleading requirement." Swierkiewicz v. Sorema N.A., 534 U.S. 506, 510, 122 S. Ct. 992, 152 L. Ed. 2d 1 (2002).
+
+C. Retaliation
+The ADA makes it unlawful for employers to retaliate "against any individual because of his or her opposing practices made unlawful by the Act[] or otherwise seeking to enforce rights under the Act[]." A.C. ex rel. J.C. v. Shelby Cnty. Bd. of Educ., 711 F.3d 687, 696 (6th Cir. 2013) (citing 42 U.S.C. § 12203). Pioneer contends that Johnson has not stated a retaliation claim because he does not allege that he engaged in protected conduct. According to Pioneer, requesting an accommodation for a disability is not protected conduct. Pioneer is mistaken. "Both this circuit and most others agree that requests for accommodation are protected acts." Id. at 698. As discussed above, Johnson's allegations indicate that he requested accommodations by submitting a list of his restrictions. Such an act is protected conduct. Consequently, Pioneer's argument is [*9]  meritless.
+
+IV. Conclusion
+For all the foregoing reasons, the Court concludes that Pioneer's arguments for dismissal of Count VIII of the complaint are meritless. Accordingly, the Court will deny its motion.
+An order will enter consistent with this Opinion.
+Dated: January 22, 2021
+/s/ Hala Y. Jarbou
+HALA Y. JARBOU
+UNITED STATES DISTRICT JUDGE
+
+ORDER
+For the reasons stated in the opinion entered this date:
+IT IS ORDERED that Defendant's motion to dismiss Count VIII of the second amended complaint (ECF No. 24) is DENIED.
+Dated: January 22, 2021
+/s/ Hala Y. Jarbou
+HALA Y. JARBOU
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,74 @@
+James v. O'Reilly Auto. Stores, Inc.
+United States District Court for the Middle District of Louisiana
+December 20, 2018, Decided; December 21, 2018, Filed
+CIVIL ACTION NO.: 17-00681-BAJ-EWD
+
+Reporter
+2018 U.S. Dist. LEXIS 216016 *
+ANDREA JAMES VERSUS O'REILLY AUTOMOTIVE STORES, INC.
+Counsel:  [*1] Andrea James, Plaintiff, Pro se, Houston, TX.
+For O'Reilly Automotive Stores, Inc., Defendant: George Davidson Fagan, LEAD ATTORNEY, Reagan Reynolds Wilty, Leake & Andersson LLP, New Orleans, LA; Stephanie Villagomez Lemoine, Cozen O'Connor, Houston, TX.
+Judges: BRIAN A. JACKSON, UNITED STATES DISTRICT JUDGE.
+Opinion by: BRIAN A. JACKSON
+Opinion
+
+
+
+RULING AND ORDER
+Before the Court is Defendant O'Reilly Automotive Stores, Inc.'s Motion for Summary Judgment (Doe. 11) against Plaintiff Andrea James. No opposition was filed. For the reasons that follow, the Motion (Doe. 11) is GRANTED.
+
+I. BACKGROUND
+This disability-discrimination suit arises from Andrea James's employment with O'Reilly as a delivery specialist. (Doc. 1-1). After O'Reilly fired her, James sued O'Reilly under the Americans with Disabilities Act and the Louisiana Employment Discrimination Law. (Id.) She alleges that O'Reilly failed to reasonably accommodate disabilities she developed in two car accidents. (Id.). Primarily at issue is whether James could, with reasonable accommodation, perform the essential functions of an available position with O'Reilly. (Doc. 14). Because the undisputed facts show that she could not, James is not a qualified individual with [*2]  a disability, and James cannot prove disability discrimination.
+In October 2014, O'Reilly hired Plaintiff as a delivery specialist at O'Reilly store number 633 in Baton Rouge, Louisiana. (Doc. 11-1 at ¶ 1). Delivery specialists deliver O'Reilly parts to stores and pick up and sign for stock transfers. (Doc. 11-32 at p. 1). The physical requirements for the position include standing and walking for 1-2 hours, bending/stooping for 5-6 hours, reaching above shoulder level for 1-2 hours, pushing/pulling for 5-6 hours, squatting for 1-2 hours, crouching for 5-6 hours, kneeling for 1-2 hours, lifting 26-40 pounds for 1-2 hours, and lifting 41-60 pounds for 1-2 hours. (Id. at p. 2).
+In early 2015, Plaintiff was injured in two car accidents. (Doc. 11-1 at ¶ 11). Plaintiffs injuries "severely limited . . . her ability to perform heavy lifting, to stand for prolonged periods of time, and to bend." (Doc. 1-1 at ¶ 7). Because Plaintiff's injuries made her physically unfit for the delivery specialist position, O'Reilly temporarily reassigned Plaintiff to light duty assistance work as a customer greeter and front counter clerk in May 2015. (Doc. 11-1 at ¶ 10).
+Seven months later, O'Reilly received a note from [*3]  Plaintiff's doctor stating that Plaintiff should avoid lifting items over ten pounds and take frequent sitting breaks. (Id. at ¶ 15). O'Reilly concluded that these temporary restrictions precluded Plaintiff from performing the "essential job duties" of the delivery specialist position, and that O'Reilly could not accommodate the restrictions for any other available position. (Id. at ¶ 16). O'Reilly granted Plaintiff a leave of absence until February 2016, when Plaintiff's temporary restrictions could be updated. (Id. at ¶¶ 18-19).
+The update arrived as scheduled through a "Fitness for Duty" form. (Doc. 11-16). In the form, Dr. Christina Austin marked boxes indicating that Plaintiff should be permanently restricted from kneeling/squatting, bending/stooping, pushing/pulling, driving, reaching overhead, lifting items heavier than ten pounds, and standing for more than two hours per day. (Id.). Dr. Austin also marked a box indicating that Plaintiff's medications—Norco, Soma, and Xanax—created a "safety/driving issue." (Id.). And Dr. Austin indicated, in the "miscellaneous restrictions" section of the form, that Plaintiff should work only four hours per day, four days per week. (Id.).
+O'Reilly [*4]  personnel reviewed the form. (Doe. 11-1 at ¶ 25). Based on Plaintiff's permanent restrictions, the O'Reilly store manager, district manager, regional director, and leave of absence coordinator determined that O'Reilly could not provide any reasonable accommodation to Plaintiff that would allow her to perform the essential functions of her delivery specialist position or any other position available at store number 633. (Id.). O'Reilly fired Plaintiff less than a month later. (Id. at ¶ 29). Plaintiff responded by filing a charge of discrimination with the Equal Employment Opportunity Commission. (Doc. 1-1 at ¶ 21). She received a right-to-sue notice in May 2017. (Id.).
+Four months later, Plaintiff sued O'Reilly in the Nineteenth Judicial District Court for the Parish of East Baton Rouge. (Doc. 1-1). Plaintiff's Petition for Damages alleges that O'Reilly violated the Americans with Disabilities Act, 42 U.S.C. 12101 et seq., and the Louisiana Employment Discrimination Law, La. R.S. 23:323, when O'Reilly failed to reasonably accommodate the disabilities Plaintiff developed in two car accidents. (Id.). O'Reilly removed the suit based on federal-question jurisdiction and now moves for summary judgment. (Does. 1, 11).
+O'Reilly [*5]  contends that Plaintiff cannot prove disability discrimination because she cannot show that she is a "qualified individual" under the Americans with Disabilities Act. (Doc. 14). Plaintiff cannot show that she is a "qualified individual," O'Reilly continues, because Plaintiff cannot show that, with a reasonable accommodation, she could perform the essential functions of any available position at O'Reilly store number 633. (Id.).
+
+II. LEGAL STANDARD
+Summary judgment is proper if O'Reilly shows that there is no genuine dispute as to any material fact and that it is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a). The Court cannot grant summary judgment simply because O'Reilly's motion is unopposed; O'Reilly must point to the absence of a material factual dispute that supports entry of a judgment in its favor. Hetzel v. Bethlehem Steel Corp., 50 F.3d 360, 362 n.3 (5th Cir. 1995). In deciding whether O'Reilly has done so, the Court views facts and draws reasonable inferences in Plaintiffs favor. Midwest Feeders, Inc. v. Bank of Franklin, 886 F.3d 507, 513 (5th Cir. 2018). Because Plaintiff did not file an opposition, O'Reilly's properly-supported assertions of fact are deemed undisputed. Fed. R. Civ. P. 56(e)(2).
+
+III. DISCUSSION
+
+A. Americans with Disabilities Act
+The Americans with Disabilities Act forbids an employer from failing to accommodate the known limitations [*6]  of an employee's disability. 42 U.S.C. § 12112. To recover on her failure to accommodate claim, Plaintiff must show that "(1) she is a qualified individual with a disability; (2) the disability and its consequential limitations were known by the covered employer; and (3) the employer failed to make reasonable accommodations to such known limitations." Neely v. PSEG Terns, Ltd., 735 F.3d 242, 247 (5th Cir. 2013).
+
+I. "Qualified Individual"
+The Americans with Disabilities Act defines a "qualified individual" as an "individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C. § 12111(8). The "essential functions" of an employment position are "the fundamental job duties of the employment position the individual with a disability holds or desires." 29 C.F.R. § 1630.2(n)(1).
+To determine whether a function is "essential," the Court considers (1) the employer's judgment as to which functions are essential; (2) written job descriptions prepared before advertising or interviewing applicants for the job; (3) the amount of time spent on the job performing the function; (4) the consequences of not requiring the incumbent to perform the function; (5) the terms of a collective bargaining agreement; (6) the work [*7]  experience of past incumbents in the job; and (7) the current work experience of incumbents in similar jobs. 29 C.F.R. § 1630.2(n)(3).
+Based on the first and second factors, the essential functions of the delivery specialist position are delivering O'Reilly parts to stores and picking up and signing for stock transfers. (Doc. 11-32 at p. 1). To perform those functions, Plaintiff must be able to stand and walk for 1-2 hours, bend/stoop for 5-6 hours, reach above shoulder level for 12 hours, push/pull for 5-6 hours, squat for 1-2 hours, crouch for 5-6 hours, kneel for 1-2 hours, lift 26-40 pounds for 1-2 hours, and lift 41-60 pounds for 1-2 hours. (Id. at p. 2).
+i. Without Reasonable Accommodation
+Plaintiff cannot perform the "essential functions" of the delivery specialist position without reasonable accommodation. See 42 U.S.C. § 12111(8). She cannot meet the physical requirements for the essential functions of the delivery specialist position because she is permanently restricted from kneeling/squatting, bending/stooping, pushing/pulling, driving, reaching overhead, lifting items heavier than ten pounds, and standing for more than two hours per day. (Doc. 11-16). And Plaintiffs medications prevent her from fulfilling a function even more [*8]  fundamental—driving O'Reilly trucks to make deliveries. (Doc. 11-16).
+
+ii. With Reasonable Accommodation
+Plaintiff offers no evidence that she could perform the "essential functions" of the delivery specialist position with reasonable accommodation. See 42 U.S.C. § 12111(8). Although she suggests in her Petition for Damages that she could be reassigned to "either the front desk clerk position or the parts clerk position," Plaintiff offers no facts showing that either position exists and is available at O'Reilly store number 633, or that she could perform the essential functions of either position with reasonable accommodation. (Doc. 1-1 at ¶ 17). By contrast, O'Reilly offers the declarations of Store Manager Diana Holman, Leave of Absence Coordinator Jacqueline McKinney, District Manager Gregory Harris, and Regional Director Charles Fagan to support its assertion that no reasonable accommodation could enable Plaintiff to perform the essential functions of any position available at O'Reilly store number 633. (Docs. 11-8 at ¶ 33; 11-15 at ¶ 27; 11-13 at ¶ 24; 11-17 at ¶ 22).
+O'Reilly has shown that Plaintiff cannot prove that she is a "qualified individual" under the Americans with Disabilities Act. See Moss v. Harris Cty. Constable Precint One, 851 F.3d 413, 419 (5th Cir. 2017) (affirming [*9]  summary against Americans with Disabilities Act plaintiff who failed to offer evidence of any reasonable accommodation that would have enabled him to perform the essential functions of his job). The Court therefore GRANTS summary judgment to O'Reilly on Plaintiffs Americans with Disabilities Act claim.
+
+B. Louisiana Employment Discrimination Law
+The Louisiana Employment Discrimination Law forbids an employer from failing to "reasonably accommodate an otherwise qualified person with a disability on the basis of a disability, when it is unrelated to the individual's ability, with reasonable accommodation, to perform the duties of a particular job or position." La. R.S. 23:323(B)(1).
+The same analysis that governed Plaintiffs Americans with Disabilities Act claim governs her Louisiana Employment Discrimination Law claim. See, e.g., Abshire v. Louisiana Department of Wildlife and Fisheries, No. 16-CV-669-BAJ-RLB, 2018 U.S. Dist. LEXIS 68727, 2018 WL 1914285, at *5 (M.D. La. Apr. 23, 2018); Antoon v. Woman's Hosp. Foundation, No. 10-CV-088-BAJ-DLD, 2012 U.S. Dist. LEXIS 46268, 2012 WL 1094715, at *3 n.3 (M.D. La. Mar. 30, 2012). Thus, O'Reilly is entitled to summary judgment on Plaintiffs Louisiana Employment Discrimination Law claim for the same reasons it is entitled to summary judgment on Plaintiffs Americans with Disabilities Act claim.
+
+IV. CONCLUSION
+Accordingly,
+IT IS ORDERED that [*10]  O'Reilly Automotive Stores, Inc.'s Motion for Summary Judgment (Doc. 11) is GRANTED.
+IT IS FURTHER ORDERED that Plaintiff Andrea James's claims are DISMISSED WITH PREJUDICE. A separate Final Judgment shall issue in accordance with Federal Rule of Civil Procedure 58.
+Baton Rouge, Louisiana, this 20th day of December, 2018.
+/s/ Brian A. Jackson
+BRIAN A. JACKSON
+UNITED STATES DISTRICT JUDGE
+MIDDLE DISTRICT OF LOUISIANA
+
+FINAL JUDGMENT
+In accordance with Federal Rule of Civil Procedure 58, and considering the Court's Ruling and Order granting Defendant's Motion for Summary Judgment (Doc. 11) and dismissing Plaintiff's claims with prejudice:
+IT IS ORDERED AND ADJUDGED that this action is DISMISSED WITH PREJUDICE.
+Baton Rouge, Louisiana, this 20th day of December, 2018.
+/s/ Brian A. Jackson
+JUDGE BRIAN A. JACKSON
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF LOUISIANA
+
+
+End of Document
+

@@ -1,0 +1,64 @@
+Conklin v. Hawbaker Eng'g, LLC
+United States District Court for the Middle District of Pennsylvania
+October 21, 2019, Decided; October 21, 2019, Filed
+No. 4:18-CV-02128
+
+Reporter
+2019 U.S. Dist. LEXIS 181437 *; 2019 WL 5310293
+LESLIE CONKLIN, Plaintiff, v. HAWBAKER ENGINEERING, LLC, and GLENN O. HAWBAKER, INC, Defendants.
+Prior History: Conklin v. Hawbaker Eng'g, 2019 U.S. Dist. LEXIS 241448, 2019 WL 13131793 (M.D. Pa., May 15, 2019)
+Counsel:  [*1] For Leslie Conklin, Plaintiff: Thomas B. Anderson, LEAD ATTORNEY, Thomson, Rhodes & Cowie, P.C., Pittsburgh, PA.
+For Hawbaker Engineering, LLC, Glenn O. Hawbaker, Inc., Defendants: Langdon T Ramsburg, McNees Wallace & Nurick LLC, Harrisburg, PA; Schaun D. Henry, McNees, Wallace, & Nurick, Harrisburg, PA.
+Judges: Matthew W. Brann, United States District Judge.
+Opinion by: Matthew W. Brann
+Opinion
+
+
+
+MEMORANDUM OPINION
+Plaintiff Leslie Conklin brings this case against her employer, Hawbaker Engineering, LLC, and her employer's parent company, Glenn O. Hawbaker, Inc. She alleges that Defendants failed to accommodate her disability and retaliated against her in violation of the Americans with Disabilities Act (ADA), the Americans with Disabilities Act Amendment Act (ADAAA), and the Pennsylvania Human Rights Act (PHRA). On September 3, 2019, Defendants moved for summary judgment on all counts.
+
+I. BACKGROUND1
+In business, as in life, it is important to draw boundaries. Cases like today's arise in the gray areas where we fail to do so.
+Glenn O. Hawbaker, Inc, and Hawbaker Engineering, LLC, are legally distinct entities; the former is the sole parent of the latter.2 Despite the nominal separation, the two companies overlap heavily in the real world. They operate out of the same [*2]  building, and some of their administrative functions, such as human resources, are run coextensively by one shared department.3 At times, staff from one company will assist with completing the tasks of the other.4
+One such employee is Leslie Conklin, the plaintiff. Conklin was hired by Glenn O. Hawbaker to work in their billing department in December 2005.5 Five years later, Conklin transferred to Hawbaker Engineering to work as an administrative assistant.6 After four years of working at Hawbaker Engineering, in 2014 Conklin was asked to assist with tasks for Glenn O. Hawbaker's payroll office in addition to her responsibilities as Hawbaker Engineering's administrative assistant.7 Conklin agreed to help as long as it did not interfere with her duties at Hawbaker Engineering.8 Her official job description does not include any responsibilities for Glenn O. Hawbaker, but it contains a catch-all provision that states that Conklin is to "Perform additional assignments per supervisor's direction."9
+In January 2018, Conklin was diagnosed with temporomandibular joint dysfunction, more commonly known as "TMJ." Conklin's TMJ caused her to suffer severe headaches, pressure in her eye, and pain [*3]  in her face and jaw.10 While always present, Conklin's pain increased during weeks when she helped with Glenn O. Hawbaker's billing because of the additional stress and anxiety.11
+In April 2018, Conklin requested that she be relieved of duties for Glenn O. Hawbaker for two or three months to help alleviate her symptoms.12 Her employer responded by offering her short-term disability leave, which Conklin did not accept.13 Conklin made a formal request for an ADAAA accommodation on June 15, 2018.14 Defendants denied the request, concluding that removing the Glenn O. Hawbaker duties would not be a reasonable accommodation because they were part of her essential function.15 The only action Defendants took was to conduct an ergonomic review of Conklin's workstation on the recommendation of a third-party administrator, which resulted in no further action.16
+However, Defendants began to take a greater interest in Conklin's performance following her request and EEOC complaint in October 2018. A few days after the filing, Renata Furman, a supervisor, asked the Glenn O. Hawbaker employees in payroll to create a list of complaints concerning Conklin.17 On December 28, 2018, Defendants had a meeting with Conklin, [*4]  at which she was told that she would now have to report to a supervisor and that her position would be considered part-time instead of full-time if she ceased performing tasks for Glenn O. Hawbaker.18 Shortly after this meeting, on January 2, 2019, Conklin reported to Furman that she felt obstacles were being put in her way of completing tasks at Glenn O. Hawbaker.19 Conklin also believes that she has been treated differently and alienated ever since making her request.20
+Conklin filed her charge with the EEOC on August 20, 2018.21 On October 15, 2018, the EEOC issued a right-to-sue letter.22 Conklin filed the instant lawsuit on November 5, 2018.23 On June 6, 2019, Conklin filed a charge with the EEOC and PHRC alleging retaliation.24 Conklin's Fourth Amended Complaint (the operative complaint) was filed on August 27, 2019.25 On September 3, 2019, Defendants moved for summary judgment.26
+
+II. DISCUSSION27
+The inciting disagreement at the heart of this case is whether Conklin's duties for Glenn O. Hawbaker are an essential function of her job. Conklin, believing they are not, requested to be relieved of them as an accommodation. Defendants, believing that they are, denied [*5]  her request. Defendants' failure to clearly define Conklin's job responsibilities, among other issues discussed more fully below, preclude the entry of summary judgment.
+
+A. Standard of Review
+Summary judgment is appropriate when "the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law."28 "Facts that could alter the outcome are 'material facts,' and disputes are 'genuine' if evidence exists from which a rational person could conclude that the position of the person with the burden of proof on the disputed issue is correct."29 "A defendant meets this standard when there is an absence of evidence that rationally supports the plaintiff's case."30 "A plaintiff, on the other hand, must point to admissible evidence that would be sufficient to show all elements of a prima facie case under applicable substantive law."31
+
+B. Failure to Accommodate
+The ADA provides that an employer must make reasonable accommodations to the known physical or mental limitations of an otherwise qualified employee, unless the employer can demonstrate that the accommodation would impose an undue hardship on the operation of its business.32 To establish [*6]  a prima facie case, Conklin must demonstrate that (1) she has a "disability" within the meaning of the ADA, (2) she is qualified to perform the essential functions of the job with or without a reasonable accommodation, (3) the employer was informed of the need for an accommodation, and (4) the employer failed to provide a reasonable accommodation.33
+Defendants argue that Conklin cannot be considered qualified to perform the essential functions of the job. Conklin requested to cease performing work for Glenn O. Hawbaker, which she contends was voluntary work that supplemented her primary employment with Hawbaker Engineering. Defendants counter that the Glenn O. Hawbaker work was an essential function of Conklin's job, and, by requesting to no longer perform it, she would not be fulfilling necessary essential functions.
+The evidence in the record does not render this issue appropriate for summary judgment. Conklin believed that she was an employee of Hawbaker Engineering, not Glenn O. Hawbaker.34 She testified that she initially began assisting with Glenn O. Hawbaker's payroll duties on a voluntary basis on the condition that it did not interfere with her job as Hawbaker Engineering's [*7]  administrative assistant.35 This evidence could support a conclusion that duties for a separate company were not essential to her job. Defendants cite her job description that states Conklin is to "Perform additional assignments per supervisor's direction" to argue that these responsibilities were essential, but a simple catch-all provision does not foreclose a reasonable jury from concluding that they were not.36
+Defendants also contend that they sufficiently engaged in the interactive process to preclude Conklin's satisfaction of the fourth element, but this too is disputed. First, Defendants did not grant Conklin's request; whether this request would have been a reasonable accommodation is genuinely contested, as discussed in the previous paragraph. Further, the extent of Defendants' good-faith participation in the interactive process is also disputed. A reasonable jury could conclude that Conklin's physical therapist's statements recommended that she be relieved of her Glenn O. Hawbaker duties and that Defendants ignored this recommendation.37 A jury could also conclude that the only accommodation Defendants offered—an ergonomic review of her workstation that resulted in no changes—was [*8]  functionally no accommodation at all.
+Because the facts surrounding the essential functions of Conklin's job and Defendants' good-faith participation in the interactive process are disputed, I deny summary judgment on Conklin's failure-to-accommodate claim.
+
+C. Retaliation
+An employee must satisfy three elements to establish a prima facie case of retaliation: "(1) protected employee activity; (2) adverse action by the employer either after or contemporaneous with the employee's protected activity; and (3) a causal connection between the employee's protected activity and the employer's adverse action."38 "Requesting an accommodation is a protected employee activity under the ADA."39 Alteration of the terms, conditions, or privileges of employment may be considered an adverse action.40 Close temporal proximity accompanied by the employer's awareness of the need for an accommodation may establish a causal connection.41
+The evidence in the record is sufficient for Conklin to make out a prima facie case of retaliation. Conklin's request for an accommodation was a protected activity. She has identified evidence that Defendants changed the conditions of her employment by adding a new supervisor to [*9]  report to and threatening to change her position from full-time to part-time. Conklin also identified evidence that Defendants harassed her and created a list of issues with her shortly after filing her EEOC claim.42 Defendants' awareness of Conklin's request for accommodation and the temporal proximity of these actions to the filing of her EEOC complaint allow a causal connection between these and the adverse actions to be permissibly drawn.
+Summary judgment is denied for Conklin's retaliation claim.
+
+III. CONCLUSION
+Defendants' motion for summary judgment is DENIED. An appropriate Order follows.
+BY THE COURT:
+/s/ Matthew W. Brann
+Matthew W. Brann
+United States District Judge
+
+ORDER
+AND NOW, this 21st day of October 2019, in accordance with the accompanying memorandum opinion, IT IS HEREBY ORDERED that Defendants' Motion for Summary Judgment (ECF No 32) is DENIED.
+BY THE COURT:
+/s/ Matthew W. Brann
+Matthew W. Brann
+United States District Judge
+
+
+End of Document
+

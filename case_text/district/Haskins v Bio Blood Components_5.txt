@@ -1,0 +1,79 @@
+Haskins v. Bio Blood Components
+United States District Court for the Western District of Michigan, Southern Division
+February 17, 2023, Decided; February 17, 2023, Filed
+Case No. 1:22-cv-586
+
+Reporter
+2023 U.S. Dist. LEXIS 27717 *; 2023 WL 2071483
+DENISE HASKINS, Plaintiff, v. BIO BLOOD COMPONENTS, Defendant.
+Counsel:  [*1] For Denise Haskins, plaintiff: David Peters, LEAD ATTORNEY, Pacific Justice Institute, Livonia, MI.
+For Interstate Blood Bank, Inc., a Michigan Corporation, named as Bio Blood Components on intiating document, defendant: Donald Campbell Bulea, Lauren Harrington, Ogletree Deakins Nash Smoak & Stewart PC (MI), Birmingham, MI.
+Judges: Hon. HALA Y. JARBOU, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: HALA Y. JARBOU
+Opinion
+
+
+Plaintiff Denise Haskins brings this action against her former employer, Bio Blood Components.1 Before the Court is Defendant's motion to dismiss the complaint for failure to state a claim (ECF No. 8). For the reasons herein, the Court will grant Defendant's motion in part.
+
+I. BACKGROUND
+According to Plaintiff's complaint, she was employed by Defendant from October 2019 to February 13, 2021. (Compl. ¶ 17, ECF No. 1.) Her job duties included "screening patients seeking to donate their plasma." (Id. ¶ 18.) Her job also required her to "routinely interact" with another employee, "RS," who was born female. (Id. ¶ 19.) Plaintiff had known RS for several years. In February 2021, RS told co-workers that he identifies as a man, and he wanted to be referred to by "new" pronouns. (Id. ¶ 20.)
+Plaintiff, who is [*2]  a "believing Christian," "sincerely believes that she cannot live a lie and remain within the truth." (Id. ¶ 21.) She believes that "living a lie and being forced to repeat that lie out loud with her own lips is a significant violation of her right to practice her religion." (Id. ¶ 22.) Apparently, she did not want to use male pronouns when referring to RS.
+On February 13, 2022, Plaintiff's supervisor, Kristen, informed Plaintiff that RS had filed a complaint about Plaintiff. In a "back-and-forth conversation," Kristen told Plaintiff that RS "had the right to not be bullied or harassed[.]" (Id. ¶ 25.) Plaintiff responded that she "had the right of free speech and could not have her speech compelled to tell a lie because she was a believing Christian who will not live a lie." (Id.) Plaintiff alleges that she asked for a "religious accommodation," but Kristen denied that request "without any consideration" and asked Plaintiff to write a letter of resignation. (Id. ¶¶ 26, 27.) After Plaintiff refused to resign, Defendant terminated her employment.
+Based on the foregoing, Plaintiff claims that Defendant discriminated against her on account of her religion, in violation of Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e et seq., and Michigan's Elliott-Larsen Civil Rights Act (ELCRA), Mich. Comp. Laws § 37.2101 et seq.
+Defendant [*3]  moves for dismissal of the complaint for failure to state a claim.
+
+II. DISMISSAL STANDARD
+A complaint may be dismissed for failure to state a claim if it fails "'to give the defendant fair notice of what the . . . claim is and the grounds upon which it rests.'" Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (quoting Conley v. Gibson, 355 U.S. 41, 47, 78 S. Ct. 99, 2 L. Ed. 2d 80 (1957)). While a complaint need not contain detailed factual allegations, a plaintiff's allegations must include more than labels and conclusions. Twombly, 550 U.S. at 555; Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) ("Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice."). The Court must determine whether the complaint contains "enough facts to state a claim to relief that is plausible on its face." Twombly, 550 U.S. at 570. "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 679. "[W]here the well-pleaded facts do not permit the court to infer more than the mere possibility of misconduct, the complaint has alleged—but it has not 'show[n]'—that the pleader is entitled to relief." Id. (quoting Fed. R. Civ. P. 8(a)(2)).
+Assessment of the complaint under Rule 12(b)(6) must ordinarily be undertaken without resort to matters outside the pleadings; otherwise, the [*4]  motion must be treated as one for summary judgment under Rule 56. Wysocki v. Int'l Bus. Mach. Corp., 607 F.3d 1102, 1104 (6th Cir. 2010). "However, a court may consider exhibits attached to the complaint, public records, items appearing in the record of the case, and exhibits attached to defendant's motion to dismiss, so long as they are referred to in the complaint and are central to the claims contained therein, without converting the motion to one for summary judgment." Gavitt v. Born, 835 F.3d 623, 640 (6th Cir. 2016).
+
+III. ANALYSIS
+
+A. Title VII
+Title VII prohibits employers from discharging or discriminating against any individual because of that individual's "race, color, religion, sex, or national origin[.]" 42 U.S.C. § 2000e-2. The statute defines "religion" as
+all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.
+42 U.S.C. § 2000e(j).
+"There are two basic types of religious discrimination claims that an individual may bring . . . under Title VII: disparate treatment claims and religious accommodation claims." Reed v. Int'l Union, 564 F.3d 781, 2009 WL 5943111, at *2 (6th Cir. 2009).
+
+1. Disparate Treatment
+Defendant argues that Plaintiff does not state a claim for disparate treatment under [*5]  Title VII. In response, Plaintiff denies making any such claim. (Pl.'s Resp. Br. 6, ECF No. 13.) Accordingly, the Court will dismiss such a claim.
+
+2. Religious Accommodation
+Defendant also argues that the complaint fails to state a religious accommodation claim under Title VII. To establish a "'prima facie case of religious discrimination'" for her employer's failure to provide a reasonable accommodation, Plaintiff must show that "'(1) [s]he holds a sincere religious belief that conflicts with an employment requirement; (2) [s]he has informed the employer about the conflicts; and (3) [s]he was discharged or disciplined for failing to comply with the conflicting employment requirement.'" Yeager v. FirstEnergy Generation Corp., 777 F.3d 362, 363 (6th Cir. 2015) (quoting Tepper v. Potter, 505 F.3d 508, 514 (6th Cir. 2007)). If Plaintiff establishes her "prima facie case," then Defendant "has the burden to show that it could not 'reasonably accommodate' [her] religious beliefs without 'undue hardship.'" Id. (quoting Tepper, 505 F.3d at 514).
+Here, Plaintiff alleges that she has a religious belief that conflicted with her employer's requirement that she use her co-worker's preferred gender pronouns. She also alleges that she informed her employer of this conflict and that her employer terminated her without offering any accommodation. [*6]  These allegations are sufficient to establish a prima facie case.
+Defendant responds that it could not reasonably accommodate Plaintiff's beliefs without suffering an undue hardship. "'[T]o require an employer to bear more than a de minimis cost in order to accommodate an employee's religious beliefs is an undue hardship.'" Tepper, 505 F.3d at 514 (quoting Cooper v. Oak Rubber Co., 15 F.3d 1375, 1378 (6th Cir. 1994)). Specifically, Defendant argues that allowing Plaintiff to continue working for Defendant while refusing to refer to her co-workers by their preferred pronouns would expose Defendant to liability under Title VII. "Title VII does not require an employer to reasonably accommodate an employee's religious beliefs if such accommodation would violate a federal statute." Yeager, 777 F.3d at 363. Defendant argues that using improper pronouns to refer to RS or other transgender employees would amount to unlawful harassment under Title VII. Indeed, the Equal Employment Opportunity Commission ("EEOC") has concluded that "intentionally and repeatedly using the wrong name and pronouns to refer to a transgender employee could contribute to an unlawful hostile work environment." EEOC, Protections Against Employment Discrimination Based on Sexual Orientation or Gender Identity (June 15, 2021), [*7]  https://www.eeoc.gov/laws/guidance/protections-against-employment-discrimination-based-sexual-orientation-or-gender.2 At this stage, however, it is not clear whether and to what extent Plaintiff used, or intended to use, any pronouns when referring to RS. Plaintiff does not describe the details of RS's complaint about her. Moreover, individuals working directly with one another generally use names rather than pronouns. As such, the Court cannot assess the nature of the hardship.
+In her complaint, Plaintiff alleges that Defendant could have allowed her to "simply tell[] [RS] the truth . . . that she- he- cannot change the work of the Lord to suit a personal whim or accommodate a mental illness or belief system." (Compl. ¶ 35.) Telling RS that his gender identity is a personal whim or a mental illness might qualify as harassment under Title VII, and allowing Plaintiff to do this likely would not be a reasonable accommodation even if it did not violate Title VII. However, Plaintiff alleges other possible accommodations in her complaint, including transfer to another work location. Defendant asserts that this accommodation would not be reasonable because the nearest location to which Plaintiff [*8]  could be transferred is 90 miles away; however, the Court cannot consider those facts at this stage. They are not part of the complaint. Thus, the Court cannot determine whether such an accommodation would impose an undue hardship.
+In short, the complaint alone does not demonstrate that Defendant could not reasonably accommodate Plaintiff's beliefs without undue hardship. Cf. EEOC v. Robert Bosch Corp., 169 F. App'x 942, 944 (6th Cir. 2006) ("The reasonableness of an employer's attempt at accommodation must be determined on a case-by-case basis and is generally a question of fact for the jury, rather than a question of law for the court."). Accordingly, the Court will not dismiss Plaintiff's claim that Defendant failed to accommodate her religious beliefs.
+Plaintiff further contends that this case involves not just Defendant's failure to provide a reasonable accommodation, but also Defendant's failure to comply with a separate "legal obligation" to engage in an interactive process or "sit down meeting" with Plaintiff to discuss a reasonable accommodation. (Pl.'s Resp. Br. 7-9.) However, the cases cited by Plaintiff do not support such a requirement. See EEOC v. Abercrombie & Fitch Stores, Inc., 575 U.S. 768, 135 S. Ct. 2028, 192 L. Ed. 2d 35 (2015); Trans World Airlines, Inc. v. Hardison, 432 U.S. 63, 97 S. Ct. 2264, 53 L. Ed. 2d 113 (1977). None of them refer to a "sit down meeting" or an interactive process like the one required [*9]  under the Americans with Disabilities Act (ADA), 42 U.S.C. § 12101 et seq. See Kleiber v. Honda of Am. Mfg., Inc., 485 F.3d 862, 871 (6th Cir. 2007) (discussing the ADA interactive process). At any rate, the Court will deny Defendant's motion to dismiss the foregoing Title VII claim for the reasons discussed above.
+
+B. ELCRA
+
+1. Disparate Treatment
+Defendant argues that Plaintiff does not state a disparate treatment claim under the ELCRA, which is generally subject to the same standards as a Title VII claim. (See Def.'s Br. 5 n.4, ECF No. 8.) As discussed above, Plaintiff denies making a disparate treatment claim. Consequently, the Court will dismiss that claim.
+
+2. Religious Accommodation
+Defendant argues that the ELCRA "'does not include an affirmative duty to accommodate an employee's religious beliefs.'" (Def.'s Br. 6 n.5 (quoting Lively v. Kroger Co. of Mich., No. 19-12961, 2021 U.S. Dist. LEXIS 38060, 2021 WL 791024, at *5 (E.D. Mich. Mar. 2, 2021)).) Plaintiff does not respond to this argument and the Court cannot find any authority supporting such a claim. Therefore, the Court will dismiss this claim as well.
+
+C. First Amendment
+Plaintiff's complaint alludes to her rights under the First Amendment. It seeks various declarations that her speech is protected by the First Amendment. (See Compl. ¶¶ G, H, J, K.) As noted by Defendant, however, the First Amendment restricts the Government, not private employers like Defendant. See, e.g., Pub. Utilities Comm'n of D.C. v. Pollak, 343 U.S. 451, 461, 72 S. Ct. 813, 96 L. Ed. 1068 (1952). Consequently, the Court will dismiss the First Amendment claim, if any, asserted [*10]  in the complaint.
+
+IV. CONCLUSION
+For the reasons stated, Plaintiff's complaint states a viable claim under Title VII for a failure to accommodate her religious beliefs. Plaintiff does not state a disparate impact claim under Title VII, a claim under the ELCRA, or a claim under the First Amendment. Therefore, the Court will grant Defendant's motion to dismiss, in part.
+The Court will enter an order that is consistent with this Opinion.
+Dated: February 17, 2023
+/s/ Hala Y. Jarbou
+HALA Y. JARBOU
+CHIEF UNITED STATES DISTRICT JUDGE
+
+ORDER
+For the reasons stated in an opinion entered this date:
+IT IS ORDERED that Defendant's motion to dismiss (ECF No. 8) is GRANTED IN PART.
+IT IS FURTHER ORDERED that Plaintiff's disparate treatment claim under Title VII, Plaintiff's claim under the ELCRA, and Plaintiff's claim under the First Amendment are DISMISSED for failure to state a claim.
+Plaintiff's remaining claim is that Defendant did not reasonably accommodate her religious beliefs as required by Title VII.
+Dated: February 17, 2023
+/s/ Hala Y. Jarbou
+HALA Y. JARBOU
+CHIEF UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

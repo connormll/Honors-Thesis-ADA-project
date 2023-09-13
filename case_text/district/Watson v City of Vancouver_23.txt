@@ -1,0 +1,43 @@
+Watson v. City of Vancouver
+United States District Court for the Western District of Washington
+March 21, 2014, Decided; March 21, 2014, Filed
+CASE NO. C13-5936 RBL
+
+Reporter
+2014 U.S. Dist. LEXIS 37828 *
+JEFFERY WATSON, et al., Plaintiffs, v. CITY OF VANCOUVER, et al., Defendants.
+Subsequent History: Partial summary judgment granted by, Dismissed by Watson v. City of Vancouver, 2014 U.S. Dist. LEXIS 63892 (W.D. Wash., May 5, 2014)
+Summary judgment granted, in part, summary judgment denied, in part by, Summary judgment denied by, Partial summary judgment denied by, Summary judgment granted by Watson v. City of Vancouver, 2015 U.S. Dist. LEXIS 31400 (W.D. Wash., Mar. 12, 2015)
+Counsel:  [*1] For Jeffery Watson, Chelsee Osback, Plaintiffs, Counter Defendants: Ada Ko Wong, LEAD ATTORNEY, Darryl Parker, PREMIER LAW GROUP, BELLEVUE, WA.
+For City of Vancouver, Geoffry Gillespie, Robert O'Meara, Jay Alie, members of the Vancouver Police Department, Defendants, Counter Claimants: Daniel G Lloyd, VANCOUVER CITY ATTORNEY'S OFFICE, VANCOUVER, WA.
+Judges: HONORABLE RONALD B. LEIGHTON, UNITED STATES DISTRICT JUDGE.
+Opinion by: RONALD B. LEIGHTON
+Opinion
+
+
+ORDER ON PLAINTIFFS' MOTION FOR RECONSIDERATION
+THIS MATTER is before the court on Plaintiff Watson's Motion for Reconsideration [Dkt. #22] of this Court's Order [Dkt. #20] granting Defendants' Motion to Dismiss [Dkt. #11] Plaintiff's claim against Vancouver for violating the ADA while arresting him.
+The Defendants' Motion pointed out, clearly and accurately, that any ADA claim that Defendants' failure to accommodate Watson during his arrest was not viable as a matter of law under Patrice v. Murphy 43 F.Supp.2d 1156 (W.D. Wash. 1999). Plaintiffs did not respond to this argument or to this authority—either in a brief, or in the Amended Complaint he filed instead.
+The Court granted the Motion based on both of these facts, and dismissed the claim that it was specifically  [*2] asked to dismiss—the claim that the officers failed to accommodate Watson's disability during his arrest, in violation of the ADA.
+Watson's Motion for Reconsideration complains that the Court's dismissal of his ADA "accommodation" claim did not cite any authority. He argues that Sheehan v City and County of San Francisco, 743 F.3d 1211, 2014 U.S. App. LEXIS 3321, 2014 WL 667082 (9th Cir. February 21, 2014)—addressing an "issue of first impression"—supports the viability an ADA claim, and asks for permission to amend his complaint in light of it.
+Sheehan discussed two types of ADA arrest claims:
+Courts have recognized at least two types of Title II claims applicable to arrests: (1) wrongful arrest, where police wrongly arrest someone with a disability because they misperceive the effects of that disability as criminal activity; and (2) reasonable accommodation, where, although police properly investigate and arrest a person with a disability for a crime unrelated to that disability, they fail to reasonably accommodate the person's disability in the course of investigation or arrest, causing the person to suffer greater injury or indignity in that process than other arrestees.
+Sheehan, 2014 U.S. App. LEXIS 3321, [WL] at *17 (emphasis added).
+Watson seeks "leave  [*3] to amend his complaint on the ADA issue." But he claims he is proceeding on (only) the first type of claim. It does not appear that he seeks to resurrect his recently dismissed "failure to accommodate during an arrest" claim—even though that claim is directly supported by Sheehan, and Sheehan would to that extent be a logical basis for a motion for reconsideration.
+Instead he appears to seek some other relief related to his "wrongful arrest based on misperception" ADA claim. Watson has not filed 1 a proposed amended complaint.
+Watson's initial Complaint and his Amended Complaint included both an "accommodation" claim and a "misperception" claim: "The Arrest of Watson was for conduct which was a mere manifestation of a mental illness and was not for a criminal act." [Dkt. #12 at ¶55].
+Accordingly, Defendants' Response expresses some confusion, and perhaps some frustration, about what is at issue in this Motion. Defendants point out that they sought, and received, dismissal only  [*4] of the "accommodation during arrest" claim. They specifically did not seek dismissal of the "misperception" claim:
+To the extent Plaintiffs pursue under a wrongful arrest theory, Defendant City of Vancouver recognizes that claim will have to be fleshed out in discovery.
+However, to the extent Plaintiffs are proceeding under a reasonable accommodation theory, the ADA has no application. Patrice, 43 F. Supp. 2d at 1160.
+[Dkt. #11 at 9]. Thus, they claim, there is nothing to "reconsider" with respect to the "misperception" claim—it was in the case before the Motion to Dismiss, and remained so after the Order Granting that Motion. Defendants are correct.
+The Ninth Circuit's recent Sheehan opinion may offer additional support for Watson's "misperception" ADA claim, but that is not a basis for Reconsideration of a Court Order that did not purport to address that claim. Nor is it a basis for amending his complaint in some unspecified manner, where he has already asserted such a claim.
+The Motion for Reconsideration is therefore DENIED.
+IT IS SO ORDERED.
+Dated this 21st day of March, 2014.
+/s/ Ronald B. Leighton
+RONALD B. LEIGHTON
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

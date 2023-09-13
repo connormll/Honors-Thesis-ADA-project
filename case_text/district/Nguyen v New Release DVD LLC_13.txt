@@ -1,0 +1,89 @@
+Nguyen v. New Release DVD, LLC
+United States District Court for the Eastern District of Pennsylvania
+October 26, 2017, Decided; October 27, 2017, Filed
+CIVIL ACTION NO. 16-6296
+
+Reporter
+2017 U.S. Dist. LEXIS 178237 *; 2017 WL 4864995
+APRIL NGUYEN, individually and on behalf of all others similarly situated, Plaintiff vs. NEW RELEASE DVD, LLC, et al., Defendants
+Counsel:  [*1] For APRIL NGUYEN, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED, Plaintiff: ARKADY ERIC RAYZ, LEAD ATTORNEY, KALIKHMAN & RAYZ LLC, HUNTINGDON VALLEY, PA; GERALD D. WELLS, III, ROBERT J. GRAY, LEAD ATTORNEYS, STEPHEN EDWARD CONNOLLY, CONNOLLY WELLS & GRAY, LLP, KING OF PRUSSIA, PA.
+For NEW RELEASE DVD, LLC, doing business as NEW RELEASE DVD, NEW RELEASE DVD, NEW RELEASE DVD II, LLC, Defendants: JOHN A. GALLAGHER, GALLAGHER LAW GROUP PC, MALVERN, PA.
+Judges: LAWRENCE F. STENGEL, Chief United States District Judge.
+Opinion by: LAWRENCE F. STENGEL
+Opinion
+
+
+
+MEMORANDUM
+STENGEL, C.J.
+Plaintiff April Nguyen brings this action individually and on behalf of all others similarly situated against Defendant New Release DVD, LLC, and its related companies, alleging a violation of the Americans With Disabilities Act, 42 U.S.C. § 12101, et seq. The defendants filed a motion to dismiss to which the plaintiff responded. For the following reasons, I will grant the motion.
+
+I. BACKGROUND1
+The defendants own and operate over 130 sales kiosks, through which they rent DVD movies to the public. Am.Compl. ¶ 36. Each of these kiosks is accessed exclusively via a touch-screen interface, which renders the kiosks inaccessible to individuals like Ms. Nguyen, [*2]  who are visually-impaired or blind. Id. at ¶¶ 32, 50, 53. The amended complaint alleges that physical access to the kiosks represents the only way in which customers may complete DVD rental transactions with the defendants, and the kiosks are the only physical places of business maintained by the defendants. Id. at ¶¶ 37, 41.
+Consumers who wish to rent a DVD from the defendants must first travel to one of the defendants' kiosks. Id. at ¶ 47. The defendants may assist consumers in locating the proper kiosk location where they may rent a specific DVD, via the "FIND A KIOSK" option on the defendants' website, thereby driving consumer traffic to specific physical kiosk locations. Id. at ¶ 38. Once they have arrived at the kiosk, consumers may --exclusively through a touch screen interface which is inaccessible to the blind and visually impaired -- browse the selection of movies available at that particular kiosk, make their selection, pay via credit or debit card, and then retrieve the movie they have selected. Id. at ¶ 51. When the rental period is up, consumers must physically return the DVD to the kiosk. Id.
+The amended complaint also alleges that Ms. Nguyen and her family make use of [*3]  the defendants' kiosks to rent movies in DVD format. Id. at ¶ 59. In July 2016, she unsuccessfully attempted to use the defendants' kiosk at Redner's Market in Wyomissing, Pennsylvania, but needed to rely on the assistance of others in order to complete the transaction. Id. at ¶¶ 61, 62, 63.
+Ms. Nguyen brought this one count complaint against the defendants alleging that by failing to make the kiosks accessible to visually-impaired individuals, the defendants are violating basic equal access requirements under applicable federal law. Id. at ¶ 68. She seeks a declaratory judgment and other injunctive relief, payment of costs of suit and reasonable attorney's fees.
+
+II. STANDARD OF REVIEW
+A motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure for failure to state a claim upon which relief can be granted examines the legal sufficiency of the complaint. Conley v. Gibson, 355 U.S. 41, 45-46, 78 S. Ct. 99, 2 L. Ed. 2d 80 (1957). Following the Supreme Court decisions in Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) and Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009), pleading standards in federal actions have shifted from simple notice pleading to a more heightened form of pleading, requiring a plaintiff to allege facts sufficient to show that the plaintiff has a plausible claim for relief. Fowler v. UPMC Shadyside, 578 F.3d 203, 210-11 (3d Cir. 2009).
+While Rule 8 of the Federal Rules of Civil Procedure requires "a short and plain statement of the claim showing that the pleader is entitled [*4]  to relief," Fed. R. Civ. P. 8(a)(2), in order to "give the defendant fair notice of what the . . .claim is and the grounds upon which it rests," Bell Atlantic, 550 U.S. 544, 127 S. Ct. 1955, 167 L. Ed. 2d 929, the plaintiff must provide "more than labels and conclusions." Byrne v. Cleveland Clinic, 684 F. Supp. 2d 641, 649 (E.D. Pa. 2010)(citing Bell Atlantic, 550 U.S. 544, 127 S. Ct. 1955, 167 L. Ed. 2d 929). A facially plausible claim may not be supported by conclusory allegations, but must allow the court "to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 678.
+
+III. DISCUSSION
+Ms. Nguyen argues that the defendants' movie rental kiosks are inaccessible to the visually-impaired. She has attempted to use the kiosks but has been unable to do so without the assistance of others. Based on these attempts, Ms. Nguyen filed this action for a violation of Title III of the Americans with Disabilities Act, seeking to represent a statewide class of similarly-situated individuals. The defendants move to dismiss the amended complaint, arguing that the plaintiff cannot state a claim against them under Title III because their kiosks are not places of public accommodation under the Act. I must agree.
+Title III of the Americans with Disabilities Act prohibits "places of public accommodation" from discriminating, on the basis of a disability, against an individual in the full [*5]  and equal access to goods and services. The law's general prohibition provides:
+No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
+42 U.S.C. § 12182(a). A violation under Title III can be based on the "failure to make reasonable modifications in policies, practices, or procedures, when such procedures are necessary to afford such goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities . . . ." 42 U.S.C. § 12182(b)(2)(A)(ii).
+To be liable under the statute, Defendant New Release DVD must be a "person who owns, leases, or operates a place of public accommodation." Furthermore, its kiosks must be places of public accommodation. The ADA does not define "place of public accommodation, but it does define "public accommodation." Under the statute, private entities are considered public accommodations if the operations of such entities affect commerce and fall into one of twelve enumerated categories:
+(A) an inn, hotel, motel, or other place [*6]  of lodging, except for an establishment located within a building that contains not more than five rooms for rent or hire and that is actually occupied by the proprietor of such establishment as the residence of such proprietor;
+(B) a restaurant, bar, or other establishment serving food or drink;
+(C) a motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;
+(D) an auditorium, convention center, lecture hall, or other place of public gathering;
+(E) a bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;
+(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;
+(G) a terminal, depot, or other station used for specified public transportation;
+(H) a museum, library, gallery, or other place of public display or collection;
+(I) a park, zoo, amusement park, or other place of recreation;
+(J) a nursery, elementary, secondary, undergraduate, or postgraduate private school, or other [*7]  place of education;
+(K) a day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and
+(L) a gymnasium, health spa, bowling alley, golf course, or other place of exercise or recreation.
+42 U.S.C. § 12181(7). Similarly, the regulations of the Department of Justice define a "place of public accommodation" to mean a "facility operated by a private entity whose operations affect commerce and fall within at least one of the following categories:
+(1) Place of lodging, except for an establishment located within a facility that contains not more than five rooms for rent or hire and that actually is occupied by the proprietor of the establishment as the residence of the proprietor. For purposes of this part, a facility is a "place of lodging" if it is—
+(i) An inn, hotel, or motel; or
+(ii) A facility that--
+(A) Provides guest rooms for sleeping for stays that primarily are short-term in nature (generally 30 days or less) where the occupant does not have the right to return to a specific room or unit after the conclusion of his or her stay; and
+(B) Provides guest rooms under conditions and with amenities similar to a hotel, motel, or inn, including [*8]  the following—
+(1) On-or off-site management and reservations service;
+(2) Rooms available on a walk-up or call-in basis;
+(3) Availability of housekeeping or linen service; and
+(4) Acceptance of reservations for a guest room type without guaranteeing a particular unit or room until check-in, and without a prior lease or security deposit.
+(2) A restaurant, bar, or other establishment serving food or drink;
+(3) A motion picture house, theater, concert hall, stadium, or other place of exhibition or entertainment;
+(4) An auditorium, convention center, lecture hall, or other place of public gathering;
+(5) A bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;
+(6) A laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;
+(7) A terminal, depot, or other station used for specified public transportation;
+(8) A museum, library, gallery, or other place of public display or collection;
+(9) A park, zoo, amusement park, or other place [*9]  of recreation;
+(10) A nursery, elementary, secondary, undergraduate, or postgraduate private school, or other place of education;
+(11) A day care center, senior citizen center, homeless shelter, food bank, adoption agency, or other social service center establishment; and
+(12) A gymnasium, health spa, bowling alley, golf course, or other place of exercise or recreation."
+See 28 C.F.R. § 36.104. Under those same regulations, a "facility" is defined as "all or any portion of buildings, structures, sites, complexes, equipment, rolling stock or other conveyances, roads, walks, passageways, parking lots, or other real or personal property, including the site where the building, property, structure, or equipment is located." Id. Here, Ms. Nguyen argues that the kiosks are facilities operated by a private entity whose operations affect commerce, and fall under the category of "other sales or rental establishment" as that phrase appears in 42 U.S.C. § 12181(7)(E). Although mindful of my duty to accept all factual allegations in the amended complaint as true and draw all reasonable inferences in the plaintiff's favor, that duty is not extended to legal conclusions. Thus, for the following reasons, I cannot accept the plaintiff's conclusion [*10]  that the defendants' kiosks are places of public accommodation and covered under Title III of the Act.
+The Third Circuit Court of Appeals has held that "the plain meaning of Title III is that a public accommodation is a place, leading to the conclusion that "'it is all of the services which the public accommodation offers, not all services which the lessor of the public accommodation offers[,] which fall within the scope of Title III.'" Ford v. Schering-Plough Corp., 145 F.3d 601, 612 (3d Cir. 1998) (citing Parker v. Metro. Life Ins. Co., 121 F.3d 1006, 1011 (6th Cir. 1997)); see also Stoutenborough v. National Football League, Inc., 59 F.3d 580, 583 (6th Cir. 1995) (holding that the televised broadcast of a football game is not subject to Title III, but noting that where the game is played is a place of public accommodation and where the game is watched also may be a place of public accommodation). This is in keeping with the host of examples of public accommodations provided by the ADA, all of which refer to places. See 42 U.S.C. § 12181(7). The court continued:
+Restricting "public accommodation" to places is in keeping with jurisprudence concerning Title II of the Civil Rights Act of 1964, 42 U.S.C. § 2000a (1994). Title II proscribes racial and religious discrimination in "the goods, services, facilities, privileges, advantages, and accommodations of any place of public accommodation . . . ." 42 U.S.C. § 2000a(a). This proscription has been [*11]  limited to places rather than including membership in an organization, see Welsh v. Boy Scouts of Am., 993 F.2d 1267, 1269-75 (7th Cir. 1993), and rather than encompassing an organization's operations unconnected to any physical facility. See Clegg v. Cult Awareness Network, 18 F.3d 752, 755-56 (9th Cir. 1994).
+Ford, 145 F.3d at 613.
+In 2010, the Third Circuit revisited this issue and reaffirmed its decision in Ford. In Peoples v. Discover Fin. Servs., the visually-impaired plaintiff brought suit alleging that the defendant's investigation of his fraud claim violated Title III. The district court granted summary judgment on behalf of the defendant, finding that there was no connection between the services offered by the defendant and a physical place of accommodation. 2009 Dist. LEXIS 87184, *9 (E.D. Pa. September 22, 2009). On appeal, the Third Circuit declined to clarify or reconsider its holding and extend the interpretation of public accommodations to include things other than physical places:
+The Courts of Appeals are split on whether the term "public accommodation," as used in the ADA, refers to an actual physical structure or whether it has some broader meaning. Compare Weyer v. Twentieth Century Fox Film Corp., 198 F.3d 1104, 1115 (9th Cir. 2000) (holding that an insurance company administering an employer-provided disability plan is not a place of public accommodation), and Ford v. Schering-Plough Corp., 145 F.3d 601, 612 (3d Cir. 1998) ("The plain meaning of Title III is that a public accommodation is a place ..."), and [*12]  Parker v. Metro. Life Ins. Co., 121 F.3d 1006, 1014 (6th Cir. 1997) (holding that "a public accommodation is a physical place") with Morgan v. Joint Admin. Bd., Ret. Plan of the Pillsbury Co., 268 F.3d 456, 459 (7th Cir. 2001) (refusing to interpret "public accommodation" literally, so as to "denot[e] a physical site"), and Carparts Distrib. Ctr. v. Automotive Wholesaler's Ass'n, 37 F.3d 12, 19 (1st Cir. 1994) (holding that public accommodations are not limited to physical structures). Our court is among those that have taken the position that the term is limited to physical accommodations. Ford, 145 F.3d at 612. Despite Peoples's request that we "clarify or reconsider" our holding in Ford and extend our interpretation of public accommodations to include things other than physical places, we are bound by our precedent. See Pa. Ass'n of Edwards Heirs v. Rightenour, 235 F.3d 839, 844 (3d Cir. 2000) ("Under this Court's Internal Operating Procedures, we are bound by, and lack the authority to overrule, a published decision by a prior panel ...").
+Peoples v. Discover Fin. Servs., Inc., 387 F.App'x 179, 183 (3d Cir. 2010).
+It is undisputed that the particular settings where the kiosks are located are places of public accommodation under § 12181(7)(E). See Am.Compl. ¶ 42. Nevertheless, the plaintiff chose to sue defendants who do not own, lease, or operate the places of public accommodation where she encountered the kiosks. These kiosks are not akin to any of the twelve specific categories of places of public accommodation listed in the statute and the federal regulations. To conclude that the kiosks are "places of public [*13]  accommodation" would be expanding that term well beyond its statutory definition, and to defy our circuit's well-established case law. Accordingly, I find that the defendants' kiosks are not places of public accommodation as defined in Title III, and I will grant the defendants' motion to dismiss.
+An appropriate Order follows.
+
+ORDER
+AND NOW, this 26th day of October, 2017, upon consideration of the defendants' second motion to dismiss (Document #14), and the plaintiff's response thereto (Document #17), IT IS HEREBY ORDERED that this motion is GRANTED in its entirety.
+The Clerk of Court is directed to mark this case CLOSED for all purposes.
+BY THE COURT:
+/s/ Lawrence F. Stengel
+LAWRENCE F. STENGEL, C.J.
+
+
+End of Document
+

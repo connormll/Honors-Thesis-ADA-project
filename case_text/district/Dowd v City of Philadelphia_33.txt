@@ -1,0 +1,57 @@
+Dowd v. City of Philadelphia
+United States District Court for the Eastern District of Pennsylvania
+August 2, 2021, Decided; August 2, 2021, Filed
+CIVIL ACTION NO. 19-1981
+
+Reporter
+2021 U.S. Dist. LEXIS 143531 *; 2021 WL 3339869
+ANTHONY DOWD v. THE CITY OF PHILADELPHIA
+Prior History: Dowd v. City of Philadelphia, 2020 U.S. Dist. LEXIS 63164, 2020 WL 1826596 (E.D. Pa., Apr. 10, 2020)
+Counsel:  [*1] For ANTHONY DOWD, Plaintiff: BRIAN R. MILDENBERG, LEAD ATTORNEY, MILDENBERG LAW FIRM PC, PHILADELPHIA, PA; DAVID A. BERLIN, MATTHEW B. WEISBERG, LEAD ATTORNEYS, WEISBERG LAW PC, MORTON, PA; GARY SCHAFKOPF, LEAD ATTORNEY, HOPKINS SCHAFKOPF, LLC, BALA CYNWYD, PA.
+For THE CITY OF PHILADELPHIA, doing business as, PHILADELPHIA DEPT. OF CORRECTIONS, Defendant: NICOLE S. MORRIS, LEAD ATTORNEY, CITY OF PHILADELPHIA SOLICITOR'S OFFICE, PHILADELPHIA, PA; BENJAMIN RICHARD PATCHEN, CITY OF PHILADELPHIA LAW DEPARTMENT, LABOR & EMPLOYMENT UNIT, PHILADELPHIA, PA.
+Judges: MICHAEL M. BAYLSON, J.
+Opinion by: MICHAEL M. BAYLSON
+Opinion
+
+
+
+MEMORANDUM RE MOTION FOR A NEW TRIAL
+Baylson, J.
+
+I. Introduction
+Anthony Dowd sued his employer, the City of Philadelphia for violations of the Americans with Disabilities Act, the Philadelphia Fair Practices Ordinance, and the Pennsylvania Human Relations Act for failure to accommodate his disabilities and retaliation. Mr. Dowd's case proceeded through discovery and a trial began on June 10, 2021 at which a jury found for the City on all claims. It is unclear exactly what relief Mr. Dowd seeks as his Motion is simply titled "Post Trial Motion." The City construed Mr. Dowd's Motion as a Motion for a new trial pursuant to Rule 59 because Mr. [*2]  Dowd did not move for judgment as a matter of law before the case went to the jury, and therefore is not entitled to relief under Rule 50. Mr. Dowd was represented by counsel at trial, but files this Motion pro se. The Court will construe this Motion as a Motion for a New Trial and deny it.
+
+II. Post-Trial Motion
+Mr. Dowd titles his Motion "Post Trial Motion" and states several reasons that he is "requesting a post trial motion." Noting that Mr. Dowd's counsel did not move for judgment as a matter of law at the close of evidence, the City explains that Mr. Dowd has waived the right to do so now. See Greenleaf v. Garlock, Inc., 174 F.3d 352, 364 (3d Cir. 1999) ("It is well settled that a party who does not file a Rule 50 motion for judgment as a matter of law at the end of the evidence is not thereafter entitled to have judgment entered in its favor notwithstanding an adverse verdict.") In its brief the City assumed that the relief sought by Mr. Dowd was a new trial pursuant to Rule 59. The Court will construe Mr. Dowd's Motion in this manner as well.
+
+III. Discussion
+Mr. Dowd makes several arguments as to why the Court should order a new trial: (1) the City failed to prove important factual points and the overwhelming evidence supported Mr. Dowd's position, (2) the Court [*3]  improperly admitted evidence, (3) the Court allowed Vongvilay Mounelasy to be present in the courtroom throughout trial, and (4) the Court failed to properly instruct the jury.
+Rule 59 states, in relevant part, that "[t]he court may, on motion, grant a new trial on all or some of the issues—and to any party— . . . after a jury trial, for any reason for which a new trial has heretofore been granted in an action at law in federal court." However, "it should do so only when the great weight of the evidence cuts against the verdict and a miscarriage of justice would result if the verdict were to stand." Leonard v. Stemtech Int'l, Inc., 834 F.3d 376, 386 (3d Cir. 2016) (quotation omitted). "A district court's power to grant a new trial is limited to ensure that it does not substitute its judgment of the facts and the credibility of the witnesses for that of the jury." Id. (quotation omitted).
+
+a. Verdict Against the Evidence
+Mr. Dowd argues that the City was required to and did not prove the following: (1) providing an accommodation for Mr. Dowd would have been an undue hardship, (2) even if there would have been an undue hardship, the City did not communicate that to Mr. Dowd, (3) the City did not communicate with Mr. Dowd to find a new position and use reassignment [*4]  as a last resort, and (4) the City failed to demonstrate its effort to find an accommodation for Mr. Dowd's anxiety/claustrophobia.
+The City responds that these are arguments that there was insufficient evidence to support the jury's verdict, and that Mr. Dowd waived this argument because he did not move for a directed verdict at the close of evidence. The Third Circuit has explained that "the failure to move for a directed verdict at the close of all evidence does more than limit an aggrieved party's remedy to a new trial. In this Circuit, it wholly waives the right to mount any post-trial attack on the sufficiency of the evidence." Yohannon v. Keene Corp., 924 F.2d 1255, 1262 (3d Cir. 1991). As Mr. Dowd did not move for a directed verdict at the close of evidence, he has waived the argument that the jury's verdict was based on insufficient evidence.
+
+b. Improper Evidence
+Next, Mr. Dowd argues that the Court improperly permitted the City to enter into evidence pictures of the workspace for the position that the City proposed for Mr. Dowd and the report of separation. He argued that he had not seen the photos previously "possibly creating a prejudice." Regarding the report of separation, Mr. Dowd characterizes it as "fraudulent" and states that [*5]  the date did not match the date that he was required to return to work. The City notes that it does not recall entering the report into evidence but does not have the transcript so cannot be certain on that point. The City argues that as Mr. Dowd's counsel did not object to either of these exhibits at trial, he waived this argument, and that the admission of these exhibits cannot constitute reversible error.
+"[A] finding of reversible error may not be predicated upon a ruling which admits or excludes evidence unless a substantial right of the party is affected." Becker v. ARCO Chem. Co., 207 F.3d 176, 180 (3d Cir. 2000) (quotation omitted). As Mr. Dowd's counsel did not object to these exhibits at trial, had the opportunity to cross-examine witnesses regarding these exhibits at trial, and Mr. Dowd has not explained how the admission of these documents affected a substantial right, the admission of these exhibits is not reversible error.
+
+c. The City's Representative
+Next Mr. Dowd argues that one of the City's witnesses, Vongvilay Mounelasy, should not have been allowed to be present in the courtroom "openly displaying her unsecured phone" because she could have communicated with other witnesses regarding "how to testify." The City responds that [*6]  Mr. Dowd's counsel made no objection to Ms. Mounelasy's presence in the courtroom, and that the court cannot exclude the City's designated representative. Fed. R. Evid. 615 allows the court to exclude witnesses, but it "does not authorize excluding . . . an officer or employee of a party that is not a natural person, after being designated as the party's representative by its attorney." The fact that Ms. Mounelasy was in the courtroom for the entirely of the trial was not error, as she was the City's designated representative.
+
+d. Jury Instructions
+Lastly, Mr. Dowd argues that the Court did not properly instruct the jury regarding a specific EEOC regulation under the ADA, and that the instructions did not "differentiate the defendant's need to accommodate Plaintiff's worker's comp injury versus a need to accommodate his ADA disability." The City responds that Mr. Dowd's counsel did not request the instructions that Mr. Dowd now proposes and that the instructions were based on the Third Circuit's model jury instructions with minimal deviations. Further, the City states that even if these instructions had been proposed and the Court rejected them, any error would have been harmless.
+"A party is entitled [*7]  to a jury instruction that accurately and fairly sets forth the current status of the law." Douglas v. Owens, 50 F.3d 1226, 1233 (3d Cir. 1995). However, "[n]o litigant has a right to a jury instruction of its choice, or precisely in the manner and words of its own preference." Id. "Generally, a party who does not clearly and specifically object to a charge he believes to be erroneous waives the issue on appeal." Alexander v. Riga, 208 F.3d 419, 426 (3d Cir. 2000). Further, the Third Circuit has explained that it has "a hard time concluding that the use of our own model jury instruction can constitute error." United States v. Petersen, 622 F.3d 196, 208, 54 V.I. 929 (3d Cir. 2010). Therefore, as Mr. Dowd's counsel did not propose the requested instruction and the Court provided thorough instructions taken almost word for word from the Third Circuit's model instructions, there was no reversible error in the jury instructions.
+
+IV. Conclusion
+Based on the above discussion, the Court will deny Mr. Dowd's Motion for a New Trial. An appropriate Order follows.
+
+ORDER RE MOTION FOR A NEW TRIAL
+AND NOW, this 2nd day of August, 2021, after careful consideration of Plaintiff Anthony Dowd's Motion for a New Trial (ECF 99) and Defendant City of Philadelphia's Response (ECF 101), for the reasons stated in the attached Memorandum, it is hereby ORDERED that Plaintiff's Motion [*8]  is DENIED.
+BY THE COURT:
+/s/ MICHAEL M. BAYLSON
+MICHAEL M. BAYLSON, U.S.D.J.
+
+
+End of Document
+

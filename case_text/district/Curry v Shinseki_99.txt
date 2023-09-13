@@ -1,0 +1,51 @@
+Curry v. Shinseki
+United States District Court for the Northern District of Alabama, Southern Division
+November 10, 2010, Decided; November 10, 2010, Filed
+Civil Action Number 2:09-cv-2441-AKK
+
+Reporter
+2010 U.S. Dist. LEXIS 147767 *
+ADRIENNE L. CURRY, Plaintiff, vs. ERIC K. SHINSEKI, SECRETARY, UNITED STATES DEPARTMENT OF VETERANS AFFAIRS, et al, Defendants.
+Subsequent History: Summary judgment granted by, Dismissed by, Motion denied by Curry v. Shinseki, 2011 U.S. Dist. LEXIS 162823 (N.D. Ala., Aug. 31, 2011)
+Prior History: Curry v. Shinseki, 2009 EEOPUB LEXIS 2368 (E.E.O.C., Sept. 1, 2009)
+Counsel:  [*1] For Adrienne L. Curry, Plaintiff: Henry L Penick, LEAD ATTORNEY, PENICK & ASSOCIATES PC, Birmingham, AL.
+For United States Department of Veterans Affairs, Eric K. Shinseki, Secretary, Defendants: Jack B Hood, LEAD ATTORNEY, Joyce White Vance, US Attorney, US ATTORNEY'S OFFICE, Birmingham, AL.
+For United States Department of Labor, Hilda Solis, Secretary, Office of Workers Compensation, Defendants: Jack B Hood, Joyce White Vance, US Attorney, US ATTORNEY'S OFFICE, Birmingham, AL.
+Judges: ABDUL K. KALLON, UNITED STATES DISTRICT JUDGE.
+Opinion by: ABDUL K. KALLON
+Opinion
+
+
+
+ORDER
+The court has before it Defendants' Motion and Brief for Partial Dismissal, or in the Alternative, for Partial Summary Judgment. Doc. 17. Plaintiff Adrienne Curry ("Plaintiff") responded, (doc. 24), and Defendants replied, (doc. 25). The motion, which the court addresses as a motion to dismiss, is therefore ripe for this court's review.
+
+I. Motion to Dismiss Standard
+Rule 12(b)(6) of the Federal Rules of Civil Procedure permits dismissal for "failure to state a claim upon which relief can be granted." When considering a motion to dismiss under Rule 12(b)(6), the court must determine whether the complaint contains "enough facts to state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). The "complaint's allegations [*2]  must be taken as true and read in the light most favorable to the plaintiff[]." Linder v. Portocarrero, 963 F.2d 332, 334 (11th Cir. 1992). "Under Rule 12(b)(6), the party moving for dismissal has the burden of proving that no claim has been stated." 2 James WM. Moore, Moore's Federal Practice § 12.34(1)(a) (Matthew Bender 3d ed. 2009).
+
+II. Factual Background
+Plaintiff alleges that, during all periods relevant to her amended complaint,1 she was employed by the United States Department of Veteran Affairs ("the VA"). Doc. 23 at 2 ¶ 3. Plaintiff began her employment with the VA in 1985. Id. at 3 ¶ 8. In 1999, she filed a sexual harassment suit against the VA, which was settled in November 2000. Id. ¶ 9. She alleges that the suit caused her to develop severe depression. Id. ¶ 10. She subsequently made a claim for, and received, compensation for her injury from Defendant The Office of Workers' Compensation Programs ("OWCP"). Id. ¶ 11.
+
+III. Analysis
+
+A. Punitive Damages and Claims Pursuant to 42 U.S.C. § 1983
+Plaintiff concedes that punitive damages are not available to her. Doc. 24 at 1. She further concedes that she cannot maintain a claim pursuant to 42 U.S.C. § 1983. Id. The court therefore DISMISSES her claim for punitive damages and any claim pursuant to 42 U.S.C. § 1983.
+
+B. Rehabilitation Act and Americans with Disabilities Act Claims
+Count I of Plaintiff's [*3]  amended complaint alleges that Defendants violated the Rehabilitation Act when OWCP denied her reimbursement for rehabilitation services in the form of payments for her further education, and denied her job placement services. Doc. 23 at 3-5. Count II of Plaintiff's amended complaint alleges that Defendants violated the Americans with Disabilities Act ("ADA") and/or the Rehabilitation Act by refusing to grant her reasonable accommodations — i.e. failing to employ her at the VA on a reduced-work schedule.2 Id. at 5-6.
+The Federal Employees' Compensation Act ("FECA"), 5 U.S.C. § 8101 et seq., provides a comprehensive remedy to a federal employee for injuries "sustained while in the performance of his duty." 5 U.S.C. § 8102(a). Furthermore, the remedies provided under FECA are the exclusive remedies for injuries falling within its coverage and judicial review is expressly foreclosed by statute. 5 U.S.C. §§ 8116(c), 8128(b).
+Courts, however, have provided conflicting guidance as to whether FECA's exclusive remedies provisions foreclose judicial review under the Rehabilitation Act or the ADA. The Eighth Circuit rejected a Rehabilitation Act claim, finding that the plaintiff could not rely on the Rehabilitation Act to secure judicial review of the Department of Labor's [*4]  FECA compensation decision. Meester v. Runyon, 149 F.3d 855, 857 (8th Cir. 1998) ("Thus, we hold that a frustrated FECA claimant cannot secure judicial review of a FECA compensation decision by claiming that the Rehabilitation Act entitles her to accommodation in performing an alternative position approved by the Department of Labor when the claim is predicated upon the same illness or injury that gave rise to the Department of Labor's initial decision."); see also Taylor v. Potter, 124 Fed. Appx. 293, 2005 U.S. App. LEXIS 5275, 2005 WL 746617, at *1 (5th Cir. Apr. 1, 2005) (Table Decision, text in Westlaw) ("Taylor is also prohibited from alleging disability discrimination in violation of the Rehabilitation Act in order to secure judicial review of the Department of Labour's [sic] determination."). However, others courts have found that "recovery of FECA benefits does not bar a subsequent claim for discrimination" on the basis of disability. Morris v. Roche, 182 F. Supp. 2d 1260, 1274 (M.D. Ga. 2002) (collecting cases). As Morris notes, "anti-discrimination statutes, including the Rehabilitation Act, provide different relief for an entirely separate injury." Id. 1276-77.
+Because it is not clear at this early juncture whether Plaintiff simply seeks a review of her FECA compensation decision, which is unreviewable by this court, or seeks to obtain separate relief available to her under the anti-discrimination statutes, [*5]  Defendants' motion to dismiss is denied as to Counts I and II.
+
+C. Whether Defendants Are Proper Parties
+Defendants further argue in their reply that "[o]nly the head of the federal agency employer is the proper party subject to suit under 42 U.S.C. § 2000e-16 and the Rehabilitation Act . . . ." Doc. 25 at 2 (citing Canino v. EEOC, 707 F.2d 468, 472 (11th Cir. 1983)). In general, the court does not consider arguments first raised in a reply. See, e.g., United States v. Levy, 379 F.3d 1241, 1244 (11th Cir. 2004) (noting that the Eleventh Circuit consistently refuses to consider issues raised for the first time in a reply brief). Nevertheless, this is an important point that should be addressed as early as possible in the litigation. Therefore, Plaintiff is ordered to show cause by November 24, 2010, why Defendants OWCP and Hilda Solis, Secretary of the U.S. Department of Labor should not be dismissed.
+
+IV. Conclusion
+For the reasons set forth above, Defendants' motion to dismiss is GRANTED with respect to Plaintiff's claims pursuant to 42 U.S.C. § 1983 and claim for punitive damages. Defendants' motion to dismiss is DENIED with respect to Plaintiff's claims under the ADA and the Rehabilitation Act.3 Finally, Plaintiff is ordered to show cause by November 24, 2010, why Defendants OWCP and Hilda Solis, Secretary of the U.S. Department of Labor [*6]  should not be dismissed.
+DONE this 10th day of November, 2010.
+/s/ Abdul K. Kallon
+ABDUL K. KALLON
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document

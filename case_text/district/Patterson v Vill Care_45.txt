@@ -1,0 +1,48 @@
+Patterson v. Vill. Care
+United States District Court for the Southern District of California
+May 10, 2019, Decided; May 10, 2019, Filed
+Case No.: 19-cv-0302-AJB-AGS
+
+Reporter
+2019 U.S. Dist. LEXIS 79660 *; 2019 WL 2077043
+Terry Patterson, Plaintiff, v. Village Care, Defendant.
+Subsequent History: Settled by Patterson v. Vill. Care, 2020 U.S. Dist. LEXIS 105482 (S.D.N.Y., June 16, 2020)
+Counsel:  [*1] Terry Patterson, Plaintiff, Pro se, San Diego, CA.
+Judges: Hon. Anthony J. Battaglia, United States District Judge.
+Opinion by: Anthony J. Battaglia
+Opinion
+
+
+
+ORDER DENYING PLAINTIFF'S MOTION TO FILE IN FORMA PAUPERIS AS MOOT AND DISMISSING THE COMPLAINT WITHOUT PREJUDICE
+(Doc. No. 2)
+The Court reviews Plaintiff Terry Patterson's complaint under 28 U.S.C. § 1915(e) as required when a plaintiff files a motion to proceed in forma pauperis ("IFP"). (Doc. Nos. 1, 2.) Under this mandatory screening, the Court finds that Patterson's complaint does not sufficiently state a claim for relief. Thus, the Court DENIES as moot Patterson's IFP motion., (Doc. No. 2), and DISMISSES Patterson's complaint with leave to amend.
+
+I. MOTION TO PROCEED IN FORMA PAUPERIS
+Patterson moves to proceed IFP under 28 U.S.C. § 1915. All parties instituting any civil action, suit, or proceeding in a district court of the United States, except an application for writ of habeas corpus, must pay a filing fee of $400. See 28 U.S.C. § 1914(a). An action may proceed despite a plaintiff's failure to prepay the entire fee only if the plaintiff is granted leave to proceed IFP under 28 U.S.C. § 1915(a). See Rodriguez v. Cook, 169 F.3d 1176, 1177 (9th Cir. 1999). All actions sought to be filed IFP under § 1915 must be accompanied by an affidavit, signed by the applicant under penalty of perjury, [*2]  that includes a statement of all assets which shows inability to pay initial fees or give security. Civ. L.R. 3.2.a.
+Here, Patterson states in her declaration that she is currently unemployed. (Doc. No. 2 at 2.) Patterson declares she received $308.64 per week from May 3, 2017, until December 13, 2018, from Worker's Compensation. (Id.) Patterson further declares that for a period of 225 weeks starting from December 14, 2018, she received $185.18 per week from Worker's Compensation. (Id.) Patterson declares she has $358 in her checking account and $42,300 held in other account(s). (Id.) Patterson fails to specify in what type of account(s) the foregoing funds are held and therefore, the Court is unable to determine Patterson's ability to pay. However, the Court need not determine Patterson's IFP financial status at this time because the complaint is dismissed with leave to amend. Patterson must refile for IFP status at that time. Thus, the Court DENIES Patterson's IFP motion as moot.
+
+II. SCREENING UNDER 28 U.S.C. § 1915(e)
+Under 28 U.S.C. § 1915(e)(2), when reviewing an IFP motion, the Court must rule on its own motion to dismiss before the complaint is served. Lopez v. Smith, 203 F.3d 1122, 1127 (9th Cir. 2000). The Court must dismiss the complaint if it is frivolous, malicious, failing [*3]  to state a claim upon which relief may be granted, or seeking monetary relief from a defendant immune from such relief. 28 U.S.C. § 1915(e)(2)(B); Calhoun v. Stahl, 254 F.3d 845, 845 (9th Cir. 2001) (per curiam) (noting 28 U.S.C. § 1915(e)(2)(B) is "not limited to prisoners"); Lopez, 203 F.3d at 1127 ("[§] 1915(e) not only permits but requires a district court to dismiss an [IFP] complaint that fails to state a claim"). Accordingly, the Court "may dismiss as frivolous complaints reciting bare legal conclusions with no suggestion of supporting facts . . . ." Franklin v. Murphy, 745 F.2d 1221, 1228 (9th Cir. 1984) (internal quotation omitted). "[A] complaint must contain sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 547, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). A complaint is facially plausible when the facts alleged allow "the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Id.
+Also, pro se pleadings are held to "less stringent standards than formal pleadings drafted by lawyers" because pro se litigants are more prone to making errors in pleading than litigants represented by counsel. Hughes v. Rowe, 449 U.S. 5, 9, 101 S. Ct. 173, 66 L. Ed. 2d 163 (1980) (internal quotations omitted); see Noll v. Carlson, 809 F.2d 1446, 1448 (9th Cir. 1987), superseded by statute on other grounds, Lopez, 203 F.3d at 1126-30 (9th Cir. 2000). Thus, the Supreme Court has stated that federal courts should liberally construe the "'inartful pleading' of pro se litigants." Eldridge v. Block, 832 F.2d 1132, 1137 (9th Cir. 1987) (quoting [*4]  Boag v. MacDougall, 454 U.S. 364, 365, 102 S. Ct. 700, 70 L. Ed. 2d 551 (1982)); see, e.g., Balistreri v. Pacifica Police Dep't, 901 F.2d 696, 699 (9th Cir. 1988) (reasoning that pro se pleadings are liberally construed).
+
+III. DISCUSSION
+Patterson contends that Village Care violated the Americans with Disabilities Act ("ADA") by failing to reasonably accommodate her disability and by terminating her because of that disability. (Doc. No. 1 at 2.) The ADA provides that "[n]o covered entity shall discriminate against a qualified individual with a disability because of the disability. . . ." 42 U.S.C. § 12112(a). Title I of the ADA insures full opportunities for people with disabilities in the workplace by requiring reasonable accommodation of employees' disabilities by their employers. Under the ADA, the term "discriminate" is defined as including "not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity." 42 U.S.C. § 12112(b)(5)(A). To prevail on a claim of unlawful discharge under the ADA, the plaintiff must establish that he is a qualified individual with a disability and that the employer terminated him because of [*5]  his disability. Cooper v. Neiman Marcus Group, 125 F.3d 786, 790 (9th Cir. 1997). The ADA defines a "qualified individual with a disability" as "an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C. § 12111(8). A "disability" is "a physical or mental impairment that substantially limits one or more of the major life activities of such individual." 42 U.S.C. § 12102(2)(A).
+Here, Patterson alleges generally she has a disability, but fails to plead sufficient facts to establish she is a "qualified individual with a disability" protected under the ADA. Therefore, Patterson has failed to establish a prima facie case as to the first element of an unlawful discharge claim under the ADA.
+Moreover, Patterson fails to plead sufficient facts that Village Care terminated Patterson because of a qualified disability protected under the ADA. Rather, Patterson alleges only that from February 6, 2017 to August 4, 2017 "Village Care failed to engage in an interactive process . . . to begin discussing the accommodation request" and that Patterson was terminated effective August 4, 2017. The allegations do not make clear what accommodations Village Care was obligated to make [*6]  and whether Patterson was terminated because of a qualifying disability protected under the ADA.
+Therefore, Patterson has failed to state a claim upon which relief can be granted.
+
+IV. LEAVE TO AMEND
+Leave to amend should be granted if it appears possible that the plaintiff can correct the complaint's deficiency. Balistreri, 901 F.2d at 701. The "rule favoring liberality in amendments to pleadings is particularly important for the pro se litigant. Presumably unskilled in the law, the pro se litigant is far more prone to make errors in pleading than the person who benefits from the representation of counsel." Noll, 809 F.2d at 1448; see Crowley v. Bannister, 734 F.3d 967, 977-78 (9th Cir. 2013); see also Bazrowx v. Scott, 136 F.3d 1053, 1054 (5th Cir. 1998) ("Generally a district court errs in dismissing a pro se complaint for failure to state a claim . . . without giving the plaintiff an opportunity to amend."). Therefore, the Court GRANTS Patterson leave to amend her complaint.
+
+V. CONCLUSION
+The Court DENIES as moot Patterson's IFP motion, (Doc. No. 2), and DISMISSES Patterson's complaint with leave to amend, (Doc. No. 1). Patterson must file both (1) a renewed IFP motion and (2) an amended complaint by June 7, 2019, or risk having this case dismissed with prejudice for failure to prosecute.
+IT IS SO ORDERED.
+Dated: May 10, 2019
+/s/ Anthony J. Battaglia [*7] 
+Hon. Anthony J. Battaglia
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,49 @@
+Lozoya v. Nat'l Mobility Eldercare Inc.
+United States District Court for the District of Arizona
+August 15, 2023, Decided; August 15, 2023, Filed
+No. CV-22-00065-PHX-DLR
+
+Reporter
+2023 U.S. Dist. LEXIS 142834 *; 2023 WL 5230693
+Clayda L Lozoya, Plaintiff, v. National Mobility Eldercare Incorporated, Defendant.
+Counsel:  [*1] Clayda L Lozoya, Plaintiff, Pro se, Phoenix, AZ.
+For National Mobility Eldercare Incorporated, doing business as, Envoy America, Defendant: H Christian Bode, LEAD ATTORNEY, Law Office of Chris Bode, Scottsdale, AZ.
+Judges: Douglas L. Rayes, United States District Judge.
+Opinion by: Douglas L. Rayes
+Opinion
+
+
+
+ORDER
+At issue is Defendant National Mobility Eldercare Incorporated's ("National Mobility") motion to dismiss (Doc. 25) Plaintiff Clayda Lozoya's amended complaint (Doc. 22), which is fully briefed (Docs. 29, 30). National Mobility's motion is denied.
+
+I. Legal Standard
+The Federal Rules of Civil Procedure require a pleading to contain "a short and plain statement of the claim showing that the pleader is entitled to relief[.]" Fed. R. Civ. P. 8(a)(2). "To avoid a Rule 12(b)(6) dismissal, a complaint need not contain detailed factual allegations; rather, it must plead 'enough facts to state a claim to relief that is plausible on its face.'" Clemens v. DaimlerChrysler Corp., 534 F.3d 1017, 1022 (9th Cir. 2008) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). Well-pled factual allegations are accepted as true and construed in the light most favorable to the pleader. Cousins v. Lockyer, 568 F.3d 1063, 1067 (9th Cir. 2009). What's more, the Court liberally construes the pleadings of self-represented parties, like Ms. Lozoya, and afford them the benefit of any doubt. See Hebbe v. Pliler, 627 F.3d 338, 342 (9th Cir. 2010).
+
+II. Factual Allegations
+National Mobility hired [*2]  Ms. Lozoya as a dispatcher in October 2018. In February 2020, Ms. Lozoya signed an employment contract for a term of one year. Ms. Lozoya performed her job satisfactorily and received no disciplinary actions.
+In June 2020, Ms. Lozoya injured herself at work. She subsequently was diagnosed with De Quervain's tenosynovitis (also called radial styloid tenosynovitis). Her injury limited her ability to use her left hand and fingers. A couple days after her injury, Ms. Lozoya told her employer that she would need assistance with her job duties and supplied her supervisor with a doctor's note indicating the need for work restrictions. Ms. Lozoya was told to use a voice-to-text function to minimize the need for her to type. But when she complained to her operations manager that the voice-to-text function was not working, she was terminated.
+Ms. Lozoya believes National Mobility fired her because it did not want to engage in an interactive process to accommodate her disability, in violation of the Americans with Disabilities Act ("ADA"). She also believes that her termination constituted a breach of her one-year employment contract. Ms. Lozoya filed a claim with the Equal Employment Opportunity Commission, which elected not to pursue [*3]  the case but issued Ms. Lozoya a notice of right to sue letter.
+
+III. Discussion
+
+A. ADA Claim
+To state a plausible failure-to-accommodate claim under the ADA, Ms. Lozoya must allege that: (1) she is disabled within the meaning of the ADA; (2) she is qualified to perform the essential functions of her job with reasonable accommodation; (3) she requested an accommodation; (4) National Mobility knew of the requested accommodation; and (5) National Mobility failed to reasonably accommodate her disability. See Allen v. Pacific Bell, 348 F.3d 1113, 1114 (9th Cir. 2003); Iwaniszek v. Pride Transport, Inc., No. 2:17-cv-02918-JCM-BNW, 2021 U.S. Dist. LEXIS 30205, 2021 WL 634991, at *3 (D. Nev. Feb. 17, 2021). "The ADA defines the term 'disability' as: '(A) a physical or mental impairment that substantially limits one or more of the major life activities of such individual; (B) a record of such an impairment; or (C) being regarded as having such an impairment.'" Puckett v. Park Place Entertainment Corp., 332 F.Supp.2d 1349, 1352-53 (D. Nev. Aug. 17, 2004) (quoting 42 U.S.C. § 12102(2)).
+Ms. Lozoya's amended complaint, liberally construed, states a plausible ADA failure-to-accommodate claim. Ms. Lozoya alleges: (1) that she is disabled within the meaning of the ADA because De Quervain's tenosynovitis limits her ability to use her left hand and fingers, including for work-related tasks, see Shields v. Credit One Bank, N.A., 32 F.4th 1218, 1226 (9th Cir. 2022) (finding a complaint plausibly alleged limitations on major life activities where the plaintiff claimed her injury [*4]  rendered her "unable to perform some of the core physical tasks included in her job description, such as lifting, reaching, fingering, and handling"); (2) she was qualified to perform her job and did so satisfactorily until her injury; (3 & 4) she notified National Mobility of her injury and her need for workplace accommodations; yet (5) National Mobility terminated her rather than engage in an interactive process to determine whether Ms. Lozoya's disability could be reasonably accommodated. These allegations satisfy Rule 8's short and plain statement requirement and reasonably put National Mobility on notice of the factual and legal basis of the ADA claim against it.
+
+B. Breach of Contract Claim
+Under Arizona law:
+The employment relationship is severable at the pleasure of either the employee or the employer unless both the employee and the employer have signed a written contract to the contrary setting forth that the employment relationship shall remain in effect for a specified duration of time or otherwise expressly restricting the right of either party to terminate the employment relationship. Both the employee and the employer must sign this written contract, or this written contract must [*5]  be set forth in the employment handbook or manual or any similar document distributed to the employee, if that document expresses the intent that it is a contract of employment, or this written contract must be set forth in a writing signed by the party to be charged. Partial performance of employment shall not be deemed sufficient to eliminate the[se] requirements[.]
+A.R.S. § 23-1501(A)(2). "In determining whether an employment contract or other document satisfies these requirements," the Court applies "common law principles of contract interpretation and give[s] effect to the parties' intent." White v. AKDHC, LLC, 664 F.Supp.2d 1054, 1063 (D. Ariz. 2009) (quotations and citation omitted).
+Ms. Lozoya alleges that she signed a contract for a one-year employment term, and that National Mobility breached that contract by terminating her employment before the year was up. She also attaches a copy of the document she claims is her employment contract. That document, dated February 19, 2020, indicates that National Mobility had offered to increase Ms. Lozoya's hourly compensation and convert her to salaried status in exchange for, among other things, a one-year commitment to work for the company. The document includes signature lines, but no signatures.
+National Mobility [*6]  makes two arguments for dismissal. First, it argues that, on its face, the alleged employment contract does not restrict its right to terminate the employment relationship. Although the alleged employment contract does not say Ms. Lozoya "shall" work for National Mobility for a one-year period, it plausibly reflects an understanding that Ms. Lozoya would remain with National Mobility for at least that amount of time. Because the proper interpretation of this provision likely will depend on an assessment of the parties' intent and reasonable expectations, the Court finds dismissal on the pleadings inappropriate.
+Next, National Mobility argues that Ms. Lozoya cannot plausibly overcome the presumption of at-will employment because the alleged employment contract is not signed by either party. If this were a summary judgment motion, the Court would agree. But this case is at the pleading stage, and the Court must draw all reasonable inferences and give every benefit of the doubt to Ms. Lozoya. Discovery might reveal the existence of a signed version of this document, either in Ms. Lozoya's possession or in National Mobility's. If a signed version does not exist, then Ms. Lozoya's breach [*7]  of contract claim will fail. But Ms. Lozoya has alleged enough information to make it plausible that she and National Mobility entered into a binding employment contract for a specified duration. For these reasons,
+IT ORDERED that National Mobility's motion to dismiss (Doc. 25) is DENIED.
+Dated this 15th day of August, 2023.
+/s/ Douglas L. Rayes
+Douglas L. Rayes
+United States District Judge
+
+
+End of Document
+

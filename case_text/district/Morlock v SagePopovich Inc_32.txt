@@ -1,0 +1,31 @@
+Morlock v. Sage-Popovich, Inc.
+United States District Court for the Northern District of Indiana, Hammond Division
+April 22, 2020, Decided; April 22, 2020, Filed
+NO. 2:20CV29-PPS-JEM
+
+Reporter
+2020 U.S. Dist. LEXIS 70268 *; 2020 WL 1940743
+LAURA MORLOCK, Plaintiff, v. SAGE-POPOVICH, INC., Defendants.
+Counsel:  [*1] For Laura Morlock, Plaintiff: Peter J Agostino, LEAD ATTORNEY, Myra R Reid, Anderson Agostino & Keller PC, South Bend, IN.
+For Sage Popovich Inc, Defendant: Bianca V Black, Emily L Connor, LEAD ATTORNEYS, Littler Mendelson PC - Ind/IN, Indianapolis, IN.
+Judges: Philip P. Simon, UNITED STATES DISTRICT JUDGE.
+Opinion by: Philip P. Simon
+Opinion
+
+
+
+OPINION AND ORDER
+Laura Morlock filed her complaint against her former employer, Sage-Popovich, Inc., under the Americans with Disabilities Act and the Family Medical Leave Act. Morlock alleges that "Sage-Popovich violated the ADA and the FMLA when it disciplined and ultimately terminated Plaintiff on September 19, 2018, after refusing to accommodate her and to engage in the interactive process after learning of Plaintiff's disability." [DE 1 at ¶1.] Count I is a claim of failure to accommodate in violation of the ADA. [Id. at 7.] Count II is a retaliation claim brought under the FMLA. [Id.] Now before me is Sage-Popovich's motion seeking dismissal of the FMLA claim in Count II on the ground that it is an employer not covered by the FMLA.
+To be an "employer" within the meaning of the FMLA, a business must "employ[] 50 or more employees for each working day during each of 20 or more calendar [*2]  workweeks in the current or preceding calendar year." 29 U.S.C. §2611(4)(A)(i). Where a business employs fewer than 50 employees, its workers are not eligible employees as defined by the FMLA, and have no claims arising under the FMLA. Thomas v. Pearle Vision, Inc., 251 F.3d 1132, 1136 (7th Cir. 2001) (citing 29 U.S.C. §2611(2)(B)). An FMLA retaliation claim requires a showing that the plaintiff-employee was entitled to FMLA benefits. Pagel v. Tin Inc., 695 F.3d 622, 631 (7th Cir. 2012).
+Morlock's complaint does not allege that Sage-Popovich was an employer within the meaning of the FMLA, though it does allege that Sage-Popovich was an employer as defined in the ADA. [DE 1 at ¶5.] Morlock acknowledges that when she requested leave under the FMLA, "Sage-Popovich's General Counsel and Director of HR told Laura Sage-Popovich does not have fifty (50) employees and is therefore not subject to the FMLA." [Id. at ¶35.] In its motion, Sage-Popovich represents (albeit without evidentiary support) that "it never employed more than approximately 30 employees during the relevant period" and that "Morlock cannot allege in good faith that Sage-Popovich had the requisite number of employees to be covered by the FMLA." [DE 19 at 4, n.3.] Where an employee's "request for leave was invalid...[she] was not engaged in statutorily protected activity and thus could [*3]  not have been fired for asserting her rights under the FMLA." Smith v. Hope School, 560 F.3d 694, 702 (7th Cir. 2009).
+Sage-Popovich assembles these facts and legal principles into the conclusions that Morlock has no claim for retaliation under the FMLA, and that Count II of the complaint should be dismissed for failure to state a claim under Fed.R.Civ.P. 12(b)(6). The motion was filed on April 1, 2020, and was served electronically on both of Morlock's counsel of record via the Electronic Case Filing system. Pursuant to N.D.Ind. L.R. 7-1(d)(3), Morlock had until April 15 to file any response in opposition to the motion. She has filed no responsive memorandum and no request for an extension of time. The unopposed motion appears to be well-taken. Morlock does not dispute Sage-Popovich's assertion that it lacks the minimum number of employees to be subject to the FMLA, and as a result Morlock's FMLA retaliation count does not state a claim on which relief can be granted.
+ACCORDINGLY:
+Defendant Sage-Popovich, Inc.'s unopposed Partial Motion to Dismiss Count II of Plaintiff's Complaint [DE 18] is GRANTED.
+SO ORDERED.
+ENTERED: April 22, 2020.
+/s/ Philip P. Simon
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

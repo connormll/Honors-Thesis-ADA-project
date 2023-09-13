@@ -1,0 +1,55 @@
+Kinnebrew v. Western Wholesale Supply, Inc.
+United States District Court for the District of Idaho
+August 1, 2019, Decided; August 1, 2019, Filed
+Case No. 4:18-cv-00523-DCN
+
+Reporter
+2019 U.S. Dist. LEXIS 128887 *; 2019 WL 3503982
+BRIAN KINNEBREW, Plaintiffs, v. WESTERN WHOLESALE SUPPLY, INC., an Idaho Corporation, and WESTERN WHOLESALE INSTALLED SALES, L.L.C., an Idaho Limited Liability Company, Defendants.
+Subsequent History: Summary judgment denied by Kinnebrew v. Western Wholesale Supply, Inc., 2021 U.S. Dist. LEXIS 117767 (D. Idaho, June 23, 2021)
+Counsel:  [*1] For Brian Kinnebrew, Plaintiff: Amanda Elizabeth Ulrich, DeAnne Casperson, Ryan S. Dustin, LEAD ATTORNEYS, CASPERSON ULRICH DUSTIN PLLC, Idaho Falls, ID.
+For Western Wholesale Supply, Inc., an Idaho Corporation, Western Wholesale Installed Sales, L.L.C., an Idaho Limited Liability Company, Defendants: Austin Orme Allen, LEAD ATTORNEY, Hall Angell & Associates, LLP, Idaho Falls, ID.
+Judges: David C. Nye, Chief United States District Judge.
+Opinion by: David C. Nye
+Opinion
+
+
+
+MEMORANDUM DECISION AND ORDER
+
+I. INTRODUCTION
+Pending before the Court are Defendants Western Wholesale Supply, Inc. and Western Wholesale Installed Sales, L.L.C.'s Motions to Dismiss. Dkt. 4; Dkt. 5. Also pending before the Court is Plaintiff Brian Kinnebrew's Motion to Strike a supplemental affidavit provided by Defendants in their Reply to their Motions to Dismiss. The Court held oral argument on July 1, 2019. Following discussion in open court, and for the reasons set forth below, the Court DENIES the Defendants' Motions to Dismiss and DENIES Kinnebrew's motion to strike.
+
+II. BACKGROUND
+Western Wholesale Supply, Inc. ("Wholesale Supply") and Western Wholesale Installed Sales, L.L.C. ("Installed Sales") (collectively, the "Companies") are building [*2]  supply companies who do business out of the same building in Idaho Falls, Idaho.
+On November 21, 2018, Kinnebrew filed a complaint in the instant suit alleging the Companies discriminatorily fired him on the basis of his disability. In doing so, argued Kinnebrew, the Companies violated both the Americans with Disabilities Act1 ("ADA") and state law for wrongful termination in contravention of public policy.
+On March 4, 2019, prior to filing an answer or any other responsive pleading, the Companies filed separate Motions to Dismiss asking the Court to dismiss all claims for lack of jurisdiction. The Companies argue that the Americans with Disabilities Act only applies to employers with more than 15 employees, and because Installed Sales has less than 15 employees the act does not apply. The Companies also argue that Wholesale Supply and Installed Sales are separate and distinct companies in all relevant aspects and are thus not a "single employer" under the ADA. Thus, the Companies argued, the Court has no jurisdiction over the case.
+Kinnebrew requests that the Court either deny the Motions, or that the Court delay consideration under Federal Rule of Civil Procedure 56(d) until appropriate discovery can be conducted to determine [*3]  whether the Companies are a "single employer" and/or have the sufficient number of employees to be held liable under the ADA.
+
+III. ANALYSIS
+
+A. Motion to Dismiss
+Congress has determined that the definition of "employer" in the context of an ADA claim includes only persons or entities who employ 15 or more employees. 42 U.S.C. § 12111(5)(A). If an employer does not meet this threshold requirement, it is not subject to liability under the ADA. Congress has also explained how to calculate who qualifies as an employee for the 15 person requirement:
+(b) The term "employer" means a person engaged in an industry affecting commerce who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, and any agent of such a person.
+Id. The Supreme Court has held that the threshold number of employees is not a jurisdictional question but "an element of a plaintiff's claim for relief." Arbaugh v. Y&H Corp., 546 U.S. 500, 516, 126 S. Ct. 1235, 163 L. Ed. 2d 1097 (2006).
+In their initial Motions to Dismiss, the Companies argued that the Court had no jurisdiction over the case because the Companies are not an "employer" under the ADA. However, at oral argument, the Companies conceded that the Court has jurisdiction because the question of [*4]  whether they are an employer under the ADA is not a jurisdictional question. Rather, it is a question pertaining to the merits of the case. Because the Companies concede that the Court has jurisdiction, the Companies' Motion to Dismiss for lack of jurisdiction must be denied.
+Still, the Companies argue their Motions to Dismiss ought to be considered as Motions for Summary Judgement and granted all the same. According to the Companies, the affidavits they provided with their Motions to Dismiss were sufficient evidence to close the case altogether and avoid unnecessary discovery. The Companies assert that Kinnebrew cannot prove that the ADA applies to the Companies because (1) Installed Sales had fewer than 15 employees, and (2) the Companies together do not constitute a single or joint employer under the ADA. The Court, however, will not convert the Motions to Dismiss into motions for summary judgment because Kinnebrew (and the Companies) need to engage in discovery to fully and fairly investigative and address these issues. Only with additional information will the Court be able to make a reasoned determination on these important issues.
+The core question here is whether the Companies [*5]  can even be considered an "employer" under the ADA and subject to liability. Until that determination is made, there is little reason to engage in full blown discovery. The Court will, therefore, limit discovery to facts pertaining to the definition of "employer" under the ADA and whether or not Installed Sales or the Companies meet that definition.2
+
+B. Request for 56(d) relief
+In the event that the Court decided to treat the Companies' Motions to Dismiss as motions for summary judgement, Kinnebrew asked that the Court allow for continued discovery under Rule 56(d) of the Federal Rules of Civil Procedure. The Court has not treated the Motions to Dismiss as motions for summary judgement, therefore, it need not rely on Rule 56(d). However, as explained, the Court will allow the parties an opportunity to engage in limited discovery regarding the definition of "employer" before making its determination.
+
+C. Motion to Strike
+Kinnebrew also moved to strike a supplementary affidavit which the Companies submitted with their reply briefs on their Motions to Dismiss. Because the Companies' Motions to Dismiss were denied, however, the question of whether to strike the affidavit supplied with the motions is a moot issue. The Court therefore denies the motion. [*6]  The affidavit stands in the record and may be addressed at a later time. It has no impact on this Decision.
+
+IV. ORDER
+IT IS ORDERED:
+1. The Companies' Motions to Dismiss (Dkt. 5; Dkt. 6) are DENIED. 2. Kinnebrew's Motion to Strike (Dkt. 16) is DENIED as Moot.
+DATED: August 1, 2019
+/s/ David C. Nye
+David C. Nye
+Chief U.S. District Court Judge
+
+
+End of Document
+

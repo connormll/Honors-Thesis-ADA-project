@@ -1,0 +1,74 @@
+Pederson v. Gojet Airlines, LLC
+United States District Court for the District of Minnesota
+March 16, 2021, Decided; March 16, 2021, Filed
+Civil No. 20-696 (JRT/LIB)
+
+Reporter
+2021 U.S. Dist. LEXIS 50812 *; 2021 WL 981156
+NATHANIEL P. PEDERSON, Plaintiff, v. GOJET AIRLINES, LLC and TRANS STATES HOLDINGS, INC., Defendants.
+Counsel:  [*1] Michael A. Fondungallah, FONDUNGALLAH & KIGHAM LLC, St. Paul, MN, for plaintiff.
+Rodney A. Harrison, OGLETREE DEAKINS NASH SMOAK & STEWART PC, St. Louis, MO; and Brent D. Kettelkamp, OGLETREE DEAKINS NASH SMOAK & STEWART PC, Minneapolis, MN 55402, for defendants.
+Judges: JOHN R. TUNHEIM, Chief United States District Judge.
+Opinion by: JOHN R. TUNHEIM
+Opinion
+
+
+
+MEMORANDUM OPINION AND ORDER GRANTING DEFENDANTS' MOTION TO DISMISS AND DENYING DEFENDANTS' MOTION TO STAY AND COMPEL ARBITRATION AS MOOT
+Pederson alleges that Defendants, GoJet Airlines, LLC ("GoJet") and Trans States Holdings, Inc. ("TSH"), discriminated against him and refused to offer him a reasonable accommodation in violation of the Americans with Disabilities Act (the "ADA"), and that Defendants subjected him to an unnecessary medical examination and then refused to allow him to return to work in violation of the Family Medical Leave Act (the "FMLA"). Defendants filed a Motion to Dismiss or, in the alternative, a Motion to Stay and Compel Arbitration. Because Defendants do not have sufficient minimum contacts with Minnesota, the Court will grant Defendants' Motion to Dismiss and, accordingly, will deny Defendants' Motion to Stay and Compel Arbitration as [*2]  moot.
+
+BACKGROUND
+
+I. FACTUAL BACKGROUND
+GoJet is incorporated in Delaware and its principal place of business is in Missouri. (Decl. of Terry Basham ¶ 3, Sept. 21, 2020, Docket No. 16.) GoJet has no physical assets, property, or presence in Minnesota, is not registered to do business in the state, has no employees based there, and no longer operates flights in and out of the state. (Id. ¶¶ 4-9.)
+TSH, the parent company of GoJet, is incorporated in Delaware and its principal place of business is in Missouri. (Decl. of Gerald F. Wigmore ¶¶ 3-4, Sept. 21, 2020, Docket No. 17.) TSH has never owned, leased, or maintained any real or personal property in Minnesota, is not registered to do business in the state, has employees based there, and does not advertise or sell airline tickets in the state. (Id. ¶¶ 5-8.)
+Pederson applied to work as a GoJet flight attendant on December 15, 2016. (Am. Compl. ¶ 7, Mar. 27, 2020, Docket No. 5.) On January 19, 2017, he was contacted by a GoJet recruiter and was invited to a GoJet Airlines Flight Attendant Session in Illinois. (Id. ¶ 8.) On January 27, he was selected to join GoJet's Flight Attendant Training Program in Illinois and was then hired as a flight [*3]  attendant trainee on February 22. (Id. ¶¶ 9-10; Decl. of Ed Trowbridge ("Trowbridge Decl.") ¶ 8, Sept. 21, 2020, Docket No. 18.) As part of his application for employment with GoJet, Pederson executed a mutual arbitration agreement ("MAA"). (See Trowbridge Decl. ¶ 7.)
+On April 27, 2017, Pederson became a full-time flight attendant for GoJet. (Am. Compl. ¶ 11.) He worked primarily out of Chicago, and occasionally worked out of Detroit for flights to Minneapolis. (1st Decl. of Michael Fondungallah ¶ 3, Ex. 2 ("Pederson Aff.") ¶ 8, Oct. 9, 2020, Docket No. 28-1.)
+On May 26, 2018, Pederson was injured in an automobile accident, at which time he also suffered a seizure caused by epilepsy. (Am. Compl. ¶¶ 12-13.) He informed his supervisor of the accident and the seizure when requesting leave pursuant to the FMLA. (Id. ¶ 13.) Pederson was then granted FMLA leave. (Id. ¶ 14.)
+On June 27, 2018, after Pederson's personal doctor had cleared him to return to work, Pederson supplied GoJet with a note from the doctor attesting to this. (Id. ¶ 16.) However, GoJet asked Pederson to undergo a fit-to-fly medical examination before he could return, so Pederson was then examined by an Aviation Aeromedical [*4]  Examiner, who determined that he was not fit for flight duty and was not capable of performing the essential duties of a flight attendant. (Id. ¶¶ 17-20.)
+Pederson asserted that he had a right to return to work, but GoJet disagreed and gave him the choice of either going on unpaid medical leave or resigning. (Id. ¶¶ 21-22.) Pederson chose to go on unpaid medical leave, and he is still currently employed as a GoJet flight attendant on medical leave. (Id. ¶ 22; Decl. of Michaela Klasner ("Klasner Decl.") ¶ 6, Sept. 21, 2020, Docket No. 19.)
+On August 30, 2018, Pederson filed a complaint with the Equal Employment Opportunity Commission (the "EEOC"), alleging that GoJet had discriminated against him on the basis of disability in violation of the ADA. (See Am. Compl. ¶ 23.) When he initially filed the EEOC complaint, he was an Illinois resident, but about a month later he informed the EEOC that he had become a Minnesota resident. (See Pederson Aff. ¶ 15.) After being unable to conciliate the dispute, the EEOC issued Pederson a right to sue letter on December 12, 2019. (Id.)
+On February 14, 2020, the Association of Flight Attendants (the "AFA") and GoJet entered into a collective bargaining [*5]  agreement ("CBA").1 (Klasner Decl. ¶ 5.)
+
+II. PROCEDURAL BACKGROUND
+Pederson filed this action on March 9, 2020, (Compl., Mar. 9, 2020, Docket No. 1), and alleges four causes of action: (1) disability-based discrimination in violation of the ADA, (2) failure to provide a reasonable accommodation in violation of the ADA, (3) violation of the FMLA, and (4) retaliation for attempting to exercise his FMLA rights, (Am. Compl. ¶¶ 25-60.) On September 21, 2020, Defendants filed a Motion to Dismiss or, alternatively, a Motion to Stay and Compel Arbitration, arguing that the Court cannot exercise personal jurisdiction over them and that, even if it could, the MAA and CBA both require Pederson's claims to be resolved in arbitration. (Mot. Dismiss or Stay and Compel Arbitration, Sept. 21, 2020, Docket No. 13.)
+
+DISCUSSION
+
+I. MOTION TO DISMISS
+
+A. Standard of Review
+Federal Rule of Civil Procedure 12(b)(2) provides that a party may move to dismiss claims for lack of personal jurisdiction. "To defeat a motion to dismiss for lack of personal jurisdiction, the nonmoving party need only make a prima facie showing of jurisdiction." Epps v. Stewart Info. Servs. Corp., 327 F.3d 642, 647 (8th Cir. 2003). "As long as there is 'some evidence upon which a prima facie showing of jurisdiction may be found to exist,' the Rule 12(b)(2) [*6]  motion will be denied." Pope v. Elabo GmbH, 588 F. Supp. 2d 1008, 1014 (D. Minn. 2008) (quoting Aaron Ferer & Sons Co. v. Diversified Metals Corp., 564 F.2d 1211, 1215 (8th Cir. 1977)). The party seeking to establish personal jurisdiction bears the burden of proof, and "the burden does not shift to the party challenging jurisdiction." Epps, 327 F.3d at 647. For purposes of a prima facie showing, the Court must view the evidence in the light most favorable to the non-moving party. Westley v. Mann, 896 F. Supp. 2d 775, 786 (D. Minn. 2012).
+
+B. Personal Jurisdiction
+
+1. Due Process and Minimum Contacts
+The Court may exercise personal jurisdiction over a defendant only if doing so (1) is consistent with the Minnesota's long-arm statute, Minn. Stat. § 543.19, and (2) comports with the Due Process Clause of the Fourteenth Amendment. Pope, 588 F. Supp. 2d at 1014-15. Because Minnesota's long-arm statue extends as far as the Due Process Clause allows, "the Court need only consider whether exercising personal jurisdiction over [Defendants] is consistent with due process." Id. at 1015. "The touchstone of the due-process analysis remains whether the defendant has sufficient 'minimum contacts with [the forum state] such that the maintenance of the suit does not offend 'traditional notions of fair play and substantial justice.'" Viasystems, Inc. v. EBM-Papst St. Georgen GmbH & Co., KG, 646 F.3d 589, 594 (8th Cir. 2011) (alteration in original) (quoting Int'l Shoe Co. v. Washington, 326 U.S. 310, 316, 66 S. Ct. 154, 90 L. Ed. 95 (1945)).
+To ascertain whether sufficient minimum contacts exist, the Eighth Circuit employs a five-factor test to measure: "(1) the nature and quality of the contacts with the forum state; (2) the quantity of the contacts with the forum state; (3) the relation of the cause of action to the contacts; (4) the interest of the forum state in providing a forum for its residents; and (5) the convenience of the parties." Bell Paper Box, Inc. v. Trans W. Polymers, Inc., 53 F.3d 920, 922 (8th Cir. 1995) (quotation omitted). Although personal jurisdiction can be general or [*7]  specific, this case concerns only whether Defendants have sufficient minimum contacts to support general jurisdiction.
+
+2. General Personal Jurisdiction
+In terms of general personal jurisdiction, the "paradigm forum" for a corporation is its place of incorporation or its principal place of business. Goodyear Dunlop Tires Operations, S.A. v. Brown, 564 U.S. 915, 919, 131 S. Ct. 2846, 180 L. Ed. 2d 796 (2011). However, a court may also assert general jurisdiction over corporations "when their affiliations with the State are so continuous and systematic as to render them essentially at home in the forum State." Daimler AG v. Bauman, 571 U.S. 117, 127, 134 S. Ct. 746, 187 L. Ed. 2d 624 (2014) (quotation omitted); see also id. at 139 n.19 (noting that this would be an exceptional case).
+A court with general jurisdiction over a corporation may hear any claim against it, even if all the incidents underlying the claim occurred in a different state. Bristol-Myers Squibb Co. v. Superior Court of California, San Francisco Cty., 137 S. Ct. 1773, 1780, 198 L. Ed. 2d 395 (2017). However, mere "continuous activity of some sorts within a [forum] state" that is unrelated to the incidents underlying the claim is generally not enough to support general personal jurisdiction in that forum. See Goodyear, 564 U.S. at 927 (quotation omitted).
+
+C. Analysis
+Defendants are not incorporated in Minnesota and Minnesota is not their principal place of business. Thus, whether the Court can exercise general jurisdiction over Defendants turns on whether their contacts [*8]  with Minnesota are so "continuous and systematic" that they are essentially "at home" in Minnesota. However, extending general jurisdiction beyond a corporation's place of incorporation or its principal place of business is only allowed for a truly "exceptional case," as when a corporation's operations are "so substantial and of such a nature" that "expos[ing] it to suit on claims having no connection whatever to the forum State" would not offend due process. See Daimler, 571 U.S. 117 at 139 n.19, 134 S. Ct. 746, 187 L. Ed. 2d 624.2 And this is not such a case.
+Pederson alleges three contacts between GoJet and Minnesota. First, GoJet sent a letter listing the address of an AFA representative based in Minneapolis.3 But as occasional correspondences are not enough to support general jurisdiction, see Johnson v. Woodcock, 444 F.3d 953, 956 (8th Cir. 2006), neither is a single letter, especially when sent to people in Missouri, not Minnesota. Second, GoJet is said to have interviewed an applicant in Eagan, Minnesota based upon a posting on Glassdoor.com.4 However, one business transaction unrelated to the cause of action is "also insufficient to warrant general jurisdiction." Id. at 956-57.
+Lastly, GoJet once serviced Minneapolis.5 Yet, flying in and out of an airport does not automatically subject an airline to general jurisdiction [*9]  in each market that it services. Accord Protack v. Delta Air Lines, Inc., No. 18-1478, 2019 U.S. Dist. LEXIS 40934, 2019 WL 1034327, at *3 (C.D. Cal. Jan. 14, 2019) ("Even continuous and systematic business operations . . . are insufficient to justify general jurisdiction."). To do so would turn general jurisdiction jurisprudence on its head, for a "corporation that operates in many places can scarcely be deemed at home in all of them," as this would imprudently make "at home" synonymous with "doing business." See Daimler 571 U.S. 117 at 139 n.20, 134 S. Ct. 746, 187 L. Ed. 2d 624; see also In re NHL Players' Concussion Injury Litig., No. 15-472, 2019 U.S. Dist. LEXIS 175978, 2019 WL 5079980, at *4 (D. Minn. Oct. 10, 2019) (finding that the NHL was not "at home" in Minnesota simply because a team was established there, as it had similar contacts across the nation).
+In sum, Pederson fails to demonstrate that GoJet has sufficient minimum contacts with Minnesota and, as a result, the Court cannot exercise personal jurisdiction over GoJet. Similarly, with respect to TSH, Pederson fails to allege a single contact between it and Minnesota.6 As such, neither can the Court exercise personal jurisdiction over TSH. Accordingly, the Court will grant Defendants' Motion to Dismiss. Because the Court lacks personal jurisdiction over Defendants, it will not consider the merits of Defendants' Motion to Stay and Compel Arbitration and will deny this Motion as moot.7
+
+ORDER
+Based on the foregoing, and all the files, [*10]  records, and proceedings herein, IT IS HEREBY ORDERED that:
+1. Defendants' Motion to Dismiss [Docket No. 13] is GRANTED;
+2. Defendants' Motion to Stay and Compel Arbitration [Docket No. 13] is DENIED as moot; and
+3. The action is DISMISSED without prejudice.
+LET JUDGMENT BE ENTERED ACCORDINGLY.
+DATED: March 16, 2021
+at Minneapolis, Minnesota.
+/s/ John R. Tunheim
+JOHN R. TUNHEIM
+Chief Judge
+United States District Court
+
+
+End of Document
+

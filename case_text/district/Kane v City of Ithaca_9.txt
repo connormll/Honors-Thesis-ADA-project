@@ -1,0 +1,313 @@
+Kane v. City of Ithaca
+United States District Court for the Northern District of New York
+October 30, 2019, Decided; October 30, 2019, Filed
+3:18-CV-0074 (ML)
+
+Reporter
+2019 U.S. Dist. LEXIS 188376 *; 2019 WL 5597192
+NANCY KANE, Plaintiff, v. CITY OF ITHACA, Defendant.
+Prior History: Kane v. City of Ithaca, 2018 U.S. Dist. LEXIS 131457 (N.D.N.Y., Aug. 6, 2018)
+Counsel:  [*1] NANCY KANE, Plaintiff, Pro se, Brooktondale, New York.
+For Defendant: KRIN M. FLAHERTY, ESQ., OF COUNSEL, CITY OF ITHACA, OFFICE OF THE CITY ATTORNEY, Ithaca, New York.
+Judges: Miroslav Lovric, United States Magistrate Judge.
+Opinion by: Miroslav Lovric
+Opinion
+
+
+
+DECISION and ORDER
+Currently before the Court, in this pro se1 civil rights employment action filed by Nancy Kane ("Plaintiff") against the City of Ithaca ("Defendant"), is Defendant's motion for summary judgment pursuant to Fed. R. Civ. P. 56. (Dkt. No. 39.) For the reasons set forth below, Defendant's motion is granted.2
+
+TABLE OF CONTENTS
+
+
+I. RELEVANT BACKGROUND
+
+A. Plaintiff's Claims
+Generally, liberally construed, Plaintiff's Complaint asserts the following two causes of action: (1) a claim that Defendant violated the Americans with Disabilities Act ("ADA" as amended, 42 U.S.C. § 12101 et seq., for (a) failure to provide a reasonable accommodation for her sleep apnea, and (b) wrongfully terminating [*2]  her probationary employment because of her disability; and (2) a claim that Defendant violated Title VII of the Civil Rights Act of 1964, ("Title VII"), as amended, 42 U.S.C. § 2000e et seq., when it required Plaintiff to clean park facilities in her capacity as Recreation Program Coordinator. (Dkt. No. 7; Dkt. No. 19.)
+
+B. Statement of Undisputed Material Facts
+Unless otherwise noted, the following facts were asserted and supported by Defendant in its Rule 7.1 Statement and not denied by Plaintiff in a Rule 7.1 Response. (Compare Dkt. No. 39, Attach. 1 [Def.'s Rule 7.1 Statement] with Dkt. No. 42 [Pl.'s Response to Def.'s Rule 7.1 Statement].)
+
+Background
+1. The Youth Bureau is a department of the City of Ithaca and is a public multi-service agency that provides a broad variety of recreation and youth development programs for youth and families in the greater Ithaca area. The Youth Bureau provides a wide array of programs including academic support, after school programs, mentoring programs, sports leagues, summer camps, theater workshops, and sports tournaments and events.
+2. Plaintiff, Nancy Kane, is a female and resident of Tompkins County, New York.
+3. On or about March 7, 2016, Plaintiff began working as a Recreation Program Coordinator in [*3]  the City's Youth Bureau in a seasonal, part-time capacity.
+4. On May 16, 2016, Plaintiff began working as a Recreation Program Coordinator in a full-time capacity.
+5. While Plaintiff was employed by Defendant, she was a probationary employee. Plaintiff testified that she understood that "as a probationary employee, [her] employment was at-will."
+6. Plaintiff interviewed for the Recreation Program Coordinator position with several Youth Bureau staff, including Youth Bureau Director Liz Klohmann3 and Program Director Michael Blakely-Armitage.
+7. During her interview, Plaintiff discussed her experience in theater, dance, cheerleading, and writing grant applications and her theater connections.
+8. One of the primary reasons Liz Klohmann and Michael Blakely-Armitage selected Plaintiff for the Recreation Program Coordinator position was because of her theater experience and connections. The responsibilities of the position included overseeing the various theater and drama programming offered by the Youth Bureau and generating interest for these programs.
+9. As a Recreation Program Coordinator, Plaintiff was responsible for planning, coordinating, and supervising recreation programs for the Youth [*4]  Bureau. She also directly supervised Recreation Program Leaders, seasonal staff, and volunteers.
+10. Further, Plaintiff's responsibilities included running Youth Bureau programs such as the Stewart Park Day camp, theater programs, and soccer. Her responsibilities also entailed "periodic inspections of recreation facilities, playgrounds and athletic fields to ensure program activities [we]re being carried out properly and that health and safety standards [we]re maintained."
+
+Plaintiff's Sleep Apnea
+11. On May 18, 2016, Plaintiff sought medical assistance for her possible sleep apnea—for the first time—when she visited the Pulmonology and Sleep Services of Cayuga Medical Associates to be evaluated and to undergo a sleep study.4
+12. On July 8, 2016, Plaintiff returned to Pulmonology and Sleep Services of Cayuga Medical Associates and Dr. Lavanya Kodali diagnosed her with sleep apnea.
+13. At this appointment, Plaintiff was prescribed a CPAP machine and no discussions were had nor were any recommendations made regarding workplace [*5]  accommodations.
+14. Plaintiff returned to Pulmonology and Sleep Services of Cayuga Medical Associates for a follow-up appointment with Nurse Practitioner Christina Morse ("NP Morse") on August 23, 2016.
+15. During this appointment, no discussions were had nor were any recommendations made regarding workplace accommodations.
+16. Plaintiff returned to Pulmonology and Sleep Services of Cayuga Medical Associates for a follow-up appointment with NP Morse on October 25, 2016.5
+17. During this appointment, no discussions were had nor were any recommendations made regarding workplace accommodations.6
+18. Also during this appointment, NP Morse provided Plaintiff with an "excuse slip."
+19. At the time of her deposition, Plaintiff had never discussed workplace accommodations for her sleep apnea with Dr. Kodali or NP Morse.7
+20. At the time of Plaintiff's deposition, neither Dr. Kodali or NP Morse had ever recommended any workplace accommodation for Plaintiff's sleep apnea.8
+21. Plaintiff does not know what accommodation she required from Defendant while employed as a Recreation Program Coordinator. [*6] 9
+22. Plaintiff does not know what aspect of her sleep apnea required an accommodation.10
+23. Plaintiff's sleep apnea does not significantly impede her ability to: care for herself, perform manual tasks, walk, see, hear, speak, breathe, or learn.11
+24. Plaintiff's sleep apnea does not "generally" impede her ability to work.12
+
+Plaintiff's Performance as Probationary Recreation Program Coordinator
+25. Plaintiff's supervisor, Michael Blakely-Armitage, held regular (nearly weekly) meetings with Plaintiff where they discussed her performance.
+26. Plaintiff received critical feedback during these meetings.
+27. Plaintiff was late to approximately three or four of these meetings.13
+28. Plaintiff may have missed one of these meetings.14
+29. Plaintiff and Mr. Blakely-Armitage discussed Plaintiff being late to and missing important events related to her position.15
+30. As Recreation Program Coordinator, Plaintiff was responsible for overseeing Youth Bureau theater programs and generating enrollment for [*7]  these programs.
+31. On April 4, 2016, Mr. Blakely-Armitage emailed Plaintiff an attachment that listed various Youth Bureau summer offerings, including theater programming.
+32. Mr. Blakely-Armitage also instructed Plaintiff to generate enrollment for those programs for the summer of 2016.
+33. Plaintiff did not generate sufficient enrollment to hold the ShowTime program for summer of 2016.16
+34. Plaintiff did not generate sufficient enrollment to hold the Wacky Improv program for summer of 2016.17
+35. Plaintiff did not generate sufficient enrollment to hold the Shakespearama program for summer of 2016.18
+36. Both ShowTime and Shakespearama were offered the prior year, 2015, and both garnered sufficient enrollment to be held.19
+37. Plaintiff's husband assisted her at work on several occasions.20
+38. On one occasion, Plaintiff's husband assisted her in filling out t-shirt orders by ensuring that she "had all of the numbers correct for all of the people who were going to be participating; counting, [and] sorting."
+39. Besides interns, Plaintiff is unaware of any other Youth Bureau employee having unpaid volunteers perform office work.21
+40. Plaintiff oversaw [*8]  the Stewart Park Day Camp.
+41. Plaintiff did not attend the new camper check-in for the Stewart Park Day Camp on July 5, 2016.22
+42. Instead, Plaintiff attended summer theater and did not go to Stewart Park Day Camp before summer theater because she was at Cass Park swimming laps.23
+43. On one occasion, Plaintiff ordered the wrong size t-shirts for a youth program.24
+44. On August 16, 2016, Liz Klohmann forwarded an e-mail to Plaintiff and Michael Blakely-Armitage that described several grant deadlines, noted that the forwarded e-mail applied to the grant deadline for the "Tin Can Fantasy Factory," and asked if one of them would submit the grant application.
+45. Plaintiff understood that Ms. Klohmann was referring to the grant titled "Grants for Arts Programs" in the forwarded email and responded that she would apply.25
+46. Plaintiff understood it was her responsibility to procure this grant funding.
+47. However, Plaintiff did not apply for the grant before the deadline of October 3, 2016, and does not recall whether she told anyone at the Youth Bureau that she did not apply before that deadline.26
+48. Youth Bureau staff were unaware that Plaintiff [*9]  did not apply before the deadline of October 3, 2016. As a result, the Youth Bureau did not secure the grant funding and was unable to hold the "Tin Can Fantasy Factory" program the following season due to Plaintiff's failure to procure the grant funding.
+49. Mr. Blakely-Armitage informed Ms. Klohmann of Plaintiff's performance issues throughout the duration of Plaintiff's probationary employment with the Youth Bureau.27
+
+Trash at Cass Park
+50. Plaintiff claims that she first received the alleged additional responsibility of clean-up or maintenance duties on September 26, 2016, from Mr. Blakely-Armitage.
+51. During that conversation, Mr. Blakely-Armitage instructed Plaintiff to call Recreation Supervisor Jim D'Altiero, who manages Cass Park and its staff, about overflow trash she observed near a 40-gallon drum.
+52. After that discussion, Plaintiff called Mr. D'Altiero and he responded that he would send someone to take care of the trash at Cass Park.
+53. On September 27, 2016, Plaintiff e-mailed the soccer program referees and directors and indicated garbage should be collected at the end of the day and overflow trash bagged if necessary.
+54. None of the recipients to the e-mail responded [*10]  that Plaintiff's request was out of the ordinary or one that had never been made of them or their programs before.
+55. On September 29, 2016, Plaintiff e-mailed City Manager of Organizational Development, in Human Resources, Leslie Moskowitz about trash pick-up duties as she understood them as well as the related equipment and training she thought she might require for the task.
+56. Ms. Moskowitz replied to the email and copied former City Health and Safety Coordinator, Michael Vitucci.
+57. On October 2, 2016, while at Cass Park, Plaintiff observed that the overflow trash near a 40-gallon drum that she noticed on September 26, 2016, and spoke with Mr. D'Altiero about, remained despite Mr. D'Altiero's statement that he would send someone to clean it.
+58. On the morning of October 2, 2016, Plaintiff (with the assistance of her husband) bagged the overflow and excess trash for approximately twenty to thirty minutes.
+59. Neither Mr. Blakely-Armitage nor Mr. D'Altiero asked Plaintiff to clean up the trash near the 40-gallon drum.28
+60. On October 4, 2016, Plaintiff received an e-mail from Michael Vittucito, which stated that handling waste required "specific training" and that he was "recommending [*11]  to [her] that until [she is] trained that [she does not] conduct these activities."
+61. After receiving this email, Plaintiff did not engage in any further trash collection or clean-up as a function of the additional maintenance responsibilities allegedly relayed to her on September 26, 2016, by Mr. Blakely-Armitage.29
+
+Cross-Country Race, "Excuse Slip," and Plaintiff's Final Week of Probationary Employment
+62. On Friday, October 21, 2016, Plaintiff was asked to assist in packing a van that would be used at an off-site cross-country race that the Youth Bureau was holding on Saturday, October 22, 2016 ("Cross-Country Race").30
+63. Plaintiff was also instructed to retrieve the "cash bank" from the Youth Bureau safe before it closed at 5:00 P.M. for use at the Cross-Country Race.
+64. The "cash bank" was to be used to make change for registration fees provided at the Cross-Country Race the following day.
+65. Plaintiff understood that she needed to be at the Youth Bureau before 5:00 P.M. to retrieve the "cash bank" and assist in unloading the van.31
+66. Plaintiff missed the "cash bank" deadline because she fell asleep in her car and did not return to the Youth Bureau until after 5:00 P.M. [*12] 
+67. Although Plaintiff returned to the Youth Bureau after 5:00 P.M., she indicated on her timesheet that she returned to the Youth Bureau at 4:30 P.M.
+68. Plaintiff could not explain why she indicated on her timesheet that she was back at the Youth Bureau at 4:30 P.M. when she did not return until after 5:00 P.M.
+69. The following day, October 22, 2016, while working at the Cross-Country Race, Plaintiff used her own money to make change for registration fee payments because she did not obtain the "cash bank" the prior evening.
+70. Plaintiff's use of her own funds required the Youth Bureau to reimburse Plaintiff and created unnecessary confusion and difficulty in tracking the registration money.32
+71. On Monday, October 24, 2016, Mr. Blakely-Armitage met with Plaintiff and expressed disappointment in her failure to return to the Youth Bureau on Friday, October 21, 2016, to assist in loading the van and retrieving the "cash bank."
+72. Plaintiff informed Mr. Blakely-Armitage that she missed these obligations because she fell asleep in her car practicing mindfulness.
+73. Plaintiff does not recall telling Mr. Blakely-Armitage she had sleep apnea during her conversation with him on October 24, [*13]  2016.33
+74. According to Mr. Blakely-Armitage, during the October 24, 2016 conversation, Plaintiff did not say that she had sleep apnea, did not claim that she had a disability, and did not request any accommodations for sleep apnea.34
+75. When Mr. Blakely-Armitage informed Ms. Klohmann of Plaintiff's problems surrounding the Cross-Country Race, the two mutually agreed it was best to end Plaintiff's probationary employment because, in their opinion, Plaintiff had been continually advised of her performance issues and did not improve.
+76. On October 25, 2016, Plaintiff provided Mr. Blakely-Armitage a document labeled "excuse slip" from Pulmonology and Sleep Services of Cayuga Medical Associates, signed by NP Morse.
+77. The "excuse slip" did not state that Plaintiff was disabled or request any accommodations for her disability.35
+78. Besides saying something to the effect of, "Thanks, this makes it easier," Plaintiff does not recall any conversation with Mr. Blakely-Armitage about the "excuse slip," her sleep apnea, or accommodations for her sleep apnea on October 25, 2018.36
+79. Mr. Blakely-Armitage understood the "excuse slip" to serve as an excuse for Plaintiff [*14]  missing the scheduled van loading and cash bank pick-up on October 21, 2016.37
+80. Plaintiff also sent Leslie Moskowitz in Human Resources a copy of the "excuse slip" with an enclosed note.
+81. The note to Ms. Moskowitz contains no indication that her sleep apnea is a disability or requires accommodation.38
+82. Plaintiff did not have any conversation with Leslie Moskowitz regarding this note, except perhaps after her probationary employment was terminated.39
+83. On October 28, 2016, Plaintiff met with Mr. Blakely-Armitage and Ms. Klohmann.
+84. CSEA Administrative Union Representative Phil Van Wormer came to the Youth Bureau before the meeting on October 28, 2016.
+85. Mr. Blakely-Armitage met with Mr. Van Wormer and informed him that the meeting was being held to terminate Plaintiff's probationary employment. Mr. Van Wormer did not know that Plaintiff was a probationary employee and, after learning this fact, indicated he would not stay for the meeting.40
+86. Mr. Van Wormer later sent Plaintiff an email explaining why he did not stay for the meeting.
+87. During the meeting, Plaintiff was provided with a letter indicating that her probationary employment ended. [*15] 
+88. No other discussion occurred during that meeting.
+89. Plaintiff never discussed accommodations for her sleep apnea with Mr. Blakely-Armitage.41
+90. Plaintiff never discussed accommodations for her sleep apnea with Ms. Klohmann.42
+91. Neither Mr. Blakely-Armitage nor Ms. Klohmann made any comments to Plaintiff regarding her sleep apnea.43
+92. Plaintiff received, and was aware of, the City's non-discrimination and anti-harassment policy.
+93. Plaintiff did not file a complaint of discrimination under this policy to anyone in the City of Ithaca regarding alleged sleep apnea discrimination or gender discrimination based on additional clean-up or maintenance responsibilities.44
+
+C. Parties' Briefing on Defendant's Motion for Summary Judgment
+
+1. Defendant's Memorandum of Law
+Generally, in support of its motion to for summary judgment, Defendant asserts three arguments. (See generally Dkt. No. 39, Attach. 3 [Def.'s Mem. of Law].)
+First, Defendant argues that the Court should grant summary judgment on Plaintiff's claims for disability discrimination for the following three reasons: (a) Plaintiff's sleep apnea is not a qualifying disability under the ADA because it does [*16]  not substantially limit a major life activity, (b) Plaintiff cannot establish a claim for failure to provide a reasonable accommodation, and (c) Plaintiff cannot establish a claim for wrongful termination. (Id.) More specifically, regarding Plaintiff's failure to provide a reasonable accommodation claim, Defendant asserts that Plaintiff's claim fails because (a) Plaintiff never requested an accommodation, (b) Plaintiff cannot say what accommodation she required, and (c) the only conceivable accommodation for Plaintiff's sleep apnea (flexible hours so that she could sleep during the day) was already afforded to her. (Id.) In addition, regarding Plaintiff's wrongful termination claim, Defendant asserts that claim fails because (a) there are no facts to support an inference of disability discrimination with respect to Plaintiff's termination, and (b) Defendant had legitimate, nondiscriminatory reasons for terminating Plaintiff's probationary employment and Plaintiff cannot establish that Defendant's reasons were a pretext for disability discrimination. (Id.)
+Second, Defendant argues that Plaintiff's Title VII gender discrimination claim for alleged clean-up responsibilities at Cass Park [*17]  fails because (a) Plaintiff did not suffer an adverse employment action when, on one occasion, she spent twenty to thirty minutes bagging overflow trash at Cass Park, and (b) there is no evidence to support an inference of gender discrimination or that the reasons for the clean-up duties were a pretext for gender discrimination. More specifically regarding the discriminatory intent, Defendant argues that Plaintiff relies solely on a conversation with John Oakley, who had no knowledge of what Mr. Blakely-Armitage said to Plaintiff or any other Youth Bureau employee regarding clean-up responsibilities. (Id.)
+Third, Defendant argues that, in any event, the Court should dismiss Plaintiff's claims for punitive damages and attorneys' fees because (a) municipalities cannot be held liable for punitive damages, and (b) pro se plaintiffs are not entitled to attorneys' fees. (Id.)
+
+2. Plaintiff's Opposition
+Generally, in opposition to Defendant's motion for summary judgment, Plaintiff asserts the following three arguments. (See generally Dkt. No. 42, Attach. 1.).
+First, Plaintiff argues that the Court should not grant Defendant's motion for summary judgment on her disability discrimination claim for [*18]  the following seven reasons: (a) her sleep apnea is a qualifying disability under the ADA because sleep apnea "interferes with neurological, cardiovascular, and especially respiratory function" (id. at 8), (b) Plaintiff informed her supervisor and human resources that she had a disability and would like to speak about it but was terminated without any interactive process to determine what a reasonable accommodation would be (id. at 8-11), (c) the law does not require that "magic words" be used to notify an employer of a needed accommodation and Plaintiff notified "Defendant of . . . [her] medical situation, directly related to a disability, and asked for assistance. The onus was on Defendant to engage" (id. at 11), (d) Defendant cannot claim that the only conceivable accommodation was already afforded to Plaintiff because Defendant failed to engage in the interactive process in good faith (id. at 11-12), (e) the temporal proximity between Plaintiff alerting Defendant of her disability and her termination support an inference of disability discrimination (id. at 12-13), (f) the affidavits of Liz Klohmann and Michael Blakely-Armitage establish that the decision to terminate Plaintiff's employment was because of the manifestations of her [*19]  disability—more specifically, the "problems surrounding" the Cross-Country Race (id. at 13-17), and (g) the reasons set forth by Defendant as a legitimate, nondiscriminatory basis for Plaintiff's termination were mere pretext because Plaintiff exceeded the expectations of her position and the office (id. at 18-21).
+Second, Plaintiff argues that the record establishes a material issue of fact as to whether Michael Blakely-Armitage informed Plaintiff that he expected her to conduct trash collection duties at any facility in which youth programs were conducted if Plaintiff was present, because of gender discrimination. (Id. 21-24.) More specifically, Plaintiff argues that because Mr. Blakely-Armitage "prohibit[ed] . . . her husband [from] help[ing] empty the barrel of garbage, . . . is an additional indication that he considered it a responsibility that fell to women." (Id. at 23.) Plaintiff also argues that the following three incidents are indicative of gender discrimination by Mr. Blakely-Armitage: (a) when he "forbid[]" her "to speak with anyone at City Hall," (b) "[h]is anger at her request for training," and (c) his "anger[] when she submitted a purchase request for safety equipment" to collect garbage. (Id.) In addition, [*20]  Plaintiff argues that other male employees—including Mr. Blakely-Armitage—were late for or missed meetings altogether and were not terminated or reprimanded for their behavior. (Id.) Finally, Plaintiff argues that Mr. Blakely-Armitage (a) did not permit her to serve as a football program leader because she was female, (b) bullied female employees, and (c) failed to follow through or even retain on file a complaint that Plaintiff made regarding inappropriate, harassing behavior by a male football referee. (Id. at 24.)
+Third, Plaintiff concedes that municipalities cannot be held liable for punitive damages and that pro se plaintiffs are not entitled to attorneys' fees. (Id. at 24.)
+
+II. LEGAL STANDARD GOVERNING A MOTION FOR SUMMARY JUGDMENT
+Under Fed. R. Civ. P. 56, summary judgment is warranted if "the movant shows that there is no genuine dispute as to any material fact and that the movant is entitled to a judgment as a matter of law." Fed. R. Civ. P. 56(a). A dispute of fact is "genuine" if "the [record] evidence is such that a reasonable jury could return a verdict for the [non-movant]." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986).45 As for the materiality requirement, a dispute of fact is "material" if it "might affect the outcome of the suit under the governing law . . . . Factual [*21]  disputes that are irrelevant or unnecessary will not be counted." Anderson, 477 U.S. at 248.
+In determining whether a genuine issue of material fact exists, the Court must resolve all ambiguities and draw all reasonable inferences against the movant. Anderson, 477 U.S. at 255. In addition, "[the movant] bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the . . . [record] which it believes demonstrate[s] the absence of any genuine issue of material fact." Celotex v. Catrett, 477 U.S. 317, 323-24, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). However, when the movant has met its initial burden, the non-movant must come forward with specific facts showing a genuine issue of material fact for trial. Fed. R. Civ. P. 56(a), (c), (e).
+Implied in the above-stated burden-shifting standard is the fact that, where a non-movant willfully fails to respond to a motion for summary judgment, a district court has no duty to perform an independent review of the record to find proof of a factual dispute—even if that nonmovant is proceeding pro se.46 (This is because the Court extends special solicitude to the pro se litigant largely by ensuring that he or she has received notice of the consequences of failing to properly respond to the motion for summary judgment.)47 As has often been recognized [*22]  by both the Supreme Court and Second Circuit, even pro se litigants must obey a district court's procedural rules.48
+Of course, when a non-movant willfully fails to respond to a motion for summary judgment, "[t]he fact that there has been no [such] response . . . does not . . . [by itself] mean that the motion is to be granted automatically." Champion v. Artuz, 76 F.3d 483, 486 (2d Cir. 1996). Rather, as indicated above, the Court must assure itself that, based on the undisputed material facts, the law indeed warrants judgment for the movant. Champion, 76 F.3d at 486; Allen v. Comprehensive Analytical Group, Inc., 140 F. Supp. 2d 229, 232 (N.D.N.Y. 2001) (Scullin, C.J.); N.D.N.Y. L.R. 7.1(b)(3). What the non-movant's failure to respond to the motion does is lighten the movant's burden.
+For these reasons, this Court has often enforced Local Rule 7.1(a)(3) by deeming facts set forth in a movant's statement of material facts to be admitted, where (1) those facts are supported by evidence in the record, and (2) the non-movant has willfully failed to properly respond to that statement49—even when the non-movant was proceeding pro se.50
+Similarly, in this District, where a non-movant has willfully failed to respond to a movant's properly filed and facially meritorious memorandum of law, the non-movant is deemed to have "consented" to the legal arguments contained in that memorandum [*23]  of law under Local Rule 7.1(b)(3).51 Stated another way, when a non-movant fails to oppose a legal argument asserted by a movant, the movant may succeed on the argument by showing that the argument possesses facial merit, which has appropriately been characterized as a "modest" burden. See N.D.N.Y. L.R. 7.1(b)(3) ("Where a properly filed motion is unopposed and the Court determined that the moving party has met its burden to demonstrate entitlement to the relief requested therein . . . ."); Rusyniak v. Gensini, 07-CV-0279, 2009 U.S. Dist. LEXIS 101160, 2009 WL 3672105, at *1, n.1 (N.D.N.Y. Oct. 30, 2009) (Suddaby, J.) (collecting cases); Este-Green v. Astrue, 09-CV-0722, 2009 U.S. Dist. LEXIS 69054, 2009 WL2473509, at *2 & n.3 (N.D.N.Y. Aug. 7, 2009) (Suddaby, J.) (collecting cases).
+
+III. ANALYSIS
+
+A. Plaintiff's ADA Claim
+The ADA forbids employers from "discriminat[ing] against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). The ADA defines a "disability" as: "A) a physical or mental impairment that substantially limits one or more of the major life activities of [an] individual; B) [*24]  a record of such an impairment; or C) being regarded as having such an impairment." 42 U.S.C. § 12102(1).
+"In determining other examples of major life activities, the term 'major' shall not be interpreted strictly to create a demanding standard for disability." 29 C.F.R. § 1630.2 (i)(2). Moreover, "[t]he term 'substantially limits' shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by the terms of the ADA." 29 C.F.R. § 1630.2 (j)(1)(i). In addition, "[a]n impairment is a disability within the meaning of [the ADA] if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population." 29 C.F.R. § 1630.2(j)(1)(ii).
+Plaintiff testified that her sleep apnea does not significantly impede her ability to care for herself, perform manual tasks, walk, see, hear, speak, breathe, or learn. (Dkt. No. 39, Attach. 9 at 204-207.) In addition, when asked whether her sleep apnea impedes her ability to work, Plaintiff testified, "[g]enerally, no." (Id. at 207.) However, the term "major life activities" also includes (but is not limited to) eating, sleeping, standing, sitting, reaching, lifting, bending, reading, concentrating, thinking, communicating, and interacting with others. 29 C.F.R. § 1630.2 (i)(1)(i).
+It is undisputed that [*25]  sleep apnea interferes with the ability to sleep, which can impact the ability to concentrate, think, communicate, and interact with others. Chaney v. Brennan, 15-CV-6188, 2017 U.S. Dist. LEXIS 46690, 2017 WL 1164434, at *4 (W.D.N.Y. Mar. 29, 2017) ("sleep apnea disrupts sleeping patterns and is known to cause, among other things, attention deficits and excessive daytime sleepiness").
+In addition, it is undisputed that Plaintiff's sleep apnea impacted her ability to work on October 21, 2016, when she fell asleep and failed to return to the Youth Bureau until after 5:00 P.M. This incident prevented Plaintiff from obtaining the "cash bank" in time for use at the Cross-Country Race. Moreover, Plaintiff's "excuse slip" from NP Morse specifically stated that Plaintiff was "recently diagnosed with sleep apnea and fragmented sleep" and that due to Plaintiff's medical condition "[s]he has excessive daytime sleepiness." (Dkt. No. 42, Attach. 8 at 2.)
+When construed most favorably towards the non-movant, Plaintiff, as the Court must when considering a motion for summary judgment, the Court finds that genuine issues of material fact exist regarding whether Plaintiff's sleep apnea significantly limited her ability to perform one or more major life functions. See Kaufman v. Columbia Mem'l Hosp., 2 F. Supp. 3d 265, 277 (N.D.N.Y. 2014) (D'Agostino, [*26]  J.) (finding that "there is evidence substantiating a number of impairments [including sleep apnea], which Plaintiff claims limits one or more of his major life activities, sufficient to raise a question of fact with respect to" whether Plaintiff has a disability within the meaning of the ADA); Klaes v. Jamestown Bd. of Public Utilities, 11-CV-0606, 2013 U.S. Dist. LEXIS 45872, 2013 WL 1337188, at *7 (W.D.N.Y. Mar. 29, 2013) (denying a motion to dismiss where the plaintiff alleged, inter alia, that his disabilities included sleep apnea, which caused him substantial sleep difficulties); Orne v. Christie, 12-CV-0290, 2013 U.S. Dist. LEXIS 2209, 2013 WL 85171, at *3 (E.D. Va. Jan. 7, 2013) (denying a motion to dismiss where the plaintiff alleged he suffered from sleep apnea, which affected his sleep and concentration until he began using a CPAP machine, and that his employer discriminated against him by demoting him); Shirley v. Integrated Sys. Improvement Servs., 11-CV-852, 2012 U.S. Dist. LEXIS 124193, 2012 WL 3776882, at *2 (D. Ariz. Aug. 31, 2012) (denying a motion to dismiss where the plaintiff alleged that he had sleep apnea, which caused him to fall asleep at work, and thus sufficiently alleged an impairment that substantially limits the major life activity of sleeping).
+
+1. Failure to Provide a Reasonable Accommodation
+After carefully considering the matter, the Court grants Defendant's motion for summary [*27]  judgment regarding Plaintiff's ADA failure to provide a reasonable accommodation claim for the reasons set forth in its memorandum of law. (Dkt. No. 39, Attach. 3.) To those reasons, the Court adds the following analysis, which is intended to supplement but not supplant Defendant's reasons.
+The ADA prohibits discrimination against "qualified individual[s] on the basis of disability," defining such discrimination to include, inter alia, "not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity." 42 U.S.C. §§ 12112(a), 12112(b)(5)(A). "[A] plaintiff makes out a prima facie case of disability discrimination arising from a failure to accommodate by showing each of the following: (1) Plaintiff is a person with a disability under the meaning of the ADA; (2) an employer covered by the statute had notice of his disability; (3) with reasonable accommodation, plaintiff could perform the essential functions of the job at issue; and (4) the employer has refused to make [*28]  such accommodations." McBride v. BIC Consumer Prods. Mfg. Co., 583 F.3d 92, 96-97 (2d Cir. 2009) (internal quotation marks, citations, and alterations omitted); accord Dooley v. JetBlue Airways Corp., 636 F. App'x 16, 18 (2d Cir. 2015) (quoting McMillan v. City of New York, 711 F.3d 120, 125-26 (2d Cir. 2013)).
+Here, the fourth element of the analysis is squarely at issue in the parties' arguments. The Court finds that Plaintiff failed to establish through admissible evidence, that she ever actually made a request for any accommodation based on her disability to the appropriate people. (Dkt. No. 39, Attach. 9 at 209.) "An employer is not ordinarily required to provide accommodations where the employee has not requested accommodations." Blundell v. Nihon Kohden America, 15-CV-1503, 2018 U.S. Dist. LEXIS 163948, 2018 WL 4609125, at *10 (N.D.N.Y. Sept. 25, 2018) (Suddaby, C.J.) (citing Dooley, 636 F. App'x at 18-19) (finding that the plaintiff could not establish the fourth prong of the test because she did not allege that she had ever requested the accommodation at issue, noting that "an employer cannot 'refuse [] to make [an] accommodation' . . . that it was never asked to make") (internal citations omitted); Tobin v. Liberty Mut. Ins. Co., 553 F.3d 121, 129 (1st Cir. 2009) ("An employer's duty to accommodate an employee's disability is ordinarily activated by a request from the employee, and the request must be sufficiently direct and specific to give the employer notice of the needed accommodation.").
+The "excuse slip" that Plaintiff provided on October 25, 2016, [*29]  did not mention any accommodation. (Dkt. No. 39, Attach. 11; Dkt. No. 39, Attach. 9 at 159, 167, 170.) During her deposition, Plaintiff testified that after providing the "excuse slip" to Mr. Blakely-Armitage and Ms. Moskowitz, Plaintiff did not mention any request for accommodations. (Dkt. No. 39, Attach. 9 at 165-170; Dkt. No. 39, Attach. 8 at 23.) In addition, Plaintiff conceded that no medical professional ever recommended any accommodation for her employment with Defendant (Dkt. No. 39, Attach. 9 at 156, 200, 203) and at least through the date of her deposition, Plaintiff could not describe what accommodation she required that Defendant failed to provide (id. at 209; Dkt. No. 39, Attach. 8 at 22).
+The record evidence simply does not establish that Plaintiff ever made a request to Defendant for any accommodation that she now argues was not provided, or that Defendant should have been aware that Plaintiff required accommodations for her disability based on the "excuse slip" that made no mention of any accommodation.52
+For all of these reasons, Plaintiff has not established the fourth element to establish that Defendant discriminated against her for failing to provide a reasonable accommodation. [*30]  The Court therefore grants Defendant's motion for summary judgment on the failure to provide an accommodation claim under the ADA.
+
+2. Wrongful Termination
+After carefully considering the matter, the Court grants Defendant's motion for summary judgment regarding Plaintiff's ADA wrongful termination claim for the reasons set forth in its memorandum of law. (Dkt. No. 39, Attach. 3.) To those reasons, the Court adds the following analysis, which is intended to supplement but not supplant Defendant's reasons.
+Courts analyzing claims of intentional discrimination under the ADA employ the McDonnell Douglas burden-shifting framework. See Reg'l Econ. Cmty. Action Program, Inc. v. City of Middletown, 294 F.3d 35, 48 (2d Cir. 2002), superseded by statute on other grounds; Stoffan v. S. New Eng. Tel. Co., 4 F. Supp. 3d 364, 373 (D. Conn. 2014). The plaintiff must first establish a prima facie case of discrimination under the ADA by a preponderance of the evidence that: (1) the defendant is subject to the ADA; (2) plaintiff is disabled within the meaning of the statute or perceived to be so by his or her employer; (3) he or she was otherwise qualified to perform the essential functions of the job with or without reasonable accommodation; and (4) he or she was subject to an adverse employment action because of his or her disability. Arcuri v. Schoch, 15-CV-0798, 2015 U.S. Dist. LEXIS 128125, 2015 WL 5652336, at *4 (N.D.N.Y. Sept. 24, 2015) [*31]  (Hurd, J.) (citing Brady v. Wal-mart Stores, Inc., 531 F.3d 127, 134 (2d Cir. 2008)); McMillan v. City of New York, 711 F.3d 120, 125 (2d Cir. 2013). "Pursuant to this analysis, '[a] plaintiff must establish a prima facie case; the employer must offer through the introduction of admissible evidence a legitimate nondiscriminatory reason for the discharge; and the plaintiff must then produce evidence and carry the burden of persuasion that the proffered reason is a pretext.'" Abbott v. Wyoming Cnty. Sheriff's Office, 15-CV-0531, 2019 U.S. Dist. LEXIS 166491, 2019 WL 4689045, at *7 (W.D.N.Y. Sept. 26, 2019) (quoting Sista v. CDC Ixis N. Am., Inc., 445 F.3d 161, 169 (2d Cir. 2006)).
+The Second Circuit has held that the "but for" causation standard, and not the "motivating factor" standard, applies to ADA claims. Natofsky v. City of New York, 921 F.3d 337, 348 (2d Cir. 2019).
+On a motion for summary judgment, "[t]he plaintiff's burden of establishing a prima facie case of employment discrimination is de minimis." Chasse v. Computer Scis. Corp., 453 F. Supp. 2d 503, 514 (D. Conn. 2006).
+"Allegations of close temporal proximity between disclosure of a disability and an adverse employment action can rise an inference of discrimination sufficient to . . . satisfy a plaintiff's burden of making out a prima facie case at the first step of the McDonnell Douglas[] framework, provided that the alleged temporal proximity is 'very close.'" Powell v. Merrick Acad. Charter Sch., 16-CV-5315, 2018 U.S. Dist. LEXIS 32810, 2018 WL 1135551, at *6 (E.D.N.Y. Feb. 28, 2018) (quoting Clark v. Cnty. Sch. Dist. v. Breeden, 532 U.S. 268, 273, 121 S. Ct. 1508, 149 L. Ed. 2d 509 (2001); see Kelly v. N. Shore-Long Island Jewish Health Sys., 166 F. Supp. 3d 274, 286-87 (E.D.N.Y. 2016); Baron v. Advanced Asset & Prop. Mgmt. Solutions, LLC, 15 F. Supp. 3d 274, 283 (E.D.N.Y. 2014); Karatzas v. Herricks Union Free Sch. Dist., 15-CV-2888, 2017 U.S. Dist. LEXIS 112397, 2017 WL 3084409, at *15 (E.D.N.Y. July 18, 2017) (collecting cases)).
+Here, the allegations [*32]  of temporal proximity are easily close enough to raise an inference of discrimination: on October 25, 2016, Plaintiff provided Mr. Blakely-Armitage and Ms. Moskowitz an "excuse slip" that informed them of her disability (Dkt. No. 39, Attach. 9 at 158, 168-169), and on October 28, 2016, Plaintiff was terminated (id. at 171). Courts routinely allow discriminatory intent to be inferred from similar or longer gaps of time. Powell, 2018 U.S. Dist. LEXIS 32810, 2018 WL 1135551, at *6 (citing Treglia v. Town of Manlius, 313 F.3d 713, 720 (2d Cir. 2002) ("a few months"); Baron, 15 F. Supp. 3d at 283 ("approximately 5-6 weeks"); Primmer v. CBS Studios, Inc., 667 F. Supp. 2d 248, 253-54, 260 (S.D.N.Y. 2009) (one to two months); Cormier v. City of Meriden, 420 F. Supp. 2d 11, 21-22 (D. Conn. 2006) ("a few months"); Constance v. Pepsi Bottling Co. of N.Y., 03-CV-5009, 2007 U.S. Dist. LEXIS 62599, 2007 WL 2460688, at *35 (E.D.N.Y. Aug. 24, 2007) ("one month gap" and "two month gap")) (holding that the gap between "early September" and October 1 supported an inference of discriminatory intent based on temporal proximity).53
+As a result, the burden would shift to Defendant to establish a legitimate nondiscriminatory reason for Plaintiff's termination. Defendant presented admissible evidence—the affidavits of Mr. Blakely-Armitage and Plaintiff's deposition testimony—to establish that it terminated Plaintiff's probationary employment based on performance [*33]  issues exhibited throughout the duration of her employment. (Dkt. No. 39, Attach. 6 at ¶¶8-10, 12-15; Dkt. No. 39, Attach. 9 at 85, 87-88, 97-110.)
+The burden would then shift back to Plaintiff to carry the burden of persuasion that Defendant's proffered reason for her termination was pretext for disability discrimination. Neither Ms. Klohmann nor Mr. Blakely-Armitage made any comments to Plaintiff regarding her sleep apnea. (Dkt. No. 39, Attach. 9 at 185.) To the extent that there is an issue of fact about whether Mr. Blakely-Armitage said something to the effect of "this helps" or "this makes it easier" when Plaintiff provided him with the "excuse slip," summary judgment is still warranted because Mr. Blakely-Armitage affirmed that (if he had made the statement) he meant that the "excuse slip" provided a "more acceptable reason for [Plaintiff] missing planned events than merely falling asleep while meditating." (Dkt. No. 39, Attach. 6 at ¶ 24.) The affidavits of Mr. Blakely-Armitage and Ms. Klohmann set forth that neither considered Plaintiff's sleep apnea in their decision to end her probationary employment. (Dkt. No. 39, Attach. 6 at ¶¶ 31-32; Dkt. No. 39, Attach. 7 at ¶¶ 15-16.) [*34]  In fact, on "at least one occasion, well before" Plaintiff disclosed her disability, Ms. Klohmann "commented to Mr. Blakely-Armitage that he could end Plaintiff's probationary employment if he felt it wasn't working out." (Dkt. No. 39, Attach. 7 at ¶ 6.) Plaintiff fails to present evidence, and the record does not suggest, that her termination was pretext for disability discrimination.
+For all of these reasons, the Court grants Defendant's motion for summary judgment on the wrongful termination claim under the ADA.
+
+B. Plaintiff's Title VII Gender Discrimination Claim
+After carefully considering the matter, the Court grants Defendant's motion for summary judgment regarding Plaintiff's Title VII gender discrimination claim for the reasons stated in its memorandum of law. (Dkt. No. 39, Attach. 3.) To those reasons, the Court adds the following analysis, which is intended to supplement but not supplant Defendant's reasons.
+Title VII makes it unlawful for an employer "to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, [*35]  color, religion, sex, or national origin." 42 U.S.C. § 2000e-2(a)(1). Sex discrimination claims under Title VII are analyzed under the three-step burden shifting scheme articulated by the Supreme Court in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802-05, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973); accord Naumovski v. Norris, 934 F.3d 200, 214 n.39 (2d Cir. 2019); Moschetti v. N.Y.C. Dep't of Educ., 18-3072-CV, 778 Fed. Appx. 65, 2019 U.S. App. LEXIS 29841, 2019 WL 4894504, at *1 (2d Cir. Oct. 4, 2019).54
+"At the first step, a plaintiff must establish a prima facie case of sex discrimination by demonstrating that '(1) she was within the protected class; (2) she was qualified for the position; (3) she was subjected to an adverse employment action; and (4) the adverse action occurred under circumstances giving rise to an inference of discrimination.' At the second step, the burden shifts to the employer 'to articulate some legitimate, nondiscriminatory reason for the adverse employment action.' At the third step, the burden shifts back and 'the plaintiff's admissible evidence must show circumstances that would be sufficient to permit a rational finder of fact to infer that the defendant's employment decision was more likely than not based in whole or in part on discrimination.'" Naumovski, 934 F.3d at 214 n.39 (quoting Walsh v. N.Y.C. Hous. Auth., 828 F.3d 70, 75 (2d Cir. 2016)).55
+"A plaintiff sustains an adverse employment action if he or she endures a materially adverse change in the terms and conditions of employment." [*36]  Galabya v. N.Y.C. Bd. of Educ., 202 F.3d 636, 640 (2d Cir. 2000), abrogation recognized by Davis-Garett v. Urban Outfitters, Inc., 921 F.3d 30 (2d Cir. 2019); see also Mathirampuzha v. Potter, 548 F.3d 70, 78 (2d Cir. 2009) ("An adverse employment action is a materially adverse change in the terms and conditions of employment."). "An adverse employment action is one which is more disruptive than a mere inconvenience or an alternation of job responsibilities." Terry v. Ashcroft, 336 F.3d 128, 138 (2d Cir. 2003) (internal quotation marks omitted). "Examples of materially adverse changes include termination of employment, a demotion evidenced by a decrease in wage or salary, a less distinguished title, a material loss of benefits, significantly diminished material responsibilities, or other indices unique to a particular situation." Terry, 336 F.3d at 138.
+It is undisputed that the allegedly adverse employment action was that on September 26, 2016, Mr. Blakely-Armitage conveyed additional clean-up duties to Plaintiff. (Dkt. No. 39, Attach. 9 at 228.) At the direction of Mr. Blakely-Armitage, Plaintiff called Jim D'Altiero, who responded that he would send someone to take care of the overflow trash at Cass Park. (Id. at 238.) On October 2, 2016, Plaintiff observed the trash, despite Mr. D'Altiero's statement that he would send someone to clean it. (Id. at 239.) As a result, Plaintiff (and her husband) spent approximately twenty to thirty minutes bagging the overflow [*37]  trash. (Id. at 240-42.) Plaintiff conceded that neither Mr. Blakely-Armitage nor Mr. D'Altiero asked her to clean up that trash. (Id. at 241-44.) This was the only time that Plaintiff performed these alleged additional clean-up duties. (Dkt. No. 39, Attach. 8 at ¶ 13.) In addition, on October 4, 2016, Michael Vittuci, City Health and Safety Coordinator, recommended to Plaintiff that until she is trained, she not conduct any garbage collection. (Dkt. No. 39, Attach. 9 at 243.)
+The Court finds that no reasonable juror could conclude that one instance of twenty to thirty minutes of bagging trash constituted a materially adverse change in the terms and conditions of Plaintiff's employment. See Coleman v. City of New York, 17-CV-7864, 2018 U.S. Dist. LEXIS 187378, 2018 WL 5723133, at *5 (S.D.N.Y. Nov. 1, 2018) (holding that an undesirable assignment for the summer is not an adverse employment action); Bowen-Hooks v. City of New York, 13 F. Supp. 3d 179, 214 (E.D.N.Y. 2014) (holding that where the plaintiff was without a supervisor and thus "forced" to perform supervisor duties for twenty to thirty minutes a few times, did not "demonstrate that there was anything adverse or material about [the plaintiff] taking on these additional responsibilities."); Chiang v. Donahoe, 12-CV-0359, 2013 U.S. Dist. LEXIS 152335, 2013 WL 5746007, at *3 (S.D.N.Y. Oct. 23, 2013) (citing Williams v. N.Y.C. Hous. Auth., 05-CV-2750, 2006 U.S. Dist. LEXIS 3580, 2006 WL 229187, at *9 (S.D.N.Y. Jan. 31, 2006) ("the one-time directive that Plaintiff [*38]  not return his truck to [the] station-which resulted at most in a deprivation of thirty minutes of overtime-is also not materially adverse."); Bright v. Le Moyne Coll., 306 F. Supp. 2d 244, 253 (N.D.N.Y. 2004) (Munson, J.) (quoting Galabya, 202 F.3d at 640) ("[a] 'purely lateral transfer' that involves no demotion in form or substance is not a material adverse action."). Instead, bagging garbage on one occasion for twenty to thirty minutes constitutes one of the "[e]veryday workplace grievances, disappointments, and setbacks" that are not adverse employment actions. Walder v. White Plains Bd. of Educ., 738 F. Supp. 2d 483, 498 n.18 (S.D.N.Y. 2010); see also Rosenfield v. New York State Div. of Veterans' Affairs, 18-CV-1299, 2019 U.S. Dist. LEXIS 162633, 2019 WL 4621962, at *12 (N.D.N.Y. Sept. 24, 2019) (Suddaby, C.J.) (finding that subjecting the plaintiff's behavior to microscopic scrutiny, being ignored, failing to notify the plaintiff when a new administrative assistant was hired, making it difficult to receive reasonable accommodations, and/or denying the plaintiff a printer and scanner in his office "do not rise to the level of an adverse action" because "while inconvenient or annoying" those actions do not amount "to the level of being so significantly disadvantageous that they materially altered the terms and conditions of [the plaintiff's] employment."); but see Vale v. Great Neck Water Pollution Control Dist., 80 F. Supp. 3d 426, 434 (E.D.N.Y. 2015) (finding plaintiff had plausibly alleged an adverse action where she [*39]  alleged that labor-intensive tasks she was assigned were outside the scope of her job description).
+Moreover, even if Plaintiff's clean-up duties at Cass Park did constitute an adverse employment action, her Title VII claim would still fail because there is no evidence that the clean-up duties occurred under circumstances giving rise to an inference of discrimination, for the reasons set forth in Defendant's memorandum of law. (Dkt. No. 39, Attach. 3 at 24-26.)
+Because the record before the Court, even when construed most favorably towards the Plaintiff, fails to contain evidence from which a reasonable factfinder could conclude that Plaintiff has established a claim of gender discrimination pursuant to Title VII, that claim is dismissed.
+ACCORDINGLY, it is
+ORDERED that Defendant's motion for summary judgment (Dkt. No. 39) is GRANTED; and it is further
+ORDERED that Plaintiff's Complaint (Dkt. No. 7) is DISMISSED; and it is further
+ORDERED that the Clerk of the Court shall close this action.56
+Dated: October 30, 2019
+/s/ Miroslav Lovric
+Miroslav Lovric
+U.S. Magistrate Judge
+United States District Court, N.D. New York.
+Walter RUSYNIAK; and Anthony Rusyniak, Plaintiffs, v. Ena Paola GENSINI; Gunilla [*40]  De Montaigu; and Concha Futura, S.A., Defendants.
+No. 5:07-CV-0279 (GTS/GHL).
+Oct. 30, 2009.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, N.D. New York.
+Donna ESTE-GREEN, Plaintiff, v. Michael J. ASTRUE, Comm'r of Social Security, Defendant.
+No. 5: 09 - CV - 0722 (GTS/GHL).
+Aug. 7, 2009.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, N.D. New York.
+Michael DEVITO, Plaintiff, v. SMITHKLINE BEECHAM CORPORATION d/b/a Glaxosmithkline, Defendant.
+No. Civ.A. 02-CV-0745NPM.
+Nov. 29, 2004.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, W.D. New York.
+Eddie R. CHANEY, Plaintiff, v. Megan J. BRENNAN, Postmaster General, United States Postal Service, Defendant.
+15-CV-6188L
+Signed 03/29/2017
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, W.D. New York.
+Roger KLAES, Plaintiff, v. JAMESTOWN BOARD OF PUBLIC UTILITIES, et al., Defendants.
+No. 11-CV-606.
+March 29, 2013.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED [*41]  AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, E.D. Virginia, Richmond Division.
+Jonathan ORNE, Plaintiff, v. Mark CHRISTIE, Chairman, State Corporation Commission, Defendant.
+Civil Action No. 3:12-cv-00290-JAG.
+Jan. 7, 2013.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, D. Arizona.
+Russell SHIRLEY and Donna M. Shirley, Plaintiffs, v. INTEGRATED SYSTEMS IMPROVEMENT SERVICES, INC., Defendant.
+No. CV-11-852-TUC-JGZ.
+Aug. 31, 2012.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, N.D. New York.
+Paul BLUNDELL, Plaintiff, v. NIHON KOHDEN AMERICA, Defendant.
+5:15-CV-1503 (GTS/DEP)
+Signed 09/25/2018
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, N.D. New York.
+Susan M. ARCURI, Plaintiff, v. Major Kevin SCHOCH, Bettina Carmen, Defendants.
+No. 6:15-cv-0798 (DNH/TWD).
+Signed Sept. 24, 2015.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, W.D. New York.
+Cynthia ABBOTT, [*42]  Plaintiff, v. WYOMING COUNTY SHERIFF'S OFFICE, Defendant.
+1:15-CV-00531 EAW
+Signed 09/26/2019
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, E.D. New York.
+Traci POWELL, Plaintiff, v. MERRICK ACADEMY CHARTER SCHOOL and Victory Education Partners, Defendants.
+16-CV-5315 (NGG) (RLM)
+Signed February 27, 2018
+Filed 02/28/2018
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, E.D. New York.
+Angelo KARATZAS, Plaintiff, v. HERRICKS UNION FREE SCHOOL DISTRICT and Jim Brown (in his official and individual capacities), Defendants.
+15-cv-2888 (ADS)(AKT)
+Signed 07/18/2017
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, E.D. New York.
+Jerry CONSTANCE, Plaintiff, v. PEPSI BOTTLING COMPANY OF NEW YORK, Terry Nochese, Peter Crist and Sookdeo Udairam, aka Richie Udairam, Defendants.
+No. 03-CV-5009 (CBA)(MDG).
+Aug. 24, 2007.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, S.D. New York.
+John McDONNELL, Plaintiff, v. [*43]  SCHINDLER ELEVATOR CORPORATION, Jerry Spampanato, Defendants.
+No. 12-CV-4614 (VEC).
+Signed July 16, 2014.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, S.D. New York.
+Innocenzo CATANZARO, Plaintiff, Moustafa Fawzy, Consolidated Plaintiff, v. The CITY OF NEW YORK, New York City Department of Environmental Protection, Robert Avaltroni, individually, Michael Gilsenan, individually, Gregory Hoag, individually, Zoeann Campbell, individually, Edward Skyler, individually, James Hanley, individually, Caswell Holloway, individually, Defendants.
+Nos. 10 Civ. 1825(JSR), 10 Civ. 1827(JSR).
+Jan. 25, 2011.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, E.D. New York.
+Robert WILLIAMS, Plaintiff, v. CITY UNIVERSITY OF NEW YORK, BROOKLYN COLLEGE, Defendant.
+No. 10-CV-2127 (CBA)(LB).
+Dec. 30, 2011.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States Court of Appeals, Second Circuit.
+Drita MOSCHETTI, Plaintiff-Appellant, v. NEW YORK CITY DEPARTMENT OF EDUCATION, Defendant-Appellee.
+18-3072-cv
+October 4, [*44]  2019
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, S.D. New York.
+Cynthia COLEMAN, Plaintiff, v. The CITY OF NEW YORK, Department of Education, Norma Velasquez, Sonia Ramos, Xiomara Nunez, Elissa O'Brien, Barbara Hanson, Bill Green, Joanna B. (Jane Doe), John Doe 1-10, Jane Doe 1-10, Defendants.
+17 Civ. 7864 (PAE)
+Signed 11/01/2018
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, S.D. New York.
+Kuo R. CHIANG, Plaintiff, v. Patrick R. DONAHOE, Postmaster General of the United States Postal Service, Defendant.
+No. 12 Civ. 3598(HB).
+Oct. 23, 2013.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States Court of Appeals, Second Circuit.
+Gina WILLIAMS, Plaintiff-Appellant, v. NEW YORK CITY HOUSING AUTHORITY, Local 237, International Brotherhood of Teamsters, Defendants-Appellees.
+No. 06-0863-cv.
+Dec. 21, 2006.
+[EDITOR'S NOTE: THIS DOCUMENT IS REPORTED AT: [LEXIS cite if available, if not, primary cite].]
+United States District Court, N.D. New York.
+Todd D. ROSENFIELD, Plaintiff, v. NEW YORK STATE [*45]  DIVISION OF VETERANS' AFFAIRS; Benjamin Pomerance; Joel Evans; and Jonathan Fishbein, Defendants.
+1:18-CV-1299 (GTS/CFH)
+Signed 09/24/2019
+Table1 ()
+Table1 ()
+
+
+End of Document
+

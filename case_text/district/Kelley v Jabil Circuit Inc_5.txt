@@ -1,0 +1,34 @@
+Kelley v. Jabil Circuit, Inc.
+United States District Court for the Eastern District of Michigan, Southern Division
+June 29, 2020, Decided; June 29, 2020, Filed
+Case No. 19-cv-13307
+
+Reporter
+2020 U.S. Dist. LEXIS 260561 *; 2020 WL 12689447
+SARAH KELLEY, Plaintiff, v. JABIL CIRCUIT, INC., Defendant.
+Prior History: Kelley v. Jabil Circuit, 2020 U.S. Dist. LEXIS 260559 ( E.D. Mich., June 29, 2020)
+Counsel:  [*1] For Jabil Circuit Inc., Defendant: Christopher R. Mikula, Daniel G. Cohen, Ogletree Deakins Nash Smoak & Stewart PLLC, Birmingham, MI.
+For Sarah Kelley, Plaintiff: Amy L. Marino, Marino Law PLLC, Southfield, MI.
+Judges: LAURIE J. MICHELSON, UNITED STATES DISTRICT JUDGE.
+Opinion by: LAURIE J. MICHELSON
+Opinion
+
+
+
+ORDER DENYING DEFENDANT'S MOTION TO DISMISS [8]
+Sarah Kelley has sued Jabil Circuit, Inc., her former employer, for violating the Americans with Disabilities Act. Kelley alleges that Jabil Circuit terminated her because of her medical conditions. Kelley also asserts that her employer denied multiple requests for reasonable accommodation of her disability. Jabil Circuit now seeks dismissal of Kelley's ADA claims pursuant to Federal Rule of Civil Procedure 12(b)(6). Jabil Circuit argues that Kelley's ADA claims are time barred.
+Some procedural history is necessary to appreciate Jabil Circuit's motion. Kelley filed a charge against Jabil Circuit with the Equal Employment Opportunity Commission, and the EEOC mailed Kelley a right-to-sue letter on November 29, 2018; the letter indicated that Kelley had 90 days to file a lawsuit. See 42 U.S.C. §2000e-5(f)(1) (providing that if EEOC notifies the employee that no conciliation agreement was reached and that EEOC will not file suit, the employee may file suit "within [*2]  ninety days after the giving of such notice"). Kelley filed a lawsuit on March 1, 2019—very near to her 90-day deadline. See Kelley v. Jabil Circuit, No. 19-10620 (E.D. Mich. filed Mar. 1, 2019). Kelley (or perhaps more accurately, her lawyer) took no action to prosecute that case, however, and so the Court issued a show-cause order on September 24, 2019. See Kelley, No. 19-10620 (E.D. Mich. Sept. 24, 2019) (order to show cause). When Kelley did not respond to the show-cause order on time, the Court dismissed the case on November 6, 2019. See Kelley, No. 19-10620 (E.D. Mich. Nov. 6, 2019) (order dismissing case). Two days later, Kelley, with a new attorney, filed this second lawsuit, raising the same ADA claims as in the first case.
+Jabil Circuit moves to dismiss Kelley's ADA claims because she filed this second lawsuit well beyond the 90-day period. (ECF No. 8.)
+In response to Jabil Circuit's motion to dismiss, Kelley asserts that the 90-day period should be equitably tolled because of the misconduct of her previous attorney. Kelley claims that she diligently pursued her case. Kelley alleges, however, that her previous counsel failed to respond to the show-cause order for weeks and that he ignored and misled her to hide his misconduct. (ECF No. 19, PageID.99.) Notably, none [*3]  of these assertions are part of the complaint.
+From Jabil Circuit's perspective, it does not matter that Kelley's response brief invites the Court to consider materials beyond the pleadings in deciding a Rule 12(b)(6) motion. According to Jabil Circuit, "even if Plaintiff's unsworn description of what transpired between her and her former counsel is credited," Kelley would not be entitled to equitable tolling. (ECF No. 20, PageID.105.)
+Even assuming that Jabil Circuit's proposed procedure (taking as true a plaintiff's statements in a response brief) is permissible under Rule 12(b)(6), the Court is not convinced of Jabil Circuit's conclusion (that Kelley's allegations fall short of establishing equitable tolling). It appears that Kelley visited her prior attorney while the show-cause order was pending, and yet, her prior attorney said nothing about it; indeed, Kelley says she did not even learn about the show-cause order until she obtained her current attorney. (ECF No. 19, PageID.99.) And the day after her current attorney filed an appearance in the prior case, this Court dismissed that case. (Id.) If these assertions are true, Kelley might be faultless to the point where her attorneys' actions should not be [*4]  imputed to her. See Lewis v. Weyerhaeuser Co., 141 F. App'x 420, 428 n.2 (6th Cir. 2005); Coleman v. Am. Red Cross, 23 F.3d 1091, 1094 (6th Cir. 1994); Carter v. City of Memphis, 636 F.2d 159, 161 (6th Cir. 1980) ("Dismissal is usually inappropriate where the neglect is solely the fault of the attorney.").
+Because Kelley might be entitled to equitable tolling if her allegations are true, the Court declines to address the issue of equitable tolling under the umbrella of Rule 12(b)(6). See Trustees of Detroit Carpenters Fringe Benefit Funds v. Patrie Const. Co., 618 F. App'x 246, 255 (6th Cir. 2015) ("In considering a Rule 12(b)(6) motion, a district court cannot consider matters beyond the complaint."); accord Winget v. JP Morgan Chase Bank, N.A., 537 F.3d 565, 576 (6th Cir. 2008). The better course is for the parties to conduct discovery related to Kelley's claim of equitable tolling and, once that discovery is complete, for Jabil Circuit to raise its statute-of-limitations argument via Rule 56. The Court will address the issue of timing of the motion and the possibility of two Rule 56 motions at the upcoming scheduling conference.
+SO ORDERED.
+Dated: June 29, 2020
+/s/ Laurie J. Michelson
+LAURIE J. MICHELSON
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

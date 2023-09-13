@@ -1,0 +1,99 @@
+Lehman v. St. Elizabeth Healthcare
+United States District Court for the Eastern District of Kentucky, Northern Division
+April 1, 2013, Decided; April 1, 2013, Filed
+CIVIL ACTION NO. 2011-165 (WOB-JGW)
+
+Reporter
+2013 U.S. Dist. LEXIS 46633 *
+ROBERT LEHMAN, PLAINTIFF vs. ST. ELIZABETH HEALTHCARE, DEFENDANT
+Counsel:  [*1] For Robert Lehman, Plaintiff: Katherine D. Daughtrey, PRO HAC VICE, Randolph Harry Freking, Freking & Betz, Cincinnati, OH.
+For St. Elizabeth Healthcare, Defendant: Kelleene A. Schoening, Robert M. Hoffer, Dressman Benzinger LaVelle - OH, Cincinnati, OH; Nicholas Charles Birkenhauer, Dressman Benzinger LaVelle P.S.C. - KY, Crestview Hills, KY.
+Judges: William O. Bertelsman, United States District Judge.
+Opinion by: William O. Bertelsman
+Opinion
+
+
+
+MEMORANDUM OPINION AND ORDER
+This is an employment discrimination case in which the plaintiff alleges claims for age and disability discrimination, as well as a failure to accommodate a disability, in violation of federal and state law. The case is before the Court on defendant's motion for summary judgment. (Doc. 24).
+The Court previously heard oral argument on this motion, after which the parties filed supplemental briefs. (Docs. 48, 50).
+Having further reviewed this matter, the Court now issues the following Memorandum Opinion and Order.
+
+Factual and Procedural Background
+
+A. Plaintiff's Job Duties and Medical Conditions
+Plaintiff Robert Lehman, born in 1954, began working for defendant St. Elizabeth Medical Center in 1976 in the Security Department. He was a Security Supervisor  [*2] from approximately 1985 to 2010, when his employment was terminated.
+Defendant's security employees are responsible for the safety of hospital patients, visitors, and staff. As Security Supervisor, plaintiff supervised other hospital security officers, performed managerial duties, watched security monitors, and responded to emergencies as necessary.
+Plaintiff developed diabetes in 2004 or 2005 and, in 2008, was he was diagnosed with severe sleep apnea. His doctor recommended that he lose weight and either undergo upper airway surgery or use a "Bipap" machine while sleeping to improve his breathing. Plaintiff began using the Bipap machine.
+
+B. Events Leading to Plaintiff's Termination
+At times relevant to this case, plaintiff's immediate supervisor was Michael Kraft, the hospital's Director of Security/Safety. Kraft, in turn, reported to Doug Chambers, Senior Vice President of Facilities.
+In 2010, John Dubis, the hospital's Chief Operating Officer, was named Chief Executive Officer, although he did not officially assume those responsibilities until 2011.
+Defendant's Senior Vice President of Human Resources was Martin Oscadel. Other Human Resources employees were Roxann Platek, a Human Resources  [*3] Advisor, who reported to Lisa Blank, Director of Recruitment and Employee Relations.
+On August 19, 2010, Platek relayed to Blank and Kraft that Ken Rasor, a hospital security guard who was supervised by plaintiff, had reported to her that he had seen plaintiff sleeping in his office. Kraft, who had never observed plaintiff sleeping, asked the Security Department secretary, Kim Difilippo, whether she had seen plaintiff sleeping at work. Difilippo told Kraft that she had, in fact, seen plaintiff fall asleep in his office on several occasions. (Kraft Depo. 44). Kraft relayed this information to Blank, Platek, and Chambers.
+The next day, Kraft met with plaintiff and advised him that he had received a complaint that plaintiff had fallen asleep on duty. Plaintiff admitted that this had occurred on several occasions, and he remarked that it may be related to his diabetes. 1 (Plf. Depo. 65; Kraft Depo. 50-51, 75). Kraft told plaintiff that sleeping was a violation of hospital policy and that he thought plaintiff would receive a "Level I" discipline 2, but that he had to check with Human Resources.
+In fact, the policy in effect at that time required a minimum of "Level III" discipline — the highest level of discipline short of termination — for a first offense of unauthorized sleeping on work time, although the policy also stated: "The Health System reserves the right to determine the level of discipline depending on the circumstances/severity of the infraction." (Doc. 29-1 at 8, 11).
+Kraft then consulted Blank in Human Resources, who told him that plaintiff would likely receive a "Level III" discipline, that plaintiff would be required to report to Employee Health for a fitness for duty examination, and that the discipline would apply regardless of the results of the exam.
+Kraft informed plaintiff of this information. Plaintiff was upset, requested to speak to Blank, and said he wanted to file a grievance. Kraft called Blank, who told him that plaintiff could come to her office to discuss the matter.
+Plaintiff and Kraft went to Blank's office. Blank informed plaintiff that it was against policy to sleep at work, even on breaks. She also asked plaintiff if he had ever observed  [*5] other security employees sleeping, and he said that he had. (Plf. Depo. 65). Blank asked plaintiff how he had responded, and he said that he had told the employees not to do it because "it looks bad." When plaintiff protested undergoing a fitness for duty exam, Blank explained that the examination was required because plaintiff had raised possible medical issues in relation to his sleeping. (Kraft Depo. 54).
+On August 23, 2010, Kraft and plaintiff met with Gerald Hynko of the Employee Health Department, who explained the fitness for duty examination process to plaintiff. Hynko also told plaintiff that the ADA may apply due to plaintiff's diabetes. (Plf. Depo. 67). Hynko reported to Human Resources that there may be a medical reason for plaintiff falling asleep at work.
+Sometime around the end of August or early September, Blank discussed the situation involving plaintiff with Oscadel, who told her that Dubis, the incoming CEO, was "very intolerant" of anyone sleeping on paid time. (Blank Depo. 45). Oscadel thus informed Blank that sleeping during work hours would thereafter be grounds for immediate termination. Blank communicated this directive to her staff, although the change in policy  [*6] was not officially implemented until the end of 2010 or early 2011. (Blank Depo. 58).
+Plaintiff's fitness for duty exam was conducted on September 13, 2010 3, by Dr. Brent Haskell. In Dr. Haskell's subsequent report to Hynko, Dr. Haskell stated, in part:
+Mr. Lehman admits to sleeping while at work. This is likely due to fatigue resulting from inadequate sleep time. There is a possibility that the fatigue may be exacerbated by inadequately treated sleep apnea. It is unlikely that his other medical problems are significant contributing factors. Mr. Lehman was advised to contact his sleep specialist for a review of his Bipap. Pending this review, Mr. Lehman is at an uncertain but elevated risk of falling asleep at work.
+Doc. 21-3 at 1-2 (emphasis added).
+Hynko then relayed to Blank that Dr. Haskell had determined that none of plaintiff's medical conditions caused uncontrollable sleeping. (Blank Depo. 73). 4 Hynko also told Human Resources that Dr. Haskell had opined that the only medical condition that could cause uncontrollable sleeping was narcolepsy. (Hynko Depo. 36-37; Doc. 34-1 at 4). Blank relayed this information,  [*7] as well as the other information obtained during the investigation, to Chambers and Oscadel, who determined that plaintiff's employment should be terminated. (Oscadel Depo. 45-47).
+On September 22, 2010, Kraft and Platek met with plaintiff and informed him that he was being terminated for sleeping on the job and for failing to enforce that policy as to employees under his supervision.
+Plaintiff protested his termination through defendant's dispute resolution process. During this process, plaintiff told Chambers that he (plaintiff) made a "mistake" by not going to Kraft or Employee Health when his fatigue became a problem at work, and that he had not asked for an accommodation. (Plf. Depo. 37). Plaintiff also mentioned that he had since learned of and purchased a device worn by truck drivers which can alert a person that they are falling asleep. (Chambers Depo. 57).
+At the conclusion of this process, defendant upheld the decision to terminate plaintiff's employment. (Doc. 21-11, 21-12).
+Plaintiff filed this action on August 17, 2011. (Doc. 1).
+
+Analysis
+
+A. Disability Claims5
+
+1. Discrimination
+The ADA prohibits discrimination by covered entities against a qualified individual on the basis of disability in regard to terms and conditions of employment, including discharge. See 42 U.S.C. § 12112.
+In the absence of direct evidence, plaintiff must prove a prima facie case of discrimination based on circumstantial evidence. Gecewicz v. Henry Ford Macomb Hosp. Corp., 683 F.3d 316, 321 (6th Cir. 2012) (citations omitted). To establish a prima facie case, plaintiff must show that: he is disabled; he was otherwise qualified to perform the essential functions of his job; he suffered an adverse employment action; his employer knew or had reason to know of his disability; and either the position remained open or a non-disabled person replaced him. Id.
+If plaintiff establishes a prima facie case, the burden shifts to the employer to state a legitimate, nondiscriminatory reason for the adverse action. Roetter v. Michigan Dep't of Corr., 456 F. App'x 566, 570 (6th Cir. 2012) (citation omitted). "If the defendant satisfies  [*9] this burden of production, the plaintiff must introduce evidence showing that the proffered explanation is pretextual." Id. "Under this scheme, the plaintiff retains the ultimate burden of persuasion at all times." Id.
+To survive summary judgment, a plaintiff claiming ADA discrimination must adduce evidence from which a reasonable jury could conclude that plaintiff's disability was a "but for" cause of the adverse employment action. Lewis v. Humboldt Acquisition Corp., Inc., 681 F.3d 312, 321 (6th Cir. 2012) (en banc). 6
+The Court will assume for purposes of this analysis that plaintiff suffers from a "disability" so as to trigger the protection of the ADA and applicable state law. The Court also assumes that plaintiff was "otherwise qualified" because it is undisputed that, until he was reported for sleeping, plaintiff had performed his job well for many years. 7
+Next, it is not disputed that plaintiff suffered an adverse action and that defendant knew of plaintiff's medical conditions. Finally, defendant does not dispute that plaintiff was replaced by Rick Smith, a non-disabled employee.
+Plaintiff has thus established a prima facie case of disability discrimination.
+Plaintiff's claim nonetheless fails as a matter of law because defendant has proffered a legitimate reason for plaintiff's termination, and plaintiff has adduced no evidence from which a reasonable jury could find that reason to be a pretext for disability discrimination.
+Plaintiff admitted sleeping at work (Plf. Depo. 28, 64). Although he asserts that he only did so while on breaks, he concedes that he never asked anyone in supervision if it was permissible to sleep during breaks, and that he did not know whether it was. (Plf. Depo. 31, 65).
+Plaintiff argues that there is a factual dispute as to when he slept on the job which raises an issue of pretext. The Court disagrees, for the record is undisputed that defendant considered sleeping on the job by a security supervisor at any time, even on breaks, to be  [*11] unacceptable.
+Defendant's reason for terminating plaintiff's employment is clearly and consistently stated in the record. Oscadel testified that the decision was based on the fact that Employee Health had reported that there was no medical reason that would cause plaintiff to fall asleep at work; that the seriousness of the offense was compounded by the fact that plaintiff was a supervisor in Security; and that, while plaintiff had many years of service, Dubis felt strongly that "sleeping on the job was not an acceptable behavior, for any associate, but more importantly for a Security Officer and a Supervisor in Security." (Oscadel Dep. 14).
+Further, it is undisputed that, while the policy in effect at the time that plaintiff's sleeping was reported called for a minimum "Level III" discipline, that policy also reserved in management the discretion to impose discipline depending on the circumstances.
+Considering that plaintiff was Security Supervisor, and that defendant conducted an investigation in which plaintiff admitted sleeping and in which a doctor reported that there was no medical reason why plaintiff could not control his sleeping, defendant's decision to terminate, while arguably  [*12] harsh, cannot be considered so unreasonable as to raise an issue of pretext. See Martinez v, Cracker Barrel Old Country Store, Inc., 703 F.3d 911, 915 (6th Cir. 2013) (noting that the "key inquiry is whether the employer made a reasonably informed and considered decision before taking an adverse employment action") (citation omitted).
+Plaintiff also argues that an issue of pretext arises based on the different treatment of a non-disabled nurse, Amanda Rickey, who received only a Level III discipline for sleeping at work on August 21, 2010.
+It is well-established that for differential treatment to suffice as evidence of discrimination, the employee and the person with whom he compares himself must be "similarly situated . . . in all relevant respects." Id. at 917 (citations omitted). "In the disciplinary context, the Sixth Circuit has held that to be found similarly situated, the plaintiff and [his] proposed comparator must have engaged in acts of comparable seriousness." Id. (internal quotations and citations omitted).
+"To make this assessment, a court must look to certain factors, such as whether the individuals have dealt with the same supervisor, have been subject to the same standards  [*13] and have engaged in the same conduct without such differentiating or mitigating circumstances that would distinguish their conduct or the employer's treatment of them for it." Id. See also Laws v. HealthSouth N. Ky. Rehab. Hosp. Ltd., No. 11-6360, 508 Fed. Appx. 404, 2012 U.S. App. LEXIS 25515, 2012 WL 6176797, at *6 (6th Cir. Dec. 11, 2012) (discussing comparator analysis in disciplinary context).
+Applying these factors, Rickey is not similarly situated as a matter of law. Despite plaintiff's assertion to the contrary, the record is undisputed that, prior to sleeping in an empty patient room, Rickey told her immediate supervisor that she was not feeling well and wanted to lie down. (Blank Depo. 46-47). Subsequently, the House Supervisor intervened and told Rickey that she, in fact, was not allowed to sleep at night.
+It is not disputed that plaintiff never asked a supervisor if he was allowed to nap at work, whether on a break or otherwise. This alone constitutes a "differentiating or mitigating circumstance" which renders the different discipline meted out to Rickey legally irrelevant.
+Second, it is not disputed that Oscadel and Chambers - the decisionmakers in plaintiff's termination - were not involved in the Rickey discipline.  [*14] And, while plaintiff argues that Blank was "involved" in both situations, there is no evidence that she was actually a decisionmaker as to plaintiff's termination, as opposed to being merely a conduit for information to management. Furthermore, Blank testified that, at the time Rickey received a Level III discipline, Blank was unaware of Dubis' stricter view of sleeping, which view had been communicated to Oscadel at the time he and Chambers decided to terminate plaintiff's employment.
+Finally, it is undisputed that every other employee who was disciplined for sleeping at work during the Fall of 2010 and later, including plaintiff, was terminated.
+For these reasons, plaintiff's disability discrimination claim fails as a matter of law.
+
+2. Failure to Accommodate
+The ADA also prohibits as discrimination an employer's failure to make reasonable accommodations for an employee's known disability unless that accommodation would impose an undue burden on the operation of the business. See 42 U.S.C. § 12112(a), (b)(5)(A).
+Plaintiff must show as part of a prima facie case for a failure to accommodate claim that he requested an accommodation. This is not only commonsensical, but it comports with one  [*15] of the purposes of the ADA, which is to discourage employers from stereotyping employees with disabilities or making assumptions about their capabilities.
+Thus, "if the employee never requests an accommodation, the employer's duty to engage in the interactive process is never triggered." Melange v. City of Center Line, 482 F. App'x 81, 85 (6th Cir. 2012) (citation omitted).
+By his own admission, plaintiff never requested any accommodation prior to his termination. (Plf. Depo. 37). Although plaintiff informed Kraft of his diabetes diagnosis, and although Hynko raised the potential applicability of the ADA during the fitness for duty exam process, plaintiff never asked that any changes in his duties or working conditions be made to accommodate his allegedly medical-related fatigue.
+"The employer is not required to speculate as to the extent of the employee's need or desire for an accommodation." Gesegnet v. J.B. Hunt Transp., Inc., No. 3:09-CV-828-H, 2011 U.S. Dist. LEXIS 57537, 2011 WL 2119248, at *5 (W.D. Ky. May 26, 2011) (quoting Gantt v. Wilson Sporting Goods Co., 143 F.3d 1042, 1042-47 (6th Cir. 1998)). Instead, the burden is on the employee to propose a reasonable accommodation "with sufficient specificity." Id. (citation  [*16] omitted).
+During the dispute resolution process, plaintiff stated that he had learned of and purchased a device used by truck drivers to alert the wearer if he is falling asleep. Of course, this was more than a month after plaintiff's termination. "Reason dictates that a plaintiff must have . . . requested an accommodation prior to the time at which an employer takes adverse action against a disabled employee." Id.
+Plaintiff's failure to accommodate claim thus fails as a matter of law.
+
+B. Age Discrimination
+Plaintiff must establish a prima facie case of age discrimination by showing that: (1) he was over 40 years old; (2) he suffered an adverse employment action; (3) he was qualified for the position; and (4) he was replaced by a substantially younger person or treated differently than a similarly-situated younger person. Laws, 2012 U.S. App. LEXIS 25515, 2012 WL 6176797, at * 6 (citation omitted).
+Plaintiff's age claim fails at this stage under the fourth prong because: (1) he was replaced by Rick Smith, who is older than plaintiff (Kraft Depo. 92), and (2) the younger employee with whom he compares himself, Amanda Rickey, is not similarly situated as a matter of law for the reasons already discussed.
+Even could plaintiff  [*17] proceed beyond the prima facie stage, there is no evidence that defendant's reason for terminating his employment was a pretext for age discrimination. Plaintiff's arguments as to pretext here are identical to those asserted in regard to his disability claim, which have been addressed. There is simply no evidence from which a reasonable jury could conclude that plaintiff's age was a "but for" factor in his termination. See Gross v. FBL Fin. Servs., 557 U.S. 167, 129 S. Ct. 2343, 174 L. Ed. 2d 119 (2009).
+Therefore, having reviewed this matter, and the Court being otherwise sufficiently advised,
+IT IS ORDERED that defendant's motion for summary judgment (Doc. 24) be, and is hereby, GRANTED. A separate judgment shall enter concurrently herewith.
+This 1st day of April, 2013.
+Signed By:
+William O. Bertelsman
+United States District Judge
+
+
+End of Document
+

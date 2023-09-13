@@ -1,0 +1,56 @@
+Cabrera v. Costco Wholesale Corp.
+United States District Court for the Central District of California
+September 2, 2020, Decided; September 2, 2020, Filed
+Case No. CV 19-9588-MWF (ASx)
+
+Reporter
+2020 U.S. Dist. LEXIS 176721 *
+Gabriela Cabrera v. Costco Wholesale Corp.
+Prior History: Cabrera v. Costco Wholesale, 2020 U.S. Dist. LEXIS 212998 (C.D. Cal., Mar. 30, 2020)
+Counsel:  [*1] For Gabriela Cabrera, an individual, Plaintiff: Osman M Taher, LEAD ATTORNEY, Joseph Richard Manning, Jr, Manning Law APC, Newport Beach, CA USA.
+For Costco Wholesale Corporation, a Washington corporation, Defendant: Charles Addison Valente, Kaplan Saunders Valente and Beninati, LLP, Chicago, IL USA.
+For Robert A Parris, Mediator (Adr Panel): Robert A Parris, LEAD ATTORNEY, R Rex Parris Law Offices, Lancaster, CA USA.
+Judges: Honorable MICHAEL W. FITZGERALD, United States District Judge.
+Opinion by: MICHAEL W. FITZGERALD
+Opinion
+
+
+CIVIL MINUTES—GENERAL
+
+Proceedings (In Chambers): ORDER RE: DEFENDANT'S MOTION FOR SUMMARY JUDGMENT [31]
+Before the Court is Defendant Costco Wholesale Corporation's ("Costco") Motion for Summary Judgment (the "Motion"), filed on July 28, 2020. (Docket No. 31.) On August 10, 2020, Plaintiff Gabriela Cabrera filed an Opposition. (Docket No. 32). On August 18, 2020, Defendant filed its Reply. (Docket No. 34).
+The Court has read and considered the papers filed in connection with the motions and held a telephonic hearing on August 31, 2020, pursuant to General Order 20-09 arising from the COVID-19 pandemic.
+For the reasons set forth below, the Motion is GRANTED. Costco has submitted unrebutted evidence [*2]  that it has removed both alleged barriers by installing a mirror at the correct height and insulating the exposed pipes. (Statement of Uncontroverted Facts ("SUF") ¶¶ 4-5 (Docket No. 31-1)).
+
+I. BACKGROUND
+The following facts are based on the evidence, as viewed in the light most favorable to Plaintiff, the non-moving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986) (On a motion for summary judgment, "[t]he evidence of the nonmovant is to be believed, and all justifiable inferences are to be drawn in his [her, or its] favor."). Unless otherwise noted by the Court, the facts are undisputed.
+Costco operates warehouse membership clubs throughout the United States at which it sells goods to its members. (SUF ¶ 1). Costco operates a warehouse at 17550 Castleton St, City of Industry, California 91748 (the "Warehouse"). (SUF ¶ 2).
+Plaintiff alleged two architectural barriers that supposedly violated the Americans with Disabilities Act Accessibility Guidelines ("ADAAG") which she contends deprived her of the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of the Warehouse: (i) a mirror that is too high under ADAAG Section 603.3; and (ii) a sink that has exposed drainpipes in violation of ADAAG [*3]  Section 606.5. (SUF ¶ 3).
+In January 2020, Costco responding to the allegations by installing a full-length mirror in the women's restroom at the Warehouse with a bottom edge measuring 22 inches above the finished floor and insulating each of the drainpipes in the women's lavatory. (SUF ¶¶ 4-5).
+
+II. LEGAL STANDARD
+In deciding a motion for summary judgment under Rule 56, the Court applies Anderson, Celotex, and their Ninth Circuit progeny. Anderson, 477 U.S. 242, 106 S. Ct. 2505, 91 L. Ed. 2d 202; Celotex Corp. v. Catrett, 477 U.S. 317, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). "The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a).
+The Ninth Circuit has defined the shifting burden of proof governing motions for summary judgment where the non-moving party bears the burden of proof at trial:
+The moving party initially bears the burden of proving the absence of a genuine issue of material fact. Where the non-moving party bears the burden of proof at trial, the moving party need only prove that there is an absence of evidence to support the non-moving party's case. Where the moving party meets that burden, the burden then shifts to the non-moving party to designate specific facts demonstrating the existence of genuine issues [*4]  for trial. This burden is not a light one. The non-moving party must show more than the mere existence of a scintilla of evidence. The non-moving party must do more than show there is some "metaphysical doubt" as to the material facts at issue. In fact, the non-moving party must come forth with evidence from which a jury could reasonably render a verdict in the non-moving party's favor.
+Coomes v. Edmonds Sch. Dist. No. 15, 816 F.3d 1255, 1259 n.2 (9th Cir. 2016) (quoting In re Oracle Corp. Sec. Litig., 627 F.3d 376, 387 (9th Cir. 2010)). "A motion for summary judgment may not be defeated, however, by evidence that is 'merely colorable' or 'is not significantly probative.'" Anderson, 477 U.S. at 249-50.
+"When the party moving for summary judgment would bear the burden of proof at trial, 'it must come forward with evidence which would entitle it to a directed verdict if the evidence went uncontroverted at trial.'" C.A.R. Transp. Brokerage Co. v. Darden Restaurants, Inc., 213 F.3d 474, 480 (9th Cir. 2000) (quoting Houghton v. South, 965 F.2d 1532, 1536 (9th Cir. 1992)).
+
+III. DISCUSSION
+Defendant moves for summary judgment with respect to Plaintiff's ADA claims on the basis that the claims are mooted by Defendant's removal of both alleged barriers. (See generally Motion). Title III of the ADA prohibits discrimination on the basis of disability in the full and equal enjoyment of "goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation" by its owner [*5]  or operator. 42 U.S.C. § 12182(a). The ADA defines discrimination to include "the failure to remove architectural barriers" in existing facilities where such removal is "readily achievable." 42 U.S.C. § 12182(b)(2)(A)(iv).
+Article III of the Constitution limits the jurisdiction of the federal courts to those matters which present an actual case or controversy. Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61, 112 S. Ct. 2130, 119 L. Ed. 2d 351 (1992). Where subsequent events have rendered the dispute before a federal court moot, there is no justiciable controversy and the matter must be dismissed. DeFunis v. Odegaard, 416 U.S. 312, 316, 94 S. Ct. 1704, 40 L. Ed. 2d 164 (1974). Where mootness derives from the defendant's voluntary actions, federal courts must be careful to determine that (1) there is no reasonable expectation that the defendant will return to his prior conduct; and (2) the defendant's actions have eradicated the effects of the alleged violation. County of Los Angeles v. Davis, 440 U.S. 625, 631, 99 S. Ct. 1379, 59 L. Ed. 2d 642 (1979).
+Generally, a facility is "readily accessible to and usable by individuals with disabilities" if it meets the requirements set forth by the Attorney General in the ADAAG. See 28 C.F.R. § 36.406; Oliver v. Ralphs Grocery Co., 654 F.3d 903, 905 (9th Cir. 2011). A private plaintiff can sue only for injunctive relief under the ADA. Oliver, 654 F.3d at 905. "[A] defendant's voluntary removal of alleged barriers prior to trial can have the effect of mooting a plaintiff's ADA claim." Id. (citing Hubbard v. 7-Eleven, Inc., 433 F. Supp. 2d 1134, 1145 (S.D. Cal. 2006)).
+Plaintiff's first allegation is that a mirror in the bathroom did not comply with ADAAG [*6]  Section 603.3, which requires that mirrors "not located above lavatories or countertops shall be installed with the bottom edge of the reflecting surface at a maximum height of 35 inches" above the finished floor. 2010 ADAAG § 603.3. Plaintiff's second allegation is that a sink's exposed drainpipes violated ADAAG section 606.5, which requires that "water supply and drain pipes be insulated or otherwise configured to protect against contact." 2010 ADAAG § 605.5.
+Costco has submitted evidence, undisputed by Plaintiff, that it has removed both barriers at issue by making permanent changes to the restroom. Specifically, in January 2020, Costco installed a full-length mirror in the women's restroom at the Warehouse with a bottom edge measuring 22 inches above the finished floor, and insulated each of the drainpipes in the women's lavatory. (SUF ¶¶ 4-5 (citing Declaration of John Saltzman ("Saltzman Decl.") ¶¶ 3-4) (Docket No. 24)).
+Plaintiff does not dispute that Costco has removed these barriers. Instead, Plaintiff argues that she is entitled to Rule 56(d) relief on the basis that Defendant has not (i) participated in the discovery process; (ii) allowed for a site inspection; or (iii) complied with Local Rule 7-3. (See generally Opposition). The Court [*7]  disagrees.
+Federal Rule 56(d) states that "[i]f a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may: (1) defer considering the motion or deny it; (2) allow time to obtain affidavits or declarations or to take discovery; or (3) issue any other appropriate order." Fed. R. Civ. P. 56(d).
+Plaintiff provides no explanation for why she could not — in the four months since Defendant first sought to dismiss Plaintiff's claims as moot — determine whether Defendant had removed the barriers from the public restroom. And Plaintiff cites no rule requiring a defendant to wait until the plaintiff has conducted a site inspection before moving for summary judgment. Although Defendant's failure to comply with Local Rule 7-3 and engage in settlement discussions is displeasing, Plaintiff has not demonstrated that these failures justify granting Rule 56(d) relief.
+Defendant has submitted unrebutted evidence that it has removed both alleged barriers by installing a mirror at the correct height and insulating the exposed pipes. (SUF ¶¶ 4-5 (citing Saltzman Decl. ¶¶ 3-4)). Plaintiff had ample opportunity to take discovery with respect to these barriers, but did not. [*8]  There is no reason to expect that Defendant will reverse these modifications. Because Plaintiff has not raised a triable issue of fact with regard to Defendant's removal of the alleged barriers, the Court determines that Plaintiffs' claims are moot. See Oliver, 654 F.3d at 905 (citing Hubbard v. 7-Eleven, Inc., 433 F. Supp. 2d 1134, 1145 (S.D. Cal. 2006)).
+
+IV. CONCLUSION
+The Motion is GRANTED.
+This Order shall constitute notice of entry of judgment pursuant to Federal Rule of Civil Procedure 58. Pursuant to Local Rule 58-6, the Court ORDERS the Clerk to treat this order, and its entry on the docket, as an entry of judgment.
+IT IS SO ORDERED.
+
+
+End of Document
+

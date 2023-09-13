@@ -1,0 +1,104 @@
+Lorant v. Shriners Hosps. for Children
+United States District Court for the Central District of California
+December 3, 2018, Decided; December 3, 2018, Filed
+CV 17-1006 DSF (MRWx)
+
+Reporter
+2018 U.S. Dist. LEXIS 232026 *
+JOHN A. LORANT, Plaintiff, v. SHRINERS HOSPITALS FOR CHILDREN, Defendant.
+Counsel:  [*1] For John A. Lorant, M.D. an individual, Plaintiff: Allen W Graves, Jacqueline Treu, LEAD ATTORNEYS, The Graves Firm, Sierra Madre, CA.
+For Shriners Hospitals for Children, Defendant: Nettta Rotstein, Shahram Samie, LEAD ATTORNEYS, Diane L Kimberlin, Littler Mendelson PC, Los Angeles, CA.
+Judges: Dale S. Fischer, United States District Judge.
+Opinion by: Dale S. Fischer
+Opinion
+
+
+Order DENYING Defendant's Motion for Partial Summary Judgment (Dkt. 34)
+Plaintiff John A. Lorant brings eight causes of action against Defendant Shriners Hospitals for Children (SHC). SHC moves for partial summary judgment on all but one of Lorant's claims. Dkt. 34 (Mot.). Lorant opposed the motion. Dkt. 36 (Opp'n). The Court deems this matter appropriate for decision without oral argument. See Fed. R. Civ. P. 78; Local Rule 7-15. The motion is DENIED.
+
+I. LEGAL STANDARD
+"A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). "This burden is not a light one." In re Oracle Corp. Sec. Litig., 627 F.3d 376, 387 (9th Cir. 2010). But the moving party need not disprove the opposing [*2]  party's case. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). Rather, if the moving party satisfies this burden, the party opposing the motion must set forth specific facts, through affidavits or admissible discovery materials, showing that there exists a genuine issue for trial. Id. at 323-24; Fed. R. Civ. P. 56(c)(1). A non-moving party who bears the burden of proof at trial as to an element essential to his case must make a showing sufficient to establish a genuine dispute of fact with respect to the existence of that element of the case or be subject to summary judgment. See Celotex Corp., 477 U.S. at 322.
+"[A] district court is not entitled to weigh the evidence and resolve disputed underlying factual issues." Chevron Corp. v. Pennzoil Co., 974 F.2d 1156, 1161 (9th Cir. 1992). Rather, "the inferences to be drawn from the underlying facts must be viewed in the light most favorable to the party opposing the motion." Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 587-88, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986) (internal quotation marks and ellipsis omitted).
+
+II. BACKGROUND FACTS
+Plaintiff John Lorant, M.D., was a plastic and reconstructive surgeon and the Chief of Plastic Surgery at SHC. RPSGD ¶ 96, 99.1 Lorant worked at SHC's Los Angeles hospital from 2002 until on or about February 2016. PSGD ¶ 75; Mot. at 1. Lorant states he has managed episodic depression for most of his adult life. RPSGD ¶ 102.
+In 2014, Lorant had eye surgery and took a leave of absence. [*3]  Id. ¶ 103. On returning to SCH after his operation, he told his supervisor, Chief of Staff Kit Song, that his visual and psychological condition was impacting his ability to perform surgery. Id. ¶ 102. Song provided Lorant with an accommodation that allowed Plaintiff to determine his own pace and schedule for the resumption of his medical practice. PSGD ¶ 84, 91; RPSGD ¶ 104.
+In early 2015, Song left SHC, and Dr. R. Robert Cho became Interim Chief of Staff. RPSGD ¶ 107. On May 29, 2015, Cho and an administrator informed Lorant he would be reduced to halftime status starting July 1, 2015. PSGD ¶ 27. Lorant took a leave of absence starting June 2, 2015. Mot. at 2 (citing PSGD ¶¶ 6-7); RPSGD ¶ 123.
+On April 20, 2016, while Lorant was still on leave, SHC sent Lorant a letter indicating that his employment was "inactivated" effective February 26, 2016. PSGD ¶¶ 69, 70. Lorant received long-term benefits until November 2017. Id. ¶¶ 68, 69.
+As discussed below, the parties dispute many material facts concerning Lorant's activity while he was employed as a surgeon at SHC, the accommodations he received while at SHC, and his termination from SHC.
+
+III. DISCUSSION
+
+A. FEHA Age Discrimination Claim (Eighth [*4]  Cause of Action)
+Because of the similarity between FEHA and federal anti-discrimination statutes, California courts rely on federal precedent in applying FEHA. See Guz v. Bechtel Nat. Inc., 24 Cal. 4th 317, 354, 100 Cal. Rptr. 2d 352, 8 P.3d 1089 (2000). Discrimination can be established with either direct or indirect evidence. If a plaintiff has no direct evidence, he may show discrimination by using indirect, or circumstantial evidence, under the three-stage burden shifting test established by the Supreme Court in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). See Guz, 24 Cal. 4th at 354-55.
+
+1. Exhaustion
+SHC first argues Lorant did not timely exhaust his administrative remedies with the California Department of Fair Employment & Housing (DFEH). To proceed under FEHA, one must file a complaint with the DFEH within one year of the allegedly unlawful conduct. See Cal. Gov't Code § 12960(d). SHC argues Lorant's January 2018 DFEH complaint was untimely because Lorant was terminated in early 2016.
+The statute of limitations for FEHA claims begins when the employee is actually terminated. See Romano v. Rockwell Int'l, 14 Cal. 4th 479, 491, 503, 59 Cal. Rptr. 2d 20, 926 P.2d 1114 (1996).
+The parties dispute the date Lorant was actually terminated. SHC claims Lorant was terminated on February 26, 2016—the date indicated in its April 20, 2016 letter, rendering his January 2018 complaint untimely. PSGD ¶ 66. Lorant claims he was terminated on November 30, 2017—after his [*5]  benefits expired. He cites to the Deposition of Kathy Dean, SHC's Vice President of Human Resources, who stated that Lorant would be considered an "employee on long-term disability" until the final benefit ended. RPSGD ¶ 138; Graves Decl. Ex. E (Dean Dep. Tr.), at 40:21-41:6. Lorant also notes that Defendant's human-resource generalist testified that she did not receive a clear answer when inquiring about Lorant's employment status in April 2016. RPSGD ¶ 134; Graves Decl. Ex. O (Lopez Dep. Tr.), at 79:19-80:8. Lorant also presents a COBRA notice informing him he qualified for COBRA effective November 30, 2017. RPSGD 139; Lorant Decl. ¶ 22, Ex. D.
+The date of Lorant's termination is disputed; summary judgment is not warranted on the grounds that Lorant's DFEH claim was untimely.
+
+2. Direct Evidence of Age Discrimination
+Lorant argues there is direct evidence of age discrimination. Direct evidence is "conduct or statements by persons involved in the decision-making process that may be viewed as directly reflecting the alleged discriminatory attitude . . . ." Enlow v. Salem-Keizer Yellow Cab Co., 389 F.3d 802, 812 (9th Cir. 2004) (quoting Walton v. McDonnell Douglas Corp., 167 F.3d 423, 426 (8th Cir. 1999)). "With direct evidence, a triable issue as to the actual motivation of the employer is created even if the evidence is not [*6]  substantial." Chuang v. Univ. of Cal. Davis, Bd. of Trustees, 225 F.3d 1115, 1128 (9th Cir. 2000) (quoting Blue v. Widnall, 162 F.3d 541, 546 (9th Cir. 1998)). "The plaintiff is required to produce 'very little' direct evidence of the employer's discriminatory intent to move past summary judgment." Id. (citing Godwin v. Hunt Wesson, Inc., 150 F.3d 1217, 1221 (9th Cir. 1998)).
+Both parties appear to agree that Cho was involved in the decision-making process to demote and ultimately terminate Lorant. PSGD ¶ 27, RPSGD ¶ 118. Lorant alleges Cho made comments about Lorant being "old and slow" during meetings of medical staff at which Lorant was present between January 2015 and June of 2015. RPSGD ¶ 115; Graves Decl. Ex. C (Lorant Dep. Tr.), at 222:9-24, 224:18-225:1. SHC does not respond to this argument.
+Lorant raises a triable issue as to discriminatory intent. SHC's motion for summary judgment on Plaintiff's Eighth Cause of Action is DENIED.
+
+B. FEHA Reasonable Accommodation Claim (Fourth Cause of Action)
+A claim for failure to accommodate under FEHA requires a plaintiff to show: (1) he has a disability covered by FEHA; (2) he is a qualified person; and (3) his employer failed to reasonably accommodate his disability. See Jensen v. Wells Fargo Bank, 85 Cal. App. 4th 245, 255-56, 102 Cal. Rptr. 2d 55 (2000).
+The parties disagree as to whether SHC failed to reasonably accommodate Lorant's disability. SHC argues no reasonable accommodation was possible that would permit [*7]  Lorant to eventually return to work. Lorant argues that leave was not the only reasonable accommodation, and that Lorant's post-eye-surgery work arrangement with SHC would have been a reasonable accommodation. See, e.g., Opp'n at 16 (citing RPSGD ¶¶ 123, 127).
+SHC states it accommodated Lorant with a leave of absence until it "became apparent" that it was unlikely Lorant would be able to return for over a year.2 SHC argues indefinite leave is not a reasonable accommodation, and therefore no reasonable accommodation existed. See Hanson v. Lucky Stores, Inc., 74 Cal. App. 4th 215, 226-27, 87 Cal. Rptr. 2d 487 (1999) ("Reasonable accommodation does not require the employer to wait indefinitely for an employee's medical condition to be corrected."). Lorant cites Nadaf-Rahrov v. Neiman Marcus Grp., Inc., 166 Cal. App. 4th 952, 83 Cal. Rptr. 3d 190 (2008), where the court found that "[a]lthough an employer need not provide repeated leaves of absence for an employee who has a poor prognosis of recovery, the mere fact that a medical leave has been repeatedly extended does not necessarily establish that it would continue indefinitely." Id. at 988 (citation omitted).
+SHC fails to establish that an indefinite leave of absence was the only accommodation for Lorant, or that Lorant's request for additional leave was unreasonable. SHC does not dispute that Lorant requested modified duty [*8]  so that he could return to work. RPSGD ¶ 124. A jury could reasonably conclude that modifications to his duties—as were in place after Lorant's surgery—constituted a reasonable accommodation. SHC has not met its burden to demonstrate that there was no reasonable accommodation for Lorant, and is not entitled to summary judgment on this ground.
+SHC also states that it had no obligation to lower its standards for productivity to accommodate Lorant, and that removing an essential job function is not a reasonable accommodation. SHC's showing on these points is insufficient. SHC cites no facts and provides no indication as to why the Court should grant summary judgment on these grounds. See Harper v. Wallingford, 877 F.2d 728, 731 (9th Cir. 1989) (If the moving party's showing is insufficient, no defense is required.).
+SHC's motion for summary judgment on Lorant's Fourth Cause of Action is DENIED.
+
+C. FEHA Interactive Process Claim (Fifth Cause of Action)
+"Under FEHA, an employer must engage in a good faith interactive process with the disabled employee to explore the alternatives to accommodate the disability." Nealy v. City of Santa Monica, 234 Cal. App. 4th 359, 373, 184 Cal. Rptr. 3d 9 (2015).
+SHC first contends—without pointing to any facts and citing only a single non-precedential case—that Lorant's claim fails because Lorant [*9]  caused the breakdown in the interactive process. Mot. at 11 (citing Huck v. Kone, Inc., No. C10-1845 RS, 2011 U.S. Dist. LEXIS 144438, 2011 WL 6294466 at *12 (N.D. Cal. Dec. 15, 2011)). Lorant offers evidence that SHC did not engage his requests to communicate about potential accommodations. Opp'n at 16 (citing RPSGD ¶¶ 124, 165). SHC does not address these issues on reply, and has not met its burden to show that Lorant caused the breakdown in the interactive process.
+SHC also contends that Lorant's interactive process claim fails because "no reasonable accommodation was possible that would permit Lorant to return to work." Mot. at 11. As discussed above, SHC has not met its burden to demonstrate that no reasonable accommodation was possible.
+SHC's motion for summary judgment on Lorant's Fifth Cause of Action is DENIED.
+
+D. Retaliation Under Section 1278.5 (First Cause of Action)
+Claims for retaliation under § 1278.5 of the California Health and Safety Code are analyzed under the McDonnell Douglas burden-shifting framework. See Armin v. Riverside Cmty. Hosp., 5 Cal. App. 5th 810, 830, 210 Cal. Rptr. 3d 388 (2016).
+To establish a prima facie case of retaliation, Lorant must show (1) he complained to SHC about unsafe patient care or conditions; (2) he was thereafter subjected to an adverse employment action; and (3) a causal link between the two. See Cal. Health & Safety Code § 1278.5(b)(1)(A); Mendiondo v. Centinela Hosp. Medical Ctr., 521 F.3d 1097, 1105 (9th Cir. 2008). Section 1278.5 provides [*10]  a rebuttable presumption of retaliation if "responsible staff at the facility" knew that the employee filed a grievance or complaint, and the employer then executed an adverse employment action against the employee within 120 days of the filing of the grievance or complaint. Cal. Health & Safety Code § 1278.5(d)(1).
+SHC argues Lorant's prima facie claim fails because Lorant did not complain about actual, as opposed to speculative, unsafe patient care or conditions. See Mot. at 12 (citing Macionski v. Alaska Airlines, No. CV-93-5974-RSWL, 1995 U.S. Dist. LEXIS 21751, 1995 WL 406172, at *7 (C.D. Cal. Jan. 12, 1995)). But Macionski differentiated between actual or reasonably suspected violations, and potential violations. 1995 U.S. Dist. LEXIS 21751, 1995 WL 406172 at *7. The billing practices of SHC—and Lorant's complaints about Lorant's billing practices—were about actual or reasonably suspected unsafe patient care or conditions at the hospital. SHC has cited no case where a plaintiff was required to prove he was reporting actual occurrences of unsafe work conditions. Summary judgment is not warranted on this ground.
+SHC argues Lorant has also failed to establish a causal link sufficient to make a prima facie case. Lorant argues that he meets the rebuttable standard in Cal. Health & Safety Code § 1278.5(d)(1),3 because his demotion took place within 120 days of his reporting and responsible staff [*11]  were aware of the action. Opp'n at 19 (citing RPSGD ¶¶ 112, 119). Lorant has made a sufficient prima facie case to survive summary judgment.
+SHC also argues, in cursory fashion and again without pointing to any specific facts, that its actions "were based on its concerns about Lorant's productivity and his performance" and that Lorant cannot show pretext, because there is no evidence that "any decision maker commented on any of Lorant's statements of concern." Mot. at 13. With only this statement, SHC fails to meet its burden.
+In any event, Lorant presents several factual objections to SHC's assertion that his performance or productivity was a legitimate basis for its actions. SHC has therefore failed to demonstrate it is entitled to summary judgment.
+SHC's motion for summary judgment on Lorant's First Cause of Action is DENIED.
+
+E. Retaliation in Violation of Cal. Labor Code Section 232.5 (Second Cause of Action)
+
+1. Whether Lorant's Claim is Preempted
+SHC argues Lorant's Second Cause of Action is preempted by the National Labor Relations Act (NLRA). Mot. at 13 (citing Grant-Burton v. Covenant Care, Inc., 99 Cal. App 4th 1361, 1375 n.1, 122 Cal. Rptr. 2d 204 (2002)).
+Grant-Burton does not address Section 232.5, and it does not hold that any Labor Code provisions are preempted by the NLRA. In any event, the applicable provisions [*12]  of the NLRA would not apply to supervisors. See id. Lorant argues he qualifies as a supervisor under the NLRA, since he had a "responsibility to direct employees." See 29 U.S.C. § 152(3) (defining "employee"); 29 U.S.C. § 152(11) (defining "supervisor"); RPSGD 179; Lorant Decl. ¶ 4.
+Summary judgment for SHC is not warranted on the grounds that, as applied to Lorant, Section 232.5 is preempted by the NLRA.
+
+2. Whether Lorant has standing.
+SHC argues that Lorant's Second Cause of Action fails because Lorant lacks standing due to his inability to satisfy a "concerted activity" standard. SHC presents no authority for such a standard other than a single NLRB case. Summary judgment is not warranted on this ground.
+
+3. Whether Lorant Can Make a Prima Facie Claim
+SHC argues that Lorant cannot make a prima facie claim under Section 232.5 because Lorant's alleged complaints were not regarding workplace conditions. SHC argues Lorant's claim is precluded because legislative history suggests that "working conditions" refer to issues such as "hours, uniforms and [sic] occupational safety." Mot. at 14 (quoting Senate Committee on Labor and Industrial Relations, Analysis of AB 2895, June 26, 2002 (Senate Committee Report)). This legislative history provides that the [*13]  bill would prohibit "an employer from requiring an employee to refrain from disclosing information about the employer's working conditions (e.g., hours, uniforms, occupational safety)." Senate Committee Report. There is nothing there to suggest the Committee intended to limit "working conditions." Summary judgment is not warranted on this ground.
+SHC's argument that Lorant's prima facie claim fails because Lorant did not complain about actual, as opposed to speculative, unsafe patient care or conditions fails for the same reason discussed above. And SHC's cursory argument that its actions were based on concerns about Lorant's productivity and his performance and that Lorant cannot show pretext, similarly fail to meet SHC's burden of demonstrating that no issue of material fact exists at trial.
+SHC's motion for summary judgment on Lorant's Second Cause of Action is DENIED.
+
+F. Retaliation in Violation of Cal. Labor Code § 1102.5 (Third Cause of Action)
+SHC's argument that Lorant's prima facie claim fails because Lorant did not complain about actual, as opposed to speculative, unsafe patient care or conditions fails for the reasons discussed above. SHC adds an additional argument here: that Lorant "must be able [*14]  to point to some legal foundation for his suspicion—some statute, rule or regulation which may have been violated by the conduct he disclosed." Mot. at 16 (citing Love v. Motion Indus., Inc., 309 F. Supp. 2d 1128, 1135 (N.D. Cal. 2004)). Lorant points to the California False Claims Act, and argues he had a reasonable belief SHC was committing billing fraud in violation of that Act. Opp'n at 23 (citing Cal. Gov't Code § 12651). SHC has not demonstrated that summary judgment is warranted on this ground.
+SHC's cursory argument that its actions were based on concerns about Lorant's productivity and his performance and that Lorant cannot show pretext, fail to meet SHC's burden of demonstrating that no triable issue of material fact exists.
+SHC's motion for summary judgment on Lorant's Third Cause of Action is DENIED.
+
+G. Wrongful Termination in Violation of Public Policy (Sixth Cause of Action)
+SHC argues that because "[a]ll of Plaintiff's FEHA claims, Health and Safety Code claims, and Labor Code claims fail" Lorant's "wrongful termination claims also fail as a matter of law." See Hanson, 74 Cal. App. 4th at 229 (holding that where a plaintiff's "FEHA claim fails, his claim for wrongful termination in violation of public policy fails").
+SHC also states, without citing any facts, that "the evidence establishes SHC terminated [*15]  Lorant's employment for lawful, nondiscriminatory and non-retaliatory business reasons and, thus, his wrongful termination claim lacks merit." Mot. at 18. This cursory statement is clearly insufficient to demonstrate SHC is entitled to summary judgment.
+SHC's motion for summary judgment on Lorant's Sixth Cause of Action is DENIED.
+
+IV. CONCLUSION
+SHC's motion for summary judgment is DENIED in its entirety.
+IT IS SO ORDERED.
+/s/ Dale S. Fischer
+Dale S. Fischer
+United States District Judge
+Date: December 3, 2018
+
+
+End of Document
+

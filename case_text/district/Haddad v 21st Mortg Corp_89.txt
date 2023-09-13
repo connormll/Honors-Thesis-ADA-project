@@ -1,0 +1,98 @@
+Haddad v. 21st Mortg. Corp.
+United States District Court for the Eastern District of Tennessee
+April 21, 2017, Filed
+No. 3:15-cv-277
+
+Reporter
+2017 U.S. Dist. LEXIS 60797 *
+RITA HADDAD, Plaintiff, v. 21st MORTGAGE CORPORATION, Defendant.
+Counsel:  [*1] For Rita Haddad, Plaintiff: Andrew O Beamer, LEAD ATTORNEY, Law Office of Andrew O Beamer, Knoxville, TN.
+For 21st Mortgage Corporation, Defendant: Jamie Ballinger Holden, Timothy B McConnell, LEAD ATTORNEYS, Latisha Jan Stubblefield, Baker, Donelson, Bearman, Caldwell & Berkowitz, PC (Knox), Knoxville, TN.
+Judges: Pamela L. Reeves, UNITED STATES DISTRICT JUDGE. Shirley.
+Opinion by: Pamela L. Reeves
+Opinion
+
+
+
+Memorandum Opinion and Order
+Rita Haddad has multiple sclerosis. In 2007, she began work as a phone auditor for 21st Mortgage Corporation. She was made a loan processor in 2010. In July 2011, Haddad's doctor faxed a letter to Haddad's supervisor, Michael Howard. The letter explained that, because of Haddad's MS, she would sometimes have to miss work and "may need some consideration from time to time." When Haddad followed up with Howard, she asked that she be able to work extra hours and deal with only one client. Howard said that would be impossible.
+In October 2011, Haddad received her first performance review as a loan processor; it rated her a top performer. But she soon started having problems. When 21st Mortgage changed its performance-review process to include peer review, Haddad's 2012 review was much worse. [*2]  She also struggled to complete her work and build client relationships. So in March 2013, Howard and Haddad's assistant manager met with Haddad and gave her a written warning. Haddad disagreed with their take on the situation and asked to meet with the human-resources director, Wayne Williams.
+Williams sat down with Haddad the next day. He suggested that she struggled to build client relationships because she was bad at small talk. Haddad responded that she suffered from "tip of the tongue" syndrome, a side effect of MS. Although Haddad was apparently requesting an accommodation under the Americans with Disabilities Act, Williams replied by giving Haddad paperwork for taking leave under the Family and Medical Leave Act. He did so because 21st Mortgage also uses the FMLA forms for ADA requests. Williams followed up with Haddad, but Haddad never completed the forms.
+Haddad's work struggles continued. On April 30, 2013, Haddad left work early. 21st Mortgage fired her the next day. The reasons were her leaving early and her poor work performance.
+This suit followed on June 29, 2015. Haddad alleges that 21st Mortgage violated the ADA, the Tennessee Disability Act, and the Tennessee Human Rights [*3]  Act.1 Now before the Court is 21st Mortgage's motion for summary judgment. For the following reasons, this motion is granted in part and denied in part.
+
+I
+Summary judgment is proper only if there is no genuine dispute on any material fact and the movant is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a). A dispute is genuine if a reasonable jury could find for the nonmoving party. Anderson v. Liberty Lobby, 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). A fact is material if it "might affect the outcome of the suit under the governing law." Id.; Stiles ex rel. D.S. v. Grainger Cty., 819 F.3d 834, 847 (6th Cir. 2016).
+The moving party bears the initial burden of showing that there is no genuine issue of material fact on any element of the other party's claim or defense. Stiles, 819 F.3d at 847. In determining whether this burden is satisfied, the Court views all evidence in the light most favorable to the nonmoving party and draws all inferences in her favor. Anderson, 477 U.S. at 255. If the movant satisfies this burden, then the nomoving party must identify facts in the record that raise a genuine issue of material fact on each challenged element of her claim or defense. Stiles, 819 F.3d at 847. If this is not done, summary judgment is granted. Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). The Court does not weigh evidence, judge witnesses' credibility, or decide the truth of the matter. Anderson, 477 U.S. at 249.
+
+II
+Haddad alleges that 21st Mortgage fired her because she [*4]  is disabled, in violation of the ADA, the Tennessee Disability Act, and the Tennessee Human Rights Act. Her state-law claims, however, are barred by the statute of limitations. Haddad had to file suit within one year of when she was fired. Tenn. Code Ann. §§ 8-50-103(c)(2), 4-21-311(d). Haddad was fired on May 1, 2013. She filed this suit in June 2015. On the Court's own motion, her state claims are dismissed. See, e.g., Alston v. Tenn. Dep't of Corr., 28 F. App'x 475, 476 (6th Cir. 2002).
+That leaves the ADA claims. A plaintiff may prove her ADA claims through direct or indirect evidence. Haddad offers only indirect evidence. Her claims are therefore governed by the three-step McDonnell Douglas test.2 Talley v. Family Dollar Stores of Ohio, 542 F.3d 1099, 1105 (6th Cir. 2008).
+The first step falls on Haddad. Id. She must make a prima facie showing of all the elements of her claims. Id. 21st Mortgage contends that Haddad cannot meet this task. But if she does, then the Court proceeds to the second step. Id. The burden shifts to 21st Mortgage to show that it had a legitimate reason for firing Haddad. Id. Finally, if it meets this demand, then the burden shifts back to Haddad to show that this reason is pretextual. Id. 21st Mortgage has offered reasons for firing Haddad. It argues that these reasons are legitimate and that Haddad cannot show them to be pre-textual.
+
+A
+Although Haddad [*5]  has brought three claims against 21st Mortgage, 21st Mortgage offers the same reasons for firing her, and Haddad levels one set of arguments against these reasons. The first issue, then, is whether Haddad has made a prima facie showing on her claims.
+
+1
+Haddad first alleges disability discrimination. To make out a prima facie case, she must show that
+• she is disabled;
+• she was otherwise qualified for her job with 21st Mortgage;
+• 21st Mortgage took an adverse employment action against her;
+• 21st Mortgage knew or had reason to know of her disability; and
+• she was replaced, or her position stayed open while 21st Mortgage looked for a replacement.
+Williams v. AT&T Mobility Servs. LLC, 847 F.3d 384, 395 (6th Cir. 2017). The third element is disputed.
+Haddad has stated a prima facie case on the third element. "An adverse employment action is an action by the employer that constitutes a significant change in employment status, such as hiring, firing, failing to promote, reassignment with significantly different responsibilities, or a decision causing a significant change in benefits." White v. Baxter Healthcare Corp., 533 F.3d 381, 402 (6th Cir. 2008) (internal quotation marks omitted). There is no dispute that 21st Mortgage fired Haddad. She has stated a prima facie case of disability discrimination.
+21st Mortgage argues that Haddad [*6]  cannot link her termination to disability discrimination. But the point of the McDonnel Douglas framework is to determine whether Haddad was fired because she is disabled. Whitfield v. Tennessee, 639 F.3d 253, 259 (6th Cir. 2011). As discussed below, she can link her termination to disability discrimination by showing that 21st Mortgage's reasons for firing her are pretextual. At this point, all Haddad has to do is show that 21st Mortgage took an adverse employment action against her. She has done so.
+
+2
+Next, Haddad claims that 21st Mortgage failed to accommodate her MS, in violation of the ADA. To make out a prima facie case here, she must show that
+• she is disabled;
+• she was otherwise qualified for her job with 21st Mortgage;
+• 21st Mortgage knew of her disability;
+• she requested an accommodation; and
+• 21st Mortgage did not provide an accommodation.
+Gaines v. Runyon, 107 F.3d 1171, 1175-76 (6th Cir. 1997). 21st Mortgage asserts that Haddad did not request an accommodation, and so it did not provide one. In other words, 21st Mortgage argues that Haddad cannot satisfy the fourth element, and so cannot satisfy the fifth. The Court will thus consider only the fourth element.
+Haddad has not satisfied the fourth element. Haddad contends that she requested an accommodation four times: (1) when she asked [*7]  Howard for extra hours or to process loans from only one client; (2) when she had Dr. Wray fax a letter to 21st Mortgage; (3) when she followed up with Howard after Dr. Wray sent the letter; and (4) when she spoke with Williams about her "tip of the tongue" syndrome. 21st Mortgage maintains that, while all of these events happened, in none of them did Haddad properly request an accommodation.
+The Court agrees with 21st Mortgage. Haddad must show that she proposed an accommodation, that the accommodation was objectively reasonable, and that she provided 21st Mortgage with a sufficient basis to realize that she made her request because of her MS. Tennial v. United Parcel Serv., Inc., 840 F.3d 292, 307 (6th Cir. 2016). Haddad's conversation with Howard did not meet this test. As Haddad testified, she never mentioned her MS to Howard, and she told him that she couldn't keep up with the loan processing because of the volume, not because of her MS. [D. 29 Ex. 1 at 40:11-41:15]. No request for accommodation happened at this meeting.
+Dr. Wray's letter also shows no genuine dispute. While it notes that Haddad has MS, it says merely that Haddad "will sometimes have to be out of work." [D. 22 Ex. 1 at 139]. There is no dispute that 21st Mortgage let Haddad take off [*8]  work when needed. And true, the note also says that Haddad "may need some consideration from time to time." [Id.] But an employee must propose a specific accommodation that is objectively reasonable. Tennial, 840 F.3d at 307. "Some consideration" falls far short of this burden.
+Haddad maintains that Dr. Wray's letter was enough, citing EEOC v. Sears, 417 F.3d 789 (7th Cir. 2005). "Where notice is ambiguous as to the precise nature of the disability or desired accommodation, but it is sufficient to notify the employer that the employee may have a disability that requires accommodation," the Sears court stated, "the employer must ask for clarification." Id. at 804. But this is not the law in the Sixth Circuit. In this Circuit, the plaintiff must first prove that she "proposed a reasonable accommodation." Rorrer v. City of Stow, 743 F.3d 1025, 1046 (6th Cir. 2014). The Wray letter does not do that.
+Still, Haddad contends that the Wray letter, combined with her follow-up with Howard, amounted to an accommodation request. But what little follow-up Haddad did was unrelated to her MS:
+Q. After the letter, did you ask for any considerations, as you are referring to that letter, due to your medical condition?
+A. Yes.
+Q. What was that?
+A. Extra time and a sole dealer.
+Q. Okay. And you told -- is it your testimony that you told Mr. [*9]  Howard you needed those because of your MS?
+A. I don't recall.
+[D. 22 Ex. 1 at 79:16-25]. As noted above, Haddad had told Howard earlier that she needed extra time and a sole dealer simply because she couldn't handle the workload, not because of her MS. No reasonable jury could conclude that Haddad asked Howard for an accommodation after he received the Wray letter.
+Finally, there is no genuine dispute that Haddad failed to request an accommodation from Williams. At the meeting, she told Williams only that she needed ADA accommodations. [D. 29 Ex. 1 at 230:8-24]. She did not propose an accommodation. Haddad never properly requested an accommodation claim from 21st Mortgage, so she has failed to state a prima facie case of failure to accommodate.
+
+3
+Finally, Haddad alleges that 21st Mortgage fired her in retaliation for requesting an accommodation, in violation of the ADA. The elements of her prima facie case are that
+• she engaged in activity protected by the ADA;
+• 21st Mortgage knew of that activity;
+• 21st Mortgage took an adverse employment action against her; and
+• there was a causal connection between the protected activity and the adverse action.
+Rorrer, 743 F.3d at 1046. 21st Mortgage says that it is challenging [*10]  the first, third, and fourth elements. But its argument does not address the third element. The Court will therefore consider only the first and fourth elements.
+No reasonable jury could find that Haddad engaged in activity protected by the ADA. Haddad contends that she engaged in protected activity by requesting an accommodation for her MS. But as shown above, she did not properly make a request. She has not satisfied the first element, so she has failed to state a prima facie case of retaliation. The Court will not consider whether Haddad has satisfied the fourth element.
+
+B
+Only Haddad's disability-discrimination claim survives the first McDonnel Douglas step. Under the second step, 21st Mortgage must show that it had a legitimate, nondiscriminatory reason for firing Haddad. Williams, 847 F.3d at 395. It alleges that it fired Haddad because her clerical oversights slowed the loan process, because clients had asked to not work with her, because she repeatedly made paperwork errors, and because she left early on her last day. "Poor performance is a legitimate non-discriminatory reason for terminating an employee." Stockman v. Oakcrest Dental Ctr, 480 F.3d 791, 802 (6th Cir. 2007). 21st Mortgage has satisfied its burden.
+
+C
+Finally, Haddad must show a genuine dispute about whether [*11]  21st Mortgage's reasons for firing her were pretextual. Williams, 847 F.3d at 395. She can demonstrate pretext by showing that 21st Mortgage's stated reasons had no basis in fact, did not actually motivate the decision to fire her, or were insufficient to warrant her termination. Ferrari v. Ford Motor Co., 826 F.3d 885, 895 (6th Cir. 2016). And regardless of which approach Haddad takes, she must show both that 21st Mortgage's stated reasons were not the real reasons for its action and that the real reason was unlawful. Ford Motor Co., 782 F.3d at 767. Haddad offers five bases to suggest pretext.
+Only the first and second arguments suggests pretext. First, there is reason to doubt 21st Mortgage's claim that it fired Haddad in part because she left early on her last day. There is no dispute that loan processors must stay late on the last day of the month, or that Haddad left before 7:00 p.m. on the last day of April 2013. But it is unclear whether Haddad was allowed to leave when she did. Howard testified, "Last day of the month we have it set standard to say don't plan on leaving before 7:00." [D. 22 Ex. 2 at 30:18-19]. Haddad, for her part, agreed that she had to stay late at the end of the month. [Id. Ex. 1 at 146:22-24]. Yet she also testified that if there were a lot of loans, the processors could [*12]  usually leave around 7:00; if few loans, 6:30. [Id. at 146:24-147:2]. Howard's and Haddad's testimonies do not contradict each other. A reasonable jury could find that the 7:00 p.m. quitting time was not a hard rule.
+A reasonable jury could also find that Haddad was allowed to leave when she did. According to Howard, he never told anyone they could leave early that evening. [D. 29 Ex. 6 at 31:1-9]. But according to Haddad, Howard walked past her desk and said "if you're done with your work, you can leave." [Id. Ex. 1 at 259:24-260:2]. This conflicting testimony—a literal "he said, she said"—is best left for the jury to judge. There is a genuine dispute about whether 21st Mortgage actually fired Haddad in part because she left early.
+Williams's comments during his meeting with Haddad also hint at pretext. As Haddad tells it, when she tried to explain her "tip of the tongue" syndrome to Williams, he exclaimed, "well, which is it Rita? Is it MS? Is it tip-of-the-tongue syndrome? What's your excuse now." [D. 29 Ex. 1 at 47:1-3]. And "discriminatory remarks, even by a nondecisionmaker, can serve as evidence of pretext." Risch v. Royal Oak Police Dep't, 581 F.3d 383, 393 (6th Cir. 2009). A reasonable jury could find Williams's comments discriminatory. They [*13]  are evidence of pretext.
+By contrast, 21st Mortgage's failure to engage in the interactive process does not show pretext. "Although mandatory, failure to engage in the interactive process is only an independent violation of the ADA if the plaintiff establishes a prima facie showing that [she] proposed a reasonable accommodation." Rorrer, 743 F.3d at 1041. As explained above, Haddad did not propose a reasonable accommodation. 21st Mortgage was under no duty to engage in the interactive process, and its failure to do so does not suggest pretext.
+Neither does 21st Mortgage's failure to follow its progressive-discipline policy. For one, a progressive-discipline policy is relevant to pretext only if it was not uniformly applied. See Lamer v. Metaldyne Co., 240 F. App'x 22, 33 (6th Cir. 2007). For another, the policy itself states that progressive discipline "can start at or skip any step." [D. 29 Ex. 2 at 2]. If 21st Mortgage failed to discipline Haddad progressively, it does not suggest pretext.
+Finally, Haddad's different treatment does not suggest pretext. She claims that she was treated differently in three ways: she was not trained to process Federal Housing Administration loans; she was not allowed to work with only one client; and if she left early, she was not called [*14]  back into work. But the record citations Haddad provides contain no evidence that other employees were allowed to work with only one client. And 21st Mortgage did not train Haddad on FHA loans because there were not enough of them to go around. [D. 29 Ex. 1 at 87:8-20, Ex. 6 at 14:10-24, 18:2-11]. Finally, at bottom, Haddad "offers no nonprotected comparators who were similarly situated to her, who did the same things, yet were allowed to stay on." Wilson v. Chipotle Mexican Grill, Inc., 580 F. App'x 395, 400 (6th Cir. 2014). Any different treatment Haddad received does not hint at pretext.
+
+III
+Haddad's state-law claims are barred by the statute of limitations, so they are dismissed. As for the ADA claims, Haddad has not stated a prima facie case of failure to accommodate or retaliation. Summary judgment for 21st Mortgage on these claims is GRANTED. But Haddad has stated a prima facie case of disability discrimination, and she has provided evidence that 21st Mortgage's stated reasons for firing her were pretextual. 21st Mortgage's motion on this claim is DENIED.
+IT IS SO ORDERED.
+/s/ Pamela L. Reeves
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

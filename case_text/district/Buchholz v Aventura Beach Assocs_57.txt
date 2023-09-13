@@ -1,0 +1,60 @@
+Buchholz v. Aventura Beach Assocs.
+United States District Court for the Southern District of Florida, Miami Division
+January 4, 2018, Decided; January 5, 2018, Entered on Docket
+Case Number: 17-23154-CIV-MORENO
+
+Reporter
+2018 U.S. Dist. LEXIS 2177 *
+HARVEY A. BUCHHOLZ, Plaintiff, vs. AVENTURA BEACH ASSOCIATES, LTD., a Florida Limited Partnership, d/b/a MARCO POLO BEACH RESORT, Defendant.
+Counsel:  [*1] For Harvey A. Buchholz, an Individual, Plaintiff: Ronald E. Stern, The Advocacy Law Firm, P.A., Hallandale Beach, FL.
+For Aventura Beach Associates, Ltd., a Florida Limited Partnership, doing business as Marco Polo Beach Resort, Defendant: Scott A. Bassman, Cole, Scott & Kissane, P.A., Ft. Lauderdale, FL.
+Judges: FEDERICO A. MORENO, UNITED STATES DISTRICT JUDGE.
+Opinion by: FEDERICO A. MORENO
+Opinion
+
+
+
+ORDER GRANTING DEFENDANT'S MOTION TO DISMISS
+Harvey A. Buchholz filed this action against Ramada Plaza Marco Polo Beach Resort for alleged violations of Title III of the Americans with Disabilities Act. He seeks injunctive relief, attorney's fees, and costs. Ramada Plaza subsequently filed a motion to dismiss for failure to state a claim upon which relief can be granted. For the reasons discussed below, Ramada Plaza's motion is GRANTED.
+
+I. Background
+
+A. Parties
+
+1. Harvey A. Buchholz
+Harvey Buchholz is blind and, therefore, qualifies as an individual with disabilities under the Americans with Disabilities Act. Buchholz advocates for the rights of disabled individuals by working as a tester to ensure that places of public accommodation comply with the Americans with Disabilities Act.
+
+2. Plaza Ramada Marco Polo Beach Resort
+Plaza [*2]  Ramada Marco Polo Beach Resort is a hotel and resort in Miami-Dade County. It qualifies as a public accommodation under the Americans with Disabilities Act. In conjunction with its physical hotel and resort, Ramada Plaza allegedly owns and operates a website located at www.marcopolobeachresort.com .
+
+B. Statement of Facts
+Due to his visual impairment, Buchholz cannot read materials on a computer or access and comprehend internet website information without the assistance of JAWS—a special software designed for the visually impaired. JAWS is a popular screen reader program for Microsoft Windows that allows visually impaired individuals to read the screen either with a text-to-speech output or by a refreshable Braille display. However, the screen reader function works only with websites that interface with the JAWS software.
+Buchholz claims that he has attempted to access Ramada Plaza's website but is unable to do so because Ramada Plaza's website does not interface with software utilized by the visually impaired. Specifically, Ramada Plaza's website contains "graphics, links, headings, functions, forms and text with information that is not fully readable and/or compatible with [screen reader [*3]  software]." (Compl. ¶ 10.)
+Buchholz further contends that Ramada Plaza's website "is a service, facility, privilege, advantage, benefit and accommodation of Defendant's place of accommodation." (Compl. ¶ 8.) Because he cannot access the website, Buchholz argues that Ramada Plaza is depriving him of the "full and equal enjoyment of the goods, services, facilities, privileges and/or accommodations available to the general public." (Compl. ¶ 14.) He contends that this violates Ramada Plaza's obligation under the Americans with Disabilities Act to "create and maintain a website that is accessible to and usable by visually impaired persons so that they can enjoy full and equal access to the website and content therein." (Compl. ¶ 9.)
+However, Buchholz does not allege that he has attempted to visit the Ramada Plaza hotel and beach resort, or that he intends to visit it in the future. Nor has he alleged that the website impedes his ability to access the physical hotel and resort.
+
+II. Discussion
+
+A. Motion to Dismiss Standard
+"To survive a motion to dismiss, plaintiffs must do more than merely state legal conclusions," instead plaintiffs must "allege some specific factual basis for those conclusions [*4]  or face dismissal of their claims." Jackson v. BellSouth Telecomms., 372 F.3d 1250, 1263 (11th Cir. 2004). When ruling on a motion to dismiss, a court must view the complaint in the light most favorable to the plaintiff and accept the plaintiff's well-pleaded facts as true. See St. Joseph's Hosp., Inc. v. Hosp. Corp. of Am., 795 F.2d 948, 953 (11th Cir. 1986). This tenet, however, does not apply to legal conclusions. See Ashcroft v. Iqbal, 556 U.S. 662, 129 S. Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009). Moreover, "[w]hile legal conclusions can provide the framework of a complaint, they must be supported by factual allegations." Id. at 1950. Those "[f]actual allegations must be enough to raise a right to relief above the speculative level on the assumption that all of the complaint's allegations are true." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 545, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). In short, the complaint must not merely allege misconduct, but must demonstrate that the pleader is entitled to relief. See Iqbal, 129 S. Ct. at 1950.
+
+B. Title III of the Americans with Disabilities Act
+Title III of the ADA states that "[n]o individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation." 42 U.S.C. § 12182(a). In order to state a claim under Title III, a plaintiff must allege: "(1) that [h]e is an individual with a disability; (2) that defendant is a place of public accommodation; and (3) that defendants denied h[im] full and [*5]  equal enjoyment of the goods, services, facilities or privileges offered by defendant (4) on the basis of h[is] disability." Schiavo ex rel Schindler v. Schiavo, 403 F.3d 1289, 1299 (11th Cir. 2005); see also Camarillo v. Carrols Corp., 518 F.3d 153, 156 (2d Cir. 2008); Molski v. M.J. Cable, Inc., 481 F.3d 724, 730 (9th Cir. 2007); Larsen v. Carnival Corp., Inc., 242 F. Supp. 2d 1333, 1342 (S.D. Fla. 2003).
+
+C. Analysis
+The primary issue is whether www.marcopolobeachresort.com qualifies as a "public accommodation" under the Americans with Disabilities Act. Multiple Courts in the Southern District of Florida have already confronted this issue and acknowledged that the "Courts are split on whether the ADA limits places of public accommodation to physical spaces." Gil v. Winn-Dixie Stores, Inc., 242 F. Supp. 3d 1315, 1319 (S.D. Fla. 2017) (Scola, J.); see also Haynes v. Interbond Corp. of Am., No. 17-CIV-61074, 2017 U.S. Dist. LEXIS 171644, 2017 WL 4863085, at *4 (S.D. Fla. Oct. 16, 2017) (Dimitrouleas, J.).
+Courts in the First, Second, and Seventh Circuits have held that the Americans with Disabilities Act applies to websites regardless of whether the website has any connection to a physical facility. See, e.g., Morgan v. Joint Admin. Bd., Retirement Plan of the Pillsbury, Co., and others, 268 F.3d 456, 459 (7th Cir. 2001) (citations omitted) ("An insurance company can no more refuse to sell a policy to a disabled person over the Internet than a furniture store can refuse to sell furniture to a disabled person who enters the store."); Nat'l Fed'n of the Blind v. Scribd Inc., 97 F. Supp. 3d 565, 576 (D. Vt. 2015) (website allowing consumers to access a digital library for a monthly fee is a place of public accommodation); [*6]  Nat'l Ass'n of the Deaf v. Netflix, Inc., 869 F. Supp. 2d 196, 202 (D. Mass. 2012) ("[Netflix's] Watch Instantly web site is a place of public accommodation and Defendant may not discriminate in the provision of the services of that public accommodation—streaming video—even if those services are accessed exclusively in the home."). These cases rely on the reasoning that "excluding businesses that sell services through the Internet from the [Americans with Disabilities Act] would 'run afoul of the purposes of the [Act] and would severely frustrate Congress's intent that individuals with disabilities fully enjoy the goods, services, privileges and advantages available indiscriminately to other members of the general public.'" Id. at 200 (citing Carparts Distribution Ctr., Inc. v. Auto. Wholesaler's Ass'n of New England, Inc., 37 F.3d 12, 20 (1st Cir. 1994)).
+Courts in the Ninth, Sixth, and Third Circuits have adopted a more limited application of the Act. They have concluded that only physical places qualify as public accommodations, and that the Act applies only if goods and services provided by a public accommodation have a sufficient nexus to a physical place. See, e.g., Earll v. eBay, Inc., 599 Fed. Appx. 695, 696 (9th Cir. 2015) ("Because eBay's services are not connected to any 'actual, physical place[ ],' eBay is not subject to the ADA."); Parker v. Metro. Life Ins. Co., 121 F.3d 1006, 1010-11 (6th Cir. 1997) ("[A] public accommodation is a physical place"); Ford v. Schering-Plough Corp., 145 F.3d 601, 614 (3rd Cir. 1998) ("[W]e do not find the term 'public accommodation' [*7]  ... to refer to non-physical access.").
+The Eleventh Circuit has not explicitly adopted either of these approaches, instead holding that "Title III covers both tangible barriers ... and intangible barriers . . . ." Rendon v. Valleycrest Productions, Ltd., 294 F.3d 1279, 1283 (11th Cir. 2002). However, the Rendon Court expressed support for courts that "require a nexus between the challenged service and the premises of the public accommodation." Gil, 242 F. Supp. 3d at 1320. Accordingly, "District courts within the Eleventh Circuit that have considered the question of whether websites are public accommodations have uniformly held that the ADA does not apply to a website that is wholly unconnected to a physical location." Id.; see also Haynes, 2017 U.S. Dist. LEXIS 171644, 2017 WL 4863085, at *5 ("[Rendon] does not establish that a virtual space like a website is necessarily covered, especially when the claimed denial of equal access is altogether unmoored from a physical space.").
+Applying that principle to this case, Buchholz has failed to sufficiently allege a nexus between Ramada Plaza's website and its physical facility. He does not allege that his inability to use and comprehend Ramada Plaza's website impeded his access to the Ramada Plaza hotel and resort. Indeed, he never alleges that he attempted to access or even intends to access the hotel. [*8]  As such, the Court must dismiss his complaint. Id. ("In the absence of allegations that Plaintiffs inability to use [Defendant's Website] impedes his access to one of Defendant's physical locations, the Amended Complaint must be dismissed."). However, as in Haynes, the Court will give Buchholz leave to file an amended complaint in which he may attempt to plausibly allege that www.marcopolobeachresort.com has impeded his access to the Ramada Plaza hotel and resort.
+
+III. Conclusion
+For the reasons discussed, it is ADJUDGED that Defendant's motion to dismiss is GRANTED. Plaintiff's complaint is DISMISSED without prejudice. Plaintiff shall have 14 days from the filing of this Order to file an amended complaint, consistent with this Order.
+DONE AND ORDERED in Chambers at Miami, Florida, this 5th of January 2018.
+/s/ Federico A. Moreno
+FEDERICO A. MORENO
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,30 @@
+Doyle v. Mount Vernon Co.
+United States District Court for the District of New Hampshire
+October 6, 2021, Decided; October 6, 2021, Filed
+Case No. 21-cv-111-PB
+
+Reporter
+2021 U.S. Dist. LEXIS 192801 *; 2021 DNH 159; 2021 WL 4593525
+Michael A. Doyle v. Mount Vernon Company d/b/a Constitution Apartments LLC
+Counsel:  [*1] Michael A. Doyle, Plaintiff, Pro se, Portsmouth, NH.
+For Constitution Apartments LLC, Mount Vernon Company, doing business as, Constitution Apartments LLC, Defendants: Kyle Patrick Griffin, Law Office of Kyle P. Griffin, Portsmouth, NH.
+Judges: Paul J. Barbadoro, United States District Judge.
+Opinion by: Paul J. Barbadoro
+Opinion
+
+
+
+ORDER
+Michael Doyle has filed an amended complaint asserting a claim under the Americans with Disabilities Act against "Mount Vernon Company d/b/a Constitution Apartments LLC." Doyle lives at the Veridian Apartment Complex in Portsmouth. He claims that Mount Vernon, as the owner of the complex, is violating the ADA by failing to accommodate his disability. Mount Vernon Company and Constitution Apartments LLC have filed motions to dismiss (Doc. Nos. 16, 19). Defendants assert that the complaints must be dismissed because: (1) Mount Vernon and Constitution Apartments are distinct corporate entities; (2) Mount Vernon is the property manager for the Veridian, and Constitution Apartments is the owner; and (3) Mount Vernon does not do business as Constitution Apartments.
+I cannot dismiss the complaint for the reasons defendants cite. Doyle alleges that Mount Vernon is the owner of the Veridian, and I must accept that factual claim [*2]  as true when ruling on the motions to dismiss. Doyle's ADA claim, however, appears to be defective for a related reason. Although Doyle asserts in a conclusory fashion that the Veridian is a "place of public accommodation," he does not allege any facts to support his contention. Privately owned apartment buildings are not places of public accommodation, "even where the property accepts tenants receiving federal housing subsidies." El v. People's Emergency Ctr., 315 F. Supp. 3d 837, 844 (E.D. Pa. 2018); see also Cook v. Doe, No. 21-CV-01720-JSC, 2021 U.S. Dist. LEXIS 113116, 2021 WL 2444959, at *2 (N.D. Cal. 2021); Reid v. Zackenbaum, 2005 U.S. Dist. LEXIS 17177, 2005 WL 1993394, at *4 (E.D.N.Y. 2004). Accordingly, I dismiss Doyle's complaint without prejudice because he has failed to allege a viable ADA claim against Mount Vernon.
+If Doyle elects to file a second amended complaint, he may not assert a claim under the ADA unless he is able to plead sufficient facts to support his claim that the Veridian is a place of public accommodation. Doyle may not assert that Mount Vernon Company is the owner of the Veridian in any amended complaint unless he has a good faith basis for making this contention, something that is unlikely given defendants' assertions that the Veridian is owned by Constitution Apartments. Any amended complaint must be filed within 14 days.
+I take no position as to whether Doyle can assert a viable claim against either Constitution [*3]  Apartments or Mount Vernon for a violation of the Fair Housing Act. Motions denied.
+SO ORDERED.
+/s/ Paul J. Barbadoro
+Paul J. Barbadoro
+United States District Judge
+October 6, 2021
+
+
+End of Document
+

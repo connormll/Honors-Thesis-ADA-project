@@ -1,0 +1,54 @@
+Tully-Boone v. N. Shore-Long Island Jewish Hosp. Sys.
+United States District Court for the Eastern District of New York
+August 11, 2010, Decided; August 11, 2010, Filed
+08-CV-2497 (ADS)(WDW)
+
+Reporter
+2010 U.S. Dist. LEXIS 164321 *
+CAROLYN TULLY-BOONE, Plaintiff, -against- NORTH SHORE-LONG ISLAND JEWISH HOSPITAL SYSTEM, GLEN COVE HOSPITAL, BARBARA BACKUS, CAROLYN MUELLER and GLORIA COHEN, Defendants.
+Prior History: Tully-Boone v. North Shore-Long Island Jewish Hosp. Sys., 588 F. Supp. 2d 419, 2008 U.S. Dist. LEXIS 101093 (E.D.N.Y., Dec. 6, 2008)
+Counsel:  [*1] For Plaintiff: Rick Ostrove, Esq., Matthew Scott Porges, Esq., Of Counsel, Leeds Morelli & Brown, Carle Place, NY.
+For the Defendants: Shaffin Abdul Datoo, Esq., Of Counsel, Venable LLP, Rockefeller Center, New York, NY.
+Judges: ARTHUR D. SPATT, United States District Judge.
+Opinion by: ARTHUR D. SPATT
+Opinion
+
+
+
+MEMORANDUM OF DECISION AND ORDER
+SPATT, District Judge.
+On May 3, 2010, the Court issued a decision granting in part and denying in part the Defendants' motion for summary judgment. Presently before the Court is the Defendants' motion for reconsideration of that decision. For the reasons discussed below, the Defendants' motion is denied.
+
+I. BACKGROUND
+Familiarity with the Court's prior decisions in this case is presumed. Nevertheless, a brief review of the Court's summary judgment decision is in order.
+The Court granted the Defendants' motion for summary judgment as to the Plaintiff's retaliation claim under the Americans With Disabilities Act, 42 U.S.C. § 12101 et seq. ("ADA"), and her claim that the Defendants interfered with her rights under the Family and Medical Leave Act, 29 U.S.C. § 2601 et seq. ("FMLA"). However, the Court denied the Defendants' motion as to the Plaintiff's: (1) discrimination claim under the ADA and New York Human Rights Law, New York Executive Law § 290, et seq. ("NYHRL");(2) [*2]  reasonable accommodation claim under the ADA; and (3) retaliation claims under the NYHRL and the FMLA. The Court's analysis of these various issues was extensive. However, there are only two issues discussed in the decision that are relevant to the instant motion.
+The Court determined that there was a triable issue of fact as to whether the Plaintiff is disabled under the ADA because there was evidence that she is substantially limited in her ability to care for herself. The Court explained that caring for oneself encompasses normal activities of daily living including driving, and noted that, in an affidavit accompanying her opposition papers, the Plaintiff represented that she had substantial problems driving. The Court also determined that a reasonable juror could find she was the victim of unlawful discrimination and retaliation where, after learning of her depression and her request for reasonable accommodation, the Defendants suspended the Plaintiff for one day, extended her orientation period, and refused to rehire her in a different position.
+The Defendants request reconsideration on the ground that the Plaintiff's allegation that she was unable to care for herself should not [*3]  have been considered because it was asserted for the first time in her summary judgment papers and was not supported by competent evidence. The Defendants also claim that the allegations regarding her suspension, the extension of her orientation period, and the refusal to rehire her should not have been considered because they were asserted for the first time in the Plaintiff's summary judgment papers.
+
+II. DISCUSSION
+
+A. Standard - Reconsideration
+A motion for reconsideration in the Eastern and Southern Districts of New York is governed by Local Civil Rule 6.3. In general, "[t]he standard for granting [a motion for reconsideration] is strict, and reconsideration will generally be denied unless the moving party can point to controlling decisions or data that the court overlooked-matters, in other words, that might reasonably be expected to alter the conclusion reached by the court." Shrader v. CSX Transp., Inc., 70 F.3d 255, 257 (2d Cir. 1995). Ultimately, the decision of whether to grant a motion for reconsideration rests within the sound discretion of the district court. Kapsis v. Bloom, 08-CV-3092, 2009 U.S. Dist. LEXIS 13367, 2009 WL 414001, at *1 (E.D.N.Y. Feb. 17, 2009).
+
+B. The Plaintiff's Evidence of Her Disability
+Citing Rule 56, the Court noted in its decision that summary judgment is not appropriate unless "the pleadings, the discovery, and [*4]  the disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(c) (emphasis added).
+In an affidavit accompanying her opposition papers, the Plaintiff claimed that she has substantial difficulty in driving. The Defendants appear to suggest that this allegation, standing alone, is insufficient to show that she is disabled within the meaning of the ADA. However, contrary to the Defendants' argument "[t]here is nothing in [the language of Rule 56] to suggest that nonmovants' affidavits alone cannot-as a matter of law-suffice to defend against a motion for summary judgment." Danzer v. Norden Systems, Inc., 151 F.3d 50, 57 (2d Cir. 1998). This is particularly true where, as here, the allegation in the affidavit finds support elsewhere in the record.
+Here, the record is clear that the Plaintiff was diagnosed with clinical depression and that she was taking medication for her condition that made her groggy. It is unsurprising, then, that the Plaintiff would have difficulty driving. In her deposition, the Plaintiff testified that during a discussion with Barbara Backus regarding the effects of her medication, she noted that her sister was driving her [*5]  to work. Tully-Boone Dep. 126:11-12. Carolyn Mueller's deposition testimony also reflects that she was aware that the Plaintiff was being driven to work. Mueller Dep. 19:14-15. Under the circumstances, it would have been inappropriate—and potentially a reversible error—for the Court not to consider the Plaintiff's allegation that she had substantial difficulty driving, in deciding whether the Plaintiff had a disability under the ADA.
+
+C. The "Newly" Alleged Adverse Employment Decisions
+The Plaintiff's suspension, the Defendants' decision to extend her orientation period, and their refusal to rehire her were referenced in the complaint. Pl. Compl. ¶¶ 26, 27, 35. Although the Plaintiff did not explicitly allege that these decisions were discriminatory or retaliatory, the Defendants cannot credibly claim that they were not put on notice that these decisions were relevant to her claims. The fact that the Plaintiff did not cite these adverse employment decisions in her deposition when asked about the basis for her discrimination and retaliation claims does not mean that the Court should have declined to consider them in deciding whether summary judgment was appropriate. Compare Catalano v. Lynbrook Glass & Architectural Metals Corp., No. 06-CV-2907, 2008 U.S. Dist. LEXIS 589, 2008 WL 64693, at *11-12 (E.D.N.Y. Jan. 4, 2008) (declining [*6]  to consider completely new theory of liability under the ADA that was first raised in opposition to the defendant's motion for summary judgment).
+Similarly unavailing is the Defendants' claim that these allegations are conclusory. In the employment discrimination context, "the only direct evidence available very often centers on what the defendant allegedly said or did." Danzer, 151 F.3d at 57 (citation omitted). Here, the Plaintiff emphasized that she suffered the alleged adverse employment decisions not long after she revealed her condition and requested reasonable accommodation. On the record before the Court, these allegations are sufficient to create a triable issue of fact.
+Because the Defendants have failed to raise any issues that the Court misapplied or overlooked, their motion for reconsideration is denied.
+
+III. CONCLUSION
+The Defendants' motion for reconsideration is DENIED.
+SO ORDERED.
+Dated: Central Islip, New York
+August 11, 2010
+/s/ Arthur D. Spatt
+ARTHUR D. SPATT
+United States District Judge
+
+
+End of Document
+

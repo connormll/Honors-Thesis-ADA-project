@@ -1,0 +1,33 @@
+Bell v. O'Reilly Auto Enters.
+United States District Court for the District of Maine
+November 5, 2021, Decided; November 5, 2021, Filed
+1:16-cv-00501-JDL
+
+Reporter
+2021 U.S. Dist. LEXIS 244882 *
+BRIAN BELL, Plaintiff, v. O'REILLY AUTO ENTERPRISES, LLC, d/b/a O'REILLY AUTO PARTS, Defendant.
+Prior History: Bell v. O'Reilly Auto Enters., LLC, 2018 U.S. Dist. LEXIS 65995, 2018 WL 1886491 (D. Me., Apr. 19, 2018)
+Counsel:  [*1] For BRIAN BELL, Plaintiff: CHAD T. HANSEN, LEAD ATTORNEY, MAINE EMPLOYEE RIGHTS GROUP, PORTLAND, ME.
+For O'REILLY AUTO ENTERPRISES LLC doing business as O'REILLY AUTO PARTS, Defendant: CHRISTOPHER C. TAINTOR, ROBERT W. BOWER, JR., LEAD ATTORNEY, NORMAN, HANSON & DETROY, PORTLAND, ME.
+Judges: Jon D. Levy, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: Jon D. Levy
+Opinion
+
+
+
+ORDER ON DEFENDANT'S MOTION FOR JUDGMENT AS A MATTER OF LAW
+At the close of Plaintiff Brian Bell's case-in-chief and again at the end of Defendant O'Reilly Auto Enterprises, LLC's ("O'Reilly Auto") case-in-chief, O'Reilly Auto moved for judgment as a matter of law. Federal Rule of Civil Procedure 50(a)(1) provides:
+If a party has been fully heard on an issue during a jury trial and the court finds that a reasonable jury would not have a legally sufficient evidentiary basis to find for the party on that issue, the court may . . . grant a motion for judgment as a matter of law against the party on a claim . . . that, under the controlling law, can be maintained or defeated only with a favorable finding on that issue.
+"[I]n entertaining a motion for judgment as a matter of law, the court should review all of the evidence in the record[,] . . . must draw all reasonable inferences in favor of the [*2]  nonmoving party, and . . . may not make credibility determinations or weigh the evidence." Reeves v. Sanderson Plumbing Prods., Inc., 530 U.S. 133, 150, 120 S. Ct. 2097, 147 L. Ed. 2d 105 (2000).
+O'Reilly Auto argues that no reasonable jury could find that Bell was a "qualified individual" under the Americans with Disabilities Act or the Maine Human Rights Act. A plaintiff's status as a qualified individual is a necessary element of a failure-to-accommodate claim under both statutes. See 42 U.S.C.A. § 12112(b)(5)(A) (West 2021); 5 M.R.S.A. § 4553(2)(E) (West 2021). "The term 'qualified individual' means an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C.A. § 12111(8) (West 2021); accord 5 M.R.S.A. § 4553(8-D).
+In support of its motion, O'Reilly Auto offers the following syllogism. Bell's expert witness, Dr. Charles Robinson, testified that Bell had severe major depression when he requested an accommodation. Dr. Robinson also testified that someone with that level of depression is, by definition, unable to work. O'Reilly Auto thus contends that Bell was not a qualified individual because his depression prevented him from performing the essential functions of his job, with or without a reasonable accommodation.
+But Dr. Robinson also testified that Bell could have done his job if O'Reilly Auto [*3]  had provided the requested accommodation: "[Bell] wasn't incapable of working, he was incapable of working under the conditions that [O'Reilly Auto] wanted him to work under. . . . [I]f there were nine-hour days and five-day weeks he could discharge his responsibilities . . . ." Dr. Robinson also agreed that Bell could have successfully returned to work if O'Reilly Auto had "worked with [Bell] in a positive way." Further, Bell himself testified that he and his psychiatric nurse practitioner, Judy Weitzel, agreed that he could return to work following a two-day break if O'Reilly Auto granted his accommodation request; he thought that returning to work would be "manageable" with those two days off and his requested accommodation; he believed that his requested accommodation would help his symptoms improve; and he was "getting ready to head to work" when his supervisor called and told him to stay home. Similarly, Weitzel testified that she and Bell "mutually agreed" that he could work 45 scheduled hours per week plus additional unscheduled hours, and she executed a Fitness for Duty form clearing Bell to return to work with that schedule.
+Drawing all reasonable inferences in favor of Bell [*4]  and without weighing the evidence, I conclude that there is a sufficient evidentiary basis for a reasonable jury to conclude that Bell was a qualified individual. Accordingly, Defendant O'Reilly Auto Enterprises, LLC's Motion for Judgment as a Matter of Law (ECF Nos. 229, 230) is DENIED.
+SO ORDERED.
+Dated this 5th day of November, 2021.
+/s/ Jon D. Levy
+CHIEF U.S. DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,92 @@
+Sincerny v. City of Walnut Creek
+United States District Court for the Northern District of California
+October 17, 2017, Decided; October 17, 2017, Filed
+Case No. 17-cv-02616-HSG
+
+Reporter
+2017 U.S. Dist. LEXIS 171935 *; 2017 WL 4642432
+PAUL ALFRED SINCERNY, Plaintiff, v. CITY OF WALNUT CREEK, et al., Defendants.
+Subsequent History: Motion granted by, in part, Motion denied by, in part, Stay granted by, Dismissed by, in part Sincerny v. City of Walnut Creek, 2018 U.S. Dist. LEXIS 54881 (N.D. Cal., Mar. 30, 2018)
+Dismissed by Sincerny v. City of Walnut Creek, 2018 U.S. Dist. LEXIS 98716 (N.D. Cal., June 12, 2018)
+Counsel:  [*1] For Paul Alfred Sincerny, Plaintiff: David M. Helbraun, LEAD ATTORNEY, Helbraun Law Firm, San Francisco, CA.
+For City of Walnut Creek, Ryan Hibbs Walnut Creek Police Sergeant, Lee Herrington Walnut Creek Police Officer, Adams Walnut Creek Police Officer, Ashley Roskos Walnut Creek Police Officer, Defendants: Noah G. Blechman, LEAD ATTORNEY, McNamara, Ney, Beatty, Slattery, Borges & Ambacher LLP, Pleasant Hill, CA; Amy S. Rothman, McNamara, Ney, Beatty, Slattery, Borges & Ambacher LLP, Pleasant Hill, CA.
+Judges: HAYWOOD S. GILLIAM, JR., United States District Judge.
+Opinion by: HAYWOOD S. GILLIAM, JR.
+Opinion
+
+
+
+ORDER GRANTING DEFENDANTS' MOTION TO DISMISS WITH LEAVE TO AMEND
+Re: Dkt. No. 17
+Pending before the Court is the motion to dismiss the Complaint, filed by Defendant City of Walnut Creek ("the City") and the Walnut Creek Police Department ("WCPD") Defendants: Sergeant Ryan Hibbs, Officer Lee Herrington, Officer Adams,1 and Officer Ashley Roos (collectively referred to as "Defendants"). Dkt. No. 17.2 For the reasons set forth below, the Court GRANTS the motion with LEAVE TO AMEND.
+
+I. BACKGROUND
+
+A. Factual Allegations
+On May 13, 2015, "one or more" of the WCPD Defendants stopped Plaintiff Paul Sincerny in downtown Walnut [*2]  Creek on suspicion of "peeping" on Rachel Smith3 while she was in a restroom at the Walnut Creek Public Library. Dkt. No. 1 ("Complaint" or "Compl.") ¶¶ 13-14. After the alleged peeping incident, Smith called the police and reported that she had been in the second-floor restroom of the library when it happened, that the suspect was in his late thirties to early forties, and that she had only been able to see the suspect's white baseball cap and brown eyes. Id. ¶ 14.
+Plaintiff alleges that police stopped him several blocks away from the library "because he was 'a subject matching the suspect description.'" Id. ¶ 16.4 Plaintiff is in his sixties, has blue eyes, and "always wears strong prescriptive eyeglasses." Id. ¶ 15. "He also has physical and neurological limitations, including diminished mental capacity, as a result of complications of brain surgery some years earlier." Id. Without comparing Plaintiff's appearance to Smith's description, police took two photos of Plaintiff using a cell phone and then sent those photos to Smith, who identified Plaintiff as the man who peeped on her. Id. ¶ 16. Plaintiff alleges that the photos Smith received showed his entire upper body, and did not [*3]  show him wearing his eyeglasses. Id. Police subsequently arrested Plaintiff. See id. ¶ 1, 13, 17, 21.
+Plaintiff explained to the arresting officer that "he was taking his daily walk along the Iron Horse Trail that day, that he did not go into the library, and that he did not commit the alleged crime." Id. ¶ 17. Police told Plaintiff that 'they had fingerprints' from 'the bathroom' at the library, or words to that effect." Id. Plaintiff "acknowledged that he occasionally uses the library restroom," not knowing that police had collected fingerprints from the "women's restroom on the second floor rather than either of the two men's restrooms on the first floor . . . ." Id. Plaintiff alleges that "the officer used [Plaintiff's] apparent confusion to report that [Plaintiff] was giving contradictory statements." Id. Plaintiff further alleges that police applied his handcuffs "painfully tight." Id. ¶ 21.
+A surveillance video, obtained from the library, later confirmed that Plaintiff had not been there that day. Id. ¶ 18. On January 12, 2016, the case against Plaintiff was dismissed. Id. ¶13.5 On April 25, 2016, the Superior Court entered an Order of Findings [*4]  of Factual Innocence in Plaintiff's favor. Id. Plaintiff alleges that the City "[has] received numerous complaints and [has] extensive additional information concerning use of excessive force and other acts of misconduct in violation of the rules and procedures of the City of Walnut Creek . . . ." Id. ¶ 23.
+
+B. Procedural Posture
+Plaintiff filed the Complaint on May 5, 2017. Dkt. No. 1. Defendants moved to dismiss the Complaint's second and third cause of action on August 25, 2017. Dkt. No. 17. Plaintiff filed his opposition on September 15, 2017, Dkt. No. 26, and Defendants replied on September 22, 2017, Dkt. No. 30.
+
+II. STANDARD OF REVIEW
+Federal Rule of Civil Procedure 8(a) requires that a complaint contain "a short and plain statement of the claim showing that the pleader is entitled to relief[.]" A defendant may move to dismiss a complaint for failing to state a claim upon which relief can be granted under Federal Rule of Civil Procedure 12(b)(6). "Dismissal under Rule 12(b)(6) is appropriate only where the complaint lacks a cognizable legal theory or sufficient facts to support a cognizable legal theory." Mendiondo v. Centinela Hosp. Med. Ctr., 521 F.3d 1097, 1104 (9th Cir. 2008). To survive a Rule 12(b)(6) motion, a plaintiff must plead "enough facts to state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). A claim is facially plausible when a plaintiff [*5]  pleads "factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009).
+In reviewing the plausibility of a complaint, courts "accept factual allegations in the complaint as true and construe the pleadings in the light most favorable to the nonmoving party." Manzarek v. St. Paul Fire & Marine Ins. Co., 519 F.3d 1025, 1031 (9th Cir. 2008). Nonetheless, Courts do not "accept as true allegations that are merely conclusory, unwarranted deductions of fact, or unreasonable inferences." In re Gilead Scis. Sec. Litig., 536 F.3d 1049, 1055 (9th Cir. 2008).
+If dismissal is appropriate under Rule 12(b)(6), a court "should grant leave to amend even if no request to amend the pleading was made, unless it determines that the pleading could not possibly be cured by the allegation of other facts." Lopez v. Smith, 203 F.3d 1122, 1130 (9th Cir. 2000) (quotation marks and citation omitted).
+
+III. DISCUSSION
+Defendants move to dismiss the second and third causes of action in Plaintiff's Complaint. The Court considers each argument in turn.
+
+A. Second Cause of Action: Monell Liability
+Plaintiff alleges that the City violated his civil rights pursuant to 42 U.S.C. § 1983 because, "as a matter of policy, practice and custom," it demonstrated "deliberate indifference" in both hiring the WCPD Defendants and in failing to adequately train and supervise them. Compl. ¶¶ 36-37. [*6] 
+
+1. The Monell Standard
+"A government entity may not be held liable under 42 U.S.C. § 1983, unless a policy, practice, or custom of the entity can be shown to be a moving force behind a violation of constitutional rights." Dougherty v. City of Covina, 654 F.3d 892, 900 (9th Cir. 2011) (citing Monell v Dep't of Soc. Servs. of N.Y.C., 436 U.S. 658, 690-91, 98 S. Ct. 2018, 56 L. Ed. 2d 611 (1978)). To prove such municipal liability-also called Monell liability—a plaintiff must show
+(1) that [the plaintiff] possessed a constitutional right of which [s]he was deprived; (2) that the municipality had a policy; (3) that this policy amounts to deliberate indifference to the plaintiff's constitutional right; and, (4) that the policy is the moving force behind the constitutional violation.
+Plumeau v. Sch. Dist. No. 40 Cnty. of Yamhill, 130 F.3d 432, 438 (9th Cir. 1997) (citation and internal quotation marks omitted). To adequately plead a Monell claim, a plaintiffs allegation "may not simply recite the elements of a cause of action, but [must] contain sufficient allegations of underlying facts" so as to provide the opposing party with fair notice so it can defend itself. AE ex rel. Hernandez v. Cnty. of Tulare, 666 F.3d 631, 637 (9th Cir. 2012) (quoting Starr v. Baca, 652 F.3d 1202, 1216 (9th Cir. 2011)).
+
+2. Plaintiff fails to adequately allege Monell Liability
+It is unclear exactly what Plaintiff is alleging and whether it provides a basis for Monell liability. His allegations, however, appear to fall into two categories: that the City has a custom of (1) using excessive [*7]  force during arrest and (2) employing unconstitutional suspect identification
+
+a. Excessive Force
+Plaintiff alleges that Defendants "have received numerous complaints and have extensive additional information concerning use of excessive force and other acts of misconduct in violation of the rules and procedures of' Walnut Creek. Compl. ¶ 23. He further alleges that Defendants, "as a matter of policy, practice, and custom, have with deliberate indifference failed to" adequately hire, train, and supervise WCPD officers. Id. ¶¶ 36-37.
+The allegation that the City had "received numerous complaints and [had] extensive additional information" concerning excessive force and other misconduct among the police force is not sufficient to allege a custom that acts as "a moving force behind a violation of constitutional rights." See Dougherty, 654 F.3d at 900. Plaintiff must also allege specific supporting facts. Asserting that the City has "received numerous complaints," and that therefore there necessarily must be an unspoken, City-sanctioned policy of excessive force, is insufficient to withstand a 12(b)(6) motion. Nor is it sufficient to assert—without more—that the City, "as a matter of policy, practice and custom" and [*8]  with "deliberate indifference," failed to adequately train, supervise or hire its employees. See Compl. 1136-37.
+
+b. Identification Procedures
+Plaintiff also alleges that the WCPD Defendants "took the irregular action of photographing Plaintiff using a cell phone and then sending the photographs" to Smith, the alleged victim. Id. ¶ 16.6 He argues that the WCPD Defendants' failure to "use proper law enforcement procedures for identification of misdemeanor suspects... is reasonably indicative of inadequate training and of a widespread custom and practice of deliberate indifference to lax identification procedures." Dkt. No. 26 at 8.
+To support this asset on, Plaintiff cites two Ninth Circuit cases: Fairley v. Luman, 281 F.3d 913 (9th Cir. 2002), and Jackson v. Barnes, 749 F.3d 755 (9th Cir. 2014). Dkt No. 26 at 8. Both are inapposite. First, in Fairley, the plaintiff presented testimony that the police chief had decided "not to instigate any procedures to alleviate the problem of detaining individuals on the wrong warrant," despite knowing "it was 'not uncommon' that individuals were arrested on the wrong warrant." 281 F.3d at 918. The court found this to be sufficient evidence of a policy of "inaction." Id. Here, Plaintiff has not pled the existence of a policy of inaction, nor has he [*9]  alleged evidence of an official decision leading to his alleged harm.
+Second, in Jackson, the court found that the pro se plaintiff had adequately pled that a sheriff's department had a policy of inaction with regard to administering Miranda warnings, "if only because he has made a critical factual allegation that render[ed] his complaint specific: that [the sheriff's deputy] has admitted that he routinely deprived suspects of Miranda warnings as a 'ploy' to elicit confessions." 749 F.3d at 763. Here, Plaintiff has made no such specific factual allegations.
+For these reasons, the Court dismisses Plaintiff's Second Cause of Action.
+
+B. Third Cause of Action: Violation of the ADA
+Plaintiff next brings suit under the ADA, alleging that Defendants "discriminated against Plaintiff, solely by reason of his disability," when the WCPD Defendants "detained, investigated, arrested, transported, and incarcerated [him] based upon his mental disability." Compl. ¶ 40.
+
+1. The ADA Standard
+The relevant provision of the ADA provides that "no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, [*10]  or be subjected to discrimination by any such entity." 42 U.S.C. § 12132 ("Title II"). "Only public entities are subject to Title II . . . ." City & Cnty. of S.F. v. Sheehan, 135 S. Ct. 1765, 1773, 191 L. Ed. 2d 856 (2015) (Sheehan II). To prove disability under the ADA, a plaintiff must show that he has
+(A) a physical or mental impairment that substantially limits one or more of the major life activities of such individual; (B) a record of such an impairment; or (C) [is] regarded as having such an impairment.
+See Bresaz v. Cnty. of Santa Clara, 136 F. Supp. 3d 1125, 1132 (N.D. Cal. 2015) (quoting 42 U.S.C. § 12102(1)). Where "a party alleges that he or she is disabled under the ADA, courts have generally required the party to plead the disability with some factual specificity." Id. at 1135-36; see also id. at 1136 ("[A] successful plaintiff will usually allege that he or she suffered from a specific, recognized mental or physical illness."). "A plaintiff additionally must specify what major life activities his disability limits " Alejandro v. ST Micro Elecs., Inc., 129 F. Supp. 3d 898, 907-08 (N.D. Cal. 2015).
+Although the Supreme Court recently declined to address whether the ADA applies to arrests, see Sheehan II, 135 S. Ct. at 1773, the Ninth Circuit has recognized "at least two types of Title II claims applicable to arrests":
+(1) wrongful arrest, where police wrongly arrest someone with a disability because they misperceive the effects of that disability as criminal activity; and (2) reasonable accommodation, [*11]  where, although police properly investigate and arrest a person with a disability for a crime unrelated to that disability, they fail to reasonably accommodate the person's disability in the course of investigation or arrest, causing the person to suffer greater injury or indignity in that process than other arrestees.
+Sheehan v. City & Cnty. of S.F., 743 F.3d 1211, 1232 (9th Cir. 2014) ("Sheehan I") (citations omitted), rev'd in part on other grounds Sheehan II, 135 S. Ct. 1765, 191 L. Ed. 2d 856.
+To prevail on a wrongful arrest theory under the ADA, a disabled individual must show that "1) he was disabled; 2) the officers knew or should have known he was disabled; and 3) the officers arrested him because of legal conduct related to his disability." Lawman v. City & Cnty. of S.F., 159 F. Supp. 3d 1130, 1147 (N.D. Cal. 2016). To prevail on a reasonable accommodation theory, a disabled individual must show that the public entity in question "[had] knowledge that the individual was disabled, either because that disability is obvious or because the individual (or someone else) has informed the entity of the disability." Id. at 1149 (quoting Robertson v. Las Animas Cnty. Sheriff's Dep't, 500 F.3d 1185, 1196 (9th Cir. 2007)).
+2. Plaintiff fails to adequately allege disability under the ADA
+As an initial matter, Plaintiffs ADA cause of action against the WCPD Defendants fails because they are not a "public entity." See Sheehan II, 135 S. Ct. at 1773.
+As to the ADA claim that remains against the City, [*12]  Plaintiff has failed to adequately allege his disability with the requisite "factual specificity," see Bresaz, 136 F. Supp. 3d at 1135-36, precluding any wrongful arrest or reasonable accommodation arguments. His sole substantive allegation regarding his disability is his claim that he "has physical and neurological limitations, including diminished mental capacity, as a result of complications of brain surgery some years earlier." Compl. ¶ 15; see also id. ¶¶ 17 (referencing Plaintiffs "diminished mental capacity"), 41 (referencing Plaintiffs "mental disability"). Plaintiff does not allege the existence of any "specific, recognized mental" illness. See Bresaz, 136 F. Supp. 3d at 1136. Nor does he "specify what major life activities his disability limits " See Alejandro, 129 F. Supp. 3d at 907-08. Plaintiff does provide some additional detail regarding his alleged disability in his opposition. See Dkt. No. 26 at 3 (detailing Plaintiffs "diminished mental capacity" due to brain surgery for hydrocephalus), 9 (alleging that Plaintiff has a "clogged shunt" and physical limitations as a result of brain surgery). But, because Plaintiff did not plead those facts, the Court does not consider them here.
+Because Plaintiff has failed to adequately plead a disability under the ADA, the Court need [*13]  not reach the application of Title II to his arrest, and accordingly dismisses the Third Cause of Action.
+
+C. Leave to Amend
+The Court will grant leave to amend "unless it determines that the pleading could not possibly be cured by the allegation of other facts." Lopez, 203 F.3d at 1130 (citation omitted). Here, Plaintiff made clear in his opposition that he has additional facts that he could plead. See, e.g., Dkt. No. 26 at 2, 3, 7, 9. The Court is unpersuaded by Defendants' conclusory assertions that Plaintiffs claims cannot be cured by leave to amend, see Dkt. No. 17 at 9, 15, given the Ninth Circuit's clear direction on this point. Thus, in keeping with Federal Rule of Civil Procedure 15(a)'s mandate that leave be freely given, the Court grants Plaintiff leave to amend.
+
+IV. CONCLUSION
+For the foregoing reasons, the Court DISMISSES Plaintiff's Complaint as to the second and third causes of action with LEAVE TO AMEND. The parties are ORDERED to appear at a case management conference on October 31, 2017 at 2:00 p.m., in order to discuss the deadline for the amended complaint and other case management matters. The parties shall submit a joint case management statement by October 24, 2017.
+IT IS SO ORDERED.
+Dated: 10/17/2017
+/s/ Haywood S. Gilliam, [*14]  Jr.
+HAYWOOD S. GILLIAM, JR.
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,85 @@
+Rice v. HAR-CO Credit Union
+United States District Court for the District of Maryland
+September 17, 2014, Decided; September 17, 2014, Filed
+Civil Action No. RDB-13-3368
+
+Reporter
+2014 U.S. Dist. LEXIS 130173 *; 30 Am. Disabilities Cas. (BNA) 1534; 2014 WL 4686669
+TANYA RICE, Plaintiff, v. HAR-CO CREDIT UNION, Defendant.
+Counsel:  [*1] For Tanya Rice, Plaintiff: Donna M B King, LEAD ATTORNEY, Law Office of Donna M B King LLC, Towson, MD.
+For Har-Co Credit Union, Defendant: Craig F Ballew, LEAD ATTORNEY, Ferguson Schetelich and Ballew PA, Baltimore, MD.
+Judges: Richard D. Bennett, United States District Judge.
+Opinion by: Richard D. Bennett
+Opinion
+
+
+
+MEMORANDUM OPINION
+Plaintiff Tanya Rice ("Plaintiff" or "Rice") has filed the currently pending action against Defendant HAR-CO Credit Union ("HAR-CO") in which she alleges a violation of the Americans with Disabilities Act, 42 U.S.C. § 12101 et seq., arising out of the termination of her employment. Specifically, Plaintiff alleges that HAR-CO fired her after refusing to provide her with a reasonable accommodation in the form of additional unpaid leave days for medical treatment. HAR-CO has filed a Motion for Sumary Judgment (ECF No. 9), arguing that Plaintiff failed to provide requested documentation regarding her disability and that the reason for her termination was her failure to comply with that request. The Motion for Summary Judgment is now fully briefed. The parties' submissions have been reviewed and no hearing is necessary. See Local Rule 105.6 (D. Md. 2014). For the reasons that follow, Defendant HAR-CO Credit Union's Motion for Summary [*2]  Judgment (ECF No. 9) is GRANTED. Additionally, Defendant's Motion to Replace Summary Judgment Exhibit 3 (ECF No. 15) is GRANTED.
+
+BACKGROUND
+This Court reviews the facts and all reasonable inferences in the light most favorable to the nonmoving party. Scott v. Harris, 550 U.S. 372, 378, 127 S. Ct. 1769, 167 L. Ed. 2d 686 (2007); see also Hardwick ex rel. Hardwick v. Heyward, 711 F.3d 426, 433 (4th Cir. 2013).
+Plaintiff Tanya Rice ("Plaintiff" or "Rice") was an employee of Defendant HAR-CO Credit Union ("HAR-CO"). Plaintiff began experiencing headaches, nausea, loss of balance and memory, and other issues in April of 2012. Due to her medical conditions, she was hospitalized on several occasions during the summer of 2012; specifically, she was hospitalized for the following periods or days: (1) June 19 to June 21; (2) June 25; and (3) June 30 to July 4. In the interim periods, Plaintiff asserts that she was unable to work due to her "ongoing symptoms and heavy medication." Pl.'s Opp'n 1, ECF No. 10. Plaintiff also states that her condition was originally misdiagnosed, but that her doctors eventually identified Occipital Neuralgia and Gastritis as the causes of her illness. Plaintiff further alleges that she notified HAR-CO of her absences and that she had exhausted all of her paid time off by July 4, 2012. Plaintiff, however, remained [*3]  absent from work, claiming that she was under heavy medication and was unable to "function in a work capacity." Id. 4.
+On July 16, 2012, Plaintiff and some of her supervisors at HAR-CO discussed Plaintiff's medical condition and her absences from work. During Plaintiff's employment, HAR-CO had an attendance policy that included the following provisions:
+
+Attendance Policy
+In order to maintain adequate staffing, employees are expected to fulfill their work schedules. Each employee is hired to perform a specific job. At the time of hire, it is made clear that we need each employee every day. . . . An unsatisfactory attendance record, frequent lateness, and long lunch breaks may be cause for disciplinary action. Continued unsatisfactory attendance may be cause for dismissal.
+
+Unscheduled Absences
+1. An unscheduled absence is defined as an absence from work for which permission to be absent from a scheduled day of work has not been requested and received at least 24 hours in advance; or leaving work without proper notification to and approval from your supervisor.
+NOTE: If an absence continues for more than one consecutively scheduled day, and the employee properly notifies the branch, the employee [*4]  will not be subject to another unscheduled absence assessment. PTO will be applied to all absences.
+2. For purposes of this Policy, permission to be absent from work will be granted if properly requested for the following reasons:
+a. Scheduled and Approved Vacation or Personal Leave
+b. Family and Medical Leave Act (FMLA)
+c. Military Leave
+d. Jury Duty
+e. Funeral Leave
+f. Scheduled and Approved Leave of Absence
+3. Provided that the employee provides proper notification either in advance or as soon as practicable under the circumstances, any absence that qualifies under FMLA will not be considered as an unexcused absence.
+4. A doctor's note may be required if an employee is out on an unscheduled absence for three (3) consecutive business days.
+5. Employees must use all PTO time before going unpaid for any absence.
+
+Corrective Action
+. . .
+> An employee accumulating seven unscheduled absences within a calendar year will be subject to termination of employment.
+. . .
+
+No Call/No Show
+Employees who fail to notify the facility of an absence from work (no call/no show) will be assessed a one day unpaid suspension. A second offense within a calendar year will result in a 5 day unpaid suspension. A third offense [*5]  will lead to termination of employment. Any 3 consecutive days of no call/no show will be deemed a voluntary resignation from employment. Absent extraordinary circumstances, employees who miss work for an FMLA qualifying reason are nevertheless expected to notify the branch. Failure to do so may give rise to corrective action as set forth above.
+Def.'s Mem. Supp. Mot. Summ. J. Ex. 2, ECF No. 9-3.
+Plaintiff requested additional days off on an unpaid basis for further medical appointments. The request was denied, and Plaintiff alleges that the HAR-CO supervisors issued her an "ultimatum" that she must either obtain a completed short term disability form with a certification from a doctor or return to work.1 See Pl.'s Compl. ¶ 5; Pl.'s Opp'n 3. Plaintiff further alleges that her supervisors only informed her that permission for additional absences (rather than her continued employment with HAR-CO) was conditional upon HAR-CO's receipt of the certification form.2 See Pl.'s Opp'n 3. Plaintiff provided HAR-CO with copies of her medical records but she was unable to obtain the doctor's certification.
+Plaintiff returned to work on July 18, 2012. After again indicating that she would require additional days off, Plaintiff's employment was terminated on August 2, 2012. The stated reason for her termination was violation of HAR-CO's attendance policy due to missed days of work between July 5 and July 13, 2012.
+Plaintiff originally filed this one count Complaint in the Circuit Court for Harford County specifically alleging a violation of the Americans with Disabilities Act. HAR-CO removed the action to this Court based upon federal question jurisdiction pursuant to 28 U.S.C. § 1331. HAR-CO then filed the pending Motion for Summary Judgment (ECF No. 9) and subsequently filed the pending Motion to Replace Summary Judgment Exhibit 3 (ECF No. 15) after Plaintiff pointed out that HAR-CO had filed exhibits containing some of her personal information.
+
+STANDARD OF REVIEW
+Rule 56 of the Federal Rules of Civil Procedure provides that a court "shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant [*7]  is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(c). A material fact is one that "might affect the outcome of the suit under the governing law." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). A genuine issue over a material fact exists "if the evidence is such that a reasonable jury could return a verdict for the nonmoving party." Id. In considering a motion for summary judgment, a judge's function is limited to determining whether sufficient evidence exists on a claimed factual dispute to warrant submission of the matter to a jury for resolution at trial. Id. at 249.
+In undertaking this inquiry, this Court must consider the facts and all reasonable inferences in the light most favorable to the nonmoving party. Scott v. Harris, 550 U.S. 372, 378, 127 S. Ct. 1769, 167 L. Ed. 2d 686 (2007). However, this Court must also abide by its affirmative obligation to prevent factually unsupported claims and defenses from going to trial. Drewitt v. Pratt, 999 F.2d 774, 778-79 (4th Cir. 1993). If the evidence presented by the nonmoving party is merely colorable, or is not significantly probative, summary judgment must be granted. Anderson, 477 U.S. at 249-50. On the other hand, a party opposing summary judgment must "do more than simply show that there is some metaphysical doubt as to the material facts." Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 586, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986); see also In re Apex Express Corp., 190 F.3d 624, 633 (4th Cir. 1999). This Court has previously explained that a "party cannot create a genuine dispute of material [*8]  fact through mere speculation or compilation of inferences." Shin v. Shalala, 166 F. Supp. 2d 373, 375 (D. Md. 2001) (citations omitted).
+
+ANALYSIS
+Title I of the Americans with Disabilities Act prohibits discrimination by employers against qualified individuals "on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). In this context, discrimination includes the denial of employment opportunities to "an otherwise qualified individual with a disability, if such denial is based on the need of [the employer] to make reasonable accommodation to the physical or mental impairments of the employee."3 Id. § 12112(b)(5)(B).
+In a wrongful discharge case such as this, the Court applies the analytical framework of McDonnell Douglas Corp v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). Specifically, the plaintiff must first prove a prima facie case of employment discrimination, which requires the plaintiff to show (1) the plaintiff has a disability; (2) the plaintiff [*9]  was otherwise qualified for the position; and (3) the "discharge occurred under circumstances that raise a reasonable inference of unlawful discrimination." Haulbrook v. Michelin N. Am. Inc., 252 F.3d 696, 702 (4th Cir. 2001). If the plaintiff is able to make this prima facie showing, then the defendant has the opportunity to present a legitimate, nondiscriminatory explanation for the discharge; the burden then reverts to the plaintiff to show that the employer's stated reason was pretextual. See Ahmed v. Salvation Army, Civ. A. No. CCB-12-707, 2012 U.S. Dist. LEXIS 183099, 2012 WL 6761596, at *9 (D. Md. Dec. 28, 2012).
+The main issue in this case is whether Plaintiff has succeeded in making a prima facie case of employment discrimination where Plaintiff has failed to provide documentation stating that her illness prevented her from working during the days she was not admitted to the hospital but absent from work.4 Under the ADA Regulations, an employer may make an informal inquiry in order to determine the proper scope of accommodation for a disabled employee. See 29 C.F.R. § 1630.2(o)(3) ("To determine the appropriate reasonable accommodation it may be necessary for the covered entity to initiate an informal, interactive process with the individual with a disability in need of the accommodation. This process should identify the precise limitations [*10]  resulting from the disability and potential reasonable accommodations that could overcome those limitations."). This Court has previously interpreted this regulation so as to permit employers to request documentation from employees, and it has held that failure to provide such documentation constitutes a failure to participate in this investigatory process that bars an employer's liability for failure to accommodate. See Berkner v. Blank, Civ. A. No. DKC-12-1390, 2013 U.S. Dist. LEXIS 34320, 2013 WL 951562, at *7 (D. Md. Mar. 11, 2013); see also Ahmed, 2012 U.S. Dist. LEXIS 183099, 2012 WL 6761596, at *9 (holding that plaintiff's discharge was due to her failure to complete certification forms relating to unexcused absences rather than impermissible disability discrimination).5
+In this case, the undisputed facts show that HAR-CO's termination decision was based on Plaintiff's unexcused absences for which she had failed to provide requested documentation. Accordingly, the evidence bars any inference that Plaintiff's discharge arose out of unlawful disability discrimination.
+Plaintiff attempts to avoid this inevitable conclusion by arguing that her supervisors did not expressly tie the requirement of obtaining documentation to Plaintiff's continued employment at HAR-CO. However, Plaintiff has alleged that employees of HAR-CO issued an "ultimatum" requiring her to produce documentation for continued absences.6 Moreover, HAR-CO's attendance policy states that termination is one potential "corrective [*12]  action" for unscheduled absences. Thus, even if Plaintiff was not warned that termination could be the result of her failure to obtain the requested certification form, there was no question what was at stake and it is entirely clear that Plaintiff understood the situation to be a grave one.
+Finally, Plaintiff also argues that HAR-CO should be estopped from disputing that she was disabled; specifically, Plaintiff asserts that HAR-CO applied for and was granted disability benefits from its disability carrier, Sunlife Financial, for the five work days from July 5 to July 13, 2012.7 Plaintiff's argument with respect to disability insurance coverage misses the mark. HAR-CO's motion focuses on the reason for Plaintiff's termination and Plaintiff's failure to comply with HAR-CO's request for documentation in its effort to determine the reasonableness of Plaintiff's requested accommodation. Thus, the disability insurance claim is irrelevant to this Court's analysis.
+
+CONCLUSION
+For the reasons [*13]  stated above, Defendant HAR-CO Credit Union's Motion for Summary Judgment (ECF No. 9) is GRANTED. Additionally, Defendant's Motion to Replace Summary Judgment Exhibit 3 (ECF No. 15) is GRANTED because that Exhibit contains Plaintiff's personal information.
+A separate Order follows.
+Dated: September 17, 2014
+/s/ Richard D. BennettRichard D. Bennett
+United States District Judge
+
+ORDER AND JUDGMENT
+For the reasons stated in the foregoing Memorandum Opinion, it is this 17th day of September, 2014, ORDERED and ADJUDGED, that:
+1. Defendant HAR-CO Credit Union's Motion for Summary Judgment (ECF No. 9) is GRANTED;
+2. Defendant Har-Co Credit Union's Motion to Replace Summary Judgment Exhibit 3 (ECF No. 15) is GRANTED;
+3. That judgment BE, and it hereby IS, entered in favor of the Defendant and against the Plaintiff;
+4. The Clerk of the Court transmit copies of this Order and accompanying Memorandum Opinion to the parties; and
+5. The Clerk of Court CLOSE this case.
+/s/ Richard D. BennettRichard D. Bennett
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,54 @@
+Garcia v. Union Pac. R.R. Co.
+United States District Court for the District of Oregon
+June 24, 2016, Decided; June 24, 2016, Filed
+Case No. 3:16-cv-00390-SB
+
+Reporter
+2016 U.S. Dist. LEXIS 106934 *
+RAUL GARCIA, Plaintiff, v. UNION PACIFIC RAILROAD COMPANY, a Delaware corporation, and JERRALD MOORE, Defendants.
+Subsequent History: Adopted by, Dismissed by, in part, Dismissed without prejudice by, in part Garcia v. Union Pac. R.R. Co., 2016 U.S. Dist. LEXIS 106759 (D. Or., Aug. 10, 2016)
+Magistrate's recommendation at Garcia v. Union Pac. R.R. Co., 2017 U.S. Dist. LEXIS 149308 (D. Or., July 27, 2017)
+Counsel:  [*1] For Raul Garcia, Plaintiff: Paul S. Bovarnick, LEAD ATTORNEY, Rose Senders and Bovarnick LLP, Portland, OR.
+For Union Pacific Railroad Company, a Delaware Corporation, Jerrald Moore, Defendants: Shane P. Swilley, Timothy J. Coleman, LEAD ATTORNEYS, Cosgrave Vergeer Kester, LLP, Portland, OR.
+Judges: STACIE F. BECKERMAN, United States Magistrate Judge.
+Opinion by: STACIE F. BECKERMAN
+Opinion
+
+
+
+FINDINGS AND RECOMMENDATION
+BECKERMAN, Magistrate Judge.
+Raul Garcia ("Plaintiff") brings this action against Union Pacific Railroad Company ("Union Pacific") and Jerrald Moore (collectively, "Defendants"), his former employer and supervisor, respectively, alleging claims for perceived disability discrimination under Oregon Revised Statutes ("ORS") § 659A.112, failure to accommodate a perceived disability under ORS § 659A.112, and national origin discrimination under ORS § 659A.030. Defendants now move to dismiss defendant Moore from this action, and to dismiss Plaintiff's claims for failure to accommodate a perceived disability, and for national origin discrimination. See Fed. R. Civ. P. 12(b)(6). The Court has jurisdiction over Plaintiff's employment claims pursuant to 28 U.S.C. § 1332(a). For the reasons that follow, the Court recommends that the district judge grant Defendants' motion to dismiss (ECF No. [*2]  7).1
+
+LEGAL STANDARDS
+The Ninth Circuit has "held that dismissal for failure to state a claim is 'proper only where there is no cognizable legal theory or an absence of sufficient facts alleged to support a cognizable legal theory.'" Shroyer v. New Cingular Wireless Servs.., 622 F.3d 1035, 1041 (9th Cir. 2010) (quoting Navarro v. Block, 250 F.3d 729, 732 (9th Cir. 2001)). In evaluating the sufficiency of a complaint's factual allegations, courts must "accept as true all well-pleaded allegations of material fact, and construe them in the light most favorable to the non-moving party." Daniels-Hall v. Nat'l Educ. Ass'n, 629 F.3d 992, 998 (9th Cir. 2010) (citation omitted). Courts "are not, however, required to accept as true allegations that contradict exhibits attached to the complaint or matters properly subject to judicial notice, or allegations that are merely conclusory, unwarranted deductions of fact, or unreasonable inferences." Id. Nor are courts required to accept as true allegations that simply [*3]  recite the elements of a cause of action. Starr v. Baca, 652 F.3d 1202, 1216 (9th Cir. 2011). Ultimately, surviving a motion to dismiss requires that the complaint "contain sufficient allegations of underlying facts to give fair notice and to enable the opposing party to defend itself effectively," and "the factual allegations that are taken as true must plausibly suggest an entitlement to relief, such that it is not unfair to require the opposing party to be subjected to the expense of discovery and continued litigation." Id.
+
+DISCUSSION
+
+A. Defendant Moore
+Defendants move to dismiss Moore from this lawsuit on the grounds that: (1) Plaintiff has failed to plead a plausible claim for relief against Moore, and (2) ORS §§ 659A.030 and 659A.112 do not provide causes of action against individual supervisors, as opposed to employers. See Or. Rev. Stat. § 659A.001(4)(a) ("Employer means any person who in this state, directly or through an agent, engages or uses the personal service of one or more employees, reserving the right to control the means by which such service is or will be performed."); see also Ballinger v. Klamath Pac. Corp., 135 Or. App. 438, 452, 898 P.2d 232 (Or. Ct. App. 1995) (finding that, under ORS § 659A, "[a]lthough [defendants] were authorized to supervise plaintiffs . . . , the authority to 'control' these plaintiffs was not 'reserv[ed]' to them"). In his response brief, Plaintiff concedes [*4]  that Moore should be dismissed from this lawsuit. (See Pl.'s Resp. 2.) Accordingly, the Court recommends that the district judge grant Defendants' motion to dismiss defendant Moore.
+
+B. Second and Fourth Claims for Relief—Failure to Accommodate a Perceived Disability
+Plaintiff alleges that Union Pacific discriminated against him on the basis of a perceived disability, that Union Pacific failed to accommodate that perceived disability, and that Union Pacific failed to accommodate the perceived disability because of Plaintiff's national origin, all in violation of ORS § 659A.112.2 (First Am. Compl. ¶ 22.) Importantly, Plaintiff asserts that Union Pacific believed that "Plaintiff might suffer from a disease or illness that might cause Plaintiff to suddenly lose consciousness while on the job in the future" (First Am. Compl. ¶ 3) (emphasis added), but Plaintiff asserts that he is not disabled, and that he "suffers from no disease or illness that has or will cause him to suddenly lose consciousness, nor is Plaintiff substantially limited in any major life activity as a result of any physical or mental impairment." (First Am. Compl. ¶ 6.)
+Plaintiff's second and fourth claims for relief are premised on Union Pacific's failure to accommodate Plaintiff's perceived disability. However, an "employer is under no obligation to provide reasonable accommodations to an employee who is not actually disabled, but is merely regarded by his employer as [being] disabled." Pickens v. Shinseki, No. 09-704-KI, 2011 WL 2011478, at *2 (D. Or. May 23, 2011) (citing Kaplan v. City of N. Las Vegas, 323 F.3d 1226, 1232 (9th Cir. 2003) (addressing the Americans with Disabilities Act of 1990, or "ADA")); see also Ambrose v. J.B. Hunt Transp., Inc., No. 12-1740-HU, 2014 U.S. Dist. LEXIS 18361, 2014 WL 585376, at *12 (D. Or. Feb. 13, 2014) (explaining that ORS § 659A.112 is construed in a manner consistent with the ADA). Accordingly, the district judge should dismiss Plaintiff's second and fourth claims for relief.
+
+C. Third Claim for Relief—National Origin Discrimination
+In his third claim for relief, Plaintiff alleges that Union Pacific discriminated against him on the basis of his Hispanic national origin, in violation of ORS § 659A.030(1)(a).3 Plaintiff has not pled any facts in support of his national origin discrimination claim. (See [*6]  First Am. Compl. ¶ 3, "On or about August, 2014, Defendant terminated Plaintiff from his employment because it was dissatisfied with Plaintiff's work and due to his ethnicity."); (First Am. Compl. ¶ 17, "Defendant Union Pacific's termination of Plaintiff's employment was due [to] Defendants' bias against Plaintiff due to his national origin.") Plaintiff's allegations are merely conclusory, and need not be accepted as true. See Daniels-Hall, 629 F.3d at 998; see also Ashcroft v. Iqbal, 556 U.S. 662, 663, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) ("'[D]etailed factual allegations' are not required, but the Rule does call for sufficient factual matter, accepted as true, 'to state a claim that is plausible on its face.'") (citation omitted); Briah v. Doe, 3:15-cv-0403-AC, 2015 U.S. Dist. LEXIS 175783, 2015 WL 9948210, at *2 (D. Or. Dec. 22, 2015) (granting defendants' motion to dismiss national origin discrimination claim, because the plaintiff's "claim cannot proceed without factual allegations"). As a result, the district judge should also dismiss Plaintiff's third claim for relief.
+
+D. Leave to Amend
+The question remains whether the court should grant Plaintiff leave to amend his second, third, and fourth claims for relief. A "district court may [*7]  deny a plaintiff leave to amend if it determines that allegation of other facts consistent with the challenged pleading could not possibly cure the deficiency." Telesaurus VPC, LLC v. Power, 623 F.3d 998, 1003 (9th Cir. 2010) (citation and quotation marks omitted). Importantly, a plaintiff must possess a good faith factual basis for alleging the facts necessary to cure the deficiency, in order to comply with Rule 11. See Johnson v. Hologic, Inc., No. 14-794, 2014 U.S. Dist. LEXIS 79665, 2014 WL 2581421, at *5 n.6 (E.D. Cal. June 9, 2014) ("Plaintiff is cautioned that if she chooses to file an amended complaint, she must have a good faith factual basis for the allegations asserted in that pleading.").
+The Court recommends that the district judge deny Plaintiff leave to amend his claims for failure to accommodate a perceived disability (claims two and four), because Plaintiff acknowledges he does not suffer from a disability within the meaning of ORS § 659A.104(1)(a), which necessarily defeats any claim for failure to accommodate a perceived disability.4 However, the Court recommends that the district judge grant Plaintiff leave to amend his third claim for relief (national origin discrimination), because the Court is unable to conclude that Plaintiff's pleading could not possibly be cured by amendment. See Telesaurus VPC, LLC, 623 F.3d at 1003.
+
+CONCLUSION
+For the reasons stated, the Court recommends that the district court grant Defendants' motion to dismiss (ECF No. 7).
+
+SCHEDULING ORDER
+The Findings and Recommendation will be referred to a district judge. Objections, if any, are due fourteen (14) days from service of the Findings and Recommendation. If no objections are filed, the Findings and Recommendation will go under advisement on that date. If objections are filed, a response is due fourteen (14) days after being served with a copy of the objections. When [*9]  the response is due or filed, whichever date is earlier, the Findings and Recommendation will go under advisement.
+Dated this 24th day of June, 2016.
+/s/ Stacie F. Beckerman
+STACIE F. BECKERMAN
+United States Magistrate Judge
+
+
+End of Document
+

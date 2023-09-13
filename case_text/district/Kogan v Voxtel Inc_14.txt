@@ -1,0 +1,76 @@
+Kogan v. Voxtel, Inc.
+United States District Court for the District of Oregon
+May 12, 2020, Decided; May 12, 2020, Filed
+3:19-cv-02031-BR
+
+Reporter
+2020 U.S. Dist. LEXIS 83452 *
+GRIGORY KOGAN, Plaintiff, v. VOXTEL, INC., a Delaware corporation, Defendant.
+Counsel:  [*1] For Plaintiff: JOSE KLEIN, RUSSELL GOMM, Klein Munsinger LLC, Portland, OR.
+For Defendant: DANIEL P. LARSEN, ALEXANDRA M. SHULMAN, Portland, OR.
+Judges: ANNA J. BROWN, United States Senior District Judge.
+Opinion by: ANNA J. BROWN
+Opinion
+
+
+
+OPINION AND ORDER
+BROWN, Senior Judge.
+This matter comes before the Court on Defendant Voxtel, Inc.'s Motion (#5) to Dismiss Complaint. The Court concludes the record is sufficiently developed that oral argument is not required.
+For the reasons set forth below, the Court GRANTS Defendant's Motion to Dismiss.
+
+BACKGROUND
+The following facts are taken from Plaintiff's Complaint:
+In 2011 Plaintiff Grigory Kogan began working as an Integrated Circuit Principal Engineer for Defendant. Plaintiff alleges he was Defendant's "most senior and most advanced engineer," and his supervisors and other engineers "were not competent to critique his engineering expertise."
+In January 2017 Plaintiff suffered a stroke that impaired the use of his right-side extremities and partially impaired his speech. Plaintiff's physician recommended Plaintiff work from home because of his mobility impairments.
+In Spring 2017 after his initial recovery, Plaintiff requested to work from home to accommodate his disability. [*2]  Defendant agreed. Plaintiff began to perform his job from home.
+In 2019 Plaintiff worked on a project that was "substantially larger and more complicated than normal Voxtel projects." Other work that was usually Plaintiff's sole responsibility was divided and delegated to others. Plaintiff alleges in the course of working on this project "normal development issues arose," "more of his co-workers than usual were privy to the messy reality of how large design projects" were handled, and his coworkers and supervisors "were more exposed than they were accustomed to the ebb and flow of progress in projects of this magnitude." Plaintiff alleges his coworkers and supervisors "incorrectly assumed that the project was going awry due to some deficit of [Plaintiff] caused by his stroke."
+On June 28, 2019, Defendant terminated Plaintiff's employment.
+On December 13, 2019, Plaintiff filed a Complaint in this court. Plaintiff alleges: (1) Defendant terminated him in violation of Oregon Revised Statutes § 659A.112 that prohibits disability discrimination, (2) Defendant failed to provide reasonable accommodation for Plaintiff's disability in violation of Oregon Revised Statutes § 659A.118, and (3) Defendant failed to engage in the interactive process to determine whether [*3]  accommodation could be made for Plaintiff's disability as required by Oregon Revised Statutes § 659A.112 and Oregon Administrative Regulations.
+On February 20, 2020, Defendant filed a Motion to Dismiss Plaintiff's Complaint on the ground that Plaintiff fails to state a claim.
+
+STANDARDS
+To survive a motion to dismiss a complaint must contain sufficient factual matter, accepted as true, to "state a claim for relief that is plausible on its face." Bell Atlantic v. Twombly, 550 U.S. 544, 545, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged. Id. at 556. "The plausibility standard is not akin to a 'probability requirement,' but it asks for more than a sheer possibility that a defendant has acted unlawfully." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009)(quoting Twombly, 550 U.S. at 546). When a complaint is based on facts that are "merely consistent with" a defendant's liability, it "stops short of the line between possibility and plausibility of entitlement to relief." Iqbal, 556 U.S. at 678 (citing Twombly, 550 U.S. at 557). See also Bell Atlantic, 550 U.S. at 555-56. The court must accept as true the allegations in the complaint and construe them in favor of the plaintiff. Din v. Kerry, 718 F.3d 856, 859 (9th Cir. 2013). Nonetheless, the court is not bound to "accept as true a legal conclusion couched as a factual allegation." Papasan v. Allain, 478 U.S. 265, 286, 106 S. Ct. 2932, 92 L. Ed. 2d 209 (1986). [*4]  See also, Godecke v. Kinetic Concepts, Inc., 937 F.3d 1201, 1205 (9th Cir. 2019).
+The pleading standard under Federal Rule of Civil Procedure 8 "does not require 'detailed factual allegations,' but it demands more than an unadorned, the-defendant-unlawfully-harmed-me accusation." Iqbal, 556 U.S. at 678 (quoting Twombly, 550 U.S. at 555). See also Federal Rule of Civil Procedure 8(a)(2). "A pleading that offers 'labels and conclusions' or 'a formulaic recitation of the elements of a cause of action will not do.'" Id. (citing Twombly, 550 U.S. at 555). A complaint also does not suffice if it tenders "naked assertion[s]" devoid of "further factual enhancement." Id. at 557.
+
+DISCUSSION
+Defendant contends the Court should dismiss Plaintiff's Complaint on the grounds that (1) Plaintiff does not plausibly allege he was terminated because of his disability, (2) Plaintiff does not plausibly allege he requested a reasonable accommodation that triggered Defendant's duty to engage in the interactive process, and (3) Plaintiff does not plausibly allege a reasonable accommodation was required because Plaintiff performed his duties at home without any further accommodation.
+
+I. Plaintiff has not alleged facts to support a plausible claim that Defendant terminated Plaintiff based on his disability.
+To state a claim for disability discrimination, Plaintiff must allege facts showing that (1) he is disabled, (2) he is qualified, [*5]  and (3) he suffered an adverse employment action because of his disability. See Snead v. Metro. Prop. & Cas. Ins. Co., 237 F.3d 1080, 1087 (9th Cir. 2001). The parties appear to agree that the first two elements are not at issue, and, therefore, the only dispute is whether Plaintiff has alleged facts that plausibly establish the causal element of his claim.
+In Sheppard v. David Evans & Associates the Ninth Circuit articulated the required pleading standard as follows:
+Federal Rule of Civil Procedure 8(a)(2) requires that each claim in a pleading be supported by "a short and plain statement of the claim showing that the pleader is entitled to relief." Under this rule, a claim must contain "more than labels and conclusions" or a "formulaic recitation of the elements of a cause of action." Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). Instead, to satisfy Rule 8(a)(2), a "complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (internal quotation marks omitted).
+694 F.3d 1045, 1048 (9th Cir. 2012). Although this standard does not require a complaint to contain "detailed factual allegations," it does require a claim to be "plausible on its face." Id. at 1048-49. The mere recitation of "legal conclusions couched as factual allegations" is insufficient. Papasan, 478 U.S. at 286.
+Plaintiff acknowledges Defendant provided a reasonable accommodation for Plaintiff's [*6]  disability following his stroke by allowing him to work from home. Plaintiff alleges he "successfully perform[ed] his job duties" from home and states he continued to perform his job adequately through 2018 and into 2019 before he was terminated due to errors in his work. Plaintiff, however, alleges he was terminated "for perceived issues" that Defendant "incorrectly" believed "were a direct consequence" of Plaintiff's stroke; i.e., that Defendant "incorrectly assumed" Plaintiff's errors were from cognitive defects due to his stroke. Although Plaintiff alleges Defendant "incorrectly assumed" Plaintiff's errors were the result of his stroke, he does not allege any facts to support his allegation.
+Based on the current pleadings, therefore, the Court concludes Plaintiff has failed to allege sufficient facts to support a plausible claim that he was terminated because of his disability.
+
+II. Plaintiff has not alleged sufficient facts to support a plausible claim that Defendant failed to provide Plaintiff with reasonable accommodation or failed to engage in the interactive process.
+
+A. Plaintiff's Claim for Failure to Accommodate
+Defendant asserts an employer is liable for failure to accommodate [*7]  only if "modifications or adjustments" could have been made to "the work environment, or to the manner or circumstances under which a position is customarily performed, that enable a qualified employee or applicant with a disability to perform the position's essential functions." See Oregon Administrative Rule 839-006-0206(1)(defining "reasonable accommodation"). Defendant contends Plaintiff did not require any reasonable accommodation other than to work from home, which Defendant permitted.
+Plaintiff alleges he "was disabled and/or Defendant regarded him as disabled due to medical conditions that substantially limited one or more of Plaintiff's major life activities," and Defendant "failed to provide a reasonable accommodation." The only disability that Plaintiff alleges is his 2017 stroke, and, as Plaintiff acknowledges, Defendant authorized Plaintiff to work from home as an accommodation for that disability.
+Although Plaintiff alleges he "continued to fulfill his job duties" until he was terminated, Plaintiff contends Defendant "believed" Plaintiff was "suffering from performance deficits caused by his stroke." Plaintiff, however, fails to allege any further accommodation that was necessary to allow [*8]  him to perform the essential functions of his job.
+Based on Plaintiff's current allegations, the Court concludes Plaintiff has failed to allege sufficient facts to state a plausible claim for Defendant's failure to accommodate him.
+
+B. Plaintiff's Claim for Failure to Engage in the Interactive Process
+Defendant contends the duty to engage in the interactive process was not triggered because Plaintiff never requested a reasonable accommodation other than the accommodation that Defendant provided. In response, Plaintiff contends Defendant knew Plaintiff was disabled and "may need" accommodation, and, therefore, Defendant was responsible to initiate the interactive process even without a request by Plaintiff.
+An "employer may be held liable [when] it fails or refuses to engage in an 'interactive process' with a disabled employee to identify reasonable accommodations which would allow the employee to perform essential job duties." Benz v. W. Linn Paper Co., 803 F. Supp. 2d 1231, 1257 (D. Or. 2011). The interactive process is "triggered by an employee's request for an accommodation." Id. Employers, however, "cannot assume employees are disabled and need accommodation." Id.
+In Brown v. Lucky Stores, Inc., the Ninth Circuit recognizes the general rule that an [*9]  employer does not have a duty to accommodate an employee until the employee asks, but the Court noted:
+The exception to this general rule arises only when the employer (1) knows that the employee has a disability, (2) knows, or has reason to know, that the employee is experiencing workplace problems because of the disability, and (3) knows, or has reason to know, that the disability prevents the employee from requesting a reasonable accommodation.
+246 F.3d 1182, 1188 (9th Cir.2001). Here Plaintiff does not allege facts that meet these requirements.
+Plaintiff alleges he "had a disability that was known to Defendant, and Plaintiff requested reasonable accommodation for his condition." Such an allegation, however, simply states a "legal conclusion couched as factual allegations." Plaintiff's only alleged disabilities were mobility and speech issues caused by his stroke, for which Defendant provided an accommodation. Plaintiff does not allege facts that establish he requested any additional accommodation.
+Plaintiff, nevertheless, contends an employer has a duty to engage in the interactive process when the employer believes the employee is impaired and may need accommodation even if the employee does not believe he is impaired. [*10]  Here, however, Plaintiff specifically alleges he was able to perform the essential functions of his job and that it was his coworkers and supervisors who "incorrectly assumed" his errors were caused by his stroke.
+Based on these allegations, the Court concludes Plaintiff has failed to allege sufficient facts to support a plausible claim that Defendant wrongfully failed to engage in the interactive process.
+
+CONCLUSION
+For these reasons, the Court concludes Plaintiff fails to allege sufficient facts in his Complaint that support plausible claims that Defendant engaged in disability discrimination, failed to accommodate Plaintiff, and/or failed to engage in the interactive process as required under federal law. Accordingly, the Court GRANTS Defendant's Motion to Dismiss and dismisses without prejudice each of Plaintiff's claims against Defendant.
+The Court, however, GRANTS Plaintiff leave to file an amended complaint no later than June 5, 2020, to cure the deficiencies as set out in this Opinion and Order.
+IT IS SO ORDERED.
+DATED this 12th day of May, 2020.
+/s/ Anna J. Brown
+ANNA J. BROWN
+United States Senior District Judge
+
+
+End of Document
+

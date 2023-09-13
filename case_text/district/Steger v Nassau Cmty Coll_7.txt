@@ -1,0 +1,39 @@
+Steger v. Nassau Cmty. Coll.
+United States District Court for the Eastern District of New York
+March 28, 2022, Decided; March 29, 2022, Filed
+19-CV-3026 (JMA)(JMW)
+
+Reporter
+2022 U.S. Dist. LEXIS 59252 *; 2022 WL 912654
+ALICIA STEGER, Plaintiff, -against- NASSAU COMMUNITY COLLEGE, Defendant.
+Prior History: Steger v. Nassau Cmty. College, 2022 U.S. Dist. LEXIS 41214 (E.D.N.Y., Mar. 8, 2022)
+Counsel:  [*1] For Alicia Steger, Plaintiff: Mordy Yankovich, Lieb at Law, P.C., Smithtown, NY.
+For Nassau Community College, Defendant: Stephen E Carlin, Nassau County Attorney's Office, Mineola, NY.
+Judges: JOAN M. AZRACK, UNITED STATES DISTRICT JUDGE.
+Opinion by: JOAN M. AZRACK
+Opinion
+
+
+
+ORDER
+AZRACK, United States District Judge:
+Before the Court are objections filed by the parties to Magistrate Judge James W. Wicks's Report and Recommendation (hereafter "Recommendation" or "R&R"). (ECF Nos. 36, 37.) The R&R recommends that the Court deny in part and grant in part Defendant's motion for summary judgment. (ECF No. 34.) After conducting a review of the full record (including the motion papers, R&R, and objections), and applicable law, the Court adopts Judge Wicks's R&R in its entirety as the opinion of the Court.
+The Court "may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate judge." 28 U.S.C. § 636(b)(1)(C). In reviewing a magistrate judge's report and recommendation on a dispositive motion, a court must "make a de novo determination of those portions of the report or . . . recommendations to which objection[s] [are] made." 28 U.S.C. § 636(b)(1)(C); see also Brown v. Ebert, No. 5-CV-5579, 2006 U.S. Dist. LEXIS 94265, 2006 WL 3851152, at *2 (S.D.N.Y. Dec. 29, 2006). Parties may raise objections to the magistrate judge's report and [*2]  recommendation, but they must be "specific[,] written," and submitted within fourteen days after being served with a copy of the recommended disposition, Fed. R. Civ. P. 72(b)(2). The portions of a report and recommendation to which there is no specific reasoned objection are reviewed for clear error. See Pall Corp. v. Entegris, Inc., 249 F.R.D. 48, 51 (E.D.N.Y. 2008). The clear error standard also applies when a party makes only conclusory or general objections, or simply reiterates his original arguments. See Ortiz v. Barkley, 558 F. Supp. 2d 444, 451 (S.D.N.Y. 2008).
+The facts as set forth in the R&R are incorporated herein by reference. (ECF No. 34 at 2-3.) The Court has conducted a de novo review of the R&R, the record, applicable legal authorities, along with Plaintiff's and Defendant's Objections and concludes that Judge Wicks's legal and factual determinations are supported by the record and the law in all material respects. Neither parties' Objections provides a legal basis for departing from the R&R, which the Court briefly addresses below.
+Plaintiff objects to the R&R's recommendation denying summary judgement as to her constructive discharge claim. Specifically, Plaintiff argues, in a conclusory manner, that because the R&R found there was an issue of fact as to whether the Defendant failed to provide her with a reasonable [*3]  accommodation, an issue of fact must also exist as to whether or not she was constructively discharged. The Court disagrees.
+A plaintiff seeking to proceed on a constructive-discharge claim must be able to show that her defendant-employer deliberately created working conditions so intolerable, difficult, or unpleasant that a reasonable person would have felt compelled to resign. Stroud v. New York City, 374 F. Supp. 2d 341, 350 (S.D.N.Y. 2005). "This standard is higher than the standard for establishing a hostile work environment." Fincher v. Depository Tr. & Clearing Corp., 604 F.3d 712, 725 (2d Cir. 2010) (internal citations omitted).
+The Court agrees with Judge Wick's well-reasoned R&R that the undisputed facts fail to indicate that Defendant acted in some deliberate fashion to make Plaintiff's working conditions so intolerable or difficult. Indeed, the record is devoid of such material evidence and Plaintiff does not point to any factual allegation demonstrating otherwise.
+Plaintiff's reliance on Parker v. Columbia Pictures Indus., 204 F.3d 326, 331 (2d Cir. 2000) is misapplied here. The Second Circuit explained that Parker indicates that "an employer's failure to make any accommodation for a disabled employee and its refusal even to consider potential accommodations proposed by the employee" could give rise to an inference that a discharge occurred because of a disability. McBride v. BIC Consumer Prod. Mfg. Co., 583 F.3d 92, 102 (2d Cir. 2009) (emphasis added). [*4]  But, more generally, the court clarified that Parker "merely stands for the entirely ordinary proposition that an employer's failure to make a reasonable accommodation, particularly when coupled with a refusal to engage in a sufficient interactive process, makes out a prima facie case of disability discrimination [...]." Id. (emphasis added). Those facts are not present here. (See generally ECF No. 36.) Plaintiff's barebones conclusory assertion is therefore without merit. Accordingly, the Court overrules Plaintiff's objection. (ECF No. 36.)
+For similar reasons, the Court also rejects Defendant's objection. (ECF No. 37.) Defendant objects to the R&R's recommendation denying summary judgement to both parties as to Plaintiff's reasonable accommodation claim. Defendant argues that Plaintiff's claim must fail as a matter of law, because it had taken several affirmative steps to accommodate Plaintiff and its actions were "reasonable." (Id. at 6-7.) Defendant is mistaken.
+The Court agrees with Judge Wicks's finding that issues of material fact exist warranting the denial of both parties' motions for summary judgment. In this Circuit it is well-established that "where an accommodation is made, whether [*5]  that accommodation is reasonable is a fact-specific question that often must be resolved by a factfinder." Noll v. Int'l Bus. Machines Corp., 787 F.3d 89, 94 (2d Cir. 2015) (citing Wernick v. Fed. Reserve Bank of N.Y., 91 F.3d 379, 385 (2d Cir.1996)); see also Laguerre v. Nat'l Grid USA, No. 20-3901-CV, 2022 U.S. App. LEXIS 6328, 2022 WL 728819, at *4 (2d Cir. Mar. 11, 2022) (same). Defendant does not cite any binding authority dictating a different result. Defendant's objection is overruled.
+The Court adopts the R&R in its entirety as the opinion of the Court. (1) Plaintiff's motion for summary judgment as to her ADA reasonable accommodation claim is DENIED; (2) Defendant's motion for summary judgment as to Plaintiff's ADA reasonable accommodation claim is DENIED; (3) Plaintiff's motion for summary judgment as to her constructive discharge claim is DENIED; and (4) Defendant's motion for summary judgment as to Plaintiff's constructive discharge claim is GRANTED.
+SO ORDERED.
+Dated: March 28, 2022
+Central Islip, New York
+/s/ JMA
+JOAN M. AZRACK
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

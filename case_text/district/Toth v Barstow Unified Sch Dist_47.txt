@@ -1,0 +1,47 @@
+Toth v. Barstow Unified Sch. Dist.
+United States District Court for the Central District of California, Western Division
+July 1, 2014, Decided; July 1, 2014, Filed
+ED CV 12-02217 TJH (DTBx)
+
+Reporter
+2014 U.S. Dist. LEXIS 194923 *
+GORDON TOTH, Plaintiff, v. BARSTOW UNIFIED SCHOOL DISTRICT, et al., Defendants.
+Subsequent History: Findings of fact/conclusions of law at, Judgment entered by Toth v. Barstow Unified Sch. Dist., 2014 U.S. Dist. LEXIS 169669 (C.D. Cal., Dec. 8, 2014)
+Costs and fees proceeding at, Motion denied by, Request denied by Toth v. Barstow Unified Sch. Dist., 2015 U.S. Dist. LEXIS 186683 (C.D. Cal., Mar. 4, 2015)
+Counsel:  [*1] For Gordon Toth, an individual, Plaintiff: Shawna L Parks, LEAD ATTORNEY, Law Office of Shawna L. Parks, Los Angeles, CA; Surisa E Rivers, Surisa Rivers Law Office, La Crescenta, CA.
+For Barstow Unified School District, Defendant: Maurice Sylvan Kane, Sarah L Overton, Cummins McClorey Davis Acho and Associates PC, Riverside, CA.
+Judges: Terry J. Hatter, Jr., Senior United States District Judge.
+Opinion by: Terry J. Hatter, Jr.
+Opinion
+
+
+Order
+[32.39]
+The Court has considered Defendant Barstow Unified School District's ("BUSD") motion for summary judgment and Plaintiff Toth's motion for partial summary judgment, together with the moving and opposing papers.
+The Court has before it cross motions for summary judgment. For both motions, the ultimate burden is on Toth.
+As a moving party without the ultimate burden of persuasion at trial, BUSD has the initial burden on its motion for summary judgment to either produce evidence which negates an essential element of Toth's claims, or to show that Toth lacked evidence of an essential element to carry his ultimate burden of persuasion at trial. Nissan Fire & Marin Ins. Co., Ltd. v. Fritz Companies, Inc., 210 F. 3d 1099, 1102 (9th Cir. 2000). If BUSD satisfies its initial burden, then the burden would shift to Toth to introduce admissible evidence to establish a prima facie case [*2]  for each of his claims. If Toth satisfied his burden, then BUSD's motion must be denied.
+As to Toth's motion for partial summary judgment, because he would have the burden of persuasion at trial, he has the initial burden to establish, through admissible evidence, every essential element of each of his claims. Southern California Gas Co. v. City of Santa Ana, 336 F. 3d 885, 888 (9th Cir. 2003). If Toth satisfies his burden, then the burden would shift to BUSD to show that triable issues of material fact exist.
+Thus, if Toth satisfies his initial burden as the moving party of his partial summary judgment motion, then he would satisfy his burden to defeat BUSD's motion for summary judgment. As to either motion, the non-moving party can defeat summary judgment by showing that the evidence, taken as a whole, could lead a rational trier of fact to find in its favor. Southern California Gas, 336 F. 3d at 888.
+Toth successfully opposed BUSD's motion for summary judgment on his claims brought under the Americans With Disabilities Act ("ADA") claim, the Rehabilitation Act, and the Fair Employment and Housing Act ("FEHA") for failure to provide a reasonable accommodation. Furthermore, BUSD failed to establish the existence of any material facts to overcome Toth's cross-motion on these claims.
+Toth established that he [*3]  asked for an accommodation, namely, part-time clerical assistance to type his reports, that was reasonable on its face, and that BUSD did not provide him with a reasonable accommodation. See Dark v. Curry County, 451 F. 3d 1078, 1088-89 (9th Cir. 2006). Dictation software was not a reasonable accommodation given Toth's disabilities.
+Further, BUSD failed to establish that it was not obligated to provide a reasonable accommodation because doing so would have been an undue hardship. BUSD's general statements regarding district-wide budget cuts were insufficient, especially in light of the fact that Toth's department, the Pupil Services Office, retained three clerical workers after the budget-induced layoffs and BUSD did not provide any explanation as to why any of those three remaining clerical workers could not assist Toth.
+Thus, summary judgment in favor of Toth is warranted on his claims under 42 U.S.C. § 12112, 29 U.S.C. § 794(a), and Cal. Gov't Code § 12940(m).
+BUSD, also, failed to meet its burden to oppose Toth's partial summary judgment motion as to Toth's claim that BUSD violated Cal Gov't Code § 12940(n). In response to a request for a reasonable accommodation by an employee with a known physical disability, the FEHA obligates employers to engage in a timely, good faith, interactive process with an employee to determine a [*4]  reasonable and effective accommodation, if any exists. Cal. Gov't Code § 12940(n). The goal of the interactive process is to identify an accommodation that allows the employee to perform the job effectively. Nadaf-Rahrov v. Neiman Marcus Grp., Inc., 166 Cal. App. 4th 952, 984, 83 Cal. Rptr. 3d 190, 219 (2008). The fact that an employer took some steps to work with an employee to identify a reasonable accommodation does not absolve the employer of liability under § 12940(n). Nadaf-Rahrov, 166 Cal. App. 4th at 987.
+Toth provided evidence showing that the dictation software was ineffective, that BUSD knew that the dictation software was ineffective, and that BUSD cut-off the interactive process despite this knowledge. When an employer's initial accommodation is ineffective, an employer may be liable for failing to provide further accommodation. Nadaf-Rahrov, 166 Cal. App. 4th at 987. Thus, because BUSD was aware that the dictation software was not an effective accommodation for Toth, and BUSD failed to provide another accommodation that was reasonable, BUSD violated § 12940(n) as a matter of law, and summary judgment in favor of Toth is appropriate.
+BUSD, also, sought summary judgment, while Toth did not, as to Toth's three remaining claims for constructive discharge in violation of Cal. Gov't Code §§12940(h), for discrimination and harassment in violation of Cal. Gov't Code §§12940(h), and for failure to prevent harassment in violation of Cal. Gov't Code §§12940(k).
+It is unlawful "for [*5]  any employer ... to discharge, expel, or otherwise discriminate against any person because the person has opposed any practices forbidden under the [FEHA]." Cal. Gov't Code § 12940(h). This form of unlawful employment practice is often called retaliation. Jones v. Lodge at Torrey Pines P'ship, 42 Cal. 4th 1158, 1162, 72 Cal. Rptr. 3d 624, 626, 177 P.3d 232 (2008). Toth established a prima facie case of retaliation under the FEHA by showing that he engaged in a protected activity, was subjected to an adverse employment action, and that there was a causal link between the protected activity and the adverse employment action. See Yanowitz v. L'Oreal USA, Inc., 36 Cal. 4th 1028, 1042, 32 Cal. Rptr. 3d 436, 444, 116 P.3d 1123 (2005). Furthermore, BUSD did not have a legitimate, nonretaliatory reason for the adverse employment action of constructive discharge. See Yanowitz v. L'Oreal USA, Inc., 36 Cal. 4th at 1042.
+It is an unlawful employement practice under the FEHA "for an employer ... to fail to take all reasonable steps necessary to prevent discrimination and harassment from occurring" in the workplace. Cal. Gov't Code § 12940(k). Toth met his burden by establishing that he was subjected to discrimination, harassment or retaliation, that BUSD failed to take all reasonable steps to prevent discrimination, harassment or retaliation, and BUSD's failure caused Toth to suffer injury, damage, loss or harm. Judicial Council of California Civil Jury Instruction 2527.
+In the absence of a cross-motion [*6]  for summary judgment, the Court may award summary judgment, sua sponte, against a moving party if the moving party had a full and fair opportunity to address the issues, as BUSD had here, and the non-moving party is entitled to judgment as a matter of law, as Toth is here. See Gospel Missions of America v. City of Los Angeles, 328 F. 3d 548, 553 (9th. Cir. 2003), citing Cool Fuel, Inc. v. Connett, 685 F.2d 309, 312 (9th Cir. 1982). In fact, neither side identified significant material facts, thereby leaving the Court to simply determine the legal consequences of the facts.
+The only issue that remains for trial is Toth's damages.
+It is Ordered that Defendant's Motion for Summary Judgment, be, and hereby is, Denied.
+It is further Ordered that Plaintiff's Motion for Partial Summary Judgment be, and hereby is, Granted as to his claims under (1) 42 U.S.C. § 12112 for failure to provide a reasonable accommodation; (2) 29 U.S.C. § 794(a) for failure to provide a reasonable accommodation; (3) Cal. Gov't Code § 12940(m) for failing to make a reasonable accommodation; and (4) Cal. Gov't Code § 12940(n) for failure to engage in an interactive process to determine an effective reasonable accommodation.
+It is further Ordered, sua sponte, that summary judgment on Plaintiff's fifth through seventh claims for under Cal. Gov't Code § 12940(h) and (k), be, and hereby is, Granted in favor of Plaintiff.
+It is further Ordered that Plaintiff's Objection to evidence [*7]  filed in support of Defendant's motion for summary judgment are moot and, on that basis, be, and hereby is, Denied.
+Date: July 1, 2014
+/s/ Terry J. Hatter, Jr.
+Terry J. Hatter, Jr.
+Senior United States District Judge
+
+
+End of Document
+

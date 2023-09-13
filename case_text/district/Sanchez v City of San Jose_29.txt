@@ -1,0 +1,32 @@
+Sanchez v. City of San Jose
+United States District Court for the Northern District of California
+June 15, 2022, Decided; June 15, 2022, Filed
+Case No. 20-cv-05919-JD
+
+Reporter
+2022 U.S. Dist. LEXIS 106879 *
+EDGAR SANCHEZ, Plaintiff, v. CITY OF SAN JOSE, et al., Defendants.
+Prior History: Sanchez v. City of San Jose, 2021 U.S. Dist. LEXIS 130512 (N.D. Cal., July 13, 2021)
+Counsel:  [*1] For Edgar Sanchez, Plaintiff: Gustavo Magana, Jr., Law Office of Gustavo Magana, Santa Clara, CA.
+For City Of San Jose, Christopher Weber, in his individual and official capacity, Edgardo Garcia, in his supervisory capacity, Defendants: Kendra Elizabeth McGee, Office of the City Attorney, San Jose, CA.
+Judges: JAMES DONATO, United States District Judge.
+Opinion by: JAMES DONATO
+Opinion
+
+
+
+SECOND ORDER RE MOTION TO DISMISS
+Defendant City of San Jose asks to dismiss under Federal Rule of Civil Procedure 12(b)(6) the Sixth Claim against it in the Second Amendment Complaint (SAC) for a violation of the Americans with Disabilities Act (ADA), 42 U.S.C.§ 12101 et seq. Dkt. No. 44 (SAC); Dkt. No. 45 (motion to dismiss). The Court dismissed the ADA claim in the original complaint with leave to amend. Dkt. No. 32 at 2. Dismissal is granted.
+The SAC does not remedy the pleading shortfall discussed in the prior order. To be sure, the ADA may apply to arrests in some situations. See Sheehan v. City & Cty. of San Francisco, 743 F.3d 1211, 1232 (9th Cir. 2014).1 Specifically, the police may be liable under the ADA when they "fail to reasonably accommodate [a] person's disability in the course of investigation or arrest, causing the person to suffer greater injury or indignity." Id. (citations omitted). That is what Sanchez seeks to allege here.
+The problem with Sanchez's original complaint was that it did not plausibly [*2]  allege that he had a disability within the meaning of the ADA, or that the officers had reason to know of the disability and failed to reasonably accommodate it. The complaint alleged only that he experienced seizures. See Dkt. No. 32 at 2. This was in telling contrast to Sheehan, where the police came to the scene in response to a call by the plaintiff's social worker who was intimately familiar with her mental health disabilities and conditions. See Sheehan, 743 F.3d at 1216-18. On the record before the court in Sheehan, it was "undisputed that Sheehan had a disability and that the officers knew it at the time they encountered her." Id. at 1233.
+No similar facts are alleged here. The SAC adds a few new allegations to the effect that Sanchez has epilepsy, and that the officers "acknowledged" a disability during the arrest. Dkt. No. 44 at ¶¶ 26-28; ¶¶ 75-76. But the SAC says only that Sanchez told the officers he had seizures, not epilepsy. Id. And the allegation that the officers acknowledged the seizures is entirely conclusory and unsupported by any facts. The SAC does not say nearly enough to plausibly allege that the officers acted with "deliberate indifference" to Sanchez's ostensible disability. See Updike v. Multnomah Cnty., 870 F.3d 939, 951 (9th Cir. 2017).
+Overall, the SAC did not materially [*3]  improve the ADA allegations found wanting in the original complaint. Consequently, it is dismissed. Although Sanchez has now had two opportunities to allege a plausible ADA claim, which would typically warrant dismissal without leave to amend, the dismissal is without prejudice. It may be that discovery reveals facts that might plausibly state an ADA violation. If so, Sanchez may seek leave of Court to file an amended ADA claim.
+IT IS SO ORDERED.
+Dated: June 15, 2022
+/s/ James Donato
+JAMES DONATO
+United States District Judge
+
+
+End of Document
+

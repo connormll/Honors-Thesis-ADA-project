@@ -1,0 +1,58 @@
+Whitaker v. Yard House
+United States District Court for the Central District of California
+March 23, 2020, Decided; March 23, 2020, Filed
+SACV 19-2290-JVS (JDEx)
+
+Reporter
+2020 U.S. Dist. LEXIS 120992 *; 2020 WL 3805807
+Brian Whitaker v. Yard House
+Counsel:  [*1] Attorneys for Plaintiffs: NOT Present.
+Attorneys for Defendants: NOT Present.
+Judges: James V. Selna, United States District Judge.
+Opinion by: James V. Selna
+Opinion
+
+
+
+CIVIL MINUTES - GENERAL
+
+Proceedings: [IN CHAMBERS] Order Regarding Motion to Dismiss
+Defendant Yard House ("Yard House") filed a motion to dismiss Plaintiff Brian Whitaker's ("Whitaker") Complaint ("Complaint") on January 24, 2020. Mot., Docket No. 12. Whitaker filed an Opposition to the Motion on February 24, 2020. Opp'n, Docket No. 13.
+For the following reasons, the Court GRANTS Yard House's motion to dismiss.
+
+I. Background
+Whitaker's Complaint alleges the following. Whitaker is a quadriplegic who uses a wheelchair. Compl. ¶ 2. He went to the Yard House restaurant in November 2019 to avail himself of its goods and determine whether the Yard House complies with disability access laws. Id. ¶ 8. However, on the date Whitaker went there, the Yard House failed to provide accessible dining surfaces in conformance with the Americans with Disabilities Act ("ADA") standards. Id. ¶ 10-11. Whitaker was personally affected by this barrier and denied full and equal access to the restaurant. Id. ¶ 12-14. These barriers of use are easily removable without much difficulty [*2]  or expense, or there are other alternative accommodations that may be made to provide greater access. Id. ¶ 16. Whitaker will return to the restaurant only once these barriers have been removed. Id. ¶ 17.
+Given these facts, Whitaker alleges two causes of action: violation of the ADA, and violation of the Unruh Civil Rights Act. Id. ¶¶ 19-29. Whitaker seeks injunctive relief and damages. Id. at 6.
+
+II. Legal Standard
+
+A. Fed. R. Civ. Proc. 12(b)(1)
+Dismissal is proper when a plaintiff fails to properly plead subject matter jurisdiction in the complaint. Fed. R. Civ. P. 12(b)(1). A "jurisdictional attack may be facial or factual." Safe Air for Everyone v. Meyer, 373 F.3d 1035, 1039 (9th Cir. 2004). If the challenge is based solely upon the allegations in the complaint (a "facial attack"), the court generally presumes the allegations in the complaint are true. Id.; Warren v. Fox Family Worldwide, Inc., 328 F.3d 1136, 1139 (9th Cir. 2003). If instead the challenge disputes the truth of the allegations that would otherwise invoke federal jurisdiction, the challenger has raised a "factual attack," and the court may review evidence beyond the confines of the complaint without assuming the truth of the plaintiff's allegations. Safe Air, 373 F.3d at 1039. The plaintiff bears the burden of establishing subject matter jurisdiction. Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375, 377, 114 S. Ct. 1673, 128 L. Ed. 2d 391 (1994).
+
+B. Fed. R. Civ. Proc. 12(b)(6)
+Under Rule 12(b)(6), a defendant may move to dismiss for failure to state a claim upon which relief [*3]  can be granted. A plaintiff must state "enough facts to state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). A claim has "facial plausibility" if the plaintiff pleads facts that "allow[] the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009).
+In resolving a 12(b)(6) motion under Twombly, the Court must follow a two-pronged approach. First, the Court must accept all well-pleaded factual allegations as true, but "[t]hreadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice." Iqbal, 556 U.S. at 678. Nor must the Court "'accept as true a legal conclusion couched as a factual allegation.'" Id. at 678-80 (quoting Twombly, 550 U.S. at 555). Second, assuming the veracity of well-pleaded factual allegations, the Court must "determine whether they plausibly give rise to an entitlement to relief." Id. at 679. This determination is context-specific, requiring the Court to draw on its experience and common sense, but there is no plausibility "where the well-pleaded facts do not permit the court to infer more than the mere possibility of misconduct." Id.
+
+III. Discussion
+Yard House moves to dismiss Whitaker's Complaint for lack of standing because Whitaker failed [*4]  to allege the following: (1) an injury in fact; (2) his residence is in close proximity to the restaurant; (3) past patronage at the restaurant; (4) plans to return to the restaurant; and (5) frequency of nearby travel. Mot. at 4-9. Alternatively, Yard House moves to dismiss because Whitaker failed to state a claim under Title III of the ADA. Id. 9-12 Yard House moves to dismiss Whitaker's state law claim for lack of supplemental jurisdiction. Id. 12-14.
+
+A. Lack of Subject Matter Jurisdiction
+Although Whitaker asserts Yard House's argument that Whitaker has failed to establish standing is truly a 12(b)(6) motion (Opp'n at 2), Yard House has properly brought this motion under 12(b)(1). See Chapman v. Pier 1 Imports (U.S.) Inc., 631 F.3d 939, 955 (9th Cir. 2011) (dismissing an ADA claim for lack of standing under Fed. R. Civ. P. 12(b)(1)).
+"[A] disabled individual claiming discrimination must satisfy the case or controversy requirement of Article III by demonstrating his standing to sue at each stage of the litigation." Ervine v. Desert View Reg'l Med. Ctr. Holdings, LLC, 753 F.3d 862, 866 (9th Cir. 2014) (quoting Chapman, 631 F.3d at 946 (9th Cir. 2011)). Because plaintiffs may only receive injunctive relief under Title III of the ADA, a plaintiff "must not only demonstrate the familiar requirements for standing—injury-in-fact, traceability, redressability—but also 'a sufficient likelihood that he will be [*5]  wronged again in a similar way.'" Id. (quoting Fortyune v. Am. Multi-Cinema, Inc., 364 F.3d 1075, 1081 (9th Cir. 2004)). Therefore, a plaintiff must show that "he faces a 'real and immediate threat of repeated injury.'" Id. (quoting O'Shea v. Littleton, 414 U.S. 488, 496, 94 S. Ct. 669, 38 L. Ed. 2d 674 (1974)). An ADA plaintiff may meet this requirement in two ways. First, the plaintiff may show that "he intends to return to a noncompliant place of public accommodation where he will likely suffer repeated injury." Id. (quoting Chapman, 631 F.3d at 948). Second, the plaintiff may show that he "is currently deterred from visiting that accommodation by accessibility barriers." Id. (quoting Doran v. 7-Eleven, Inc., 524 F.3d 1034, 1041 (9th Cir. 2008)).
+"In evaluating whether an ADA plaintiff has established a likelihood of future injury, courts have been guided by: (1) the proximity of the place of public accommodation to plaintiff's residence, (2) plaintiff's past patronage of defendant's business, (3) the definitiveness of plaintiff's plans to return, and (4) plaintiff's frequency of travel near defendant." Molski v. Kahn Winery, 450 F.Supp.2d 1160, 1163 (C.D. Cal. Dec. 15, 2005); See Chapman, 631 F.3d at 949-50.
+Yard House moves to dismiss because it claims Whitaker has not alleged any of these factors in his Complaint. See generally Mot. Whitaker challenges this by stating he is not required to allege these factors because he has stated he is deterred from returning to the restaurant due to the alleged [*6]  barriers. Reply at 6; Compl. ¶ 17. However, the Ninth Circuit has still considers the same factors when determining whether an ADA plaintiff has adequately alleged a deterrence from returning. See Chapman, 631 F.3d at 949-50. While analyzing the deterrent effect doctrine, the Ninth Circuit looked to prior cases that held deterrence conferred standing. Id. Looking to Pickern v. Holiday Quality Foods Inc., 293 F.3d 1133 (9th Cir. 2002), the court noted that the market the plaintiff was deterred from shopping at was his "preferred" market. Chapman, 631 F.3d at 949. The court also looked to Doran, noting that the Doran court found standing under the deterrent effect doctrine after the plaintiff alleged he had visited the ADA non-compliant store on ten to twenty prior occasions and that it was located near his favorite fast food restaurant, both of which he intended to return to within the next year. Chapman, 631 F.3d at 950.
+Unlike those plaintiffs, Whitaker does not allege anything in excess of what is essentially a modified quotation from Chapman. Compare Compl. ¶ 17 ("Plaintiff is currently deterred from [returning] because of his knowledge of the existing barriers"), with Chapman, 631 F.3d at 949 ("A disabled individual also suffers cognizable injury if he is deterred from visiting a noncompliant public accommodation because he has encountered barriers [*7]  related to his disability there."). Whitaker has not alleged any prior visits to the Yard House, nor that it is located near his home or another place he frequents. Further, Whitaker has not alleged exactly what the noncompliance was, nor how it deprived him of full and equal access due to his disability, as required. See Id. at 955.
+Whitaker has not properly alleged standing and, therefore, this Court does not have subject matter jurisdiction over his ADA claim. Yard House's motion to dismiss, as to Whitaker's ADA claim, is GRANTED.1
+
+B. Lack of Supplemental Jurisdiction
+Yard House next moves to dismiss Whitaker's state law claim for lack of supplemental jurisdiction. Mot. at 12.
+Whitaker asserts subject matter jurisdiction as a result of federal question jurisdiction over his ADA claim and supplemental jurisdiction over the Unruh Civil Rights Act state claim. Compl. ¶¶ 5-6. However, where a Court lacks Article III jurisdiction over a plaintiff's ADA claim for lack of standing, the Court has no discretion to retain supplemental jurisdiction over the plaintiff's remaining state law claims. Scott v. Pasadena Unified Sch. Dist., 306 F.3d 646, 664 (9th Cir. 2002) ("[W]ith the dismissal of [plaintiff's] federal constitutional claim for lack of standing, we have no authority [*8]  to retain jurisdiction over [plaintiff's] state law claims.") (citing 28 U.S.C. § 1367(a)); Doran, 524 F.3d at 1049 (vacating the district court's declining of supplemental jurisdiction only after determining the ADA claim was still valid). Here, as explained above, the Court has no subject matter jurisdiction over Whitaker's ADA claim because Whitaker fails to allege an imminent injury-in-fact, and thus lacks constitutional standing. Accordingly, because the Court lacks jurisdiction in the first instance, the Court has no discretion to retain supplemental jurisdiction over Whitaker's remaining state law claims.
+Accordingly, Yard House's motion to dismiss the Unruh Civil Rights Act claim is GRANTED.
+
+IV. Conclusion
+For the foregoing reasons, the Court GRANTS Yard House's motion to dismiss. Whitaker has 30 days to replead his Complaint.
+IT IS SO ORDERED.
+
+
+End of Document
+

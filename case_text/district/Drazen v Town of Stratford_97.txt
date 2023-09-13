@@ -1,0 +1,35 @@
+Drazen v. Town of Stratford
+United States District Court for the District of Connecticut
+August 13, 2013, Decided; August 13, 2013, Filed
+No. 09cv896 (WWE)
+
+Reporter
+2013 U.S. Dist. LEXIS 113870 *; 2013 WL 4094355
+BARRIE DRAZEN, HARRY ROSEN HOUSE, LLC, HARRY ROSEN HOUSE FOUNDATION, INC., and JOHN DOES ONE THROUGH FIFTEEN, Plaintiffs, v. TOWN OF STRATFORD, Defendant.
+Prior History: Drazen v. Town of Stratford, 2013 U.S. Dist. LEXIS 47908 (D. Conn., Mar. 28, 2013)
+Counsel:  [*1] For Barry Drazen, Harry Rosen House Foundation Inc, John Does 1-15, Harry Rosen House, LLC, Plaintiffs: Greg J. Kirschner, LEAD ATTORNEY, Hartford, CT.
+For Town of Stratford, Defendant: Jonathan David Berchem, Richard J. Buturla, Ryan Driscoll, LEAD ATTORNEYS, Berchem, Moses & Devlin, P.C., Milford, CT.
+Judges: Warren W. Eginton, Senior United States District Judge.
+Opinion by: Warren W. Eginton
+Opinion
+
+
+
+ORDER ON MOTION FOR RECONSIDERATION
+This action stems from a zoning decision by defendant Town of Stratford concerning the Harry Rosen House ("HRH"). Plaintiffs Barrie Drazen, Harry Rosen House, LLC ("HRH, LLC"), Harry Rosen House Foundation, Inc., and John Does One through Fifteen allege that defendant has violated the Fair Housing Act ("FHA") and the Americans with Disabilities Act ("ADA"). In a memorandum of decision dated April 2, 2013, this Court granted defendant's motion for summary judgment on the FHA claim and ADA disparate impact claim but denied summary judgment on the ADA disparate treatment and reasonable accommodation claims. The Court granted summary judgment on FHA claim on the basis that Carriage House was not a "dwelling" covered by the FHA. For the following reasons, the Court will grant the motion  [*2] for reconsideration and vacate its prior ruling that the carriage house is not covered by the FHA.
+
+DISCUSSION
+The standard for granting a motion for reconsideration is strict. See Shrader v. CSX Transp., Inc., 70 F.3d 255, 257 (2d Cir. 1995). A motion for reconsideration permits the court "to correct manifest errors of law or fact or to consider newly discovered evidence . . . ." LoSacco v. City of Middletown, 822 F. Supp. 870, 876-77 (D. Conn. 1993), aff'd, 33 F.3d 50 (2d Cir. 1994).
+The HRH is a nine-bedroom rooming house that provides sober living opportunities to individuals recovering from substance abuse. The carriage house on the property is used to hold weekly twelve-step programs attended by residents, alumni, sponsors and members of the public.
+In its prior ruling, the Court held that the carriage house was not covered by the FHA because it was an accessory building that did not facilitate any resident's access for purpose of inhabiting the HRH. In so holding, the Court relied on Kulin v. Deschutes, 872 F. Supp. 2d 1093 (D. Ore. 2012), which held that a storage warehouse on the plaintiff's property did not qualify as a dwelling. However, on reconsideration, the Court finds that  [*3] it construed the Section 3604(f)(2) too narrowly. The administrative regulations define discrimination as "[l]imiting the use of privileges, services or facilities associated with a dwelling because of . . . handicap . . . of an owner, tenant or a person associated with him or her." 24 C.F.R. § 100.65(b)(4). The carriage house represents a facility that residents use for meetings in connection with their residency at the HRH. Thus, the carriage house falls within the statute's contemplation of provision of services or facilities in connection with a dwelling.
+
+CONCLUSION
+The motion for reconsideration [doc. #68] is GRANTED. The Court hereby VACATES the portion of the ruling granting summary judgment on the claim of FHA violation. Accordingly, summary judgment is DENIED on the claim of FHA violation. The Court will leave plaintiffs to their proof.
+The parties are instructed to confer and to provide the Court with proposed trial dates by September 13, 2013. The Court will then issue a pretrial order.
+/s/ Warren W. Eginton
+Senior United States District Judge
+Dated this 13th day of August, 2013 at Bridgeport, Connecticut.
+
+
+End of Document
+

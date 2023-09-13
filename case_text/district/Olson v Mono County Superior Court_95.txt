@@ -1,0 +1,108 @@
+Olson v. Mono County Superior Court
+United States District Court for the Eastern District of California
+April 25, 2014, Decided; April 28, 2014, Filed
+No. CIV 13-2445 LKK/CKD
+
+Reporter
+2014 U.S. Dist. LEXIS 58756 *; 2014 WL 1671586
+ANGELA OLSON, Plaintiff, v. MONO COUNTY SUPERIOR COURT, a Public Entity; HECTOR GONZALEZ, in his Official and Personal Capacities; and DOES 1 through 100, inclusive, Defendants.
+Counsel:  [*1] For Angela Olson, Plaintiff: Leo Francis Donahue, Leo F. Donahue, Inc., Gold River, CA.
+For Hector Gonzalez, Superior Court of California, County of Mono, Defendants: Steve Jerry Cikes, LEAD ATTORNEY, Renne Sloan Holtzman Sakai LLP, San Francisco, CA; Timothy G. Yeung, LEAD ATTORNEY, Renne Sloan Holtzman Sakai LLP, State of California, Sacramento, CA.
+Judges: LAWRENCE K. KARLTON, SENIOR UNITED STATES DISTRICT JUDGE.
+Opinion by: LAWRENCE K. KARLTON
+Opinion
+
+
+
+ORDER
+Plaintiff Angela Olson sues defendants Mono County Superior Court ("Superior Court") and Hector Gonzalez, alleging wrongful termination on the basis of disability, and related claims.
+Defendants move to dismiss the entirety of plaintiff's First Amended Complaint ("FAC," ECF No. 7) under Federal Rule of Civil Procedure 12(b)(6).
+At the outset, the court notes that the FAC is so sparsely-pled that it arguably fails to satisfy federal pleading standards even as they existed before Bell Atlantic v. Twombly, 550 U.S. 544, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) and Ashcroft v. Iqbal, 556 U.S. 662, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). To take only the most obvious example, plaintiff fails to anywhere identify what her "physical/mental disability" is.1 However, rather than summarily dismiss the FAC, the court will address the substance  [*2] of defendant's motion on the chance that plaintiff may subsequently present an adequately-pled complaint.
+
+I. BACKGROUND
+The following allegations are taken from the FAC.
+Plaintiff was employed as a Deputy Clerk by defendant Superior Court between May 2, 2010 and August 1, 2013. (FAC ¶ 8.) Defendant Gonzalez was one of her "superiors." (Id. ¶ 10.)
+Plaintiff has an unspecified "physical/mental disability." (Id. ¶ 10.) According to plaintiff, she was wrongfully terminated due to her disability and/or "because she disclosed what she reasonably believes were violations of state and/or federal statutes and/or non-compliance with state and/or [sic] regulations." (Id. ¶ 8.)
+Beginning  [*3] in early 2012, plaintiff was "discriminated against, harassed and retaliated against" by defendants due to her disability. (Id. ¶ 10.) The relevant actions include:
+a. knowingly allowing a dangerous, hostile work environment to exist where Plaintiff's physical safety was continuously in jeopardy;
+b. failing to take immediate and effective corrective action to end the dangerous, hostile work environment based, in part, on her physical/mental disability;
+c. when the Plaintiff was required to take medical leave because of this work environment, Defendant [Superior Court] still failed to take immediate and effective corrective action to allow the Plaintiff to return to work in a safe and discrimination/harassment-free work environment; instead, instructing the Plaintiff to take evasive and covert actions to protect herself from they [sic] knowingly dangerous co-worker;
+d. suggested that the Plaintiff conceal herself from this co-worker's presence and/or arm herself for protection;
+e. failed to enter into/maintain a good faith interactive process to determine appropriate reasonable accommodation for her mental disability caused by the cats 2 [sic] of this co-worker;
+f. failed to reasonably accommodate  [*4] Plaintiff's disability;
+g. numerous others acts of harassment and discrimination to include, but not be [sic] limited to false denigration and/or reporting of Plaintiff's job performance based on her disability;
+j.3 retaliation when the Plaintiff complained of the discrimination and/or harassment; and,
+k. wrongful termination of the Plaintiff in violation of public policy on/about August 1, 2013 because of her disability and/or acts prohibited by Govt. Code 12940(h). (Id. ¶ 10.)
+Plaintiff alleges that she has exhausted all administrative remedies necessary for filing the instant case. (Id. ¶ 11.)
+
+II. STANDARD
+A dismissal motion under Rule 12(b)(6) challenges a complaint's compliance with the federal pleading requirements. Under Rule 8(a)(2), a pleading must contain a "short and plain statement of the claim showing that the pleader is entitled to relief." The complaint must give the defendant "'fair notice of what the . . . claim is and the grounds upon which it rests.'" Twombly, 550 U.S. at 555 (quoting Conley v. Gibson, 355 U.S. 41, 47, 78 S. Ct. 99, 2 L. Ed. 2d 80 (1957)).
+To  [*5] meet this requirement, the complaint must be supported by factual allegations. Iqbal, 556 U.S. at 678. Moreover, this court "must accept as true all of the factual allegations contained in the complaint." Erickson v. Pardus, 551 U.S. 89, 94, 127 S. Ct. 2197, 167 L. Ed. 2d 1081 (2007).4
+"While legal conclusions can provide the framework of a complaint," neither legal conclusions nor conclusory statements are themselves sufficient, and such statements are not entitled to a presumption of truth. Iqbal, 556 U.S. at 679. Iqbal and Twombly therefore prescribe a two-step process for evaluation of motions to dismiss. The court first identifies the non-conclusory factual allegations, and then determines whether these allegations, taken as true and construed in the light most favorable to the plaintiff, "plausibly give rise to an entitlement  [*6] to relief." Iqbal, 556 U.S. at 679.
+"Plausibility," as it is used in Twombly and Iqbal, does not refer to the likelihood that a pleader will succeed in proving the allegations. Instead, it refers to whether the non-conclusory factual allegations, when assumed to be true, "allow[] the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 678. "The plausibility standard is not akin to a 'probability requirement,' but it asks for more than a sheer possibility that a defendant has acted unlawfully." Id. (quoting Twombly, 550 U.S. at 557).5 A complaint may fail to show a right to relief either by lacking a cognizable legal theory or by lacking sufficient facts alleged under a cognizable legal theory. Balistreri v. Pacifica Police Dep't, 901 F.2d 696, 699 (9th Cir. 1990).
+
+III. ANALYSIS
+
+A. Defendants' Request for Judicial Notice
+Defendants request that the court take judicial notice of three administrative complaints that plaintiff allegedly filed with the U.S. Equal Employment Opportunity Commission and the California Department of Fair Employment & Housing. (ECF No. 11.) The court declines to do so, as taking judicial notice of documents wholesale  [*8] may lead to unforeseen consequences. Per Wright & Miller:
+Courts could save themselves much grief and embarrassment by insisting that lawyers specify precisely the fact to be noticed. Similarly, lawyers should treat precedents with suspicion when the fact noticed seems loosely stated. For example, courts that do not specify the "fact" being noticed when they take notice of "court records" can end up turning a hearsay statement into "truth" by the alchemy of judicial notice. Astute courts reiterate that while court records may be sources of reasonably indisputable accuracy when they memorialize some judicial action, this does not mean that courts can notice the truth of every hearsay statement filed with the clerk. To do so would make judicial notice a kind of bastard res judicata in which parties end up being bound by facts they never had any opportunity to contest. Courts can avoid this by carefully specifying just what is being noticed; e.g., that the court merely notices that something was said at a hearing for the purpose of inferring its affect [sic] on the persons who heard it, not for its truth.
+21B Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure § 5104  [*9] (2d. ed. 2013) ("Facts Judicially Noticeable; Indisputability").
+Nevertheless, the court's refusal to take judicial notice of these documents does not affect the remainder of its order.
+
+B. First claim: Injunctive relief (ADA)
+Plaintiff, in her first claim, seeks to enjoin defendant Gonzalez "from retaliating and/or discriminating against the Plaintiff if she is successful in regaining her employment with the Defendant Employer." (FAC ¶ 17.) This claim is brought under the Americans with Disabilities Act, 42 U.S.C. § 12101 et seq. ("ADA").
+Defendants contend, correctly, that the ADA does not provide for individual liability. (Motion 6, ECF No. 10-1.) "Title I of the ADA enables individuals who have suffered employment discrimination because of their disabilities to sue employers for damages and injunctive relief in federal court." Walsh v. Nev. Dep't of Human Res., 471 F.3d 1033, 1036 (9th Cir. 2006). "[I]ndividual defendants cannot be held personally liable for violations of the ADA." Id. at 1038. Plaintiff does not dispute this point. (Opposition 3, ECF No. 15.)
+Accordingly, plaintiff's first claim will be dismissed with prejudice.
+
+C. Second claim: Disability discrimination (FEHA)
+Plaintiff's  [*10] second claim, which alleges disability discrimination by defendant Superior Court, is brought under the California Fair Employment and Housing Act, Cal. Gov't Code § 12900 et seq. ("FEHA").
+Under FEHA, it is "an unlawful employment practice . . . [f]or an employer, because of the . . . physical disability [or] mental disability . . . of any person . . . to discriminate against the person in compensation or in terms, conditions, or privileges of employment." Cal. Gov't Code § 12940(a).
+Defendants correctly maintain that the second claim is inadequately-pled. Nevertheless, defendants are somewhat inaccurate in describing the requirements for pleading a FEHA discrimination claim. The case which they cite, Faust v. Cal. Portland Cement Co., 150 Cal. App. 4th 864, 886, 58 Cal. Rptr. 3d 729 (2007), addresses the initial showing that a plaintiff who lacks direct evidence of employment discrimination must make to defeat a summary judgment motion.6 In such cases, California courts utilize the burden-shifting framework established by the U.S. Supreme Court in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). See Guz v. Bechtel Nat. Inc., 24 Cal. 4th 317, 354, 100 Cal. Rptr. 2d 352, 8 P.3d 1089 (2000) (elucidating proper application of McDonnell  [*11] Douglas framework in the context of state law employment discrimination claims). The U.S. Supreme Court has made clear that "[t]he prima facie case under McDonnell Douglas . . . is an evidentiary standard, not a pleading requirement," and hence, that "the requirements for establishing a prima facie case under McDonnell Douglas [do not] also apply to the pleading standard that plaintiffs must satisfy in order to survive a motion to dismiss." Swierkiewicz v. Sorema N.A., 534 U.S. 506, 510, 122 S. Ct. 992, 152 L. Ed. 2d 1 (2002). "Consequently, the ordinary rules for assessing the sufficiency of a complaint apply." Id. Under those "ordinary rules," plaintiff must properly allege factual allegations which "allow[] the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 678.
+Plaintiff instead only sets forth the "elements of [] cause[s] of action" and "mere conclusory statements," id.,  [*12] which are insufficient to pass muster under Rule 8. Ultimately, the FAC fails to give defendants "'fair notice of what the . . . claim is and the grounds upon which it rests.'" Twombly, 550 U.S. at 555 (quoting Conley, 355 U.S. at 47).
+At the very least, plaintiff should plead facts describing the nature of her disability and the adverse actions that she alleges she was subjected to by defendant Superior Court as a result of that disability. If these facts support a claim for direct disability discrimination under FEHA, plaintiff need not take the additional step of pleading the elements of a prima facie case under the McDonnell Douglas framework. See Swierkiewicz, 534 U.S. at 511 ("[I]f a plaintiff is able to produce direct evidence of discrimination, he may prevail without proving all the elements of a prima facie case.")
+Plaintiff's second claim will be dismissed, with leave granted to amend.
+
+D. Third claim: Failure to accommodate (FEHA)
+Plaintiff's third claim, also pled under FEHA, alleges defendant Superior Court's failure to accommodate her disability.
+With certain exceptions, FEHA makes it an "unlawful employment practice . . . [f]or an employer . . . to fail to make reasonable  [*13] accommodation for the known physical or mental disability of an applicant or employee." Cal. Gov't Code § 12940(m). "The essential elements of a failure to accommodate claim are: (1) the plaintiff has a disability covered by FEHA; (2) the plaintiff is a qualified individual (i.e., he or she can perform the essential functions of the position); and (3) the employer failed to reasonably accommodate the plaintiff's disability." Cuiellette v. City of Los Angeles, 194 Cal. App. 4th 757, 766, 123 Cal. Rptr. 3d 562 (2011) (internal quotation and citations omitted). Implicit in the third prong is the employer's knowledge of the disability, as provided for in the statute. See, e.g., Prilliman v. United Air Lines, Inc., 53 Cal. App. 4th 935, 950-951, 62 Cal. Rptr. 2d 142 (1997) ("[W]e conclude that an employer who knows of the disability of an employee has an affirmative duty to make known to the employee other suitable job opportunities with the employer . . .").
+While defendants are correct that plaintiff has failed to adequately plead this claim, they nevertheless go on to misstate the relevant law. Defendants cite King v. United Parcel Serv., 152 Cal. App. 4th 426, 60 Cal. Rptr. 3d 359 (2007), for the proposition that "under established case law arising  [*14] under FEHA, an employee has the burden of putting his or her employer on notice of a qualifying disability and resulting need for accommodation." (Reply 6, ECF No. 16.) But King addresses the plaintiff's evidentiary burden at summary judgment, and as such, is not relevant to what constitutes fair notice under Rule 8. Moreover, the specific facts of King — in which the plaintiff was released from disability leave by a doctor's note that permitted him to perform "his regular duties and regular hours" without further restriction — are what led the appeals court to find that the plaintiff was required to put his employer on notice that, despite what the note said, he still faced disability-related issues. Id. at 443. The holding of King should not be unduly generalized to all "failure to accommodate" cases. If plaintiff alleges facts from which the court can infer that defendant Superior Court knew of her disability, that is sufficient at the pleading stage.
+Plaintiff's third claim will be dismissed, with leave granted to amend.
+
+E. Fourth claim: Failure to engage in the interactive process (FEHA)
+Plaintiff's fourth claim, also pled under FEHA, alleges defendant Superior Court's failure to  [*15] engage in an interactive process to determine reasonable accommodations.
+FEHA makes it "an unlawful employment practice . . . [f]or an employer . . . to fail to engage in a timely, good faith, interactive process with the employee or applicant to determine effective reasonable accommodations, if any, in response to a request for reasonable accommodation by an employee or applicant with a known physical or mental disability or known medical condition." Cal. Gov't Code § 12940(n).
+Plaintiff has failed to allege that she directed a request to defendant Superior Court for reasonable accommodation. She has, again, failed to allege the nature of her disability. And she has also failed to allege that the Superior Court knew of her disability. In light of the foregoing, plaintiff's fourth claim will be dismissed, with leave granted to amend.
+
+F. Fifth claim: Retaliation (FEHA)
+Plaintiff's fifth claim, also pled under FEHA, alleges that defendant Superior Court retaliated against her for asserting her disability rights.
+FEHA makes it an "unlawful employment practice . . . [f]or any employer . . . to discharge, expel, or otherwise discriminate against any person because the person has opposed any practices  [*16] forbidden under this part or because the person has filed a complaint, testified, or assisted in any proceeding under this part." Cal. Gov't Code § 12940(h). "To state a claim of retaliation under FEHA, a plaintiff must show: (1) he engaged in a protected activity, (2) he was subjected to an adverse employment action, and (3) there is a causal link between the protected activity and the adverse employment action." Rope v. Auto-Chlor System of Wash., Inc., 220 Cal. App. 4th 635, 651, 163 Cal. Rptr. 3d 392 (2013) (citing Yanowitz v. L'Oreal USA, Inc., 36 Cal. 4th 1028, 1042, 32 Cal. Rptr. 3d 436, 116 P.3d 1123 (2005)).
+Plaintiff again fails to state a claim, as she has not pled facts describing the protected activity in which she engaged, the adverse employment action to which she was subjected, or a causal link between the two.
+Accordingly, plaintiff's fifth claim will be dismissed, with leave granted to amend.
+
+G. Sixth claim: Failure to prevent discrimination (FEHA)
+Plaintiff's sixth claim, also pled under FEHA, alleges that defendant Superior Court "fail[ed] to protect the Plaintiff from discrimination, harassment and/or retaliation because of her physical/mental disability." (FAC ¶ 38.)
+FEHA makes it an "unlawful employment practice . . . [f]or  [*17] an employer . . . to fail to take all reasonable steps necessary to prevent discrimination and harassment from occurring." Cal. Gov't Code § 12940(k).
+Plaintiff fails to state a claim under Section 12940(k), for two reasons. First, she has not pled facts satisfying the claim's elements. Section 12940(k) "creates a statutory tort action with the usual tort elements (duty of care to plaintiff, breach of duty, causation and damages)." Ellis v. U.S. Sec. Assocs., 224 Cal. App. 4th 1213, 169 Cal. Rptr. 3d 752 (2014) (quoting Ming W. Chin, et al., Cal. Practice Guide: Employment Litigation § 7:671 (2013)).
+Second, "An actionable claim under section 12940, subdivision (k) is dependent on a viable claim for discrimination." Rope, 220 Cal. App. 4th at 660. As noted above, plaintiff failed to state a claim for discrimination under FEHA; accordingly, her claim for failure to prevent discrimination must also fail.
+The court will dismiss plaintiff's sixth claim, but grant her leave to amend.
+
+H. Seventh claim: 42 U.S.C. § 1983
+Plaintiff's seventh claim, pled under 42 U.S.C. § 1983, is pled against defendant Gonzalez in his personal capacity. Plaintiff therein alleges that Gonzalez, acting "under color of state law, interfered  [*18] with Plaintiff's rights pursuant to the First Amendment of the U.S. Constitution." (FAC ¶ 42.)
+This claim is devoid of factual content, and as such, is inadequately-pled. One cannot even tell which First Amendment right plaintiff claims that Gonzalez interfered with. Was it plaintiff's right to freedom of speech or her right to petition the Government for a redress of grievances? Plaintiff's opposition further obscures the issue, as she therein cites the elements for pleading retaliation for the exercise of First Amendment rights. It should go without saying that claims for interference with the exercise of Constitutional rights (i.e., the claim that is purportedly pled in the FAC) are distinct from claims for retaliation for exercising such rights.
+Accordingly, plaintiff's seventh claim will be dismissed, with leave granted to amend.
+
+IV. CONCLUSION
+Based on the foregoing, the court hereby orders as follows:
+[1] Plaintiff's first cause of action is DISMISSED WITH PREJUDICE.
+[2] Plaintiff's remaining causes of action are DISMISSED WITHOUT PREJUDICE.
+[3] Plaintiff is GRANTED leave to file a second amended complaint no more than twenty-one (21) days after docketing of this order.
+IT  [*19] IS SO ORDERED.
+DATED: April 25, 2014.
+/s/ Lawrence K. Karlton
+LAWRENCE K. KARLTON
+SENIOR JUDGE
+UNITED STATES DISTRICT COURT
+
+
+End of Document
+

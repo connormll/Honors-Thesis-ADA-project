@@ -1,0 +1,54 @@
+Prado v. Fed. Express Corp.
+United States District Court for the Northern District of California, San Jose Division
+September 17, 2014, Decided; September 17, 2014, Filed
+Case No. 5:12-cv-03945-PSG
+
+Reporter
+2014 U.S. Dist. LEXIS 131274 *; 2014 WL 4648060
+JOSE A. PRADO, Plaintiff, v. FEDERAL EXPRESS CORPORATION, Defendant.
+Prior History: Prado v. Fed. Express Corp., 2014 U.S. Dist. LEXIS 186359 (N.D. Cal., July 29, 2014)
+Counsel:  [*1] For Jose A. Prado, Plaintiff: Joseph Donald Sutton, LEAD ATTORNEY, Hector R. Martinez, Marco A Palau, Stanley Scott Mallison, Mallison & Martinez, Oakland, CA.
+For Federal Express Corporation, Defendant: Charles W. Matheis, Jr., FedEx Express, Litigation, Irvine, CA; Craig Edward Lindberg, Emily Christin Pera, Federal Express Corporation, Irvine, CA; David Sidney Wilson, III, Federal Express Corporation, Litigation, Legal Department, Irvine, CA.
+Judges: PAUL S. GREWAL, United States Magistrate Judge.
+Opinion by: PAUL S. GREWAL
+Opinion
+
+
+
+ORDER GRANTING-IN-PART DEFENDANT'S MOTION FOR SUMMARY JUDGMENT AND DENYING DEFENDANT'S MOTION TO STRIKE PLAINTIFF'S REBUTTAL EXPERT WITNESS
+(Re: Docket Nos. 75 and 62)
+Before the court are Defendant Federal Express Corporation's ("FedEx") motion for summary judgment and motion to strike Plaintiff Jose A. Prado's rebuttal expert witness.1 Prado opposes both motions. The parties appeared for a hearing on September 2, 2014.2 As explained at the end of the hearing, after considering the arguments, both in the original papers and at the hearing, the court GRANTS-IN-PART the motion for summary judgment and DENIES the motion to strike.
+
+I. BACKGROUND
+Prado [*2]  was employed by FedEx from December 17, 1997 until April 14, 2010, when he was terminated following a series of events stemming from Prado's medical issues. Prado had his first stroke in January 2001. He suffered a second stroke in June 2009. Following his second stroke, Prado returned to work with medical restrictions that severely limited the type of work he could perform. When Prado was unable to find a position at FedEx that fit within his medical limitations, he was terminated.
+Over the course of his employment, Prado filed two complaints with the EEOC: one on January 13, 2009, and another on May 20, 2010, following his termination. Prado filed this suit on July 26, 2012.
+
+II. LEGAL STANDARDS
+
+A. Summary Judgment
+Pursuant to Fed. R. Civ. P. 56(a), the "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law."3 At the summary judgment stage, the court "does not assess credibility or weigh the evidence, but simply determines whether there is a genuine factual issue for trial."4 Material facts are those that may affect the outcome of the case.5 A dispute as to a material fact is genuine if there is [*3]  sufficient evidence for a reasonable jury to return a verdict for the nonmoving party.6
+
+III. DISCUSSION
+
+A. Motion for Summary Judgment
+FedEx moves for summary judgment as to each of Prado's nine causes of action: (1) failure to provide reasonable accommodation in violation of the Americans with Disabilities Act ("ADA"); (2) disability discrimination in violation of the ADA; (3) national origin discrimination in violation of Title VII; (4) failure to provide reasonable accommodation in violation of the California Fair Employment & Housing Act ("FEHA"); (5) failure to engage in the interactive process in violation of FEHA; (6) disability discrimination in violation of FEHA; (7) national origin discrimination in violation of FEHA; (8) failure to prevent discrimination in violation of FEHA; and (9) discrimination in violation of public policy.7 As to Prado's national origins claims,8 FedEx's motion for summary judgment is GRANTED. As to the remaining disability [*4]  claims,9 FedEx's motion is DENIED.
+a. National Origin Claims10
+In order to allege a claim of national origin discrimination under FEHA, a plaintiff must show that his employer, "because of . . . national origin, [or] ancestry, . . . refuse[d] to hire or employ [him] or . . . barred or [] discharged [him] from employment"11 Similarly, Title VII prohibits discrimination by an employer against an employee.
+It shall be an unlawful employment practice for an employer . . . to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's . . . national origin.12
+Notably, Prado does not present any arguments in opposition to FedEx's motion as to the national origin claims. In his complaint, Prado only alleges national origin discrimination based on Delfin Hernandez's inquiry into Prado's immigration status. However, for the purpose of a Title VII discrimination claim, "national origin" does not include immigration status.13 Similarly, California courts rely on federal interpretation of Title VII in determining national origin discrimination [*5]  claims under FEHA.14 Inquiries into immigration status under FEHA thus are valid as well. In order "to establish an actionable claim for relief under Title VII or FEHA, plaintiff would have to show that defendant's failure to hire him had the 'purpose or effect' of discriminating on the basis of his national origin."15 There is simply no evidence that FedEx's termination decision was predicated on anything other than the circumstances relating to Prado's medical disability. FedEx's motion is GRANTED as to causes of action 3 and 7.
+b. Disability Claims16
+As to Prado's disability claims, the papers make clear that the factual underpinnings of these claims are genuinely and materially in dispute. For example, the parties dispute whether Prado's failure to return to work and subsequent termination were due [*6]  to his disability or to his failure to obtain any available job for which he was qualified.17 The parties further dispute what qualities make up the essential functions of a handler.18 The parties additionally dispute whether FedEx failed to engage in the interactive process with Prado and whether Prado was able to perform the scanning function.19
+These are questions of fact for which there appears to be sufficient evidence for a reasonably jury to find in favor of Prado. FedEx's motion for summary judgment therefore is DENIED as to causes of action 1, 2, 4, 5, 6, 8 and 9.
+
+B. Motion to Strike
+This dispute is in regard to Prado's designation of Dr. Nicholas Butowski as a rebuttal expert as to the testimony of Dr. Michael Adelberg. Adelberg is listed as an initial expert witness by both parties. FedEx argues that Prado is not permitted to designate a rebuttal expert to rebut his own initial expert's testimony. FedEx contends that Prado merely [*7]  labeled Butowski a rebuttal expert because the time had passed to designate initial expert witnesses and serve an appropriate report. Prado counters that due to FedEx's intention to call Adelberg as an initial expert witness, even if Butowski may not testify as Prado's initial expert witness, Butowski could still properly rebut Adelberg's testimony.
+"A witness designated as a rebuttal expert witness, is a witness 'intended solely to contradict or rebut evidence on the same subject matter identified by an initial expert witness."20 If FedEx calls Adelberg to testify, then Prado will be permitted to call Butowski as a rebuttal expert. If, however, FedEx does not offer Adelberg's testimony, then Butowski will not be permitted to testify. FedEx's motion to strike is DENIED.
+IT IS SO ORDERED.
+Dated: September 17, 2014
+/s/ Paul S. Grewal
+PAUL S. GREWAL
+United States Magistrate Judge
+
+
+End of Document
+

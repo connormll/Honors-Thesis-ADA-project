@@ -1,0 +1,48 @@
+Giambrone v. Kearney & Co., P.C.
+United States District Court for the Middle District of Florida, Tampa Division
+September 22, 2016, Decided; September 23, 2016, Filed
+Case No: 8:16-cv-2083-T-30AAS
+
+Reporter
+2016 U.S. Dist. LEXIS 130142 *; 2016 WL 5338713
+JESSICA GIAMBRONE, Plaintiff, v. KEARNEY & COMPANY, P.C., a foreign corporation, Defendant.
+Subsequent History: Motion denied by Giambrone v. Kearney & Co., P.C., 2017 U.S. Dist. LEXIS 76435 (M.D. Fla., May 19, 2017)
+Motion denied by Giambrone v. Kearney & Co., P.C., 2017 U.S. Dist. LEXIS 89669 (M.D. Fla., June 12, 2017)
+Motion granted by, Motion denied by, Motion granted by, in part, Motion denied by, in part Giambrone v. Kearney & Co., P.C., 2017 U.S. Dist. LEXIS 113900 (M.D. Fla., July 21, 2017)
+Counsel:  [*1] For Jessica Giambrone, Plaintiff: Craig L. Berman, LEAD ATTORNEY, Berman Law Firm, PA, St Petersburg, FL.
+For Kearney & Company, P.C., a foreign corporation, Defendant: Gail Golman Holtzman, LEAD ATTORNEY, Jackson Lewis, PC, Tampa, FL; Matthew A. Klein, LEAD ATTORNEY, Jackson Lewis, PC, Orlando, FL.
+Judges: JAMES S. MOODY, JR., UNITED STATES DISTRICT JUDGE.
+Opinion by: JAMES S. MOODY, JR.
+Opinion
+
+
+
+ORDER
+THIS CAUSE is before the Court on Defendant's Motion to Dismiss Count IV of Plaintiff's Amended Complaint and Plaintiff's Response in Opposition (Dkts. 12, 15). The Court has carefully considered these filings, the complaint, and the applicable law and concludes, for the reasons discussed briefly below, that the motion should be denied.
+
+FACTUAL BACKGROUND
+Plaintiff Jessica Giambrone is a Certified Public Accountant formerly employed by Defendant Kearney and Company. In her amended complaint (Dkt. 9), Giambrone alleges that certain Kearney employees sexually harassed her and subjected her to a hostile work environment. Additionally, in Count IV, the count relevant to Kearney's motion, Giambrone alleges that Kearney retaliated against her for seeking a reasonable disability accommodation. More specifically, Giambrone alleges [*2]  that, after she suffered a serious knee injury requiring extensive rehabilitation, she sought a modified work schedule that would allow her to meet work demands while simultaneously allowing her to seek rehabilitative medical treatment on her knee. Giambrone alleges that, rather than accommodate her request, Kearney fired her.
+In Count IV, Giambrone claims that this conduct—Kearney's termination of her employment after she requested accommodations to mend her injured knee—violated the Florida Civil Rights Act, Fla. Stat. § 760.01 et seq. Kearney moves to dismiss the count, arguing that, as a matter of law, it does not.
+
+DISCUSSION
+Courts must dismiss claims that fail "to state a claim upon which relief may be granted." Fed. R. Civ. P. 12(b)(6); see Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). Ordinarily, to survive dismissal, a complaint need only contain a "short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. 8(a)(2). And courts must accept the factual allegations in the complaint as true. See Twombly, 550 U.S. at 570. But if no construction of the factual allegations would entitle the plaintiff to relief under the law, then the complaint has failed to state a claim on which relief may be granted, and dismissal is appropriate. See Marshall Cnty. Bd. Of Educ. V. Marshall Cnty. Gas Dist., 992 F.2d 1171, 1174 (11th Cir. 1993) (emphasis added).
+Kearney argues that the [*3]  relevant law in this case, Florida's Civil Rights Act (or "FCRA"), does not entitle Giambrone to any relief on Count IV because the law does not recognize her claim—retaliation for requesting a disability accommodation. The argument unfolds in four parts.
+First, Kearney correctly notes that, because the FCRA is modeled after the Americans with Disabilities Act (or "ADA"), to state a claim Giambrone must first allege that she engaged in protected activity. See Lucas v. W.W. Grainger, Inc., 257 F.3d 1249, 1260 (11th Cir. 2001).
+Second, Kearney points out that, despite being similarly modeled, the language of the FCRA does not specifically include the right to receive a reasonable accommodation for a disability, even though the ADA does include that right and even though the FCRA was recently amended and still left out this ADA right. Kearney argues that this silence is telling.
+Third, Kearney again correctly notes that, as a federal court sitting in diversity, this Court must interpret that statutory silence as the Florida Supreme Court would. See Nunez v. Geico Gen. Ins. Co., 685 F.3d 1205, 1210 (11th Cir. 2012).
+And fourth, Kearney argues that with no Florida appellate case law directly on point, "this Court is within its right to properly interpret the FCRA as not statutorily requiring a reasonable accommodation . [*4]  . . ." (Dkt. 12, p. 7). And, "[a]ccordingly, the request for one, [sic] is not statutorily protected as a matter of law." (Id.).
+The argument is a reasonable one—one that, as Kearney points out, this Court has recognized in the past in a slightly different context. See Westrich v. Diocese of St. Petersburg, Inc., No. 8:06-cv-210-T-30TGW, 2006 U.S. Dist. LEXIS 27624, 2006 WL 1281089, *2 (M.D. Fla. May 9, 2006) (finding that the FCRA's exclusion of pregnancy discrimination after Title VII included it "is a strong indication that [the Florida legislature] did not intend to include pregnancy-based discrimination in the FCRA"). The argument fails, however, primarily because it overstates this Court's "right" to interpret the Florida legislature.
+This Court, as Kearney recognizes, must interpret Florida law as the Florida Supreme Court would. Nunez, 685 F.3d at 1210. Absent a clear decision from that court, this Court must "follow decisions of the state's intermediate appellate courts unless there is some persuasive indication that the [Florida Supreme Court] would decide the issue differently." Id. (internal quotation marks and citations omitted).
+On the breadth of rights protected by the FCRA, the Florida appellate courts have made it clear: the FCRA is to be construed in conformity with the ADA, [*5]  and the FCRA should therefore apply to disability discrimination claims the same way the ADA applies to similar federal claims. See Wimberly v. Securities Tech. Grp., Inc., 866 So. 2d 146, 147 (Fla. 4th DCA 2004) (internal citations omitted); see also Lenard v. A.L.P.H.A. A Beginning, Inc., 945 So. 2d 618, 621 (Fla. 2d DCA 2006); Green v. Seminole Elec. Co-op. Inc., 701 So. 2d 646, 647 (Fla. 5th DCA 1997) (finding that the FCRA should be construed in conformity with the ADA and that, accordingly, "[o]besity can be a disability"). Indeed, the Eleventh Circuit has taken heed of these Florida appellate opinions and reached the same conclusion concerning the interpretation of the FCRA. See Greenberg v. BellSouth Telecomms., Inc., 498 F.3d 1258, 1263-64 (11th Cir. 1997).
+As even Kearney concedes, the ADA undoubtedly prohibits discrimination on the basis of a disability, and that discrimination includes the failure to make "reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual." 42 U.S.C. § 12112(b)(5)(A). This Court recently held that the same duty applies under the FCRA. See Barron v. Sch. Bd. of Hillsborough Cnty., 3 F. Supp. 3d 1323, 1334 (M.D. Fla. 2014). Similarly, the ADA undoubtedly prohibits retaliation based on an employee's exercise of her rights under the ADA, among which is the right to request a reasonable accommodation. See 42 U.S.C. § 12203(a); Norman v. Southern. Guar. Ins. Co., 191 F. Supp. 2d 1321, 1335-36 (M.D. Ala. 2002) (citing Stewart v. Happy Herman's Cheshire Bridge, Inc., 117 F.3d 1278, 1287 (11th Cir. 1997)). And again, this Court recently held that the same protection applies under the FCRA. See Barron, 3 F. Supp. 3d at 1334.
+In the face of this body of law from both federal and Florida courts, albeit not from the Florida Supreme Court, this Court [*6]  is not persuaded that a Florida Supreme Court ruling would differ from the interpretation that the FCRA affords the right to a workplace disability accommodation. The Court is likewise unpersuaded that the Florida Supreme Court would conclude that the FCRA does not recognize claims of retaliation for having requested a disability accommodation. The Court must therefore decline Kearney's invitation to dismiss the cause of action Giambrone raises in Count IV.
+It is therefore ORDERED AND ADJUDGED that:
+1. Defendant's Motion to Dismiss Count IV of the Amended Complaint (Dkt. 12) is DENIED.
+DONE and ORDERED in Tampa, Florida, this 22nd day of September, 2016.
+/s/ James S. Moody, Jr.
+JAMES S. MOODY, JR.
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

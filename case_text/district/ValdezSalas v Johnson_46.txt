@@ -1,0 +1,57 @@
+Valdez-Salas v. Johnson
+United States District Court for the District of Montana, Billings Division
+April 26, 2021, Decided; April 26, 2021, Filed
+Cause No. CV 20-134-BLG-SPW-TJC
+
+Reporter
+2021 U.S. Dist. LEXIS 251104 *; 2021 WL 6499532
+SERGIO VALDEZ-SALAS, Plaintiff, vs. FEDEX (Thane Johnson), Defendants.
+Prior History: Valdez-Salas v. Fedex, 2020 U.S. Dist. LEXIS 180991 (D. Mont., Sept. 30, 2020)
+Counsel:  [*1] Sergio Valdez-Salas, Plaintiff, Billings, MT.
+For Fedex (Thane Johnson), Defendant: Adrianna J. Potts, LEAD ATTORNEY, CROWLEY FLECK PLLP - BILLINGS, Billings, MT.
+Judges: Timothy J. Cavan, United States Magistrate Judge.
+Opinion by: Timothy J. Cavan
+Opinion
+
+
+ORDER
+This case comes before the Court on Defendant Fedex's motion to dismiss for failure to state a claim on which relief may be granted.
+On August 12, 2020, see Case Register Report (Doc. 6) at 1, Plaintiff Valdez-Salas ("Salas")1 filed a complaint (Doc. 7) in Montana's Thirteenth Judicial District Court, Yellowstone County. Pursuant to 28 U.S.C. § 1441, see Notice of Removal (Doc. 1) at 1, Fedex removed the case to this Court on August 31, 2020.
+On September 8, 2020, Fedex moved to dismiss the case for failure to state a claim on which relief may be granted (Docs. 4, 5). Salas responded on September 22, 2020 (Doc. 8). He also moved to proceed in forma pauperis on September 29, 2020 (Doc. 10). On September 30, 2020, Fedex replied in support of its motion to dismiss (Doc. 15).
+
+I. Motion to Proceed In Forma Pauperis
+Because Fedex filed the case in this Court, it paid the filing fee. Salas does not owe a fee at this time. In the event he later incurs fees, however, the Court will grant [*2]  his motion to proceed in forma pauperis.
+
+II. Failure to State a Claim
+Fedex moves to dismiss the complaint under Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim on which relief may be granted. The Federal Rules of Civil Procedure apply only after the case is removed from state court. See Fed. R. Civ. P. 81(c)(1). The sufficiency of Salas's complaint is governed by Montana law.
+Under Montana's rules of civil procedure, a complaint must contain "a short and plain statement of the claim showing that the pleader is entitled to relief." Mont. R. Civ. P. 8(a)(1). Montana's pleading standard requires a plaintiff to allege the factual basis of his claim. See, e.g., Mysse v. Martens, 279 Mont. 253, 926 P.2d 765, 773 (Mont. 1998).
+Salas's complaint alleges almost no facts at all. See, e.g., Compl. (Doc. 7) at 1-2. He states that Fedex, through its "management," Thane Johnson, was aware of "problems" that occurred "during P.M shifts," "investigated discrimination," asks that the Court order an investigation of "cause and effect," "take disciplinary action towards participants," and award him $ 25,000,000. Id. at 2.
+In response to Fedex's motion to dismiss, Salas provides little more information. He asserts he was an employee of Fedex and was treated differently than others "solely based on national origin and disability." Pl. [*3]  Resp. (Doc. 8) at 2. He claims Johnson "would instigate my isolation from Matheson co-workers." And he mentions Title VII of the Civil Rights Act and Title I of the Americans with Disabilities Act. See id. at 1.
+Fedex is correct that the complaint fails to state a claim. The Court is unable to understand in what ways Salas was treated differently from others, why he believes the reason lay in his disability and national origin, or why he believes Fedex or Johnson should be held responsible.
+Under federal law, however, Salas is entitled to an opportunity to amend his complaint in view of the following guidance. See Akhtar v. Mesa, 698 F.3d 1202, 1212 (9th Cir. 2012); Ferdik v. Bonzelet, 963 F.2d 1258, 1261 (9th Cir. 1992). Any amended complaint must comply with the federal rule and standard in Federal Rule of Civil Procedure 8(a)(2). The United States Supreme Court explains this requirement:
+[A] complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face. A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged. The plausibility standard is not akin to a probability requirement, but it asks for more than a sheer possibility that a defendant [*4]  has acted unlawfully. Where a complaint pleads facts that are merely consistent with a defendant's liability, it stops short of the line between possibility and plausibility of entitlement to relief.
+Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (internal quotation marks and citations omitted).
+Salas must provide facts showing who did what, when, where, how, and why. As a simplistic example of the plausibility standard, a plaintiff might say, "On April 7, 2020, I walked up to the counter at Burger Boy, ordered a Deluxe, paid $ 9.00, and all I got in return was a bun with mustard. Burger Boy violated § 3(a)(7) of the Clara Peller Act." This approach matches up case-specific facts with law or a cause of action. It also meets the plausibility standard, because it is unlikely that a mustard sandwich at a fast-food restaurant would cost $ 9.00. If plaintiff claimed to pay $ 1.00 instead of $ 9.00, his complaint might not meet the plausibility standard.
+If Salas chooses to amend his complaint, he must at least match up case-specific facts with law clearly enough to enable the Court and Fedex to understand what facts are at issue and why Salas believes the law entitles him to relief. For example, if Salas believes Fedex violated the Americans with Disabilities Act, he must at [*5]  least provide facts showing that he has a disability, was qualified to do the work required of him with or without reasonable accommodations for his disability, and that Fedex was responsible for accommodating his needs.
+Finally, the Court notes that Salas requests a hearing to "nam[e] specific events and witness." Pl. Resp. (Doc. 8) at 2. Under the First Amendment to the United States Constitution, courts "recognize a general right to inspect and copy public records and documents, including judicial records and documents." Nixon v. Warner Comms., Inc., 435 U.S. 589, 597, 98 S. Ct. 1306, 55 L. Ed. 2d 570 (1978). Due to the "strong presumption in favor of access to court records," the Court may permit a litigant to keep certain facts confidential only if the litigant shows a specific "compelling reason" to do so. Foltz v. State Farm Mut. Auto. Ins. Co., 331 F.3d 1122, 1135 (9th Cir. 2003); see also, e.g., EEOC v. Erection Co., 900 F.2d 168, 169-70 (9th Cir. 1990); D. Mont. L.R. 1.3(a), (b), 5.2 (Dec. 1, 2019). The nature of a plaintiff's disability and the identities of people who provide testimony in civil lawsuits are generally not kept secret, see, e.g., Koessel v. Sublette County Sheriff's Dep't, 717 F.3d 736, 740?41 (10th Cir. 2013) (describing effects of plaintiff's stroke), because the public has a right to know the reasons for courts' decisions and judgments.
+Salas may submit his amended complaint under seal, but he must serve it on Fedex, and he must explain to the Court what compelling reason or reasons he has for keeping it under seal. If sealing [*6]  is not permitted, Salas may have to choose between pursuing his lawsuit and keeping his confidences.
+
+III. Conclusion
+Fedex is correct that the complaint should be dismissed for failure to state a claim on which relief may be granted. But the Court will not recommend that Salas's case be dismissed at this time. The complaint will be dismissed with leave to amend, and Salas will have an opportunity to file an amended complaint. Fedex may then decide whether to file a new motion under Rule 12 or an answer.
+If Salas does not respond to this Order, the Court will recommend dismissal of the case.
+Based on the foregoing, the Court enters the following:
+
+ORDER
+1. Valdez-Salas's motion to proceed in forma pauperis (Doc. 10) is GRANTED.
+2. Defendant Fedex's motion to dismiss (Doc. 4) is GRANTED. The complaint (Doc. 7) is DISMISSED with leave to amend.
+3. On or before May 24, 2021, Valdez-Salas may file an amended complaint.
+4. With Salas's service copy of this Order, the clerk shall include a form amended complaint.
+Valdez-Salas must immediately notify the Court of any change in his mailing address by filing a "Notice of Change of Address." Failure to do so may result in dismissal of his case without notice to [*7]  him.
+DATED this 26th day of April, 2021.
+/s/ Timothy J. Cavan
+Timothy J. Cavan
+United States Magistrate Judge
+
+
+End of Document
+

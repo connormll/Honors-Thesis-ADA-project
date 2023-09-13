@@ -1,0 +1,59 @@
+Walker v. Inventiv Health, Inc
+United States District Court for the Northern District of Oklahoma
+September 28, 2020, Decided; September 28, 2020, Filed
+Case No. 17-CV-345-JED-FHM
+
+Reporter
+2020 U.S. Dist. LEXIS 269786 *; 2020 WL 13702741
+LAURA L. WALKER, Plaintiff, v. INVENTIV HEALTH, INC, Defendant.
+Counsel:  [*1] Laura L Walker, Plaintiff, Pro se.
+For inVentiv Health, Inc., a Delaware corporation, Defendant: Conor H Kelly, Kerry E Notestine, LEAD ATTORNEYS, Littler Mendelson PC (Houston), Houston, TX USA; Randall James Snapp, LEAD ATTORNEY, Crowe & Dunlevy (Tulsa), Tulsa, OK USA.
+Judges: JOHN E. DOWDELL, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: JOHN E. DOWDELL
+Opinion
+
+
+
+ORDER
+Before the Court is the defendant's Motion for Summary Judgment and Sanctions for Failure to Participate in Discovery (Doc. 35, 36), to which plaintiff responded (Doc. 42). The defendant also filed a reply brief (Doc. 43).
+
+I. Background
+The plaintiff, Laura L. Walker, initiated this suit against the defendant in state court, asserting claims under the Americans with Disabilities Act (ADA) and the Family and Medical Leave Act (FMLA). The defendant removed the case, asserting federal question jurisdiction under 28 U.S.C. § 1331. The Court dismissed plaintiff's FMLA claims (see Doc. 29), so only her ADA claim remains to be determined. The defendant moves for summary judgment on the remaining ADA claim.
+In its summary judgment motion, the defendant set forth an organized statement of undisputed facts, supported by evidence. While plaintiff filed a response, she provided no evidentiary support or anything more [*2]  than unsupported denials. (See Doc. 42).1 As a result, the following facts are supported by the evidence and are undisputed.
+Ms. Walker worked for inVentiv Commercial Services, LLC as a Neuroscience Specialty Sales Representative for less than a year. She began work on September 29, 2014. On June 18, 2015, she took leave from work for an unspecified medical condition. On June 26, 2015, the defendant e-mailed Ms. Walker a number of documents containing instructions regarding the leave process. Those instructions included directions to contact the defendant's third-party leave administrator if Ms. Walker expected to be absent for more than three days due to a serious health condition, if she needed time off as an accommodation, or if she believed her time off should be otherwise protected according to state or federal law.
+Ms. Walker did not respond or contact the third-party administrator about her leave request, and she continued to be absent from work. The third-party administrator, Cigna, determined that Ms. Walker's leave was not covered by the FMLA, and on July 17, 2015, the defendant then sent her documents for beginning the interactive process under the ADA. The [*3]  documentation included an ADA Request for Disability Accommodation form, which requested information regarding the projected length of Ms. Walker's medical leave, her job limitations, and the accommodations she would need to perform the essential functions of her position. It requested additional information from her medical provider. Ms. Walker never completed the ADA request form.
+On July 28, 2015, the defendant reminded Ms. Walker that Cigna had not received her ADA request form and informed her that she needed to return it within 15 days of receipt, by August 4, 2015, in order to continue the process. On August 6, 2015, the defendant again asked Ms. Walker to return the ADA request form. She then returned a form beginning the interactive process to request a medical accommodation, but did not complete the ADA request form. The defendant immediately acknowledged receipt of the medical accommodation form, but notified Ms. Walker that she must also complete the ADA request form.
+Ms. Walker informed the defendant that she would return to work on August 10, 2015. The defendant left her a voicemail on August 7, 2015 to confirm that she would return to work on Monday, August 10. She did [*4]  not respond, and she did not return to work on August 10. The defendant called her to determine why she did not return to work, and she then indicated she needed to extend her leave. She finally returned a portion of the ADA request form, but it did not include any of the required medical information from her medical provider. She then e-mailed her manager, Kevin Nelson, later in the day on August 10, informing him that she had a diagnosis of autoimmune thyroiditis and that she would return to work August 13, 2015. The defendant again requested completion of the paperwork from her medical provider and indicated that she needed to complete a fitness for duty form before returning to work.
+At 11:16 p.m. on August 12, 2015 - in the late evening the day before she was finally to return to work after two months off — Ms. Walker e-mailed Mr. Nelson and told him that she "had a relapse" and would not be able to return to work until the following Monday, August 17, 2015. She still had not returned a completed ADA request form, which she had repeatedly been instructed to provide. As a result, the defendant notified Ms. Walker that her time off was not approved and that she must return to work [*5]  on August 17, 2015 or her employment would be terminated. Ms. Walker replied on August 16, 2015 asking for an additional four weeks, but she did not provide an expected date to return to work. Ms. Walker indicated that she had been bedridden and undergone surgery but provided no medical documentation.
+Ms. Walker did not show up to work on August 17, 2015, and her employment was terminated for failing to return to work after abandoning the interactive process. (See Doc. 35-3). She subsequently filed this suit. However, Ms. Walker repeatedly failed to participate in discovery in this case, and she apparently did not cooperate with her counsel. Ms. Walker admits that she failed to participate in discovery and to comply with the Court's Scheduling Order. (See Doc. 42 at 6, ¶¶ 7-8). Her deposition was noticed after her counsel failed to respond to e-mails requesting dates for her deposition. Her counsel finally confirmed that Ms. Walker would appear for the scheduled deposition, which required the defendant's counsel to prepare for the deposition and book travel from Houston to Tulsa. On the morning of the scheduled deposition, less than one hour before it was set to begin, plaintiff's counsel [*6]  informed defense counsel that plaintiff would not appear for her deposition. Her counsel reported his surprise and forwarded a message alleging that she could not appear for medical reasons. Defendant's counsel responded and requested medical documentation substantiating Ms. Walker's inability to attend because of an alleged medical emergency. Ms. Walker did not provide any medical documentation or provide any further explanation for her absence.
+Ms. Walker failed to participate in other discovery or comply with scheduling deadlines in this case. She never provided initial disclosures, did not provide witness or exhibit lists, and did not respond to written discovery requests. As a result, the defendant requests dismissal and attorneys' fees and costs for their preparation for and attendance at her deposition, which she did not herself attend.
+
+II. Discussion
+
+A. Plaintiff's Request for Additional Delay
+In her response brief, plaintiff cites Fed. R. Civ. P. 56(d) and requests that the Court defer ruling on the summary judgment motion and permit plaintiff more time to conduct discovery. (Doc. 42 at 9). However, she had the opportunity to conduct discovery, she herself admits that she refused to respond to discovery [*7]  requests or attend her deposition, and she has not provided any justification for a Rule 56(d) delay. While her counsel provided a bare bones affidavit, it does not identify any "specified reasons" that she cannot present facts essential to justify her opposition. See Fed. R. Civ. P. 56(d). A party requesting additional discovery must identify the facts not available, why those facts cannot be presented without additional time, identify the steps taken to obtain the facts, and describe how additional time will enable the non-movant to rebut the motion for summary judgment. See Valley Forge Ins. Co. v. Health Care Mgmt. Partners, 616 F.3d 1086, 1096 (10th Cir. 2010) (citations omitted). Ms. Walker has not provided any justification for delay, and her request under Rule 56(d) is thus denied.
+
+B. Summary Judgment is Appropriate
+Other than to merely suggest that she should be permitted more time to conduct discovery, Ms. Walker does not provide any factual basis or legal argument in response to the defendant's summary judgment motion. As noted, she has provided no evidence to refute the evidentiary record, which establishes that Ms. Walker abandoned the interactive ADA process and never returned the completed ADA request paperwork or the medical documentation required. In short, Ms. Walker has provided no evidence to [*8]  overcome the evidence showing that she abandoned the interactive process or to dispute that her employment was properly terminated and not in violation of the ADA. The defendant's motion for summary judgment is thus granted.
+
+C. Sanctions
+Ms. Walker has admitted that she failed to comply with discovery and did not appear for her deposition. While she asserts in her response brief that she ultimately provided some documentation, which she asserts is exhibit 2 to her filing, see Doc. 42 at 7, ¶ 9, she has not provided that or any other evidence with her response, and the defendant indicates that it was not provided to the defendant either, see Doc. 43 at 3 (noting that no such document was produced in discovery). There is nothing in the record on the defendant's dispositive motion that would justify plaintiff's failure to comply with discovery obligations or the Court's Scheduling Order. She never provided initial disclosures, a deposition, written discovery responses, or witness and exhibit lists. Considering the Ehrenhaus v. Reynolds, 965 F.2d 916, 921 (10th Cir. 1992) factors, the Court determines that this case should also be dismissed as a sanction for her blatant failure to comply with discovery and other case obligations. She has provided [*9]  no justification for her failures and, given her failure to do even a bare minimum in this case, the Court does not find lesser sanctions would be effective. In addition, her unjustified failures to comply with discovery and other requirements are obviously prejudicial to the defendant.
+Accordingly, the defendant's request for dismissal based on her failure to comply with discovery is an alternate, and appropriate, basis for dismissal of her claim. Because the Court has determined to grant summary judgment, the Court does not deem additional sanctions, including monetary relief, to be necessary. The defendant's request for additional sanction of attorneys' fees is therefore denied.
+
+III. Conclusion
+As set forth above, the defendant's Motion (Doc. 35, 36) is granted. Summary judgment is granted in favor of the defendant and against the plaintiff. A separate judgment will be entered. As a result of the foregoing, the motions in limine (Doc. 45, 46) are moot.
+SO ORDERED this 28th day of September, 2020.
+/s/ John E. Dowdell
+JOHN E. DOWDELL, CHIEF JUDGE
+UNITED STATES DISTRICT COURT
+
+JUDGMENT
+The Court has entered an order determining that the defendant is entitled to dismissal and judgment as a matter [*10]  of law on the plaintiff's claims. (See Doc. 54). As a result, judgment is hereby entered in favor of the defendant and against the plaintiff.
+DATED this 28th day of September, 2020.
+/s/ John E. Dowdell
+JOHN E. DOWDELL, CHIEF JUDGE
+UNITED STATES DISTRICT COURT
+
+
+End of Document
+

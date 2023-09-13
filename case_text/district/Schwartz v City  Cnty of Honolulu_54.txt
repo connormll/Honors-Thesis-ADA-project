@@ -1,0 +1,255 @@
+Schwartz v. City & Cnty. of Honolulu
+United States District Court for the District of Hawaii
+February 22, 2017, Decided; February 22, 2017, Filed
+CIV. NO. 14-00527 HG-KJM
+
+Reporter
+2017 U.S. Dist. LEXIS 24946 *; 2017 WL 701357
+SHEFFIELD S.K.G.K. SCHWARTZ, Plaintiff, vs. CITY AND COUNTY OF HONOLULU, Defendant.
+Subsequent History: Appeal dismissed by Schwartz v. City & Cty. of Honolulu, 2018 U.S. App. LEXIS 17754 (9th Cir. Haw., Jan. 8, 2018)
+Counsel:  [*1] For Sheffield S.K.G.K. Schwartz, Plaintiff: Charles H. Brower, LEAD ATTORNEY, Pioneer Plaza, Honolulu, HI; Michael P. Healy, LEAD ATTORNEY, Honolulu, HI.
+For Honolulu, City & County of, Defendant: Curtis E. Sherwood, Traci Rei G. Morita, LEAD ATTORNEYS, Office of Corporation Counsel-Honolulu, Honolulu, HI.
+Judges: Helen Gillmor, United States District Judge.
+Opinion by: Helen Gillmor
+Opinion
+
+
+
+ORDER GRANTING DEFENDANT CITY AND COUNTY OF HONOLULU'S MOTION FOR SUMMARY JUDGMENT (ECF No. 43)
+Plaintiff Sheffield S.K.G.K. Schwartz has filed a Complaint against his former employer, the City and County of Honolulu. Plaintiff alleges the Defendant failed to provide an accommodation for him in violation of the Americans with Disabilities Act.
+The Defendant City and County of Honolulu seeks summary judgment. The Defendant asserts that Plaintiff was employed as a refuse collector and was absent from work without authorization from January 3, 2012 to April 28, 2012. Defendant asserts that Plaintiff was terminated in October 2012 due to his four-month unauthorized work absence.
+The Defendant City and County of Honolulu's Motion for Summary Judgment (ECF No. 43) is GRANTED.
+
+PROCEDURAL HISTORY
+On November 19, 2014, Plaintiff filed a Complaint. [*2]  (ECF No. 1).
+On April 8, 2015, the Defendant filed a Motion to Dismiss. (ECF No. 11).
+On April 21, 2015, Plaintiff filed a FIRST AMENDED COMPLAINT. (ECF No. 16).
+On April 24, 2015, the Defendant filed a Notice of Withdrawal of its Motion to Dismiss. (ECF No. 19).
+On September 28, 2015, Defendant filed a Motion to Compel Discovery and for an Award of Attorneys' Fees and Costs. (ECF No. 26).
+On November 10, 2015, the Magistrate Judge held a Status Conference and denied Defendant's Motion to Compel Discovery and for an Award of Attorneys' Fees and Costs without prejudice. (ECF No. 32).
+On August 25, 2016, the Parties requested a continuance of the trial date and trial-related deadlines, which was granted. (ECF No. 40).
+On November 15, 2016, Defendant filed DEFENDANT CITY AND COUNTY OF HONOLULU'S MOTION FOR SUMMARY JUDGMENT (ECF No. 43) and DEFENDANT CITY AND COUNTY OF HONOLULU'S SEPARATE AND CONCISE STATEMENT OF FACTS. (ECF No. 44).
+On December 5, 2016, Plaintiff filed PLAINTIFF SHEFFIELD S.K.G.K. SCHWARTZ'S MEMORANDUM IN OPPOSITION TO DEFENDANT CITY AND COUNTY OF HONOLULU'S MOTION FOR SUMMARY JUDGMENT (ECF No. 49) and PLAINTIFF SHEFFIELD S.K.G.K. SCHWARTZ'S CONCISE STATEMENT OF FACTS IN RESPONSE [*3]  TO DEFENDANT CITY AND COUNTY OF HONOLULU'S CONCISE STATEMENT OF FACTS IN SUPPORT OF DEFENDANT'S MOTION FOR SUMMARY JUDGMENT. (ECF No. 48).
+On December 12, 2016, Defendant filed its Reply. (ECF No. 50).
+On January 5, 2017, the Court held a hearing on Defendant's Motion for Summary Judgment.
+
+BACKGROUND
+The Parties do not dispute the following facts:
+Plaintiff Sheffield S.K.G.K. Schwartz was employed as a refuse collector with the City and County of Honolulu. (Declaration of David Shiraishi ("Shiraishi Decl."), Refuse Collection Administrator with the City and County of Honolulu's Environmental Services Division, at ¶ 8, ECF No. 44-2).
+Plaintiff held the position for approximately thirty years from 1982 until October 2012. (Id.; Declaration of Kassydy Manuel ("Manuel Decl."), Daughter of Plaintiff, at ¶ 11, ECF No. 48-2).
+
+COLLECTIVE BARGAINING AGREEMENT
+Plaintiff was subject to a Collective Bargaining Agreement as a union employee member of the United Public Workers. (Shiraishi Decl. at ¶¶ 4-5, ECF No. 44-2). The Collective Bargaining contained provisions governing sick leave. (Id.) Section 37.06 of the Collective Bargaining Agreement concerning sick leave provided, as follows:
+The Employee shall submit a [*4]  licensed physician's certificate for absences of five (5) or more consecutive workdays to substantiate that the absence was due entirely to sickness and that the Employee is physically and/or mentally able to resume the duties of the Employee's position.
+(Unit 1 Collective Bargaining Agreement, attached as Ex. A to Def.'s Concise Statement of Facts ("CSF"), at p. 90, Section 37.06, ECF No. 44-4).
+In addition, the Collective Bargaining Agreement required medical certification for a leave of absence without pay of five days or more. Section 38.08a of the Collective Bargaining Agreement stated:
+To recuperate from physical or mental illnesses provided for a leave of absence without pay of five (5) or more consecutive working days, an Employee shall submit a licensed physician's certificate to substantiate the leave of absence without pay was due entirely to sickness and that the Employee is physically and/or mentally able to resume the duties of the Employee's position.
+(Id. at p. 97, Section 38.08a).
+The Collective Bargaining Agreement contained a section governing unauthorized leaves of absence. The Agreement provided:
+
+38.11 UNAUTHORIZED LEAVE OF ABSENCE
+38.11a. An absence from work which does not meet the requirements for an authorized leave, with or [*5]  without pay, shall be charged as unauthorized leave of absence from work.
+38.11b. The unauthorized leave of absence from work shall not be considered as service rendered.
+38.11c. When an Employer decides to discipline an Employee as provided in Section 38.11a. for unauthorized leave of absence without pay the discipline for just and proper cause as provided in Section 11.01 shall be as follows:
+38.11c.1. Each day of unauthorized leave of absence without pay shall be considered as one (1) violation.
+38.11c.2. Each violation shall be considered as unauthorized leave of absence without pay for payroll purposes and shall result in discipline as provided in the following schedule:
+
+(Id. at p. 99, Section 38.11).
+
+CITY AND COUNTY OF HONOLULU CIVIL SERVICE RULES
+Plaintiff's employment was also subject to the Civil Service Rules of the City and County of Honolulu. (Shiraishi Decl. at ¶ 10, ECF No. 44-2). The City and County's Civil Service Rules contained a provision stating that an employee would be placed on leave without pay status if [*6]  the employee was absent without authorization:
+
+§8-9 Unauthorized leave of absence.
+An employee who is absent from duty without proper authorization shall be placed on unauthorized leave of absence without pay.
+(Civil Services Rules of the City and County of Honolulu, attached as Ex. B to Def.'s CSF, ECF No. 44-5).
+
+PLAINTIFF'S ABSENCE FROM WORK BETWEEN JANUARY 2012 TO APRIL 2012
+Plaintiff's absence from work started on January 3, 2012. (Attendance Log for Plaintiff's absences from January to April 2012, attached as Ex. C to Def.'s CSF, ECF No. 44-6).
+Plaintiff called daily to request leave for each workday from January 3, 2012 to April 28, 2012. (Id.) Plaintiff provided a variety of reasons for his leave requests including "back pain," "sick," "flu," "emergency vacation," and "child care." (Id.)
+The Attendance Log indicates that Plaintiff requested leave for 89 days between January 3, 2012 and April 28, 2012. (Id.) The Log indicates that over the four-month period, each day Plaintiff consistently informed his employer that he would return to work the following workday. (Id.; E-mails dated April 19 and April 20, 2012 between City and County Staff regarding Plaintiff's leave requests, attached as [*7]  Ex. 11 to Pla.'s CSF, ECF No. 48-13).
+Plaintiff called in requesting leave due to sickness 78 times between January and April 2012. (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6). Plaintiff provided a variety of different explanations as to why he was requesting sick leave. Plaintiff requested sick leave due to pain in his back on 11 occasions. (Id.) Plaintiff also called in on multiple days claiming to have the flu. (Id.) On more than 50 workdays, Plaintiff requested sick leave and did not provide any information as to the ailment that impaired his ability to work. (Id.)
+Plaintiff requested "emergency vacation leave" 11 times. (Id.) Plaintiff stated that he needed to take emergency vacation to provide child care for his son or for his family members. (Id.)
+On April 19, 2012, after being alerted to the Plaintiff's protracted absence, David Shiraishi, the City and County's Refuse Collection Administrator, spoke with Plaintiff concerning his leave requests. (Shiraishi Decl. at ¶ 13, 16, 18, ECF No. 44-2)). Plaintiff asked Shiraishi if he could return to work the following day, despite his nearly four months of absences and the variety of reasons proffered for his absences. [*8]  (E-mail from David Shiraishi to Bert Wong at p. 2, dated April 19, 2012, attached as Ex. 11 to Pla.'s CSF, ECF No. 48-13).
+Shiraishi requested that Plaintiff provide a doctor's note for the 78 absences where he requested sick leave. (Id.; Shiraishi Decl. at ¶ 15, ECF No. 44-2). Plaintiff told Shiraishi that he could not get a doctor's note because he was not absent due to sickness. (Shiraishi Decl. at ¶ 15, ECF No. 44-2).
+On April 19, 2012, Shiraishi informed Plaintiff he could return to work the next day on April 20, 2012, but he would need documentation to verify his absences for his sick leave and verification that he could return to work. (E-mail from David Shiraishi at p. 3, attached as Ex. 11 to Pla.'s CSF, ECF No. 48-13).
+Plaintiff did not return to work on April 20, 2012. He requested emergency vacation leave from April 20, 2012 to April 28, 2012. (Attendance Log at p. 3, attached as Ex. C to Def.'s CSF, ECF No. 44-6).
+
+INVESTIGATION INTO PLAINTIFF'S FOUR-MONTH ABSENCE FROM WORK
+On April 20, 2012, the Defendant City and County of Honolulu began an investigation into Plaintiff's absences from work between January and April 2012. (E-mails dated April 20, 2012 between City and County Staff, attached as Ex. 11 to Pla.'s CSF, ECF No. 48-13).
+Plaintiff continued to [*9]  be absent from work during the investigation. There is no indication in the record that Plaintiff returned to work at any time following the start of the investigation on April 20, 2012.
+The Declaration of Plaintiff's daughter, Kassydy Manuel, states that Plaintiff sought to return to work in May 2012 but the Defendant City and County of Honolulu would not let him return. (Manuel Decl. at ¶ 21, ECF No. 48-2).
+
+First Disability Certificate's Lack of Information
+During the investigation, Defendant requested medical evidence from Plaintiff to support his 78 requests for sick leave between January 2012 and April 2012.
+On May 3, 2012, Plaintiff provided the Defendant City and County of Honolulu with a "Disability Certificate." (First Disability Certificate attached as Ex. 2 to Pla.'s CSF, ECF No. 48-4). The certificate was signed by Dr. Kenneth M. Sunamoto. (Id.) The document stated Plaintiff was incapacitated from February 1, 2012 to May 4, 2012. (Id.)
+Dr. Sunamoto's certificate did not state the reasons for Plaintiff's incapacitation. There was no indication as to what illness or disability prevented Plaintiff from working. There was no medical information provided on the certificate. There [*10]  was no evidence that Plaintiff had been examined by Dr. Sunamoto. (Id.) The certificate only contained a checked box stating that Plaintiff was "sufficiently recovered to resume a normal workload." (Id.)
+
+The Second Disability Certificate Also Lacked Information
+On June 1, 2012, Plaintiff provided Defendant with a second Disability Certificate from Dr. Sunamoto. (Second Disability Certificate, attached as Ex. 1 to Pla.'s CSF, ECF No. 48-3). The second certificate stated that Plaintiff was incapacitated from January 1, 2012 to February 1, 2012, and checked the box that Plaintiff was "sufficiently recovered to resume a normal workload" as of February 1, 2012. (Id.)
+
+Defendant City and County's Requests for Further Information from Dr. Sunamoto in June and July 2012
+On June 15, 2012, Defendant wrote to Dr. Sunamoto requesting information as to the reasons for Plaintiff's incapacitation and about his ability to return to work. (First Letter to Dr. Sunamoto, attached as Ex. J to Def.'s Reply, ECF No. 50-6). Defendant requested information to determine if Plaintiff's four-month absence was entirely due to sickness. The Defendant also requested information from Dr. Sunamoto to evaluate if Plaintiff [*11]  was physically and/or mentally able to resume the duties of his position.
+The Defendant also wrote to Dr. Sunamoto for clarification regarding inconsistencies in the two disability certificates that he signed. The certificates were inconsistent because one document stated Plaintiff could resume work as of February 1, 2012, and one document stated that Plaintiff could resume work as of May 4, 2012.
+Dr. Sunamoto did not respond to the Defendant City and County of Honolulu's request.
+A month later, on July 13, 2012, Defendant wrote to Dr. Sunamoto a second time requesting the same information and clarification. (Second Letter to Dr. Sunamoto, attached as Ex. K to Def.'s Reply, ECF No. 50-7).
+A few days later, on July 18, 2012, Dr. Sunamoto sent a letter to the Defendant in response. (Letter from Dr. Sunamoto, attached as Ex. L to Def.'s Reply, ECF No. 50-8). Dr. Sunamoto's letter, in its entirety, stated as follows:
+I saw Scheffield [sic] on 5/2/2012 and wrote a disability excuse for the dates 2/1/12 to 5/4/12 then on 6/1/12 extended the excuse to 1/1/12 to 5/4/12[.] He had not seen me prior to 5/2/12 since 5/9/11. Sheffiield [sic] is able to resume his normal workload as of 5/4/12[.]
+(Id. [*12] )
+Remarkably, Dr. Sunamoto provided no information as to the nature of Plaintiff's illness, incapacitation, or inability to work from January to April 2012.
+
+SEPTEMBER 2012 PRE-DETERMINATION HEARING
+Following the investigation, on September 13, 2012, the Defendant City and County of Honolulu sent Plaintiff a letter. (Pre-Determination Hearing Letter, attached as Ex. 3 to Pla.'s CSF, ECF No. 48-5). The September 13, 2012 letter informed Plaintiff that it believed there was cause to terminate his employment due to his four-months of unauthorized absences and stated, as follows:
+We have determined that there is sufficient cause to terminate your employment as a Refuse Collector, Division of Refuse Collection and Disposal. It is alleged that you were on unauthorized leave of absence from January 1, 2012, to May 1, 2012; therefore, you may have violated Section 38.11, Unauthorized Leave of Absence, of the Unit 1 Collective Bargaining Agreement.
+A pre-determination hearing to discuss the allegation and subsequent investigation will be held on Wednesday, September 19, 2012, at 10:00 a.m....
+(Id.)
+On September 19, 2012, Plaintiff attended the predetermination hearing with his daughter, Kassydy Manuel. (Manuel Decl. [*13]  at ¶ 25, ECF No. 48-2). A Union agent and a Union steward were also present at the hearing. (October 11, 2012 Termination Letter, attached as Ex. 8 to Pla.'s CSF, ECF No. 48-10).
+At the hearing, the City and County of Honolulu informed Plaintiff that he violated the Union's Collective Bargaining Agreement because he had requested sick leave for 78 days without providing any medical information or medical certification to support his requests made from January to April 2012. (Manuel Decl. at ¶ 26, ECF No. 48-2). Defendant asked Plaintiff to provide sufficient medical records to verify that his absences were entirely to due sickness. (Id.)
+Plaintiff stated that he did not have any medical records from any time from January to April 2012. Plaintiff stated that he did not visit the doctor prior to May 2012 because he did not have coverage for medical treatment. (October 11, 2012 Termination Letter, attached as Ex. 8 to Pla.'s CSF, ECF No. 48-10). Plaintiff stated that he would try to provide the Defendant with documentation to verify his medical condition from January to April 2012. (Id.)
+Following the hearing, Plaintiff sent a letter to Dr. Sunamoto to request documentation to support his [*14]  leave requests between January and April 2012. (Letter from Plaintiff to Dr. Sunamoto, dated September 19, 2012, attached as Ex. 4 to Pla.'s CSF, ECF No. 48-6).
+
+OCTOBER 11, 2012 TERMINATION LETTER
+On October 11, 2012, the Defendant City and County of Honolulu sent Plaintiff a letter informing him that he would be terminated as of October 26, 2012. (October 11, 2012 Termination Letter at pp. 1-2, attached as Ex. 8 to Pla.'s CSF, ECF No. 48-10). The letter explained that Plaintiff was terminated due to unauthorized leave of absences in violation of Section 38.11 of the Unit 1 Collective Bargaining Agreement. (Id. at p. 1).
+The letter stated that as of October 11, 2012, the Defendant City and County of Honolulu had not received any medical records to verify Plaintiff's absences between January 2012 and April 2012 were entirely due to his medical condition. (Id. at p. 2).
+
+PLAINTIFF PROVIDED MEDICAL RECORDS TO DEFENDANT FOR THE FIRST TIME ON OCTOBER 15, 2012
+On October 15, 2012, Plaintiff provided Defendant with a report of a doctor's visit he had with Dr. Sunamoto from May 2, 2012. The medical record stated that the May 2, 2012 examination was for "hypertension, diabetes & cholesterol." (Dr. Sunamoto's May 2, 2012 Report of Examination, attached as Ex. 7 to [*15]  Pla.'s CSF, ECF No. 48-9).
+The record stated that Plaintiff informed Dr. Sunamoto that he was not working due to depression. (Id.) Dr. Sunamoto indicated on the notes for the record that Plaintiff had suicidal ideation but no suicidal plan. (Id.) The record stated that Plaintiff did not want to see a psychiatrist. (Id.)
+The record did not provide any medical diagnosis for Plaintiff from January 2012 to April 2012. The record was limited to the one appointment held on May 2, 2012. The record did not provide any assessment regarding Plaintiff's medical need to be absent from work from January 2012 to April 2012. The record did not provide any details as to why Dr. Sunamoto believed that Plaintiff suddenly had the ability to return work in May 2012 given that he had received no treatment in the prior four months.
+
+OCTOBER 18, 2012 TERMINATION LETTER
+On October 18, 2012, the Defendant City and County of Honolulu sent Plaintiff a termination letter. (October 18, 2012 termination letter, attached as Ex. 9 to Pla.'s CSF, ECF No. 48-11). The letter stated that the Defendant received the record of his May 2, 2012 examination with Dr. Sunamoto. (Id. at p. 1). The letter provided as follows:
+This letter is to [*16]  inform you that after reviewing the information you provided, we have determined that your termination, in accordance with Section 38.11, Unauthorized Leave of Absence of the Unit 1 Collective Bargaining Agreement, will remain as indicated in the letter to you dated October 11, 2012.
+You have the right to consult your Union, the United Public Workers, regarding your termination.
+(Id.)
+Plaintiff did not provide any further information to Defendant as to his medical condition from January 2012 to April 2012. (Declaration of John Murakami, Human Resources Specialist for the Defendant City and County, ("Murakami Decl.") attached to Def.'s Reply, ECF No. 50-2).
+Plaintiff was terminated on October 26, 2012.
+
+ACTIONS FOLLOWING PLAINTIFF'S OCTOBER 2012 TERMINATION
+Six months later, on April 12, 2013, Plaintiff filed a Charge of Discrimination with the Hawaii Civil Rights Commission. (Charge of Discrimination attached as Ex. 13 to Pla.'s CSF, ECF No. 48-15).
+On July 28, 2014, the Hawaii Civil Rights Commission issued a Notice of Dismissal and Right to Sue Letter. (July 28, 2014 HCRC Right to Sue Letter, attached as Ex. E to Def.'s CSF, ECF No. 44-8).
+On August 21, 2014, the United States Equal Employment Opportunity [*17]  Commission issued a Dismissal and Notice of Rights, stating that it had adopted the findings of the Hawaii Civil Rights Commission. (EEOC Right to Sue Letter, attached as Ex. F to Def.'s CSF, ECF No. 44-9).
+Plaintiff filed his Complaint on November 19, 2014, following receipt of his Right to Sue Letter. (Complaint, ECF No. 1).
+
+STANDARD OF REVIEW
+Summary judgment is appropriate when there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(c). To defeat summary judgment there must be sufficient evidence that a reasonable jury could return a verdict for the nonmoving party. Nidds v. Schindler Elevator Corp., 113 F.3d 912, 916 (9th Cir. 1997).
+The moving party has the initial burden of "identifying for the court the portions of the materials on file that it believes demonstrate the absence of any genuine issue of material fact." T.W. Elec. Serv., Inc. v. Pacific Elec. Contractors Ass'n, 809 F.2d 626, 630 (9th Cir. 1987) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986)). The moving party, however, has no burden to negate or disprove matters on which the opponent will have the burden of proof at trial. The moving party need not produce any evidence at all on matters for which it does not have the burden of proof. Celotex, 477 U.S. at 325. The moving party must show, however, that there is no genuine issue of material fact and that he or she is entitled to judgment [*18]  as a matter of law. That burden is met by pointing out to the district court that there is an absence of evidence to support the nonmoving party's case. Id.
+If the moving party meets its burden, then the opposing party may not defeat a motion for summary judgment in the absence of probative evidence tending to support its legal theory. Commodity Futures Trading Comm'n v. Savage, 611 F.2d 270, 282 (9th Cir. 1979). The opposing party must present admissible evidence showing that there is a genuine issue for trial. Fed. R. Civ. P. 56(e); Brinson v. Linda Rose Joint Venture, 53 F.3d 1044, 1049 (9th Cir. 1995). "If the evidence is merely colorable, or is not significantly probative, summary judgment may be granted." Nidds, 113 F.3d at 916 (quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249-50, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986)).
+The court views the facts in the light most favorable to the non-moving party. State Farm Fire & Casualty Co. v. Martin, 872 F.2d 319, 320 (9th Cir. 1989). Opposition evidence may consist of declarations, admissions, evidence obtained through discovery, and matters judicially noticed. Fed. R. Civ. P. 56(c); Celotex, 477 U.S. at 324. The opposing party cannot, however, stand on its pleadings or simply assert that it will be able to discredit the movant's evidence at trial. Fed. R. Civ. P. 56(e); T.W. Elec. Serv., 809 F.2d at 630. The opposing party cannot rest on mere allegations or denials. Fed. R. Civ. P. 56(e); Gasaway v. Northwestern Mut. Life Ins. Co., 26 F.3d 957, 959-60 (9th Cir. 1994). When the non-moving party relies only on its own affidavits to oppose summary judgment, it cannot rely on conclusory allegations unsupported by factual data to create an issue of material fact. Hansen v. United States, 7 F.3d 137, 138 (9th Cir. 1993); see also National Steel Corp. v. Golden Eagle Ins. Co., 121 F.3d 496, 502 (9th Cir. 1997).
+
+ANALYSIS [*19] 
+The Defendant City and County of Honolulu seeks summary judgment on both of the claims stated in Plaintiff's First Amended Complaint.
+Count I is a claim for discrimination pursuant to the Americans with Disabilities Act ("ADA").
+Count II of Plaintiff's First Amended Complaint asserts a claim for intentional infliction of emotional distress. (First Amended Complaint at p. 5, ECF No. 16).
+Plaintiff concedes that summary judgment is appropriate in favor of the Defendant as to Count II for his claim for intentional infliction of emotional distress. (Pla.'s Opp. at p. 4, ECF No. 49).
+Plaintiff opposes summary judgment as to his disability discrimination claim pursuant to the ADA as stated in Count I in his First Amended Complaint.
+
+I. Disability Discrimination
+Title I of the ADA, 42 U.S.C. § 12112(a), prohibits an employer from discriminating "against a qualified individual with a disability because of the disability of such individual in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a).
+The Court applies the burden-shifting analysis derived from McDonnell Douglas Corp v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973) to claims of discrimination on account of a disability. [*20]  Raytheon Co. v. Hernandez, 540 U.S. 44, 49-50, 124 S. Ct. 513, 157 L. Ed. 2d 357 (2003).
+Under the burden-shifting analysis, the employee must first establish a prima facie disability discrimination claim. Id. at 49 n.3. The employee must put forth evidence that:
+(1) he was "disabled" within the meaning of the ADA statute;
+(2) he was a "qualified individual," meaning he was able to perform the essential functions of his job, either with or without reasonable accommodations; and,
+(3) he suffered an adverse employment action "because of" his disability.
+Hutton v. Elf Atochem North Am., Inc., 273 F.3d 884, 891 (9th Cir. 2001).
+If plaintiff is able to establish the three prongs of the disability discrimination claim, defendant may rebut the plaintiff's prima facie case by articulating a legitimate, nondiscriminatory reason for its employment action. Raytheon, 504 U.S. at 49 n.3.
+The mere existence of a disability does not shield a person from termination for his own misconduct or failings on the job. Bonenfant v. Cnty. of Yolo, 165 F.3d 35, 35 n.1  [published in full-text format at 1998 U.S. App. LEXIS 29571] (9th Cir. 1998) (citing Price v. S-B Power Tool, 75 F.3d 362, 365 (8th Cir. 1996) (finding the employee's violation of the employer's leave policy was a legitimate reason for termination)).
+A plaintiff must demonstrate that the employer's legitimate, nondiscriminatory reason was a pretext and intentional discrimination was the true reason for the employment action in order to prevail. Raytheon, 540 U.S. at 49 n.3.
+Plaintiff Schwartz's disability discrimination claim fails under [*21]  the McDonnell Douglas framework.
+
+A. Plaintiff Was Not Disabled Within the Meaning of the Americans With Disability Act
+The ADA defines disability with respect to an individual as "(A) a physical or mental impairment that substantially limits one or more of the major life activities of such individual; (B) a record of such impairment; or (C) being regarding as having such an impairment." 42 U.S.C. § 12102(1).
+In 2008, Congress adopted the ADA Amendments Act, in order to clarify that the intention of the Americans with Disabilities Act is to provide a broad scope of protection and to expressly reject the more stringent standards set forth in Sutton v. United Air Lines, 527 U.S. 471, 119 S. Ct. 2139, 144 L. Ed. 2d 450 (1999). ADAA, Pub. L. No. 110-325, 122 Stat. 3553 (2008).
+Plaintiff asserts that he was disabled between January 1, 2012 and April 28, 2012 due to depression. Depression may be considered a mental impairment that renders a person disabled within the meaning of the ADA if the plaintiff is able to demonstrate that the depression substantially limits a major life activity. Snead v. Metropolitan Property & Cas. Ins. Co., 237 F.3d 1080, 1088 (9th Cir. 2001) (citing Holihan v. Lucky Stores, Inc., 87 F.3d 362, 365 n.3 (9th Cir. 1996)).
+Plaintiff has produced no evidence besides conclusory allegations that he was depressed and that his condition substantially limited his major life activities between January 2012 and April 2012. Tsuji v. Kamehameha Schools, 154 F.Supp.3d 964, 974 (D. Haw. 2015). Plaintiff did not provide any evidence that he suffered from a documented [*22]  physiological or mental disorder from January 2012 to April 2012. Nor has Plaintiff demonstrated that he suffered from a short-lived period of depression that was substantially limiting within the meaning of the ADA. 29 C.F.R. § 1630.2(j)(1)(ix); cf. Sanders v. Arneson Products, Inc., 91 F.3d 1351, 1354 (9th Cir. 1996).
+Plaintiff provided a Declaration to the Court from his daughter, stating that "[a]t the beginning of 2012, [Plaintiff] became extremely depressed. I had trouble even getting him to shower or go out of the house." (Manuel Decl. at ¶ 18, ECF No. 48-2). Even considering the Declaration in a light most favorable to Plaintiff, the evidence is insufficient to demonstrate that Plaintiff was disabled within the meaning of the ADA.
+The Declaration did not state the dates of Plaintiff's condition. There is no affidavit or Declaration from the Plaintiff to provide support for his position that he was substantially limited from January 2012 to April 2012. There is no medical evidence in the record from January 2012 to April 2012.
+Plaintiff never informed his employer that he was unable to work from January 2012 to April 2012 due to depression. Instead, Plaintiff stated that he was unable to work because of a variety of reasons including he was watching his son, taking care of family, [*23]  he had back pain, or he had the flu. (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6).
+Plaintiff has not presented a record of having a disabling impairment. 29 C.F.R. § 1630.2(k)(1). Plaintiff did not visit a doctor until May 2012. At his May 2, 2012 appointment with Dr. Sunamoto, Plaintiff stated that he was depressed. (Dr. Sunamoto's May 2, 2012 Report of Examination, attached as Ex. 7 to Pla.'s CSF, ECF No. 48-9). Dr. Sunamoto determined that as of May 2, 2012, Plaintiff was not impaired or limited in his major life activities. (First Disability Certificate attached as Ex. 2 to Pla.'s CSF, ECF No. 48-4). Dr. Sunamoto found that Plaintiff was able to work. (Id.; Dr. Sunamoto's May 2, 2012 Report of Examination, attached as Ex. 7 to Pla.'s CSF at p. 3, ECF No. 48-9).
+There was no assessment of Plaintiff from January 2012 to April 2012 that sets forth any limitations in Plaintiff's major life activities. There is no evidence in the record that Plaintiff had a record of impairment. There is no evidence of a medical diagnosis or description of the nature and severity of Plaintiff's limitations from January to April 2012.
+Plaintiff has not set forth any evidence that he was regarded as having a disability by his [*24]  employer. 29 C.F.R. §§ 1630.2(l), 1630.15(f). Manuel claimed that some of Defendant's employees were aware of the severity of Plaintiff's mental illness. (Manuel Decl. at ¶ 17, ECF No. 48-2). There is no evidence that any employees, whom Plaintiff's daughter claimed regarded Plaintiff as disabled, were involved in the decision-making process regarding Plaintiff's termination. Nor is there evidence that there were employees whose knowledge would be imputed to the Defendant. Davis v. Con-Way Freight, Inc., 139 F.Supp.3d 1224, 1234 (D. Or. Oct. 4, 2015). Defendant provided evidence that Plaintiff was never referred to a doctor by the Defendant for a mental evaluation or mental health issue. (Murakami Decl. at ¶ 10, ECF No. 50-2).
+Plaintiff failed to provide evidence that would demonstrate that he was disabled within the meaning of the ADA from January to April 2012.
+
+B. Plaintiff Was Not A "Qualified Individual" At The Time Of His Termination In October 2012
+Even if Plaintiff was deemed to be disabled within the meaning of the ADA, Plaintiff also failed to establish the second prong of the McDonnell Douglas framework. Plaintiff was not a qualified individual at the time of his termination.
+The ADA defines "qualified individual" as an individual with a disability who, with or without reasonable accommodation, [*25]  can perform the essential functions of the employment position that such individual holds or desires. 42 U.S.C. § 12111(8); Nunes v. Wal-Mart, Stores, Inc., 164 F.3d 1243, 1246 (9th Cir. 1999).
+The ADA requires that a plaintiff be able to perform the essential functions of his job "with or without reasonable accommodation." 42 U.S.C. § 12111(8). A job's essential functions are the fundamental job duties of the employment position not including the marginal functions of the position. 29 C.F.R. § 1630.2(n)(1); Bates v. UPS, 511 F.3d 974, 990 (9th Cir. 2007).
+Plaintiff has the burden to demonstrate that he was a qualified individual with a disability who could perform the essential functions of his position at the time of his termination. Mayo v. PCC Structurals, Inc., 795 F.3d 941, 944 (9th Cir. 2015).
+
+1. Plaintiff Was Unable To Perform The Essential Functions Of His Position At The Time Of His Termination In October 2012
+The majority of circuit courts of appeals, including the Ninth Circuit Court of Appeals, have found that regular attendance is an essential function of most jobs. Samper v. Providence St. Vincent Medical Center, 675 F.3d 1233, 1239 (9th Cir. 2012); Colón-Fontánez v. Municipality of San Juan, 660 F.3d 17, 35 (1st Cir. 2011); Gecewicz v. Henry Ford Macomb Hosp. Corp., 683 F.3d 316, 322 (6th Cir. 2012); Basden v. Prof'l Transp. Inc., 714 F.3d 1034, 1038 (7th Cir. 2013).
+Regular and reliable attendance is an essential function of a job that requires an employee to work as part of a team and with items and equipment that are on site. Hill v. City of Phoenix, 162 F.Supp.3d 918, 924 (D. Ariz. 2016).
+There is no dispute that regular attendance is an essential function of a refuse collector. Plaintiff testified during his deposition that an essential function of his position [*26]  as a refuse collector was to be physically present at work in order to pick up trash from homes and work with co-workers on site. (Deposition of Plaintiff Sheffield ("Schwartz Depo.") at p. 5, attached as Ex. G to Def.'s CSF, ECF No. 44-10).
+"An employee who does not come to work cannot perform any of his job functions, essential or otherwise." Samper, 675 F.3d at 1239 (internal quotation marks and citations omitted); Waggoner v. Olin Corp., 169 F.3d 481, 485 (7th Cir. 1999).
+It is undisputed that Plaintiff did not come to work from January 3, 2012 until his termination in October 2012. Plaintiff was unable to perform the essential functions of his position at the time of his termination because he was continually absent from work. Samper, 675 F.3d at 1239.
+Plaintiff was absent from work for more than four months. Over his 89 consecutive days of absence, Plaintiff consistently informed his employer that he would return to work the following day. (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6). Despite his continual statement that he would return to work the next day, Plaintiff never returned to work. At the time of Plaintiff's termination, there was no basis for the Defendant to believe that Plaintiff could return to his position when he consistently informed his employer [*27]  that he would return to work but did not.
+In his Opposition, Plaintiff claims that he was able to return to work in May 2012. Plaintiff provided Defendant with a Disability Certificate from Dr. Ken Sunamoto stating that Plaintiff could return to work on May 4, 2012. (First Disability Certificate dated May 2, 2012 from Dr. Sunamoto, attached as Ex. 2 to Pla.'s CSF, ECF No. 48-4). The document stated Plaintiff was incapacitated from February 1 to May 4, 2012. (Id.) The certificate did not provide any information that would allow the Defendant City and County to determine if Plaintiff was able to perform the essential functions of his position following his four-month absence.
+Plaintiff provided a second disability certificate that dealt with the period he was out prior to the time listed in the first certificate. The second certificate stated that he was incapacitated from January to February 2012. Neither Disability Certificate provided any information as to what impairment had limited Plaintiff's ability to work from January 3, 2012 to April 28, 2012. The documents simply filled in dates and checked a box stating that Plaintiff could return to his normal workload. (First Disability Certificate [*28]  attached as Ex. 2 to Pla.'s CSF, ECF No. 48-4; Second Disability Certificate, attached as Ex. 1 to Pla.'s CSF, ECF No. 48-3).
+The Disability Certificates of Dr. Sunamoto did not state the nature of Plaintiff's illness, his treatment plan, or any information that would allow the Defendant City and County to believe that Plaintiff would be able to discharge his essential duties. Hill, 162 F.Supp.3d at 926-27.
+The Defendant City and County twice sought additional information from Dr. Sunamoto concerning Plaintiff's condition between January and April 2012. Dr. Sunamoto's letter in response to the Defendant's inquiries simply stated that Plaintiff was able to return to work on May 4, 2012. (Letter from Dr. Sunamoto to Defendant dated July 18, 2012, attached as Ex. L to Def.'s Reply, ECF No. 50-8).
+There is no medical evidence that Plaintiff was able to perform the essential functions of his position in October 2012. In October 2012, Plaintiff provided Defendant with the record of a May 2, 2012 examination by Dr. Sunamoto. (Dr. Sunamoto's May 2, 2012 Report of Examination, attached as Ex. 7 to Pla.'s CSF at p. 3, ECF No. 48-9). The examination record did not provide any information as to the severity of Plaintiff's depression, the expected [*29]  duration of his condition, or the limitations that Plaintiff would experience on account of his condition. No other medical evidence was provided to support Plaintiff's claim that he was a qualified individual able to return to work.
+The undisputed record is clear that Plaintiff was unable to perform the essential job functions of his position as he did not go to work following January 3, 2012. Lane v. Clark Cnty., 604 Fed. Appx. 632, 633 (9th Cir. 2015); Hill, 162 F.Supp.3d at 926-27; Francis v. Wyckoff Heights Med. Ctr., 177 F.Supp.3d 754, 770 (E.D. N.Y. 2016) (finding the defendant was not a qualified individual due to her regular absenteeism from work); Lang v. Astrue, 2011 U.S. Dist. LEXIS 58379, 2011 WL 2149914, *5 (S.D. Cal. June 1, 2011) (finding the defendant was not a qualified individual when he failed to regularly show up for work).
+
+2. Defendant Did Not Fail To Accommodate Plaintiff or Fail to Engage in the Interactive Process
+Plaintiff claims that he was denied a reasonable accommodation for his disability. (First Amended Complaint at ¶ 15, ECF No. 16). Plaintiff does not specify what reasonable accommodation he believes would have allowed him to perform the essential function of his position. It is the plaintiff's burden to establish that a reasonable accommodation is possible. Dark v. Curry Cnty., 451 F.3d 1078, 1088 (9th Cir. 2006); Zukle v. Regents of Univ. Of Cal., 166 F.3d 1041, 1047 (9th Cir. 1999).
+The Ninth Circuit Court of Appeals has recognized that medical leave may be a reasonable accommodation under the ADA. Dark, 451 F.3d at 1090 (citing Nunes, 164 F.3d at 1247).
+Plaintiff requested [*30]  leave from the Defendant between January 3, 2012, and April 28, 2012. (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6). The Defendant City and County of Honolulu reasonably accommodated Plaintiff when it provided him with leave for nearly four months before conducting an investigation into Plaintiff's prolonged absence. (Attendance Log for Plaintiff's leave of absence between January and April 2012, attached as Ex. C to Def.'s CSF, ECF No. 44-6).
+Plaintiff has not demonstrated that any additional accommodation was required. Plaintiff did not engage in the interactive process required to determine if any additional accommodation would be reasonable.
+"In general ... it is the responsibility of the individual to inform the employer that an accommodation is needed." 29 C.F.R. § 1630, App. at § 1630.9; Summers v. Teichert & Son, Inc., 127 F.3d 1150, 1153-54 (9th Cir. 1997) (finding that the employer did not fail to accommodate an employee's disability when he never requested an accommodation).
+The employer has an obligation to engage in an interactive process with the employee to identify and implement appropriate reasonable accommodations for an employee's disability. Humphrey v. Mem'l Hosps. Ass'n, 239 F.3d 1128, 1137 (9th Cir. 2001); see 29 C.F.R. § 1630.2(o)(3) (explaining that the interactive process "should identify the precise limitations resulting from [*31]  the disability and potential reasonable accommodations that could overcome those limitations").
+The employee also has a duty to engage in the interactive process. Allen v. Pacific Bell, 348 F.3d 1113, 1115 (9th Cir. 2003) (per curiam). "Both sides must communicate directly, exchange essential information, and neither side can delay or obstruct the process." Barnett v. U.S. Air, Inc., 228 F.3d 1105, 1114-1115 (9th Cir. 2000), overruled on other grounds, 535 U.S. 391, 122 S. Ct. 1516, 152 L. Ed. 2d 589 (2002). Good faith participation in the process is a continuing obligation that may not be exhausted by one effort. Humphrey, 239 F.3d at 1138.
+An employer is only liable for failing to provide reasonable accommodation for an employee's disability when the employer bears responsibility for the breakdown in the interactive process. Zivkovic v. S. Cal. Edison Co., 302 F.3d 1080, 1089 (9th Cir. 2002) (citing Beck v. Univ. of Wisconsin Board of Regents, 75 F.3d 1130, 1135 (7th Cir. 1996)); Dep't of Fair Emp't & Hous. v. Lucent Techs., Inc., 642 F.3d 728, 742 (9th Cir. 2011).
+In this case, Plaintiff never requested the Defendant provide an accommodation that would allow him to perform the essential duties of his position.
+Plaintiff was asked about the reasons for the leave requests that he made between January and April 2012 during his deposition. (Schwartz Depo. at p. 11, ECF No. 44-10). Plaintiff testified as follows:
+Q: Why did you call out sick between January 3rd, 2012, and April 28th, 2012?
+A: I can't remember.
+Q: You can't remember why you called out on leave at all during that time? Is that what I'm hearing today?
+A: Yeah. [*32]  Because I can't remember.
+(Schwartz Depo. at p. 11, ECF No. 44-10).
+The Attendance Log indicated that Plaintiff provided a number of varied reasons for his leave requests including "back pain," "sick," "flu," "emergency vacation," and "child care." (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6).
+Plaintiff testified that between January and April 2012 he never informed the City and County of Honolulu that he was disabled. (Schwartz Depo. at p. 13, ECF No. 44-10). Plaintiff testified, as follows:
+Q: So you didn't feel like it was necessary to tell the city?
+A: That's personal.
+Q: Okay. But even if -
+A: That's myself.
+Q: Even if you didn't describe what the disability was, you wouldn't tell them I have a disability or - ...
+A: What for reason I telling the city that?
+Q: Is that a no? If the answer is no -
+A: No. No. It's a no. Because I didn't talk to the city about my problems or any type of thing. The answer is no.
+Q: So you never told the city that you had a disability, then?
+A: The city didn't ask me. I said no.
+(Schwartz Depo. at pp. 12-13, ECF No. 44-10).
+The evidence demonstrates that Plaintiff's communications about the parameters and nature of his disability offered little [*33]  information for the Defendant City and County of Honolulu to understand the extent of his disability. Allen, 348 F.3d at 1115; Goos v. Shell Oil Co., 451 Fed. Appx. 700, 702-03 (9th Cir. 2011).
+The medical documentation provided from Dr. Sunamoto did not state if Plaintiff's incapacitation was mental or physical. The documents provided no description of the nature or severity of Plaintiff's incapacitation. The documents did not explain what, if any, accommodations would be necessary for Plaintiff to return to work.
+When an employee fails to provide sufficient medical evidence, the employer has no further duty to engage in the interactive process. Allen, 348 F.3d at 1114-15; Templeton v. Neodata Services., Inc., 162 F.3d 617, 619 (10th Cir. 1998) (stating that the employee's failure to provide medical information precluded her from claiming that the employer failed to provide reasonable accommodations).
+Plaintiff Schwartz has not shown that he provided details about the nature and extent of his illness that would have allowed the Defendant to determine reasonable accommodations for him to perform the essential functions of his position. Zivkovic, 302 F.3d at 1089; see Steffes v. Stepan Co., 144 F.3d 1070, 1072-73 (7th Cir. 1998).
+Plaintiff has failed to demonstrate a prima facie case of disability discrimination pursuant to the McDonnell Douglas framework. Plaintiff was neither disabled within the meaning of the ADA nor a qualified individual who could perform [*34]  the essential functions of his position.
+The Defendant City and County of Honolulu did not fail to provide reasonable accommodations for Plaintiff's claimed incapacitation. Plaintiff failed to inform the Defendant as to the nature of his illness and did not participate in the interactive process.
+
+C. Defendant Has Provided a Legitimate, Nondiscriminatory Reason for Terminating Plaintiff
+Even if Plaintiff had demonstrated a prima facie case, the Defendant City and County of Honolulu would still be entitled to summary judgment. The Defendant provided a legitimate, nondiscriminatory reason for terminating Plaintiff for his violation of its written leave policies.
+Both the City and County Civil Service Regulations and the Collective Bargaining Agreement provided that an employee would be charged with an unauthorized absence from work if he failed to provide medical certification for absences of five or more consecutive workdays. (Unit 1 Collective Bargaining Agreement at Section 38.11a, p. 99, attached as Ex. A to Def.'s CSF, ECF No. 44-4; City and County Civil Service Rules at Section 8-9, attached as Ex. B to Def.'s CSF, ECF No. 44-5).
+The Attendance Log reflected that Plaintiff was absent for more than 89 days without [*35]  providing a medical certificate to substantiate his absences. (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6). Plaintiff was absent from work for five consecutive days as of January 9, 2012. Plaintiff did not provide the first incomplete certificate until four months later on May 3, 2012.
+After the four months of absences, Plaintiff's medical certificate did not supply the information required by the Collective Bargaining Agreement. (Unit 1 Collective Bargaining Agreement, attached as Ex. A to Def.'s CSF, at p. 90, Section 37.06, ECF No. 44-4). No medical information was provided to the Defendant stating that Plaintiff was entirely unable to work from January to April 2012. (First Disability Certificate attached as Ex. 2 to Pla.'s CSF, ECF No. 48-4; Second Disability Certificate, attached as Ex. 1 to Pla.'s CSF, ECF No. 48-3; Letter from Dr. Sunamoto to Defendant dated July 18, 2012, attached as Ex. L to Def.'s Reply, ECF No. 50 8; Dr. Sunamoto's May 2, 2012 Report of Examination, attached as Ex. 7 to Pla.'s CSF at p. 3, ECF No. 48-9).
+Plaintiff had notice that the Collective Bargaining Agreement provided that more than eight unauthorized absences in the span of two years would result in an employee being discharged. [*36]  (Unit 1 Collective Bargaining Agreement at Section 38.11, p. 99, attached as Ex. A to Def.'s CSF, ECF No. 44-4).
+The undisputed evidence demonstrates that Plaintiff took unauthorized leave for more than eight days in 2012. Plaintiff did not substantiate his more than 77 days of sick leave from January to April 2012 as required by the Defendant's written policies. Plaintiff took more than 25 days of leave for reasons that were unrelated to his depression. Plaintiff took more than 50 days of leave that he claims were for depression without providing sufficient medical certification. Plaintiff took 11 days of sick leave for back pain. (Attendance Log, attached as Ex. C to Def.'s CSF, ECF No. 44-6). Plaintiff never provided a medical certificate to verify that he required sick leave for back pain. Plaintiff also took sick leave for the flu, which he never substantiated. Plaintiff took a number of days of leave to provide child care to his family.
+Plaintiff admitted during his deposition that he did not even remember the reasons why he was absent from work for four months from January to April 2012. (Schwartz Depo. at p. 11, ECF No. 44-10).
+The record reflects that Plaintiff had previously been disciplined [*37]  for violating Defendant's leave policy. Plaintiff testified that before his four months of absences starting in January 2012, he was disciplined for falsely taking funeral leave. (Id. at p. 6).
+Plaintiff has not provided any evidence to demonstrate that his termination was a pretext for discrimination. Mendoza v. The Roman Catholic Archbishop of L.A., 824 F.3d 1148, 1149 (9th Cir. 2016) (per curiam). The Defendant informed Plaintiff in its October 2012 letters that his termination was a result of his having violated the Collective Bargaining Agreement's leave policies. (October 11, 2012 Termination Letter at pp. 1-2, attached as Ex. 8 to Pla.'s CSF, ECF No. 48-10; October 18, 2012 termination letter, attached as Ex. 9 to Pla.'s CSF, ECF No. 48-11).
+Plaintiff has no specific and substantial evidence that the employer's proffered motive was not the actual motive because it was inconsistent or otherwise not believable. Tsuji, 154 F.Supp.3d at 979 (citing Godwin v. Hunt Wesson, Inc., 150 F.3d 1217, 1222 (9th Cir. 1998)).
+Defendant's Motion for Summary Judgment as to Count I for Disability Discrimination is GRANTED.
+
+CONCLUSION
+Defendant City and County of Honolulu's Motion for Summary Judgment (ECF No. 43) is GRANTED.
+There are no remaining claims or parties herein.
+The Clerk of Court is DIRECTED to enter judgment in favor of Defendant and to close the case.
+IT IS SO ORDERED.
+DATED: February 22, 2017, Honolulu, Hawaii. [*38] 
+/s/ Helen Gillmor
+Helen Gillmor
+United States District Judge
+Table1 ()
+Table1 ()
+
+
+End of Document
+

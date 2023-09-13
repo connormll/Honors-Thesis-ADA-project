@@ -1,0 +1,62 @@
+King v. Marion Circuit Court
+United States District Court for the Southern District of Indiana, Indianapolis Division
+June 17, 2016, Decided; June 17, 2016, Filed
+No. 1:14-cv-01092-JMS-MJD
+
+Reporter
+2016 U.S. Dist. LEXIS 78955 *; 2016 WL 3365239
+DUSTIN A. KING, Plaintiff, vs. MARION CIRCUIT COURT, Defendant.
+Prior History: King v. Ind. Supreme Court, 2014 U.S. Dist. LEXIS 157938 (S.D. Ind., Nov. 7, 2014)
+Counsel:  [*1] For DUSTIN A. KING, Plaintiff: Andrea Lynn Ciobanu, Alex Maurice Beeman, CIOBANU LAW PC, Indianapolis, IN.
+For INDIANA SUPREME COURT, MARION COUNTY CIRCUIT COURT, INDIANA SUPREME COURT, DIVISION OF STATE COURT ADMINISTRATION, Defendants: Dino L. Pollock, Kenneth Lawson Joel, INDIANA ATTORNEY GENERAL, Indiana Government Center South, Indianapolis, IN; Patricia Orloff Erdmann, OFFICE OF THE ATTORNEY GENERAL, Indianapolis, IN.
+For MARION COUNTY OFFICE OF THE COURT ADMINISTRATOR, MARION COUNTY COUNCIL, Defendants: Adriana Katzen, OFFICE OF CORPORATION COUNSEL, CITY OF INDIANAPOLIS, Indianapolis, IN.
+Judges: Hon. Jane Magnus-Stinson, United States District Judge.
+Opinion by: Jane Magnus-Stinson
+Opinion
+
+
+
+ORDER
+Presently pending before the Court is Defendant Marion Circuit Court's Petition for Interlocutory Appeal, to Amend Order, and Motion to Stay Proceedings Pending Appeal. [Filing No. 165.] For the reasons detailed below, the Court DENIES Marion Circuit Court's Petition.
+
+I.
+
+Legal Standard
+28 U.S.C. § 1292(b) allows for an interlocutory appeal when that order "involves a controlling question of law as to which there is substantial ground for difference of opinion and . . . an immediate appeal from the order may materially advance the ultimate [*2]  termination of litigation." Richardson Electronics, Ltd. v. Panache Broadcasting of Pennsylvania, Inc., 202 F.3d 957 (7th Cir. 2000). Thus, "[t]here are four statutory criteria for the grant of a section 1292(b) petition to guide the district court: there must be a question of law, it must be controlling, it must be contestable, and its resolution must promise to speed up the litigation." Ahrenholz v. Bd. of Trustees of University of Illinois, 219 F.3d 674, 675 (7th Cir. 2000) (emphasis in original).
+
+II.
+
+Background
+This action arises from Mr. King's American with Disability Act ("ADA") claim against Marion Circuit Court for failure to provide him with an American Sign Language ("ASL") interpreter when he participated in the Modest Means Mediation Program. On May 27, 2016, the Court issued an Order granting Mr. King's Motion for Partial Summary Judgment and denying Marion Circuit Court's Cross-Motion for Summary Judgment. [Filing No. 157.] Specifically, it held the following: (1) Mr. King has Article III standing to pursue his ADA claim; (2) Marion Circuit Court was not entitled to Eleventh Amendment sovereign immunity; (3) Marion Circuit Court was not entitled to judicial immunity; and (4) Marion Circuit Court violated the ADA when it failed to provide Mr. King with an interpreter or a reasonable accommodation during the Modest Means Mediation Program.1 [Filing No. 157 at 28.] On June 6, 2016, Marion Circuit Court [*3]  filed this petition seeking leave to file an interlocutory appeal pursuant 28 U.S.C. § 1292(b) and asking to stay all subsequent proceedings pending appeal. [Filing No. 166 at 1.] The petition has now been fully briefed.
+
+III.
+
+Discussion
+Marion Circuit Court claims that it meets all four criteria under 28 U.S.C. § 1292(b). It argues that the four issues raise questions of law, [Filing No. 166 at 3], the questions of law are controlling, [Filing No. 166 at 3], each issue has a substantial ground for differing opinions, [Filing No. 166 at 4], and an immediate appeal from this Court's Order will materially advance the termination of the litigation, [Filing No. 166 at 5]. In turn, Mr. King disputes all of Marion Circuit Court's arguments. [Filing No. 171 at 1-13.] Because the parties' arguments under the first and fourth elements are heavily contested, the Court will address those issues.
+
+A. Questions of Law
+Marion Circuit Court claims that the four issues decided by this Court present pure questions of law that are controlling. [Filing No. 166 at 3-4.]
+In response, Mr. King argues that Marion Circuit Court has not explained how the issues of sovereign and judicial [*4]  immunity present questions of law that are "controlling." [Filing No. 171 at 5; Filing No. 171 at 8.] Moreover, it argues that the claims related to whether an interpreter is required for the Modest Means Mediation Program under Title II of the ADA and Article III standing are not pure question of law and both issues would not be decided quickly and cleanly without having to go through the entire summary judgment record. [Filing No. 171 at 8-9; Filing No. 171 at 10-11.]
+In reply, Marion Circuit Court reiterates that it has presented controlling questions of law. [Filing No. 173 at 4-9.]
+"[A]n interlocutory appeal is permitted only when the contested issue is "a 'pure' question of law rather than merely an issue that might be free from a factual contest." Ahrenholz, 219 F.3d at 676-77. A "'question of law' means an abstract legal issue rather than an issue of whether summary judgment should be granted." Id. at 677. The Seventh Circuit Court of Appeals has warned that "district judges should use section 1292(b) when it should be used, avoid it when it should be avoided, and remember that 'question of law' means an abstract legal issue rather than an issue of whether summary judgment should be granted." Id.
+Given this standard, the Court disagrees that Marion Circuit Court's position. [*5]  At least two of the issues — whether Mr. King has met Article III standing and whether Marion Circuit Court violated the ADA — would require the Seventh Circuit Court of Appeals to scour through the entire record from the summary judgment proceeding. For instance, to determine whether Mr. King has Article III standing, the Seventh Circuit would need to determine if Mr. King designated sufficient evidence to demonstrate that he suffered an injury in fact when he was denied an interpreter for the Modest Means Mediation. Likewise, to determine if Marion Circuit Court violated the ADA when it failed to provide Mr. King with an interpreter for the Modest Means Mediation Program, the Seventh Circuit would need to look at the relevant Indiana statutes and review the record to understand the structure of the Modest Means Mediation Program, and then determine whether the program fits the definition of a service, program, or activity under Title II of the ADA. Thus, these issues do not present pure questions of law that the Seventh Circuit can "decide quickly and cleanly without having to study the record. . . ." Id. Marion Circuit Court has therefore failed to demonstrate that the four issues [*6]  present pure questions of law as required under 28 U.S.C. § 1292(b).
+
+B. Termination of Litigation
+Marion Circuit Court gives various reasons regarding why an appeal would materially advance the ultimate termination of the litigation. First, it argues that there is no precedent on whether Title II of the ADA requires Marion Circuit Court to furnish an interpreter or a reasonable accommodation for private mediation. [Filing No. 166 at 5.] It argues that if the Seventh Circuit Court of Appeals agrees with Marion Circuit Court, the remainder of the proceedings at the district court would be terminated, which would save additional costs, time, and resources. [Filing No. 166 at 5.] Lastly, Marion Circuit Court argues that it is unable to "take a settlement position" since Mr. King has not designated evidence to support any damages. [Filing No. 166 at 6.]
+In response, Mr. King argues that Marion Circuit Court has not demonstrated how granting the interlocutory appeal would speed up the litigation. [Filing No. 171 at 6.] He asserts that since the Court determined the liability issue at the summary judgment stage, the only issue left to resolve is damages, and the upcoming settlement conference and bench trial scheduled [*7]  to resolve the issue of damages would take place prior to the briefing schedule for the appeal. [Filing No. 171 at 6-7.] Thus, he claims that an appeal would actually prolong the litigation. [Filing No. 171 at 7.] Moreover, Mr. King argues that Marion Circuit Court's position that an immediate appeal would save litigation expenses and the Court's time is not part of the standard, and that in any event, an immediate appeal would actually result in more expenses because of the likelihood of having two appeals at the end of the litigation. [Filing No. 171 at 7.]
+In reply, Marion Circuit Court argues that "an immediate appeal will materially advance the ultimate termination of this litigation by permitting review of questions of law that will have the effect of immediately terminating the case" and alleviate all future proceedings scheduled to resolve the issue of damages. [Filing No. 173 at 4.]
+The Court agrees with Mr. King. Marion Circuit Court has failed to demonstrate how an immediate appeal of the four issues would speed up the litigation when the only remaining issue before the Court relates to damages. "[F]ederal law expresses strong policy against piecemeal appeals," Freeman v. Kohl & Vick Mach. Works, Inc., 673 F.2d 196, 201 (7th Cir. 1982), and this is a classic [*8]  example of when an immediate appeal is not warranted. To resolve the remaining issue of damages, the parties have a settlement conference and a one-day bench trial. After that, Marion Circuit Court could appeal all the issues at the same time. Moreover, as Mr. King asserts, the parties' briefing schedule for an appeal would extend beyond the scheduled date of the bench trial, thus, prolonging the litigation. Accordingly, the Court rejects Marion Circuit Court's argument that an immediate appeal would speed up the litigation.
+
+IV.
+
+Conclusion
+For the reasons detailed above, the Court DENIES Marion Circuit Court's Petition for Interlocutory Appeal, to Amend Order, and Motion to Stay Proceedings Pending Appeal, [Filing No. 165].
+Date: 6/17/2016
+/s/ Jane Magnus-Stinson
+Hon. Jane Magnus-Stinson, Judge
+United States District Court
+Southern District of Indiana
+
+
+End of Document
+

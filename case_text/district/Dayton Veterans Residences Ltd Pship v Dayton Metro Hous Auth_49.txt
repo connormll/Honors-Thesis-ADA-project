@@ -1,0 +1,60 @@
+Dayton Veterans Residences Ltd. P’ship v. Dayton Metro. Hous. Auth.
+United States District Court for the Southern District of Ohio, Western Division
+November 12, 2019, Decided; November 13, 2019, Filed
+Case No. 3:16-cv-466
+
+Reporter
+2019 U.S. Dist. LEXIS 196789 *; 2019 WL 5956543
+DAYTON VETERANS RESIDENCES LIMITED PARTNERSHIP, d/b/a FREEDOM'S PATH AT DAYTON, Plaintiff, v. DAYTON METROPOLITAN HOUSING AUTHORITY d/b/a GREATER DAYTON PREMIER MANAGEMENT, Defendant.
+Prior History: Dayton Veterans Residences L.P. v. Dayton Metro. Hous. Auth., 2019 U.S. Dist. LEXIS 49688 (S.D. Ohio, Mar. 25, 2019)
+Counsel:  [*1] For Freedom's Path at Dayton, Plaintiff: James Kellogg Green, LEAD ATTORNEY, PRO HAC VICE, West Palm Beach, FL; Mark R Brown, Columbus, OH.
+For Dayton Metropolitan Housing Authority, Defendant: Christopher Green, LEAD ATTORNEY, Dayton Metropolitan Housing Authority, Dayton, OH; Ray C Freudiger, Marshall Dennehey Warner Coleman & Goggin, Cincinnati, OH.
+Judges: WALTER H. RICE, UNITED STATES DISTRICT JUDGE.
+Opinion by: WALTER H. RICE
+Opinion
+
+
+DECISION AND ENTRY OVERRULING DAYTON METROPOLITAN HOUSING AUTHORITY'S MOTION FOR RECONSIDERATION (DOC. #69)
+On March 25, 2019, the Court issued a 55-page Decision and Entry Overruling in Part and Sustaining in Part Defendant Dayton Metropolitan Housing Authority's Motion for Summary Judgment.1 It granted summary judgment to Defendant on Plaintiff's claims of intentional discrimination and disparate treatment, but found that genuine issues of material fact precluded summary judgment on Plaintiff's "reasonable accommodation" claims under the Americans with Disabilities Act ("ADA") and Fair Housing Act ("FHA"). Doc. #65.
+Five months later, on August 23, 2019, the Dayton Metropolitan Housing Authority ("DMHA") filed a Motion for Reconsideration of that Decision and Entry, Doc. #69. For [*2]  the reasons set forth below, the Court OVERRULES that motion in its entirety.
+
+I. Relevant Background
+All relevant facts are set forth in the Court's March 25, 2019, Decision and Entry, Doc. #65, and will not be repeated here.
+
+II. Motions for Reconsideration
+The Federal Rules of Civil Procedure do not specifically provide for motions for reconsideration. Motions for reconsideration are often treated as motions to alter or amend a judgment under Federal Rule of Civil Procedure 59(e), if filed within 28 days after the entry of judgment. In this case, however, because no final judgment has been entered, Rule 59(e) is inapplicable. See Russell v. GTE Gov't Sys. Corp., 141 F. App'x 429, 436 (6th Cir. 2005) (holding that because there was no final judgment when the court entertained the motion for reconsideration, Rule 59(e) did not apply).
+Nevertheless, "[d]istrict courts have authority both under common law and [Federal Rule of Civil Procedure] 54(b) to reconsider interlocutory orders and to reopen any part of a case before entry of final judgment." Rodriguez v. Tennessee Laborers Health & Welfare Fund, 89 F. App'x 949, 959 (6th Cir. 2004). See also Am. Civil Liberties Union of Ky. v. McCreary Cty., Ky., 607 F.3d 439, 450 (6th Cir. 2010) (noting that where the district court has not yet entered final judgment, it is "free to reconsider or reverse its decision for any reason.").
+Typically, however, courts will reconsider an interlocutory order only when there is "(1) an intervening change of controlling law; (2) new evidence available; [*3]  or (3) a need to correct a clear error or prevent manifest injustice." Louisville/ Jefferson Cty. Metro Gov't v. Hotels.com, L.P., 590 F.3d 381, 389 (6th Cir. 2009) (quotation omitted). "Motions for reconsideration are not intended to relitigate issues previously considered by the Court or to present evidence that could have been raised earlier." Northeast Ohio Coalition for Homeless v. Brunner, 652 F. Supp. 2d 871, 877 (S.D. Ohio 2009).
+
+III. Analysis
+In this case, DMHA cites to no intervening change of controlling law and no evidence that was not available prior to the close of briefing on the motions for summary judgment. Neither does DMHA's Motion for Reconsideration allege that reconsideration is necessary to correct clear error or prevent manifest injustice. Not until DMHA filed its Reply in Support of its Motion for Reconsideration did it argue that reconsideration is necessary to correct a clear error or prevent manifest injustice. Arguments raised for the first time in a reply brief need not be addressed. NetJets Large Aircraft, Inc. v. United States, 80 F. Supp. 3d 743, 765 (S.D. Ohio 2015). Moreover, DMHA's belated argument that the Court committed "clear error" is severely undermined by the fact that it, without any explanation, waited five months to move for reconsideration. Standing alone, these defects constitute sufficient grounds for overruling DMHA's motion.
+For the sake of completeness, the Court will briefly address DMHA's arguments. [*4]  DMHA challenges, on two grounds, the Court's ruling that genuine issues of material fact preclude summary judgment on the question of whether the verbal and written communications that took place in December of 2015 between Craig Taylor (the consultant working for Communities for Veterans) and Jennifer Heapy (GDPM's Executive Director) were sufficient to put GDPM on notice that Freedom's Path was requesting an accommodation under the ADA or FHA, or whether the need for such accommodation under those statutes was obvious at that time. See Doc. #65, PageID#2158.
+
+A. Nexus
+First, DMHA argues that there was no nexus between the requested accommodation and the disabled status of any tenant. DMHA argues, for the first time, that Plaintiff has identified no individual tenant of the proposed new Freedom's Path development who is actually disabled. Although DMHA now argues that this is an essential element of Plaintiff's prima facie case, requiring judgment in DMHA's favor, it offers no explanation for failing to raise this issue in its summary judgment motion. In the Decision and Entry, the Court noted that "GDPM does not dispute that many of the prospective tenants of Freedom's Path are disabled, [*5]  and it can be inferred from the record that GDPM was aware of this fact as early as December of 2015." Doc. #65, PageID#2149.
+Even if DMHA had not waived this argument by failing to raise it in a timely manner, Plaintiff correctly points out that, because the housing units were not yet constructed, no prospective tenants could be specifically identified by name. Nevertheless, evidence shows that DMHA knew that the housing units were intended for veterans, many of whom were qualified persons with disabilities. In fact, this was the whole point of the proposed development—to provide disabled and homeless veterans with "permanent supportive housing" in close proximity to the Veteran's Administration's Medical Campus. Under these circumstances, Plaintiff's inability to identify individual prospective tenants is not fatal to the reasonable accommodation claim.
+The requested accommodation at issue in this case is a modification of DMHA's Administrative Plan to include a prior competition as a permissible method of selecting project-based vouchers. If this requested accommodation had been granted in a timely manner, GDPM could have applied for Veterans Affairs Supportive Housing ("VASH") project-based [*6]  vouchers on Plaintiff's behalf. This would have allowed Plaintiff to move forward with the proposed development.
+DMHA maintains, however, that it simply enforced a facially-neutral policy, the result being that all prospective tenants of Freedom's Path, disabled and non-disabled veterans alike, were burdened in the same manner and to the same degree; no one has access to Freedom's Path as a place to live. DMHA argues that, because disabled individuals were not uniquely burdened by application of the policy, Plaintiff's reasonable accommodation claim fails as a matter of law.
+Given that DMHA did not raise this issue in its motion for summary judgment, the Court will not consider it now. It is well-settled that "parties cannot use a motion for reconsideration to raise new legal arguments that could have been raised before a judgment was issued." Roger Miller Music, Inc. v. Sony/ATV Publ'g, 477 F.3d 383, 395 (6th Cir.2007).
+
+B. Date of Earliest Request for Accommodation
+DMHA next argues that there is no genuine issue of material fact concerning whether the communications that took place between Taylor and Heapy in December of 2015 constituted a request for a reasonable accommodation. It argues that Plaintiff's own conduct demonstrates that Plaintiff did not believe [*7]  that these communications constituted such a request. In fact, Plaintiff did not make this argument until it filed its reply brief in support of its motion for summary judgment. DMHA notes that Plaintiff's Complaint cites only to the September 2, 2016, letter as the date of the requested accommodation. Doc. #1, PageID#7. So does a May 1, 2018, letter sent to GDPM's counsel in connection with settlement discussions. Doc. #69-1, PageID#2178. DMHA argues that the Court failed to take this into consideration in its Decision and Entry.
+Plaintiff argues that, under Fed. R. Evid. 408, the contents of the May 1, 2018, letter cannot be considered. That Rule provides as follows:
+(a) Prohibited Uses. Evidence of the following is not admissible--on behalf of any party--either to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction:
+(1) furnishing, promising, or offering--or accepting, promising to accept, or offering to accept--a valuable consideration in compromising or attempting to compromise the claim; and
+(2) conduct or a statement made during compromise negotiations about the claim--except when offered in a criminal case and when the [*8]  negotiations related to a claim by a public office in the exercise of its regulatory, investigative, or enforcement authority.
+(b) Exceptions. The court may admit this evidence for another purpose, such as proving a witness's bias or prejudice, negating a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
+Fed. R. Evid. 408. DMHA maintains that the letter is offered not as evidence of liability, but as evidence of Plaintiff's subjective state of mind, relevant to the question of whether Plaintiff, in fact, requested an accommodation earlier than September 2, 2016.
+The Court finds that consideration of the May 1, 2018, letter is barred by Rule 408. The key remaining issue in this case is whether Taylor's communications with Heapy in December of 2015 constituted a request for a reasonable accommodation.2 DMHA is offering the May 1, 2018, letter, "a statement made during compromise negotiations about the claim," to disprove the validity of this claim.
+Even if the Court were to consider the allegations in the Complaint and the statement made in the May 1, 2018, letter, genuine issues of material fact still exist. Taylor testified that, although he made no specific oral [*9]  or written request for a "reasonable accommodation" prior to September 2, 2016, "everything was to accommodate the need to house homeless and disabled vets." Doc. #43-11, PageID#1501. GDPM was fully aware that the project could not move forward without the requested modification to the Administrative Plan.
+For the reasons discussed in the Decision and Entry, the Court continues to believe that, based on the evidence presented, a reasonable jury could find that the December of 2015, communications between Taylor and Heapy were sufficient to put GDPM on notice of the need for a reasonable accommodation under the FHA or the ADA.
+
+IV. Conclusion
+For the reasons outlined above, the Court OVERRULES Defendant's Motion for Reconsideration, Doc. #69.
+Date: November 12, 2019
+/s/ Walter H. Rice
+WALTER H. RICE
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document

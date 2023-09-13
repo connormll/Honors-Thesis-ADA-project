@@ -1,0 +1,43 @@
+Ortiz v. Winco Holdings, Inc.
+United States District Court for the Central District of California
+August 23, 2023, Decided; August 24, 2023, Filed
+5:23-cv-00793-MCS-SP
+
+Reporter
+2023 U.S. Dist. LEXIS 149368 *; 2023 WL 5489019
+Julio Ortiz v. Winco Holdings, Inc el al.
+Counsel:  [*1] For Julio Ortiz, Plaintiff: Mohamed Ahmed Eldessouky, LEAD ATTORNEY, Maria Esther Garcia, Eldessouky Law, Apc, West Hollywood, CA.
+For Winco Holdings, Inc., a corporation, Defendant: Sofya Perelshteyn, LEAD ATTORNEY, Seyfarth Shaw LLP, Los Angeles, CA; Kristina M Launey, Tiffany T Tran, Seyfarth Shaw LLP, Sacramento, CA.
+For Ken Delporto, an individual, Defendant: Sofya Perelshteyn, Seyfarth Shaw LLP, Los Angeles, CA.
+Judges: Mark C. Scarsi, United States District Judge.
+Opinion by: Mark C. Scarsi
+Opinion
+
+
+
+CIVIL MINUTES — GENERAL
+
+Proceedings: (IN CHAMBERS) ORDER RE: PLAINTIFF'S MOTION TO REMAND AND DEFENDANT'S MOTION TO DISMISS DEFENDANT KEN DALPORTO (ECF Nos. 11, 13)
+Plaintiff Julio Ortiz moves to remand this action. (Mot. to Remand, ECF No. 11.) Defendants Ken DalPorto and Winco Holdings, Inc. opposed the motion. (Opp'n, ECF No. 14.) Plaintiff did not file a reply. Separately, Defendants filed a motion to dismiss claims against Ken DalPorto. (Mot. to Dismiss, ECF No. 13.) Plaintiff did not file an opposition. (Notice of Non-Opp'n, ECF No. 20.) The Court deems these matters appropriate for decision without oral argument. See Fed. R. Civ. P. 78(b); C.D. Cal. R. 7-15.
+
+I. BACKGROUND
+Defendants removed this case from San Bernardino County Superior Court, asserting [*2]  diversity jurisdiction. (Notice of Removal, ECF No. 1.) Plaintiff brings nine causes of action against Defendants, six of which are alleged against Mr. DalPorto: 1) Failure To Accommodate, (Cal. Gov't Code § 12940(m)), 2) Failure To Engage In A Good Faith Interactive Process, (Cal. Gov't Code § 12940(n)); 3) Disability Discrimination (Cal. Gov't Code § 12940(a)); 4) Hostile Work Environment (Cal. Gov't Code § 12940(j)); 5) Intentional Infliction of Emotional Distress; and 6) Negligent Infliction of Emotional Distress. (Perelshteyn Decl. Ex. A ("Compl."), ECF No. 3.) Although Defendants concede that Plaintiff and Mr. DalPorto are both citizens of California, Defendants argue that "DalPorto must be disregarded for purposes of diversity because he is a 'sham' defendant; that is, he cannot be found liable as a matter of law for the causes of action asserted against him." (NOR ¶ 18.)
+
+II. LEGAL STANDARD
+Only the removal and remand standards need to be recited here. Subject to certain exceptions not relevant here, "any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending." 28 U.S.C. § 1441(a). Consequently, [*3]  "[t]he propriety of removal thus depends on whether the case originally could have been filed in federal court." City of Chicago v. Int'l Coll. of Surgeons, 522 U.S. 156, 163, 118 S. Ct. 523, 139 L. Ed. 2d 525 (1997).
+Federal courts are of limited jurisdiction, having subject-matter jurisdiction only over matters authorized by the Constitution and Congress. Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375, 377, 114 S. Ct. 1673, 128 L. Ed. 2d 391 (1994). A defendant may remove a civil action in state court to federal court if the federal court has original jurisdiction. 28 U.S.C. § 1441(a). Federal courts have original jurisdiction where an action arises under federal law or where each plaintiff's citizenship is diverse from each defendant's citizenship and the amount in controversy exceeds $75,000. Id. §§ 1331, 1332(a).
+
+III. ANALYSIS
+Although removal based on diversity jurisdiction generally requires diversity between plaintiffs and defendants, "one exception to the requirement of complete diversity is where a non-diverse defendant has been 'fraudulently joined."" Morris v. Princess Cruises, Inc., 236 F.3d 1061, 1067 (9th Cir. 2001). "Joinder of a non-diverse defendant is deemed fraudulent, and the defendant's presence in the lawsuit is ignored for purposes of determining diversity, if the plaintiff fails to state a cause of action against a resident defendant, and the failure is obvious according to the settled rules of the state." Id. (cleaned up).
+"There are two ways to establish [*4]  fraudulent joinder: '(1) actual fraud in the pleading of jurisdictional facts, or (2) inability of the plaintiff to establish a cause of action against the non-diverse party in state court.'" GranCare, LLC v. Thrower, 889 F.3d 543, 548 (9th Cir. 2018). (quoting Hunter v. Philip Morris USA, 582 F.3d 1039, 1044 (9th Cir. 2009)). In evaluating a claim of fraudulent joinder, a court must remand "if there is a possibility that a state court would find that the complaint states a cause of action against any of the [non-diverse] defendants." Id. (quoting Hunter, 582 F.3d at 1046). In this inquiry, "the district court must consider . . . whether a deficiency in the complaint can possibly be cured by granting the plaintiff leave to amend." Id. at 550. There is a presumption against fraudulent joinder, and "defendants who assert fraudulent joinder carry a heavy burden of persuasion." Tanner v. Ford Motor Co., 424 F. Supp. 3d 666, 670 (N.D. Cal. 2019).
+Plaintiff alleges just three instances of conduct by Mr. DalPorto. When discussing Plaintiff's eligibility for promotion with his current employment restrictions, Mr. DalPorto is alleged to have "said something along the lines of, 'Lucky for you, this is workers' comp and you're able to be back. If this were ADA or anything else, we wouldn't be having this conversation because they don't accommodate managers.'" (Compl. ¶ 24.) Next, after taking medical leave, "District [*5]  Manager DELPORTO [sic] informed [Plaintiff] that WINCO would not be accepting [the] permanent restrictions" identified by Plaintiff's doctor. (Id. ¶ 25.) Finally, Plaintiff alleges that "WINCO held an alleged follow-up interactive process meeting with Plaintiff, with DELPORTO [sic] and L&A Manager Isabelle Yanz. According to them, WINCO's Risk Management team provided that only WINCO's PQME could update permanent restrictions, and that their temporary restrictions superseded any other work status Plaintiff received for his disability." (Id. ¶ 29.)
+To state a claim for intentional infliction of emotional distress, a plaintiff must allege conduct that "has been so outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community." Cantu v. Resol. Tr. Corp., 4 Cal. App. 4th 857, 888, 6 Cal. Rptr. 2d 151 (1992) (internal quotation marks omitted). With respect to negligent infliction of emotional distress claims, "it is well settled that negligent emotional distress infliction is not an independent tort; rather it is the tort of negligence to which the duty element applies." Friedman v. Merck & Co., 107 Cal. App. 4th 454, 463, 131 Cal. Rptr. 2d 885 (2003).
+As pleaded, none of Mr. DalPorto's alleged appear to satisfy these standards. [*6]  However, these defects could be cured upon amendment, meaning there "is a possibility," albeit remote, "that a state court would find that the complaint states a cause of action against any of the [non-diverse] defendants." Thrower, 889 F.3d at 548. Given the presumption against fraudulent joinder, and Defendants' "heavy burden of persuasion," Tanner, 424 F. Supp. 3d at 670, the Court cannot conclude that the joinder of Mr. DalPorto was fraudulent.
+
+IV. CONCLUSION
+Because the Court cannot conclude Mr. DalPorto was fraudulently joined, complete diversity between the parties is lacking, and the Court lacks original jurisdiction. Defendants' removal was therefore improper, and Plaintiff's motion to remand is GRANTED. The Court remands this case to the San Bernardino County Superior Court and directs the Clerk to remand the case immediately. "Without jurisdiction the court cannot proceed at all in any cause." Ruhrgas AG v. Marathon Oil Co., 526 U.S. 574, 577, 119 S. Ct. 1563, 143 L. Ed. 2d 760 (1999) (cleaned up). Accordingly, Defendant's motion to dismiss claims against Mr. DalPorto is DENIED.
+IT IS SO ORDERED.
+
+
+End of Document
+

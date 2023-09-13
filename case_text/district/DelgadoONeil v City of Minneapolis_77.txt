@@ -1,0 +1,66 @@
+Delgado-O'Neil v. City of Minneapolis
+United States District Court for the District of Minnesota
+October 31, 2012, Decided; October 31, 2012, Filed
+Civil No. 10-4021 (MJD/JJK)
+
+Reporter
+2012 U.S. Dist. LEXIS 156388 *
+Julie Delgado-O'Neil, Plaintiff, v. City of Minneapolis, Defendant.
+Prior History: Delgado-O'Neil v. City of Minneapolis, 2011 U.S. Dist. LEXIS 125476 (D. Minn., Oct. 30, 2011)
+Counsel:  [*1] Jill Clark, Jill Clark P.A., Attorney at Law, Counsel for Plaintiff.
+Susan E. Ellingstad and Julie A. Strother, Lockridge Grindal Nauen P.L.L.P., Counsel for Defendant.
+Judges: Michael J. Davis, Chief United States District Judge.
+Opinion by: Michael J. Davis
+Opinion
+
+
+
+MEMORANDUM OPINION AND ORDER
+This matter is before the Court on the motion of Defendant City of Minneapolis ("City") for Summary Judgment. Plaintiff did not file a pleading responsive to this motion.
+
+I. Procedural Background
+Plaintiff is an attorney employed with the Minneapolis City Attorney's Office. She previously brought a lawsuit against the City in 2008 (Civil No. 08-4924), alleging claims of employment discrimination based on race and retaliation pursuant to Title VII, the Minneapolis Civil Rights Ordinance and 42 U.S.C. § 1981. Plaintiff brought another action in June 2009 (Civil No. 09-1598), in which she asserted claims under 42 U.S.C. §§ 1981 and 1983, and Title VII. Plaintiff amended the complaint in 09-1598 on September 9, 2009 [Doc. No. 8]. That action was then consolidated with the first filed action on September 17, 2009. [Doc. No. 12].
+By Order dated August 4, 2010 [Civ. No. 08-4924, Doc. No. 161], this Court granted the City's motion for  [*2] summary judgment and dismissed Plaintiff's claims with prejudice. The Court's decision was thereafter affirmed on appeal. Delgado-O'Neil v. City of Minneapolis, 435 Fed. Appx. 582, 2011 WL 3759479 (8th Cir. 2011).
+Plaintiff filed this action on September 23, 2010, again asserting claims of employment discrimination and retaliation under Title VII and the Minnesota Human Rights Act ("MHRA"), disability discrimination under the Americans with Disabilities Act ("ADA"), workers compensation and a First Amendment retaliation claim. Plaintiff has since amended the complaint on three occasions.
+The City moved for judgment on the pleadings, asking the Court to dismiss those claims in the Third Amended Complaint that arose from the same operative facts underlying the claims actually litigated and resolved in her prior lawsuit or which could have been litigated in that action. The motion was granted, and Counts I, II and III of the Third Amended Complaint were dismissed to the extent Plaintiff based such Counts on factual allegations that arose before September 9, 2009, and Count II was dismissed to the extent such Count was based on a hearing impairment. (Memorandum Opinion and Order dated  [*3] October 31, 2011 [Doc. No. 79].)
+The claims remaining in this case are retaliation based on a one-month suspension Plaintiff received in November 2010 and a coaching session in 2011, retaliation for filing a worker's compensation claim in July 2010, and that the City failed to accommodate Plaintiff's shoulder injury.
+
+II. Standard For Summary Judgment
+Under Rule 56(b) of the Federal Rules of Civil Procedure, "a party against whom relief is sought may move at any time, with or without supporting affidavits, for summary judgment on all or part of the claim." Fed. R. Civ. P. 56(b)(2008). Furthermore, "[t]he judgment sought should be rendered if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(c). See also Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986).
+The party seeking summary judgment bears the burden of showing that there is no disputed issue of material fact. Id. at 323. If the opposing party fails to make a showing that supports the existence of an element essential to the case on which they have the burden  [*4] of proof at trial, summary judgment must be granted. Id. at 332-33.
+When a motion for summary judgment is properly made and supported, an opposing party may not rely merely on allegations or denials in its own pleadings; rather, its response must–by affidavits or as otherwise provided in this rule–set out specific facts showing a genuine issue for trial. If the opposing party does not so respond, summary judgment should, if appropriate, be entered against that party.
+Fed. R. Civ. P. 56(e)(2).
+As noted above, Plaintiff did not respond to the City's motion. Thus, if the City has met its burden and demonstrated that it is entitled to judgment as a matter of law, the motion will be granted.
+
+III. Analysis
+
+A. Retaliation
+As noted above, Plaintiff has asserted that she suffered retaliation for engaging in protected activity under Title VII, the MHRA and the First Amendment. To establish a prima facie case of retaliation, Plaintiff must show: she engaged in statutorily protected conduct; a reasonable person would have perceived the alleged retaliatory action to be materially adverse; and a causal connection exists between participation in the protected activity and the adverse employment action.  [*5] Sutherland v. Mo. Dep't of Corr., 580 F.3d 748, 752 (8th Cir. 2009)1. If Plaintiff establishes a prima facie case of retaliation, the burden then shifts to the City to produce a legitimate, non-retaliatory reason for its employment actions. If the City meets its burden, then Plaintiff must prove that the City's stated reasons are a pretext for discrimination. Clegg v. Arkansas Dep't of Corr., 496 F.3d 922, 928 (8th Cir. 2007) (noting that the McDonnell Douglas framework was to be used to analyze the plaintiff's retaliation claim). To prove pretext, Plaintiff must both discredit the City's asserted reasons for its employment actions and show the circumstances permit drawing a reasonable inference that the real reason for the City's employment decisions was retaliation. Gilbert v. Des Moines Area Comm. Coll., 495 F.3d 906, 918 (8th Cir. 2007). The Court has reviewed the record, and finds that the City has demonstrated that it is entitled to judgment as a matter of law as to Plaintiff's claims for retaliation under Title VII, the ADA, MHRA and the First Amendment.
+Not only is there no evidence in the record which supports a causal connection between any adverse employment action and protected activity, she has failed to present evidence to discredit the City's asserted reasons for her suspension in November 2010, and a coaching memorandum issued to Plaintiff in October 2011.
+
+B. Worker's Compensation Retaliation
+Plaintiff alleges that the City violated Minn. Stat. § 176.82 by threatening her discharge or retaliating against her for seeking worker's compensation benefits.
+Minn. Stat. § 176.82 provides:
+Any person discharging or threatening to discharge an employee for seeking workers' compensation benefits or in any manner intentionally obstructing an employee seeking workers' compensation benefits is liable in a civil action for damages incurred by the employee including any diminution in workers' compensation benefits caused by a violation of this section including costs and reasonable attorney fees,  [*7] and for punitive damages not to exceed three times the amount of any compensation benefit to which the employee is entitled.
+The City asserts there is no evidence the Plaintiff was discharged or threatened discharge if she filed a worker's compensation claim. Again, the Court has reviewed the record and finds that there is no evidence to support a claim of retaliation under Minn. Stat. § 176.82.
+In her deposition, Plaintiff testified that her worker's compensation claim is based on an email she received from Judd Gushwa that describes a meeting between Plaintiff's supervisors and union representatives. (Affidavit of Susan Ellingstad, Ex. 1 (Plaintiff Dep. at 133-35); Ex. 17.) This meeting was held approximately one month after Plaintiff suffered the injury to her shoulder that prompted her to file for worker's compensation benefits. (Id.) In the email, Gushwa informed Plaintiff of hypothetical settlement terms proposed by the City, and counter-offers proposed by the union. (Id., Ex. 17.) "In a nutshell, all conversations from both sides today were couched as hypotheticals and the discussion was one of trying to find a compromise between what it is clear they are headed for, namely termination,  [*8] and what we want, which is to avoid termination." (Id.) Gushwa further described a proposal to allow Plaintiff to remain an employee until she turned 65 years of age, which was nine months from the date of the meeting, and that the City would pay her for half that time if she agreed to retire. (Id.) Gushwa summarized by stating: "I get the impression that the writing is on the wall and either they will terminate you or you will need to come to some sort of agreement like what is spelled out above." (Id.)
+This email does not discuss the fact that Plaintiff was injured or had filed for worker's compensation benefits. Instead, the record demonstrates that the meeting discussed in the Gushwa email was scheduled in response to the City's investigation and finding that Plaintiff had fraudulently altered case appearance sheets. (Id. Exs. 15, 16.) As Plaintiff has not put forth evidence demonstrating a genuine issue of material fact that there is a causal connection between her filing a worker's compensation claim and an adverse employment action or a threat of such an adverse action, the City has demonstrated that it is entitled to summary judgment as to this claim. See Kunferman v. Ford Motor Co., 112 F.3d 962, 965 (8th Cir. 1997)  [*9] (finding that under Minnesota law, plaintiff must establish a causal connection between statutorily protected claim and adverse employment action).
+
+C. Failure to Accommodate2
+Plaintiff alleges that the City failed to accommodate her shoulder injury in violation of the Americans with Disabilities Act ("ADA"). To prove a failure to accommodate claim under the ADA, Plaintiff must prove that she was disabled as defined under the ADA and that she was a qualified individual. Fenney v. Dakota, MN & Eastern R. Co., 327 F.3d 707, 712 (8th Cir. 2003).  [*10] A qualified individual is one who "possess[es] the requisite skill, education, experience, and training for her position, and (2) [is] able to perform the essential job functions, with or without reasonable accommodation." Heaser v. Toro Co., 247 F.3d 826, 831 (8th Cir. 2001) abrogated on other grounds by Torgerson v. City of Rochester, 643 F.3d 1031 (8th Cir. 2011). If a plaintiff cannot perform the essential functions of the job without accommodation, she must show that an accommodation is possible. Fenney, 327 F.3d at 712. Once this showing is made, the burden shifts to the employer to show that it was unable to accommodate the employee. Id. An employer is not required to provide an accommodation that it can demonstrate would impose an undue hardship on its operation. 42 U.S.C. § 12112(b)(5)(A).
+The law also provides that where an employee requests an accommodation, the employer must in a good faith, engage in an interactive process to determine whether a reasonable accommodation is possible. Cravens v. Blue Cross & Blue Shield of Kansas City, 214 F.3d 1011, 1021 (8th Cir. 2000).
+The City argues that it is entitled to summary judgment as to Plaintiff's failure to accommodate claim  [*11] because, assuming for purposes of this motion that Plaintiff is disabled as defined under the ADA, the City fully accommodated Plaintiff's shoulder injury, and acted in good faith.
+The Court finds that the record supports the City's position, and that no genuine issues of material fact would prevent judgment in favor of the City as to Plaintiff's claim of failure to accommodate under the ADA. After Plaintiff injured her shoulder in June 2010, she was allowed to take approximately nine months of medical leave during a fifteen month time period, and was allowed to return to work on a reduced schedule when she received the medical clearance to do so. (Id., Ex. 1 (Plaintiff Dep. at 26-28, 30-31); Ex. 2 (Plaintiff Dep. at 192).) She met with Ronald Bjork on January 27, 2011, to discuss ergonomic issues Plaintiff had with regard to her work-surface height, keyboard and monitor height and her chair. (Id. Ex. 37.)
+It was Plaintiff's burden to show that genuine issues of fact exist that other reasonable accommodations existed and that the City acted in bad faith during the interactive process required to address her requests for accommodation. Plaintiff did not meet this burden. The City is thus  [*12] entitled to summary judgment on this claim.
+Accordingly,
+IT IS HEREBY ORDERED that the City's Motion for Summary Judgment [Doc. No. 100] is GRANTED. This matter is dismissed with prejudice.
+LET JUDGMENT BE ENTERED ACCORDINGLY.
+Date: October 31, 2012
+/s/ Michael J. Davis
+Michael J. Davis
+Chief Judge
+United States District Court
+
+
+End of Document
+

@@ -1,0 +1,52 @@
+Teske v. CCA of Tenn., LLC
+United States District Court for the Southern District of Indiana, Indianapolis Division
+September 12, 2012, Decided; September 12, 2012, Filed
+1:11-cv-00412-JMS-TAB
+
+Reporter
+2012 U.S. Dist. LEXIS 129986 *; 26 Am. Disabilities Cas. (BNA) 1859; 2012 WL 4020947
+NORA TESKE, Plaintiff, vs. CCA OF TENNESSEE, LLC, a/k/a/ Corrections Corporation of America, Defendant.
+Subsequent History: Findings of fact/conclusions of law at Teske v. CCA of Tenn., LLC, 2012 U.S. Dist. LEXIS 140342 (S.D. Ind., Sept. 28, 2012)
+Prior History: Teske v. CCA of Tenn., LLC, 2012 U.S. Dist. LEXIS 120439 (S.D. Ind., Aug. 24, 2012)
+Counsel:  [*1] For NORA TESKE, Plaintiff: Jason Porter Cleveland, JOHN H. HASKIN & ASSOCIATES, Indianapolis, IN; John H. Haskin, Paul Anthony Logan, HASKIN & LARUE, Indianapolis, IN.
+For CCA OF TENNESSEE, LLC, also known as CORRECTIONS CORPORATION OF AMERICA, Defendant: John T. L. Koenig, BARNES & THORNBURG, LLP, Atlanta, GA; Peter Thomas Tschanz, Robert Anthony Prather, BARNES & THORNBURG LLP, Indianapolis, IN.
+Judges: Hon. Jane Magnus-Stinson, United States District Judge.
+Opinion by: Jane Magnus-Stinson
+Opinion
+
+
+
+ORDER
+Presently before the Court is Plaintiff's Motion for Reconsideration, [dkt. 90], which the Court GRANTS in part and DENIES in part for the reasons that follow.
+
+I.
+
+Procedural Posture
+In March 2011, Ms. Teske filed suit in this Court, alleging violations of the Family Medical Leave Act of 1993 ("FMLA"), Americans with Disabilities Act ("ADA"), and the Indiana Workers' Compensation Act ("IWCA"). [Dkt. 1.] In March 2012, CCA filed a motion for summary judgment, [dkt. 35], which the Court granted in part and denied in part, [dkt. 87]. Following the Court's ruling, only Ms. Teske's retaliation claims under the FMLA (Count I) and IWCA (Count III) remained for trial. [Id.] Ms. Teske has now moved the Court to reconsider its  [*2] ruling and reinstate her claims under the ADA for retaliation, failure to accommodate, and discriminatory termination. [Dkt. 90.]
+
+II.
+
+Discussion
+A motion to reconsider is appropriate where the court has "misunderstood a party," "made a decision outside the adversarial issues presented," "made an error of apprehension (not of reasoning)," or "where a significant change in the law has occurred, or where significant new facts have been discovered." Bank of Waunakee v. Rochester Cheese Sales, Inc., 906 F.2d 1185, 1191 (7th Cir. 1990). A motion for reconsideration must do more than simply "rehash[] the merits of the case based on the existing record." Tokh v. Water Tower Court Home Owners Ass'n, 327 Fed. Appx. 630, 631 (7th Cir. 2009).
+
+A. Ms. Teske's Claim of Retaliation under the ADA
+Ms. Teske first argues that her claim for retaliation under the ADA should be reinstated because CCA never moved for summary judgment on that claim. [Dkt. 90 at 2.] In response, CCA acknowledges that a portion of Ms. Teske's Complaint alleges that Defendant terminated her because of her requests for accommodation, but it contends that Ms. Teske did not give it "fair notice" of  [*3] claim. [Dkt. 94 at 5.] The Court disagrees.
+Under Federal Rule of Civil Procedure 8(a)(2), "a plaintiff's complaint need only provide a short and plain statement for the claim showing that the pleader is entitled to relief, sufficient to provide the defendant with fair notice of the claim and its basis." Here, Ms. Teske's statements in her Complaint that "[CCA] terminated [her] ... for her requests for accommodation," [dkt. 90 at 2 (emphasis added)], as well as substantially similar allegations made to the EEOC, in her deposition, and in her briefing on summary judgment, [dkt. 46 at 1], were sufficient to provide CCA with fair notice before the close of summary judgment briefing that Ms. Teske claimed to have been terminated, in part, because of her request for accommodations. Therefore, the Court grants Ms. Teske's motion for reconsideration with respect to her retaliation claim under the ADA, [dkt. 90].
+
+B. Ms. Teske's Claims for Failure to Accommodate and Discriminatory Termination under the ADA
+Unlike Ms. Teske's ADA retaliation claim, Ms. Teske's failure-to-accommodate and discriminatory termination claims are subject to the threshold requirement that Ms. Teske be a qualified individual,  [*4] i.e. one who can perform the essential functions of her job with or without reasonable accommodations. Gratzl v. Office of Chief Judges of 12th, 18th, 19th, & 22nd Judicial Circuits, 601 F.3d 674, 679 (7th Cir. 2010). To be a qualified individual, an employee must be able to perform the position into which she was hired. Id. at 680. An employer is not required to "strip a current job of its principal duties to accommodate a disabled employee." Id. Also, an employer has no duty to reassign an employee to a permanent light-duty position. Id. (internal citations omitted). In its summary judgment ruling, [dkt. 87], this Court found as a matter of law that Ms. Teske was not a qualified individual because the undisputed evidence demonstrated that Ms. Teske could not perform two of the essential job functions of a correctional officer — namely, the requirement that she "be capable of working any post during any shift," [dkt. 53 at 8 (emphases in original)], and that Ms. Teske be capable of enduring verbal and mental abuse from inmates, [id. at 9].
+In moving for reconsideration, Ms. Teske attempts to relitigate the same arguments already rejected by the Court, asking the Court to revisit its  [*5] reasoning and ultimate conclusion that Ms. Teske is not a qualified individual. [See dkt. 90 at 4-9.] The Court will not do so.
+Again, a motion for reconsideration must do more than simply "rehash[] the merits of the case based on the existing record." Tokh, 327 Fed. Appx. at 631. See also Bank of Waunakee, 906 F.2d at 1191 (holding that a motion to reconsider is appropriate where the court has "misunderstood a party," "made a decision outside the adversarial issues presented," "made an error of apprehension (not of reasoning)," or "where a significant change in the law has occurred, or where significant new facts have been discovered").
+As CCA correctly points out, [dkt. 94 at 6], Ms. Teske has failed to offer any basis for the Court to reconsider its conclusion that she was not a qualified individual. While Ms. Teske persists in arguing that she could have been permanently assigned to post with minimal inmate contact — an argument the Court rejected in its ruling on summary judgment in light of her apparent inability to withstand abuse from even a single inmate when experiencing emotionality — the Court will not consider her attempt to "rehash[] the merits of the case," Tokh, 327 Fed. Appx. at 631.  [*6] Her motion for reconsideration is therefore denied with respect to the failure-to-accommodate and discriminatory termination claims. [Dkt. 90.]
+
+III. Conclusion
+For the foregoing reasons, the Court GRANTS in part and DENIES in part Plaintiff's Motion for Reconsideration, [dkt. 90], and reinstates only Ms. Teske's retaliation claim under the ADA. The Court's rulings, [dkt. 87], will stand with respect to Ms. Teske's failure-to-accommodate and discriminatory termination claims under the ADA.
+09/12/2012
+/s/ Jane Magnus-Stinson
+Hon. Jane Magnus-Stinson, Judge
+United States District Court
+Southern District of Indiana
+
+
+End of Document
+

@@ -1,0 +1,75 @@
+Cain v. Patel
+United States District Court for the Southern District of Illinois
+July 17, 2020, Decided; July 17, 2020, Filed
+Case No. 19-CV-1385- RJD
+
+Reporter
+2020 U.S. Dist. LEXIS 126141 *; 2020 WL 4040870
+LEA CAIN, Plaintiff, v. HIMANSHU PATEL a/k/a SAM and ATHENEON ILLINOIS, INC. d/b/a MOTEL 6, Defendants.
+Subsequent History: Motion denied by, Without prejudice, Motion granted by Cain v. Patel, 2021 U.S. Dist. LEXIS 68259, 2021 WL 1312644 (S.D. Ill., Apr. 8, 2021)
+Motion denied by, Partial summary judgment denied by, in part, Summary judgment granted by, in part, Claim dismissed by, Without prejudice Cain v. Patel, 2021 U.S. Dist. LEXIS 110553, 2021 WL 2414597 (S.D. Ill., June 14, 2021)
+Motion granted by, in part, Motion denied by, in part Cain v. Patel, 2021 U.S. Dist. LEXIS 115876, 2021 WL 2554142 (S.D. Ill., June 22, 2021)
+Motion denied by Cain v. Patel, 2021 U.S. Dist. LEXIS 122568 (S.D. Ill., June 30, 2021)
+Motion denied by Cain v. Patel, 2021 U.S. Dist. LEXIS 123593 (S.D. Ill., July 1, 2021)
+Costs and fees proceeding at, Motion granted by Cain v. Patel, 2021 U.S. Dist. LEXIS 237257, 2021 WL 5815632 (S.D. Ill., Dec. 6, 2021)
+Costs and fees proceeding at, Motion granted by, in part, Motion denied by, in part Cain v. Patel, 2022 U.S. Dist. LEXIS 79422 (S.D. Ill., May 2, 2022)
+Counsel:  [*1] For Lea Cain, Plaintiff: Sarah Jane Hunt, MaryAnne Quill, Kennedy Hunt P.C., St. Louis, MO.
+For Himanshu Patel, also known as Sam, Atheneon, Illinois Inc., doing business as Motel 6, Defendants: Shari R. Rhode, LEAD ATTORNEY, Rhode Law Firm, Carbondale, IL.
+Judges: Hon. Reona J. Daly, United States Magistrate Judge.
+Opinion by: Reona J. Daly
+Opinion
+
+
+
+ORDER
+DALY, Magistrate Judge:
+This matter is before the Court on Defendants' Motion to Dismiss Counts 8-10 of Plaintiff's First Amended Complaint (Doc. 27). Plaintiff filed a timely response (Doc. 28). Defendants filed a Reply (Doc. 29). For the reasons explained further, Defendants' Motion is DENIED.
+
+Background
+Plaintiff's Amended Complaint (Doc. 25) against Defendants Himanshu Patel ("Patel") and Antheneon Illinois, Inc. d/b/a Motel 6 ("Motel 6") contains the following claims:
+Count 1: Violation of Fair Labor Standards Act (failure to pay minimum wage) against both Defendants
+Count 2: Violation of Fair Labor Standards Act (failure to pay overtime) against both Defendants
+Count 3: Violation of Fair Labor Standards Act (retaliation) against both Defendants
+Count 4: Violation of Illinois Minimum Wage Law (failure to pay minimum wage) against Motel 6
+Count 5: Violation of Illinois [*2]  Minimum Wage Law (failure to pay overtime) against Motel 6
+Count 6: Violation of Illinois Wage Payment and Collection Act (failure to pay wages) against both Defendants
+Count 7: Violation of Illinois Wage Payment and Collection Act (retaliation) against both Defendants
+Count 8: Violation of the Americans with Disabilities Act against Motel 6
+Count 9: Violation of the Illinois Human Rights Act against both Defendants
+Count 10: Violation of the Illinois Whistleblower Act ("IWA") against Motel 6
+Defendants answered and filed affirmative defenses to Counts 1-7 and filed the instant motion to dismiss Counts 8-10 pursuant to Federal Rule of Civil Procedure 12(b)(6).
+The following allegations in Plaintiff's Amended Complaint are relevant to this motion. Plaintiff started working at Motel 6 in June 2013 under Patel's supervision. Her first job title was that of guest service representative. Three months later, Patel promoted Plaintiff to manager. In addition to handling her own job duties, Plaintiff also performed housekeeping and maintenance tasks. In 2016, the working and living conditions at Motel 6 became dangerous. Plaintiff called OSHA and left a detailed message about the conditions at Motel 6, but received no response.
+In February [*3]  2018, Plaintiff was diagnosed with neuropathy, scoliosis, and degenerative disc disease. Plaintiff told Patel she could no longer perform the housekeeping duties. Patel told Plaintiff that she had to continue performing those duties.
+In early May 2019, Plaintiff contacted OSHA again about the unsafe working conditions at Motel 6. She also filed a complaint with OSHA. On May 21, 2019, one of Plaintiff's physicians placed her on light duty work restrictions. Plaintiff told Patel about the light duty order, but Patel expected Plaintiff to continue performing housekeeping duties. On May 24, 2019, Patel demoted Plaintiff to guest service representative. Several days later, Plaintiff asked Patel to reinstate her position as manager. Patel refused and said "I know you called OSHA on me." Plaintiff submitted a charge to the Equal Employment Opportunity Commission ("EEOC") in September 2019. She received a Right to Sue letter, and filed this lawsuit within 90 days of receipt of the letter.
+
+Legal Standard
+Rule 12(b)(6) of the Federal Rules of Civil Procedure provides for dismissal if a complaint fails to state a claim upon which relief can be granted. In considering a motion to dismiss, the Court accepts as true all well-pleaded allegations in the [*4]  complaint and draws all possible inferences in favor of the plaintiff. See Killingsworth v. HSBC Bank Nevada, N.A., 507 F.3d 614, 618 (7th Cir. 2007) (quotations omitted). A plaintiff need not set out all relevant facts or recite the law in his or her complaint; however, the plaintiff must provide a short and plain statement that shows that he or she is entitled to relief. See Fed. R. Civ. P. 8(a)(2). Thus, a complaint will not be dismissed if it "contain[s] sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)).
+
+Count Eight: Americans with Disabilities Act ("ADA") claim against Motel 6
+To survive a motion to dismiss under Rule 12(b)(6), Plaintiff's ADA claim must allege that 1) Plaintiff is disabled; 2) she is otherwise qualified to perform the essential functions of the job with or without reasonable accommodation; and 3) her employer took an adverse job action against her because of her disability or failed to make a reasonable accommodation for her disability. See Basden v. Prof'l Transp., Inc., 714 F.3d 1034, 1037 (7th Cir. 2013).
+Plaintiff's Amended Complaint alleges that she has the following disabling conditions: neuropathy, scoliosis, and degenerative disc disease. Plaintiff further alleges that these conditions did not affect her ability to perform the essential functions of her job as manager [*5]  at Motel 6. However, Plaintiff also alleges that Motel 6 expected her to perform other employees' duties, e.g., housekeeping. Once Plaintiff was diagnosed with her disabling conditions, she alleges that she told Motel 6 she could no longer perform other employees' job duties, but Motel 6 continued to require her to do so and demoted her.
+Motel 6 contends that if housekeeping was not an essential function of Plaintiff's job, then Motel 6 did not have a duty to make a reasonable accommodation for Plaintiff related to housekeeping, and therefore Count Eight should be dismissed. It appears that Motel 6 is arguing that a loophole exists in the ADA that allows employers to require a disabled employee to perform functions outside of her essential job duties and then, when the employee asks to stop performing others' job duties because of her disability, the employer can take adverse action against the employee. Since Motel 6 cites no case law in support of this argument, the Court declines to interpret the ADA in this manner.
+Motel 6 then argues that if housekeeping was one of Plaintiff's essential job functions, then Motel 6 had no duty to completely relieve Plaintiff of that responsibility [*6]  and assign that duty to someone else. This argument is supported by case law. Stern v. St. Anthony's Health Ctr., 788 F.3d 276, 289-90 (7th Cir. 2015). However, the Court accepts all well-pleaded factual allegations as true at the pleading stage. Ashcraft, 556 U.S. at 678. Plaintiff alleges that housekeeping was not one of her essential job functions. The issue of whether housekeeping was one of Plaintiff's essential job functions as a manager of Motel 6 is not one that can be resolved on a Rule 12(b)(6) motion to dismiss.
+Motel 6 raises three additional arguments in support of its Motion to Dismiss Count Eight. First, Motel 6 contends that for purposes of claiming retaliation under the ADA, Plaintiff failed to allege that she engaged in a protected activity made unlawful by the ADA of which Defendants were aware. Motel 6 points out that Plaintiff filed her EEOC charge after she was demoted, so therefore Motel 6 could not have been retaliating against her for filing the EEOC charge when it demoted her. However, Plaintiff alleges in her complaint that Motel 6 demoted her after she told Patel about her disability and that she could no longer perform housekeeping duties. Making informal complaints or comments to a supervisor may be considered a statutorily protected activity for purposes of retaliation [*7]  claims, and therefore Plaintiff adequately pled Motel 6 retaliated against her under the ADA. See Davis v. Time Warner Cable of Southeastern Wis., L.P., 651 F.3d 664, 674 (7th Cir. 2015).
+Motel 6's next argument is that Plaintiff failed to exhaust her administrative remedies for the ADA claim. Motel 6 bases this argument on the allegations made in Plaintiff's EEOC charge and contends that those allegations are different from what Plaintiff now alleges in her Amended Complaint. Therefore, Motel 6 argues, Plaintiff did not exhaust her administrative remedies prior to filing this lawsuit.
+Generally, the Court does not review matters outside the complaint when ruling on a Rule 12(b)(6) motion. Jacobs v. City of Chicago, 215 F.3d 758, 766 (7th Cir. 2000). Plaintiff's EEOC charge was not attached to her Complaint, but Plaintiff does refer to the EEOC charge in her allegations. The Court may look to a document outside the complaint if the Plaintiff refers to that document in her allegations and it is central to the Plaintiff's claim, e.g., the contract at issue in a contractual dispute. Levenstein v. Salafsky, 164 F.3d 345, 347 (7th Cir. 1998) (emphasis in the original). Neither party addresses this issue and so there is no argument or authority for this Court to determine whether Plaintiff's EEOC charge is central to her claim. Thus, the Court can either convert Motel 6's motion to a summary judgment motion [*8]  or decline to consider the EEOC charge when ruling on this motion. Id. The Court declines to convert this motion to one for summary judgment because Motel 6 only briefly covers the exhaustion argument in its Motion to Dismiss. The facts alleged in Plaintiff's Complaint regarding her exhaustion of administrative remedies suffice to survive a Rule 12(b)(6) motion.
+Finally, Motel 6 contends that Plaintiff's ADA failure to accommodate claim is time barred. Plaintiff alleges that she told Patel in February 2018 that she could not perform the housekeeping duties that were not part of Plaintiff's job description. Plaintiff did not file her EEOC charge until September 2019. An EEOC charge must be filed within 300 days of the allegedly unlawful action by the employer. Stepney v. Naperville School Dist., 392 F.3d 236, 239 (7th Cir. 2009). However, Plaintiff's complaint also alleges that Motel 6 is liable for events that occurred in May 2019, which is well within 300 days of Plaintiff's September 2019 EEOC charge. Like Motel 6's exhaustion argument, this issue is better suited for a summary judgment motion. The Court finds no basis to dismiss Count Eight of Plaintiff's Amended Complaint pursuant to Rule 12(b)(6).
+
+Count Nine: Illinois Human Rights Act ("IHRA") claim against Motel 6 and Patel [*9] 
+The Court notes that the parties appear to agree that Plaintiff's ADA and IHRA claims are judged under the same standards. In support of their argument to dismiss Plaintiff's IHRA claim, Defendants cite to case law specifically analyzing the ADA. In her Response to Defendant's Motion to Dismiss, Plaintiff simultaneously presents her arguments regarding her ADA claim and IHRA claim. Other courts have adopted the approach of analyzing IHRA and ADA claims for disability discrimination under the same standards. See, e.g., Keen v. Teva Sales and Marketing, Inc., 303 F. Supp.3d 690, 715 (N.D. Ill. March 20, 2018).
+Defendants contend that Count Nine should be dismissed because Plaintiff did not identify an essential function of her job that required an accommodation, but do not cite any case law in support of this contention. Defendants then refer the Court to Motel 6's arguments in support of dismissing Plaintiff's ADA claim. As explained above, the Court finds that Plaintiff's ADA claim contains enough facts to survive a Rule 12(b)(6) motion to dismiss and therefore extends that ruling to Plaintiff's IHRA claim.
+
+Count Ten: Illinois Whistleblower Act claim against Motel 6
+Motel 6 correctly identifies the elements of a properly pled claim brought pursuant to the Illinois Whistleblower Act: "(1) [*10]  an adverse employment action by [Plaintiff's] employer, (2) which was in retaliation (3) for the employee's disclosure to a government or law enforcement agency (4) of a suspected violation of an Illinois or federal law, rule, or regulation." Sweeney v. City of Decatur, 2017 IL App (4th) 160492, ¶15, 413 Ill. Dec. 835, 79 N.E.3d 184. Motel 6 contends that Plaintiff's allegations do not meet these requirements because (according to Motel 6) Plaintiff alleges she was demoted before she contacted OSHA regarding the unsafe working conditions at Motel 6. Consequently, Motel 6 argues that Plaintiff cannot establish that Defendants retaliated against her for reporting those conditions to OSHA.
+In her Response to Motel 6's Motion to Dismiss, Plaintiff points out numerous facts alleged in her Amended Complaint that, if true, would establish the following timeline: (1) Plaintiff contacted OSHA in early May 2019 to report "unresolved safety hazards in the workplace"; (2) shortly after making the phone call, Plaintiff submitted a complaint to OSHA; 3) Motel 6 demoted Plaintiff on May 24, 2019; 4) several days later, Plaintiff asked Patel to reinstate her previous position; 5) Patel refused and said "I know you called OSHA on me." These allegations-that Motel 6 demoted Plaintiff because [*11]  she reported unsafe working conditions to OSHA-meet the requirements for a properly pled claim under the Illinois Whistleblower Act. Accordingly, Motel 6's Motion to Dismiss Count 10 is denied.
+
+CONCLUSION
+For the reasons set forth above, Defendants' Motion to Dismiss (Doc. 27) is DENIED. IT IS SO ORDERED.
+DATED: July 17, 2020
+/s/ Reona J. Daly
+Hon. Reona J. Daly
+United States Magistrate Judge
+
+
+End of Document
+

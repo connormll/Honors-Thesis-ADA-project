@@ -1,0 +1,197 @@
+Hobro v. United Airlines, Inc.
+United States District Court for the District of Hawaii
+September 26, 2022, Decided; September 26, 2022, Filed
+CIV. NO. 21-00322 HG-KJM
+
+Reporter
+2022 U.S. Dist. LEXIS 174024 *; 2022 WL 4468518
+DANIEL HOBRO, Plaintiff, vs. UNITED AIRLINES, INC.; LEONE MCPHEE-WHITE; STEVEN DUENAS; DAVID PIGOZZI; JOHN DOES 1-10; JANE DOES 1-10; DOE ENTITIES 1-10, Defendants.
+Subsequent History: Motion granted by, in part, Motion denied by, in part, Motion granted by, Motion denied by Hobro v. United Airlines, Inc., 2023 U.S. Dist. LEXIS 61107 (D. Haw., Apr. 6, 2023)
+Counsel:  [*1] For Daniel Hobro, Plaintiff: Bridget G. Morgan-Bickerton, LEAD ATTORNEY, Bickerton Law Group LLLP, Honolulu, HI; James J. Bickerton, LEAD ATTORNEY, Bickerton Law Group LLLP, Honolulu, HI.
+For United Airlines, Inc., Leone McPhee-White, Steven Duenas, David Pigozzi, Defendants: Eileen C. Zorc, LEAD ATTORNEY, Marr Jones & Wang LLP, Honolulu, HI; Ronald Tang, LEAD ATTORNEY, Marr Jones & Wang LLP, Honolulu, HI; Richard M. Rand, Marr Jones & Wang LLP, Honolulu, HI.
+Judges: Helen Gillmor, United States District Judge.
+Opinion by: Helen Gillmor
+Opinion
+
+
+
+ORDER GRANTING, IN PART, AND DENYING, IN PART, DEFENDANTS' MOTION FOR SUMMARY JUDGMENT (ECF No. 31)
+Plaintiff Daniel Hobro filed a Complaint against his former employer, United Airlines, Inc., and several employees of United Airlines, Inc. The Complaint arises from Plaintiff's termination from his employment on May 20, 2020.
+Plaintiff claims that he worked for Defendant United Airlines, Inc. for nearly twenty years. Plaintiff most recently worked as a Customer Care Agent. He asserts he had a hearing impairment and requested a two-ear headset as an accommodation for his disability. Plaintiff alleges that his employer did not provide the two-ear headset. He claims that he was terminated [*2]  on account of his disability.
+Plaintiff also claims he was terminated because of his age, that he worked in a hostile work environment, and that he was retaliated against for complaining about discriminatory practices.
+
+PLAINTIFF'S CLAIMS AGAINST INDIVIDUAL DEFENDANTS
+The Complaint alleges claims against Defendant United Airlines, Inc. as well against three individual employees of United Airlines, Inc.: Defendants Leone McPhee-White, Steven Duenas, and David Pigozzi.
+The Individual Defendants move for summary judgment in their favor as to Plaintiff's claims against them. Plaintiff concedes in his Opposition that he has not established a basis to bring causes of action against the Individual Defendants.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to all claims against Defendants McPhee-White, Duenas, and Pigozzi is GRANTED.
+
+PLAINTIFF'S CLAIMS AGAINST DEFENDANT UNITED AIRLINES, INC.:
+Plaintiff's Complaint asserts the following causes of action against Defendant United Airlines, Inc.:
+(1) disability discrimination pursuant to Haw. Rev. Stat. § 378-2 and the Americans With Disabilities Act of 1990, 42 U.S.C. § 12112;
+(2) age discrimination pursuant to Haw. Rev. Stat. § 378-2 and the Age Discrimination in Employment Act, 29 U.S.C. § 623;
+(3) retaliation;
+(4) hostile work environment;
+(5) intentional infliction of emotional distress, and,
+(6) [*3]  unlawful discharge.
+First, Defendants' Motion for Summary Judgment argues that Plaintiff failed to administratively exhaust his employment discrimination claims brought under Hawaii state law pursuant to Haw. Rev. Stat. § 378-2.
+Second, Defendants assert Plaintiff has not established a prima facie case of age discrimination, retaliation, or hostile work environment.
+Third, Defendants argue that Plaintiff's intentional infliction of emotional distress claim is statutorily barred by Hawaii's Workers' Compensation statute.
+Fourth, Defendants assert that Plaintiff's unlawful discharge claim is duplicative of his federal law employment discrimination claims.
+The Court agrees.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's claims pursuant to Haw. Rev. Stat. § 378-2, Age Discrimination In Employment Act, retaliation, hostile work environment, intentional infliction of emotional distress, and unlawful discharge is GRANTED.
+Plaintiff's remaining claim is against Defendant United Airlines, Inc. for disability discrimination brought pursuant to Title I of the Americans With Disabilities Act of 1990.
+Defendants' Motion for Summary Judgment asserts that Plaintiff was no longer qualified to perform his position as a Customer Care Agent. Defendant United Airlines, Inc. argues that Plaintiff was terminated for failure [*4]  to perform his job efficiently. Further, Defendant Unites Airlines, Inc. claims that Plaintiff did not request any reasonable accommodation and otherwise failed to engage in the interactive process to identify a reasonable accommodation.
+There are genuine disputes of material fact as to whether Plaintiff was qualified for the position, whether Plaintiff requested a reasonable accommodation, and the basis for Plaintiff's termination. The questions of fact preclude summary judgment on Plaintiff's Americans With Disabilities Act claim.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's Americans With Disabilities Act claim is DENIED.
+
+PROCEDURAL HISTORY
+On June 21, 2021, Plaintiff filed the Complaint in the Circuit Court of the First Circuit, State of Hawaii. (ECF No. 1-2).
+On July 26, 2021, Defendants removed the Complaint to the United States District Court for the District of Hawaii. (ECF No. 1).
+On April 27, 2022, Defendants filed a Motion for Summary Judgment and a Concise Statement of Facts. (ECF Nos. 31 and 32).
+On April 28, 2022, the Court issued a briefing schedule. (ECF No. 33).
+On May 2, 2022, Plaintiff's counsel sent a letter to the court seeking a continuance of [*5]  the briefing schedule. (ECF No. 34).
+On May 9, 2022, the Court held a status conference regarding Plaintiff's letter. (ECF No. 36). The Court granted Plaintiff's request to continue the briefing schedule. (Id.)
+On May 27, 2022, Plaintiff filed an Opposition and a Concise Statement of Facts in Opposition to Defendants' Motion for Summary Judgment. (ECF Nos. 37 and 38).
+On June 2, 2022, the Court issued a Minute Order striking Plaintiff's Opposition and Concise Statement as they failed to comply with the Local Rules for the District of Hawaii. (ECF No. 39). The Court granted Plaintiff additional time to file an Opposition and Concise Statement in conformity with the Local Rules. (Id.)
+On June 17, 2022, Plaintiff filed an Opposition and Concise Statement of Facts in Opposition to Defendants' Motion for Summary Judgment. (ECF Nos. 40 and 41).
+On July 7, 2022, Defendants filed the Reply and Concise Statement in Reply. (ECF Nos. 44 and 45).
+On September 22, 2022, the Court held a hearing on Defendants' Motion for Summary Judgment. (ECF No. 47).
+
+BACKGROUND
+
+THE FOLLOWING FACTS ARE UNDISPUTED:
+In 2001, Plaintiff began employment with Defendant United Airlines, Inc. as a Reservations Sales and Service [*6]  Representative. (Deposition of Plaintiff Daniel Hobro ("Hobro Depo.") at pp. 33-35, 38, attached as Ex. A to Defs.' CSF, ECF No. 32-2; Declaration of Plaintiff Daniel Hobro ("Hobro Decl.") at ¶ 5, attached to Pl.'s CSF, ECF No. 41-1).
+Sometime between 2010 and 2015, Plaintiff transferred to Defendant United Airlines, Inc.'s Customer Care Department as a Customer Care Agent. (Declaration of Leone McPhee-White ("McPhee-White Decl.") at ¶ 1, attached to Defs.' CSF, ECF No. 32-23; Declaration of Daniel Hobro ("Hobro Decl.") at ¶ 11, attached to Pl.'s CSF, ECF No. 41-1).
+On or about September 15, 2015, Plaintiff transferred from the Honolulu in-office position as a Customer Care Agent to a remote, work-from-home position as a Customer Care Agent. (McPhee-White Decl. at ¶ 2, ECF No. 32-23).
+From May 5, 2017 to May 26, 2017, Plaintiff was given Family and Medical Leave approval in order to undergo cochlear implant surgery. (FML Leave Request for Plaintiff, attached as Ex. 5 to Pl.'s CSF, ECF No. 41-8; May 2, 2017 Letter Granting Plaintiff's FML Request, attached as Ex. 6 to Pl.'s CSF, ECF No. 41-9).
+On May 20, 2020, Plaintiff was terminated from his employment with United Airlines, Inc. (Hobro [*7]  Decl. at ¶ 39, ECF No. 41-1).
+
+DEFENDANT'S POSITION:
+Defendant United Airlines, Inc. claims that Plaintiff was terminated for failing to meet minimum productivity goals. (Declaration of Jamey Vincent, Senior Manager of Customer Care for United Airlines, Inc., at ¶ 5, attached to Defs.' CSF, ECF No. 32-32). Defendant claims that Plaintiff's Units Per Hour of productivity were 2.030, which was below its requirement of 2.313. (Declaration of Steven Duenas, former Customer Care Supervisor for United Airlines, Inc., at ¶ 7, attached to Defs.' CSF, ECF No. 32-30).
+Defendant claims Plaintiff was given both verbal and written warnings about deficiencies in his performance. (McPhee-White Decl. at ¶¶ 9-11, ECF No. 32-23). Defendant claims that it provided Plaintiff with coaching to assist him in meeting the productivity goals but that Plaintiff was unable to meet the goals. (Id.)
+Defendant acknowledges that Plaintiff requested a two-ear headpiece to perform his job as a Customer Care Agent, but Defendant states that it requested medical documentation from Plaintiff to support his request and never received any. (Id. at ¶ 7). Defendant asserts that Plaintiff never indicated that his failure to meet [*8]  its productivity goals "was because of a hearing impairment." (Id. at ¶¶ 9, 11).
+
+PLAINTIFF'S POSITION:
+Plaintiff claims that he was terminated on account of his hearing impairment. Plaintiff asserts that he was qualified and able to perform the essential functions of his role as a Customer Care Agent. (Hobro Decl. at ¶¶ 2, 10, 25, ECF No. 41-1). Plaintiff alleges that he requested a reasonable accommodation from Defendant United Airlines, Inc. on more than three occasions in order to perform his work as a Customer Care Agent. (Id. at ¶¶ 19, 26, 33). Plaintiff's request was for a two-ear headset to answer phone calls. (Id.) Plaintiff also states that he requested to transfer to a position with fewer phone calls but that request was denied. (Id. at ¶ 36).
+Plaintiff asserts that when he worked as a Reservations Agent prior to his work as a Customer Care Agent, he was provided with a two-ear headset. (Hobro Decl. at ¶ 18, ECF No. 41-1). Plaintiff asserts that when he began working as a Customer Care Agent, a two-ear headset was not provided and he was given only a single-ear headset. (Id.)
+Plaintiff claims that he encountered difficulty hearing phone calls as a Customer Care Agent with the [*9]  single-ear headset. Plaintiff states that he notified his supervisor Dwight Hubbard and requested a double-ear headset. (Id. at ¶ 19). Plaintiff claims that Hubbard directed him to contact United Airlines, Inc.'s Operations Department. (Id.) According to Plaintiff, Defendant's Operations Department advised Plaintiff that they did not have any double-ear headsets available that were compatible with the Customer Care Department's phone system. (Id. at ¶ 20).
+Plaintiff claims that in 2015, he again requested a double-ear headset from his new supervisor Defendant Leone McPhee-White. (Id. at ¶ 26). Plaintiff alleges that he was again told that no two-ear headsets were available. (Id.)
+Plaintiff asserts that in 2017, he requested a reasonable accommodation a third time when he asked Defendant McPhee-White for a double-ear headset. (Id. at ¶ 33). Plaintiff alleges that she told him to purchase his own headset. (Id.)
+Plaintiff claims that after his third request for a two-ear headset, he asked Defendant David Pigozzi for the accommodation. (Id. at ¶ 34). Defendant Pigozzi was a Human Resources Manager for Defendant United Airlines, Inc. (Id.) Plaintiff asserts that Mr. Pigozzi requested medical [*10]  documentation from Plaintiff but took no further action on Plaintiff's request. (Id.)
+Plaintiff claims that "[n]o one at United ever explained United's Reasonable Accommodation Process to me or provided me any Reasonable Accommodation Process packet or paperwork. United did not advise me that it had a Reasonable Accommodation Process and I was not aware that such a process existed until this lawsuit." (Id. at ¶ 35). Plaintiff asserts that if he had been "provided with a double ear headset I would have been able to meet United's [Units Per Hour productivity] goals." (Id. at ¶ 41).
+
+STANDARD OF REVIEW
+Summary judgment is appropriate when there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(c). To defeat summary judgment there must be sufficient evidence that a reasonable jury could return a verdict for the nonmoving party. Nidds v. Schindler Elevator Corp., 113 F.3d 912, 916 (9th Cir. 1997).
+The moving party has the initial burden of "identifying for the court the portions of the materials on file that it believes demonstrate the absence of any genuine issue of material fact." T.W. Elec. Serv., Inc. v. Pacific Elec. Contractors Ass'n, 809 F.2d 626, 630 (9th Cir. 1987) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986)). The moving party, however, has no burden to negate or disprove matters on which the opponent will have the burden [*11]  of proof at trial. The moving party need not produce any evidence at all on matters for which it does not have the burden of proof. Celotex, 477 U.S. at 325. The moving party must show, however, that there is no genuine issue of material fact and that he or she is entitled to judgment as a matter of law. That burden is met by pointing out to the district court that there is an absence of evidence to support the non-moving party's case. Id.
+If the moving party meets its burden, then the opposing party may not defeat a motion for summary judgment in the absence of probative evidence tending to support its legal theory. Commodity Futures Trading Comm'n v. Savage, 611 F.2d 270, 282 (9th Cir. 1979). The opposing party must present admissible evidence showing that there is a genuine issue for trial. Fed. R. Civ. P. 56(e); Brinson v. Linda Rose Joint Venture, 53 F.3d 1044, 1049 (9th Cir. 1995). "If the evidence is merely colorable, or is not significantly probative, summary judgment may be granted." Nidds, 113 F.3d at 916 (quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249-50, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986)).
+The court views the facts in the light most favorable to the non-moving party. State Farm Fire & Casualty Co. v. Martin, 872 F.2d 319, 320 (9th Cir. 1989). Opposition evidence may consist of declarations, admissions, evidence obtained through discovery, and matters judicially noticed. Fed. R. Civ. P. 56(c); Celotex, 477 U.S. at 324. The opposing party cannot, however, stand on its pleadings or simply assert that it will be able to discredit the movant's evidence at trial. Fed. R. Civ. P. 56(e); T.W. Elec. Serv., 809 F.2d at 630. The opposing [*12]  party cannot rest on mere allegations or denials. Fed. R. Civ. P. 56(e); Gasaway v. Northwestern Mut. Life Ins. Co., 26 F.3d 957, 959-60 (9th Cir. 1994). When the non-moving party relies only on its own affidavits to oppose summary judgment, it cannot rely on conclusory allegations unsupported by factual data to create an issue of material fact. Hansen v. United States, 7 F.3d 137, 138 (9th Cir. 1993); see also Nat'l Steel Corp. v. Golden Eagle Ins. Co., 121 F.3d 496, 502 (9th Cir. 1997).
+
+ANALYSIS
+
+I. CLAIMS AGAINST INDIVIDUAL DEFENDANTS
+Individual Defendants Leone McPhee-White, Steven Duenas, and David Pigozzi have moved for summary judgment on a number of bases including statute of limitations and failure to establish a prima facie case.
+Plaintiff concedes that he is unable to bring a claim against the Individual Defendants. (Pl.'s Opp. at p. 32, ECF No. 40).
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's claims against Individual Defendants Leone McPhee-White, Steven Duenas, and David Pigozzi is GRANTED.
+
+II. PLAINTIFF'S EMPLOYMENT DISCRIMINATION CLAIMS PURSUANT TO HAWAII STATE LAW, HAW. REV. STAT. § 378-2
+Plaintiff's Complaint alleges employment discrimination claims based on disability, age, hostile work environment, and retaliation pursuant to both federal law and Hawaii state law.
+A plaintiff asserting claims of employment discrimination pursuant to either federal law or Hawaii state law must exhaust administrative [*13]  remedies before bringing suit. See Sosa v. Hiraoka, 920 F.2d 1451, 1455 (9th Cir. 1990); Pele Def. Fund v. Puna Geothermal Venture, 9 Haw. App. 143, 827 P.2d 1149, 1154 (Haw. App. 1992). Claims are exhausted by filing a charge of discrimination with the U.S. Equal Employment Opportunity Commission or the Hawaii Civil Rights Commission. See Rutenschroer v. Starr Seigle Comms., Inc., Civ. No. 05-00364 ACK-BMK, 2006 U.S. Dist. LEXIS 35744, 2006 WL 1554043, *6 (D. Haw. May 31, 2006).
+A charge of discrimination must be filed within the applicable limitations period in order to timely assert a claim for employment discrimination. The limitations period is different for federal law employment discrimination claims than for Hawaii state law employment discrimination claims.
+For Plaintiff's federal law claims, Plaintiff is required to file a charge of discrimination with the U.S. Equal Employment Opportunity Commission within 300 days after the alleged unlawful employment practice. See Beckmann v. Ito, 430 F.Supp.3d 655, 672 (D. Haw. 2020) (citing 42 U.S.C. § 2000e-5(e)(1); 29 U.S.C. § 626(d)(1)).
+Hawaii state law requires that a complainant file a charge of discrimination within 180 days after the date upon which the alleged unlawful discriminatory practice occurred or after the last occurrence in a pattern of ongoing discriminatory practice. Haw. Rev. Stat. § 368-11(c); Greenwood v. Frost, Civ. No. 19-00137 DKW-RT, 2019 U.S. Dist. LEXIS 162531, 2019 WL 4620363, *6 (D. Haw. Sept. 23, 2019). The Hawaii Supreme Court treats this as a statute of limitations period. Sam Teague, Ltd. v. Haw. Civ. Rts. Comm'n, 89 Haw. 269, 971 P.2d 1104, 1112 (Haw. 1999).
+Hawaii has a worksharing agreement with the U.S. Equal Employment Opportunity Commission and administrative claims with the U.S. Equal Employment Opportunity [*14]  Commission may be dual-filed with the Hawaii Civil Rights Commission. U.S. E.E.O.C. v. NCL Am. Inc., 504 F. Supp. 2d 1008, 1009-10 (D. Haw. 2007).
+A Charge of Discrimination filed with the U.S. Equal Employment Opportunity Commission is insufficient to confer the federal District Court with jurisdiction over a Hawaii state law claim of employment discrimination where the Charge of Discrimination is untimely pursuant to Hawaii state law. Armijo v. Costco Wholesale Warehouse, Inc., Civ. No. 19-00484 ACK-RT, 2021 U.S. Dist. LEXIS 64753, 2021 WL 1240622, *4 (D. Haw. Apr. 2, 2021).
+Here, Plaintiff failed to timely file a charge of discrimination to file suit pursuant to Haw. Rev. Stat. § 378-2, because his charge was filed within 300 days but not the 180-day deadline imposed by Hawaii state law. Id.; Ross v. Stouffer Hotel Co., 76 Haw. 454, 879 P.2d 1037, 1042 (Haw. 1994).
+Plaintiff's only Charge of Discrimination was filed with the U.S. Equal Employment Opportunity Commission. The Charge of Discrimination was filed on March 16, 2021. (EEOC Charge of Discrimination filed on March 16, 2021, attached as Ex. 26 to Defs.' CSF, ECF No. 32-18). Plaintiff elected not to file a separate charge with the Hawaii Civil Rights Commission.
+Plaintiff's termination from United Airlines, Inc. was on May 20, 2020. His termination was exactly 300 days prior to the filing of his March 16, 2021 Charge of Discrimination with the U.S. EEOC. Plaintiff's Charge of Discrimination was filed within the federal law 300-day [*15]  statute of limitations, but it was filed outside of the 180-day statute of limitations applicable to pursue an employment discrimination claim pursuant to Hawaii state law. Aoyagi v. Straub Clinic & Hosp., Inc., 140 F.Supp.3d 1043, 1052-53 (D. Haw. 2015) (explaining that state law claims pursuant to Haw. Rev. Stat. § 378-2 are only timely filed with the U.S. EEOC to the extent they are based upon events occurring within 180 days prior to filing the charge of discrimination).
+Plaintiff's Hawaii state law employment discrimination claims are based on events that occurred more than 180 days prior to Plaintiff filing his Charge of Discrimination. As a result, Plaintiff is unable to bring his Hawaii state law causes of action brought pursuant to Haw. Rev. Stat. § 378-2. Armijo, 2021 U.S. Dist. LEXIS 64753, 2021 WL 1240622, at *4.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's claims pursuant to Haw. Rev. Stat. § 378-2 is GRANTED.
+
+III. PLAINTIFF'S AGE DISCRIMINATION IN EMPLOYMENT ACT CLAIM
+The federal Age Discrimination In Employment Act prohibits discrimination based on age. 29 U.S.C. § 623(a)(1). Plaintiff may establish this claim through direct evidence or through the burden-shifting analysis set forth in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). McGinest v. GTE Serv. Corp., 360 F.3d 1103, 1122 (9th Cir. 2004).
+Direct evidence in the context of an ADEA claim is evidence of conduct or statements by persons involved in the decision-making process that may be viewed as directly reflecting the alleged discriminatory attitude sufficient to permit the fact finder to infer that the attitude more likely than not caused the termination. Enlow v. Salem-Keizer Yellow Cab Co., Inc., 389 F.3d 802, 812 (9th Cir. 2004).
+Without direct evidence, a plaintiff must establish a [*16]  prima facie claim pursuant to the McDonnell Douglas framework. The framework requires a plaintiff to establish that (1) he belongs to a protected class; (2) he was qualified for his position; (3) he was subjected to an adverse employment action; and, (4) similarly situated individuals outside his protected class were treated more favorably than him. Maybin v. Hilton Grand Vacations Co., LLC, 343 F.Supp.3d 988, 994-95 (D. Haw. 2018).
+Plaintiff has not addressed Defendants' Motion for Summary Judgment as to his Age Discrimination In Employment Act claim. Plaintiff has not produced sufficient evidence to establish either direct evidence of age discrimination or any evidence that younger, similarly situated individuals were treated more favorably than him. Plaintiff must demonstrate "the burden of persuasion to establish that age was the 'but-for' cause of the employer's adverse action." Gross v. FBL Fin. Servs., Inc., 557 U.S. 167, 180, 129 S. Ct. 2343, 174 L. Ed. 2d 119 (2009). Plaintiff has failed to do so.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's Age Discrimination In Employment Act claim is GRANTED.
+
+IV. PLAINTIFF'S HOSTILE WORK ENVIRONMENT CLAIM
+A hostile work environment is one that is permeated with discriminatory intimidation, ridicule, and insult that is so severe and pervasive that it alters the conditions of the employee's working environment. Harris v. Forklift Sys., Inc., 510 U.S. 17, 21, 114 S. Ct. 367, 126 L. Ed. 2d 295 (1993). To prevail on a hostile work [*17]  environment claim, a plaintiff must show evidence that the discriminatory conduct was severe and pervasive, including the frequency of the conduct, whether it was threatening or humiliating, and whether it unreasonably interfered with an employee's work performance. Kortan v. Cal. Youth Auth., 217 F.3d 1104, 1110 (9th Cir. 2000); see Laulau v. City & Cnty. Of Honolulu, 938 F.Supp.2d 1000, 1016-17 (D. Haw. 2013) (explaining that isolated comments by the plaintiff's supervisor were too sparse to support a claim that the workplace was permeated with hostility).
+Plaintiff failed to address Defendants' Motion for Summary Judgment with respect to his hostile work environment claim. Plaintiff has not presented evidence that he was subjected to a severe and pervasive hostile work environment.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's hostile work environment claim is GRANTED.
+
+V. PLAINTIFF'S RETALIATION CLAIM
+Absent direct evidence of retaliation, the court must apply the McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973) burden-shifting framework. Yonemoto v. McDonald, 114 F.Supp.3d 1067, 1109 (D. Haw. 2015).
+To establish a prima facie retaliation claim, Plaintiff must show:
+(1) involvement in a protected activity;
+(2) an adverse employment action; and,
+(3) a causal link between the two.
+Coons v. Sec'y of U.S. Dep't of Treasury, 383 F.3d 879, 887 (9th Cir. 2004).
+Plaintiff must show that the alleged unlawful retaliation would not have occurred "but-for" his involvement in a protected activity. [*18]  T.B ex rel. Brenneise v. San Diego Unified Sch. Dist., 806 F.3d 451, 473 (9th Cir. 2015) (finding that the but-for causation standard from Title VII applies to retaliation claims brought pursuant to both Titles I and II of the Americans With Disabilities Act); see Univ. of Tex. Sw. Med. Ctr. v. Nassar, 570 U.S. 338, 360, 133 S. Ct. 2517, 186 L. Ed. 2d 503 (2013).
+A plaintiff cannot prevail if the evidence shows that an employer had other, lawful motives that were causative of the employer's decision. Kilroy v. Los Angeles Unified Sch. Dist. Bd. of Educ., 2016 U.S. Dist. LEXIS 134785, 2016 WL 5662042, *7 (C.D. Cal. Aug. 18, 2016).
+Here, Plaintiff again failed to address Defendants' Motion as to his retaliation claim. Plaintiff has not established a prima facie claim for retaliation. There is no evidence that Plaintiff engaged in a protected activity. Plaintiff testified in his deposition that he never reported unlawful discrimination to anyone at United Airlines, Inc. Plaintiff stated, "I did not tell anybody except for my — my wife and my family members." (Hobro Depo. at pp. 200-01, attached as Ex. A to Def.'s CSF, ECF No. 32-2).
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's retaliation claim is GRANTED.
+
+VI. PLAINTIFF'S INTENTIONAL INFLICTION OF EMOTIONAL DISTRESS CLAIM
+An employee cannot bring an intentional infliction of emotional distress claim against his employer based on employment discrimination, "except for sexual harassment or sexual assault and infliction of emotional distress [*19]  or invasion of privacy related thereto." Haw. Rev. Stat. § 386-5. There are no allegations or evidence that Plaintiff was subjected to sexual harassment or sexual assault.
+Haw. Rev. Stat. § 386-5 precludes Plaintiff's claim against Defendant United Airlines, Inc. for intentional infliction of emotional distress. Begley v. Cnty. of Kauai, Civ. NO. 16-00350 LEK-RLP, 2019 U.S. Dist. LEXIS 62859, 2019 WL 1590568, *16 (D. Haw. Apr. 11, 2019); see Courtney v. Canyon Television & Applicance Rental, Inc., 899 F.2d 845, 851 (9th Cir. 1990) (finding plaintiff's intentional infliction of emotional distress claim arising from his employment was barred by Hawaii's workers' compensation statute).
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's intentional infliction of emotional distress claim is GRANTED.
+
+VII. PLAINTIFF'S UNLAWFUL DISCHARGE CLAIM
+Plaintiff asserts a claim entitled "UNLAWFUL DISCHARGE" in Count V of the Complaint. The Complaint alleges that Plaintiff was terminated "on May 20, 2020 for the unlawful age and disability discrimination and retaliatory reasons stated above, in violation of both state and federal law as cited above." (Complaint at ¶ 119, ECF No. 1-2).
+Defendants move for summary judgment as to Plaintiff's unlawful discharge claim as being duplicative of his disability discrimination, age discrimination, and retaliation claims.
+Plaintiff has not addressed Defendants' challenge to his unlawful discharge claim in [*20]  his Opposition to Defendants' Motion. Plaintiff has not demonstrated a basis for his "Unlawful Discharge" claim that is separate from the other employment discrimination claims he pled. A plaintiff cannot assert a common law wrongful termination claim based on a violation of a statute, because the proper claim is for a violation of the statute itself, not common law. Batacan v. Reliant Pharms., 324 F. Supp. 2d 1144, 1145 (D. Haw. 2004) (explaining that a plaintiff cannot bring a wrongful termination in violation of public policy claim based upon the Age Discrimination in Employment Act or Title VII of the Civil Rights Act as those statutes provide the remedy for such violations).
+Here, the employment discrimination statutes themselves provide the remedies for Plaintiff, and an attempt to plead an additional common law wrongful termination claim is duplicative. Id.; Ross, 879 P.2d at 1047.
+Defendants' Motion for Summary Judgment (ECF No. 31) as to Plaintiff's claim for "Unlawful Discharge" is GRANTED.
+
+VIII. PLAINTIFF'S REMAINING CLAIM FOR DISABILITY DISCRIMINATION IN VIOLATION OF THE AMERICANS WITH DISABILITIES ACT OF 1990
+Plaintiff asserts that he was terminated by Defendant United Airlines, Inc. on account of his disability in violation of Title I of the Americans With Disabilities Act.
+Plaintiff asserts he requested a reasonable accommodation [*21]  that would have allowed him to perform his job and that Defendant United Airlines, Inc. failed to provide the reasonable accommodation.
+To demonstrate a prima facie claim pursuant to the Americans With Disabilities Act, Plaintiff must establish:
+(1) he is disabled within the meaning of the Americans With Disabilities Act;
+(2) he is a qualified individual who can perform the essential functions of his job either with or without reasonable accommodations; and,
+(3) he suffered an adverse employment action because of his disability.
+Samper v. Providence St. Vincent Med. Ctr., 675 F.3d 1233, 1237 (9th Cir. 2012) (citing 42 U.S.C. § 12112(a), (b)(5)(A)).
+
+A. Disabled
+A disability is "a physical or mental impairment that substantially limits one or more major life activities of [an] individual." 42 U.S.C. § 12102(1).
+Plaintiff was disabled within the meaning of the Americans With Disabilities Act due to his hearing disability.
+
+B. Qualified Individual
+To determine if an individual is qualified for a position, the Court examines if the individual satisfied the requisite skill, experience, education, and other job-related requirements of the position. The Court then considers if the individual can perform the essential functions with or without a reasonable accommodation. Bates v. United Parcel Serv., Inc., 511 F.3d 974, 990-91 (9th Cir. 2007) (en banc). The employer has the burden of establishing the essential functions of the position. Id.
+
+1. Essential Functions
+Here, the Parties do not agree [*22]  as to the essential functions of Plaintiff's former position as a Customer Care Agent.
+Plaintiff states that the position included "receiving and responding to a combination of phone calls, voice messages, letters, and emails from United's customers and resolving their issues or complaints." (Hobro Decl. at ¶ 12, ECF No. 41-1).
+Plaintiff asserts that a significant percentage of the work required him to use the phone, stating:
+I estimate that at least 30% and up to 50% of the work I did for United as a Customer Care Agent was by phone, whether answering live calls, listening to voicemails, returning voicemails, or making internal research calls to other departments while on customer calls. On a daily basis, I would handle approximately 8-10 of these various types of calls.
+(Hobro Decl. at ¶ 17, ECF No. 41-1).
+Defendant United Airlines, Inc. disagrees and stated that "over 95% of all cases handled by Customer Care agents originate from e-mail or internet sources and do not involve telephone calls." (McPhee-White Decl. at ¶ 4, ECF No. 32-23).
+Plaintiff specifically disputes the description of the essential functions of the position set forth by his former supervisor Ms. McPhee-White in her [*23]  Declaration. Plaintiff states that Defendant's allegations as to the essential functions of the position do not "bear any realistic relationship to my actual daily work as a Customer Care Agent because it is simply not true...." (Hobro Decl. at ¶ 17, ECF No. 41-1).
+Whether something constitutes an essential job function is a question of fact. Weeks v. Union Pac. R.R. Co., 137 F.Supp.3d 1204, 1223 (E.D. Cal. 2015) (citing Bates, 511 F.3d at 991 n.7). The genuine disputes of fact regarding the essential functions of the Customer Care Agent position and whether Plaintiff could have performed those functions must be decided by the finder of fact and preclude a finding of summary judgment. Burghardt-Cobb v. Inch, 2020 U.S. Dist. LEXIS 72762, 2020 WL 1974264, *6 (E.D. Cal. Apr. 24, 2020); EEOC v. CTI, Inc., 2015 U.S. Dist. LEXIS 197452, 2015 WL 11120707, *7 (D. Ariz. May 8, 2015).
+Contrary to Defendants' position, the fact that Plaintiff subsequently applied for social security disability does not preclude Plaintiff from asserting that he could perform the essential functions of the position with a reasonable accommodation. Cleveland v. Pol'y Mgmt. Sys. Corp., 526 U.S. 795, 806, 119 S. Ct. 1597, 143 L. Ed. 2d 966 (1999) (explaining that a plaintiff should have the opportunity at trial to present or contest discrepancies about her ability to perform the essential functions of the position with or without reasonable accommodations, including inconsistencies with an application for social security disability insurance).
+
+2. Reasonable Accommodations
+A reasonable accommodation [*24]  is defined as modifications to the work environment, or to the manner under which the position is performed, that enable an individual to perform the essential functions of that position. 29 C.F.R. § 1630.2(o)(1)(ii). The employee bears the burden of showing that the accommodation is reasonable and it would have enabled him to perform the essential functions of the position. Dark v. Curry Cnty., 451 F.3d 1078, 1088 (9th Cir. 2006).
+Plaintiff claims that he requested a reasonable accommodation in the form of a two-ear headpiece. Plaintiff claims he requested the accommodation on more than three separate occasions and that he was never provided a reasonable accommodation from Defendant United Airlines, Inc. (Hobro Decl. at ¶¶ 19, 26, 33, ECF No. 41-1). Plaintiff asserts that he would have been able to perform the essential functions of his position with the reasonable accommodation of the two-ear headpiece. (Id. at ¶ 41). Plaintiff explains that he was provided with a two-ear headpiece in his previous position as a Reservations Agent and was able to perform the essential functions of that position. (Id. at ¶ 7).
+Defendant United Airlines, Inc. does not dispute that Plaintiff requested the two-ear headpiece when he worked as a Customer Care Agent, but it claims that Plaintiff [*25]  did not engage in its interactive process and did not provide requested medical documentation. (McPhee-White Decl. at ¶ 7, ECF No. 32-23).
+Plaintiff states that Defendant never informed him about its reasonable accommodations procedure and did not engage in the interactive process with him. (Hobro Decl. at ¶ 35, ECF No. 41-1). Plaintiff alleges that he even applied for a transfer to another position with less phone work, but that his request for that accommodation was denied. (Id. at ¶ 36).
+Here, there are disputes of fact as to Plaintiff's requests for reasonable accommodations and each Party's engagement in the interactive process. An employer has an obligation to engage in an interactive process with the employee to identify and implement appropriate reasonable accommodations for an employee's disability. Humphrey v. Mem'l Hosps. Ass'n, 239 F.3d 1128, 1137 (9th Cir. 2001). If there was an interactive process and if it did break down are questions of fact for the jury. Hill v. City of Phoenix, 2016 U.S. Dist. LEXIS 82412, 2016 WL 3457895, *2 (D. Ariz. June 24, 2016).
+The genuine disputes of material fact preclude a finding of summary judgment as to Plaintiff's Americans With Disabilities Act claim.
+
+CONCLUSION
+Defendants' Motion for Summary Judgment (ECF No. 31) is GRANTED, IN PART, AND DENIED, IN PART.
+As to Plaintiff's claims against Defendants Leone [*26]  McPhee-White, Steven Duenas, and David Pigozzi, Defendants' Motion for Summary Judgment is GRANTED.
+As to Plaintiff's claims pursuant to Haw. Rev. Stat. § 378-2, Age Discrimination in Employment Act, retaliation, hostile work environment, intentional infliction of emotional distress, and unlawful discharge, Defendants' Motion for Summary Judgment is GRANTED.
+As to Plaintiff's claim against Defendant United Airlines, Inc. for disability discrimination pursuant to Title I of the Americans With Disabilities Act of 1990, Defendants' Motion for Summary Judgment is DENIED.
+CLAIM REMAINING FOR TRIAL:
+Count I against Defendant United Airlines, Inc. only:
+DISABILITY DISCRIMINATION IN VIOLATION OF TITLE I OF THE AMERICANS WITH DISABILITIES ACT OF 1990
+IT IS SO ORDERED.
+DATED: September 26, 2022, Honolulu, Hawaii.
+/s/ Helen Gillmor
+Helen Gillmor
+United States District Judge
+
+
+End of Document
+

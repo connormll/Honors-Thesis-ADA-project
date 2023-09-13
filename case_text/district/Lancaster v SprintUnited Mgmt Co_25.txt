@@ -1,0 +1,37 @@
+Lancaster v. Sprint/United Mgmt. Co.
+United States District Court for the Western District of Oklahoma
+July 24, 2014, Decided; July 24, 2014, Filed
+CIV-13-1348-R
+
+Reporter
+2014 U.S. Dist. LEXIS 100904 *
+CATHERINE LANCASTER, Plaintiff, v. SPRINT/UNITED MANAGEMENT CO., a/k/a SPRINT NEXTEL CORP., Defendant .
+Subsequent History: Summary judgment granted by Lancaster v. Sprint/United Mgmt. Co., 2015 U.S. Dist. LEXIS 120511 (W.D. Okla., Sept. 10, 2015)
+Summary judgment granted by Lancaster v. Sprint/United Mgmt. Co., 2016 U.S. Dist. LEXIS 10539 (W.D. Okla., Jan. 29, 2016)
+Counsel:  [*1] For Catherine Lancaster, Plaintiff: Tynan D Grayson, Grayson Law Group PLLC, Oklahoma City, OK.
+For Sprint/United Management Company, also known as Sprint Nextel Corporation, Defendant: Joseph Walters, McAfee & Taft, Oklahoma City, OK; Joshua A Cline, McAfee & Taft-OKC, Oklahoma City, OK.
+Judges: DAVID L. RUSSELL, UNITED STATES DISTRICT JUDGE.
+Opinion by: DAVID L. RUSSELL
+Opinion
+
+
+
+ORDER
+This matter comes before the Court on the Motion to Dismiss, filed by Defendant, Sprint/United Management Company. Plaintiff responded in opposition to the motion. Having considered the parties' submissions, the Court finds as follows.
+Plaintiff filed this action alleging discrimination on the basis of race, in violation of Title VII of the Civil Rights Act, and disability, in violation of the Americans with Disabilities Act. She also alleges claims of retaliation, including a claim that she was subjected to retaliation for filing a worker's compensation claim. Plaintiff first filed an EEOC charge on June 18, 2013, alleging:
+I. On about April 22, 2013 I returned to work to my position of Adv Tech and presented my employer with doctor's release to work with restrictions. I requested reasonable accommodation for my disability which my employer  [*2] is aware of and the ADA paperwork to complete. I completed the ADA paperwork and gave it to my employer. On April 22, 2013 and May 1, 2013 I was threaten (sic) if I do not return to work on April 22, 2013 and May 13, 2013 it would be considered a resignation. I objected and complained to my employer by letter dated May 6, 2013. On or about May 16, 2013 I contacted my employer and was advised I was discharged as of May 13, 2013. I have been employed with the Company since about April 2003.
+II. No reason was given for my denial of reasonable accommodation or my discharge.
+III. I believe I have been discriminated against because of my Race, Black in violation of Title VII of the Civil Rights Act of 1964, as amended and due to my Disability & Retaliation ion violation of the Americans with Disabilities Act of 1990, as amended.
+Citing to Manning v. Blue Cross and Blue Shield of Kansas City, 522 Fed.Appx. 438 (10th Cir. April 12, 2103), Defendant contends that Plaintiff's filing with the EEOC was insufficient to exhaust her administrative remedies, and therefore this Court lacks subject matter jurisdiction over Plaintiff's claims under Title VII or the ADA.
+"Exhaustion of administrative remedies  [*3] is a jurisdictional prerequisite to suit under Title VII." Jones v. Runyon, 91 F.3d 1398, 1399 (10th Cir.1996) (quotation omitted). "[A] plaintiff normally may not bring a Title VII action based upon claims that were not part of a timely-filed EEOC charge for which the plaintiff has received a right-to-sue letter." Simms v. Okla. ex rel. Dep't of Mental Health & Substance Abuse Servs., 165 F.3d 1321, 1326 (10th Cir.1999). In addressing whether dismissal under Rule 12(b)(1) for lack of subject matter jurisdiction is appropriate, we may consider documents submitted by the parties to resolve any jurisdictional fact questions. See Sizova v. Nat'l Institute of Standards & Tech., 282 F.3d 1320, 1324-25 (10th Cir.2002). The only document presented by the parties is Plaintiff's EEOC charge quoted above.
+The Court concurs with Defendant's contention that Plaintiff failed to exhaust her administrative remedies with regard to her Title VII claim. Even giving her EEOC charge liberal construction, as mandated by Jones v. United Parcel Serv., Inc., 502 F.3d 1176, 1186 (10th Cir. 2007), there are simply no facts alleged therein to support a charge of race discrimination in violation of Title VII. "To  [*4] determine whether a plaintiff has exhausted her administrative remedies, courts identify the scope of the allegations raised in a plaintiff's charge of discrimination because a 'plaintiff's claim in federal court is generally limited by the scope of the administrative investigation that can reasonably be expected to follow the charge of discrimination.'" Villalva v. Dillon Companies, Inc., 2013 U.S. Dist. LEXIS 180097, 2013 WL 6804585, *10 (D.Colo. Dec. 23, 2013)(quoting Jones, 502 F.3d at 1186). Plaintiff merely checked the box indicating race discrimination, she did not, however, include any facts to support her allegation. Accordingly, the motion to dismiss is granted with regard to Plaintiff"s Title VII claim as the Court lacks subject matter jurisdiction over such claims.
+The exhaustion issue with regard to Plaintiff's ADA claim is a closer question. Certainly Plaintiff alleges that she was under the care of a doctor, for reasons unstated in the EEOC charge, and that the doctor had imposed limitations on her. She alleges she requested accommodation for her unspecified disability and that she was denied her request and terminated as a result. She indicates both discrimination and retaliation in violation of  [*5] the ADA. 29 C.F.R. §§ 1601.12(b) provides that a charge is sufficient when it "describe[s] generally the action or practices complained of." The Court finds Plaintiff's allegations of disability discrimination and retaliation in violation of the ADA sufficient to confer subject matter jurisdiction on this Court.
+For the reasons set forth herein, Defendant's motion to dismiss is granted in part and denied in part.
+IT IS SO ORDERED this 24th day of July 2014.
+/s/ David L. Russell
+DAVID L. RUSSELL
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

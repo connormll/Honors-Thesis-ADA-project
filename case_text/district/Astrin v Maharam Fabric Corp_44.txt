@@ -1,0 +1,57 @@
+Astrin v. Maharam Fabric Corp.
+United States District Court for the Eastern District of New York
+January 9, 2013, Decided; January 9, 2013, Filed
+CV-11-4482
+
+Reporter
+2013 U.S. Dist. LEXIS 4146 *; 2013 WL 139189
+STEVEN ASTRIN, Plaintiff, -against- MAHARAM FABRIC CORP., Defendant.
+Subsequent History: Motion denied by Astrin v. Maharam Fabric Corp., 2013 U.S. Dist. LEXIS 86074 (E.D.N.Y., June 19, 2013)
+Counsel:  [*1] For Plaintiff: PATRICIA MEISENHEIMER, ESQ., BRACKEN MARGOLIN BESUNDER, LLP, Islandia, New York.
+For Defendant: GEORGE F. BRENLLA, ESQ., CLIFTON BUDD & DEMARIA, LLP, New York, New York.
+Judges: LEONARD D. WEXLER, UNITED STATES DISTRICT JUDGE.
+Opinion by: LEONARD D. WEXLER
+Opinion
+
+
+
+MEMORANDUM AND ORDER
+WEXLER, District Judge:
+This is an employment discrimination action commenced by Plaintiff Steven Astrin ("Plaintiff") against his former employer, Maharam Fabric Corp. ("Maharam" or "Defendant"). Plaintiff alleges federal claims pursuant to the Americans With Disabilities Act, 42 U.S.C. § 12102 (the "ADA"), as well as parallel state law claims pursuant to the New York State Human Rights Law (the "NYSHRL"). Both the ADA and NYSHRL claims assert failure to accommodate, and unlawful termination in retaliation for Plaintiff's request for an accommodation. Presently before the court is Defendant's motion for summary judgment, pursuant to Rule 56 of the Federal Rules of Civil Procedure, dismissing Plaintiff's complaint in its entirety.
+
+BACKGROUND
+I. Factual Background
+Plaintiff began his employment with Maharam, a company engaged in the distribution of commercial and residential interior fabrics, in 1988. The particular nature  [*2] of Plaintiff's day to day duties is disputed. It is clear, however, that those duties at times, included the lifting and carrying of heavy objects, as well as duties that did not include such lifting. Part of the physical labor required of Plaintiff was the lifting of packages of fabric from a moving roller conveyer belt. On May 28, 2010, Plaintiff's arm became stuck in a conveyer belt, and he sustained injuries to his wrist and shoulder.
+Following his injury, Plaintiff requested and was granted a leave of absence pursuant to the Family Medical Leave Act ("FMLA") from May 31, 2010 through July 19, 2010. Plaintiff's physician thereafter cleared Plaintiff to return to light duty. Maharam created a special office position for Plaintiff which accommodated Plaintiff's physical restrictions. Plaintiff worked in this position from July 19, 2010, until August 27, 2010, when, according to Plaintiff, he was informed by his physician that he should resume his FMLA leave and prepare for additional surgery to relieve his pain. Maharam granted Plaintiff an additional four week period of FMLA leave and Plaintiff resumed that leave on September 2, 2010. Plaintiff's FMLA leave was thereafter extended  [*3] for an additional four week period.
+Plaintiff's employment with Maharam was terminated on October 26, 2010. It is Plaintiff's position that the termination was in retaliation for his request for a reasonable accommodation. It is Defendant's position that at the time of his termination Plaintiff was physically unable to perform any function of his job at Maharam and was completely unable to work.
+II. Plaintiff's Causes of Action
+As noted, Plaintiff alleges ADA claims as well as claims pursuant to the NYSHRL. Plaintiff claims that Defendant failed to provide Plaintiff with the required reasonable accommodation. He further claims that he was unlawfully terminated in retaliation for asking for that accommodation.
+III. The Motion for Summary Judgment
+Defendant moves for summary judgment dismissing all of Plaintiff's claims. Specifically, Defendant argues that Plaintiff's complaint must be dismissed because he can show neither that he could perform the essential functions of his job with a reasonable accommodation, nor that Maharam failed to provide such accommodation. These arguments are also relied upon in support of Defendant's motion for summary judgment as to the claim of retaliation.
+
+DISCUSSION
+I.  [*4] Summary Judgment Standards
+The standards for summary judgment are well settled. Rule 56(c) of the Federal Rules of Civil Procedure 56(c), states that summary judgment is appropriate only if "the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law." Fed.R.Civ.P. 56(c); Reiseck v. Universal Commc'ns of Miami, Inc., 591 F.3d 101, 104 (2d Cir. 2010). Affidavits submitted in opposition to summary judgment must be based on personal knowledge, "set forth such facts as would be admissible in evidence," and must show that the affiant is "competent to testify to the matters stated therein." Patterson v. County of Oneida, 375 F.3d 206, 219 (2d Cir.2004).
+The moving party bears the burden of showing entitlement to summary judgment. See Huminski v. Corsones, 396 F.3d 53, 69 (2d Cir. 2005). In the context of a Rule 56 motion, the court "is not to weigh the evidence but is instead required to view the evidence in the light most favorable to the party opposing summary judgment, to draw all reasonable inferences in favor of that party, and to eschew credibility  [*5] assessments." Amnesty Am. v. Town of W. Hartford, 361 F.3d 113, 122 (2d Cir. 2004); see Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986) (summary judgment is unwarranted if "the evidence is such that a reasonable jury could return a verdict for the nonmoving party"). Once the moving party has met its burden, the opposing party "'must do more than simply show that there is some metaphysical doubt as to the material facts .... [T]he nonmoving party must come forward with specific facts showing that there is a genuine issue for trial.'" Caldarola v. Calabrese, 298 F.3d 156, 160 (2d Cir. 2002), quoting, Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 586-87, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986) (emphasis in original).
+II. Plaintiff's Claims: Legal Principles
+The ADA prohibits discrimination based on disability. 42 U.S.C. § 12112(a). This includes the failure to make a reasonable accommodation that would allow an otherwise qualified individual to perform the essential functions of his job. 42 U.S.C. §12112(b)(5)(A).1
+To establish a failure to accommodate  [*6] claim, a plaintiff must show: (1) that he is a person with a disability; (2) that his employer is aware of the disability; (3) that "with reasonable accommodation," he could perform "the essential functions of the job at issue," and (4) that defendant has refused to make the accommodation. McBride v. BIC Consumer Products Mfg. Co., Inc., 583 F.3d 92, 97 (2d Cir. 2009). Once the plaintiff has demonstrated that there is a "plausible accommodation, the costs of which, facially, do not clearly exceed its benefits," the defendant bears the burden of proving that the requested accommodation is not reasonable. McElwee v. County of Orange, 700 F.3d 635, 642 (2d Cir. 2012), quoting, Borkowski v. Valley Cent. Sch. Dist., 63 F.3d 131, 138 (2d Cir.1995).
+While it is generally for the employee to request a reasonable accommodation, the employer may be required to engage in an "informal, interactive process" with the employee to determine the appropriate accommodation. See McElwee, 700 F.3d at 642. Importantly, however, an employee may not recover on a failure to accommodate claim based solely on his employer's failure to engage in such a process. Instead, even if the employer has failed to engage  [*7] in discussions with the plaintiff, it remains the plaintiff's burden to show the existence of a reasonable accommodation when he was terminated. Id. at 642.
+In addition to requiring the making of reasonable accommodation, the ADA prohibits retaliation against individuals asserting rights under the statute. 42 U.S.C. § 12203(a). A prima facie case of retaliation under the ADA exists only if the plaintiff can show: (1) engagement in an activity protected by the ADA; (2) the employer's awareness of that activity; (3) employment action adverse to the plaintiff, and (4) a causal connection between the protected activity and the adverse employment action. Weissman v. Dawn Joy Fashions, Inc., 214 F.3d 224, 234 (2d Cir 2000), quoting, Sarno v. Douglas Elliman-Gibbons & Ives, Inc., 183 F.3d 155, 159 (2d Cir. 1999); Rodriguez v. Atria Sr. Living Group, Inc., 887 F. Supp. 2d 503, 2012 U.S. Dist. LEXIS 115084, 2012 WL 3457718 *7 (S.D.N.Y. 2012).
+A plaintiff satisfies the "protected activity" prong of his case by demonstrating a "good faith, reasonable belief" that his employer violated the law. Muller v. Costello, 187 F.3d 298, 311 (2d Cir. 1999). After showing that he engaged in protected activity, a plaintiff must go on to show that the protected activity  [*8] caused the termination. See Rodriguez, 2012 U.S. Dist. LEXIS 115084, 2012 WL 3457718 *7-8.
+III. Disposition of the Motion
+The parties do not dispute the issue of whether or not Plaintiff is an individual with a disability. Nor is there any question but that Defendant was aware of that disability. At issue is whether or not "with reasonable accommodation," Plaintiff could perform "the essential functions" of his job. Plaintiff argues he could; Defendant argues it is clear that he could not. Also at issue is Defendant's reason for terminating Plaintiff. Plaintiff characterizes his termination as retaliatory. Defendant argues that there is no causation between Plaintiff's alleged protected activity and his termination.
+Upon review of the documents submitted in support and in opposition to the motion the court holds that questions of fact exist precluding the entry of summary judgment. In particular, the court cannot say whether Plaintiff's disability preventing him from perform the functions of his job, with or without reasonable accommodation. Nor can the court state whether or not any requested accommodation was the cause of Plaintiff's termination. Accordingly, the court must deny the motion for summary judgment.
+
+CONCLUSION
+For  [*9] the foregoing reasons, Defendant's motion for summary judgment is denied. The Clerk of the Court is directed to terminate the motion appearing at docket entry number 24. The parties are reminded that jury selection in this matter is scheduled for June 24, 2013. There shall be no adjournments.
+SO ORDERED
+/s/ Leonard D. Wexler
+LEONARD D. WEXLER
+UNITED STATES DISTRICT JUDGE
+Dated: Central Islip, New York
+January 9, 2013
+
+
+End of Document
+

@@ -1,0 +1,43 @@
+Reed v. Ben E. Keith Co.
+United States District Court for the Northern District of Oklahoma
+September 30, 2016, Decided; September 30, 2016, Filed
+Case No. 16-CV-178-CVE-PJC
+
+Reporter
+2016 U.S. Dist. LEXIS 135563 *
+ADAM V. REED, Plaintiff, v. BEN E. KEITH COMPANY, Defendants.
+Counsel:  [*1] For Adam V Reed, an individual, Plaintiff: Mitchell Ellis Shamas, LEAD ATTORNEY, Shamas Law Office PLLC, TULSA, OK.
+For Ben E Keith Company, a Foreign Corporation, Defendant: Kristen Lee Brightmire, LEAD ATTORNEY, Doerner Saunders Daniel & Anderson LLP (Tulsa), TULSA, OK.
+Judges: Paul J. Cleary, United States Magistrate Judge.
+Opinion by: Paul J. Cleary
+Opinion
+
+
+
+OPINION AND ORDER
+Before the court is the Motion to Withdraw [Dkt. #15] filed by Plaintiff's attorney, Mitchell E. Shamas. Shamus seeks leave to withdraw as counsel of record for Plaintiff Adam V. Reed ("Reed"), and requests that Plaintiff be granted an additional 60 days to retain successor counsel before any additional deadlines are imposed upon him. In the motion, counsel states, "In the course of discovery on September 2, 2016 it became apparent Plaintiff's attorney, Movant herein, is a necessary witness because all accommodation contacts on behalf of Plaintiff were made through such attorney." Id. at 1.
+Reed does not oppose the motion. However, defendant Ben E. Keith Company ("BEK") has filed an objection. [Dkt. #17]. In its objection, BEK takes no position on whether Shamus should remain as counsel, but asserts that Shamus should not be permitted to testify as [*2]  a witness in the case and opposes any extension of the current scheduling order. Id. at 1.
+The court conducted a hearing on the motion on September 28, 2016.
+Withdrawal of counsel in civil cases is governed by Local Rule 83.5, which states:
+In civil cases, attorneys of record shall not withdraw from the case except upon reasonable notice to the client and all other parties who have appeared in the case and by leave of the judge to whom the case is assigned.
+"'The grant or denial of an attorney's motion to withdraw in a civil case is a matter addressed to the discretion of the trial court and will be reversed on appeal only when the trial court has abused its discretion.'" Sanders v. Southwestern Bell Telephone, L.P., 2009 U.S. Dist. LEXIS 50412, 2009 WL 1765981 at *2 (N.D. Okla., June 16, 2009) (quoting Washington v. Sherwin Real Estate, Inc., 694 F.2d 1081, 1087 (7th Cir. 1982)). "Generally, district courts consider whether the case will be disrupted by the withdrawal of counsel; however, there are some situations in which an attorney will be permitted to withdraw even if it results in disruption." Id. (citations omitted).
+
+Discussion
+Reed, a former BEK employee, was injured on the job on March 13, 2013. [Dkt. #2-1, Petition, ¶5]. He filed a workers compensation claim, and Shamus represented him in that matter. On June 2, 2014, Reed was released from acute medical care with permanent restrictions of no kneeling [*3]  or squatting. [Dkt. #19-1]. He requested that he be allowed to return to work at BEK with an accommodation for the permanent restrictions or, in the alternative, for transfer to another specific job for which he was qualified and which he could physically perform. Id. BEK declined the request. On September 21, 2015, he sued BEK in Ottawa County District Court, alleging BEK violated the Americans with Disabilities Act, as amended ("ADA"), 42 U.S.C. § 12112, by failing to provide reasonable accommodation for his permanent restrictions. [Dkt.#2-1 at ¶8]. BEK removed the case to this court on April 4, 2016. [Dkt. #2].
+The court entered a scheduling order setting discovery cutoff for September 9, 2016, and trial for December 19, 2016. [Dkt. #12]. During Plaintiff's deposition on September 2, 2016, he was shown letters from Shamus to H. Grady Parker, Jr. ("Parker"), BEK's attorney in the workers compensation action. [Dkt. ##19-1, 19-2, 19-3 and 19-4].
+In the first letter, dated June 10, 2014, Shamas requested that his client be allowed to return to his original job at BEK or, alternatively, for a reasonable accommodation. [Dkt. #19-1]. In the second letter, dated July 30, 2014, Shamas, confirming a telephone [*4]  conversation with Parker, stated, "You have advised that [BEK] has no work available accommodating the restrictions placed on Mr. Reed by his treating surgeon." [Dkt. #19-2]. In the third letter, dated July 10, 2014, Shamas stated, "It has . . . come to my attention that BEK does provide loading assistants to other drivers and has previously accommodated Mr. Reed's work-related injury by providing him with a loading assistant," and concluded, "Please advise as to whether or not your client will provide this accommodation and allow Mr. Reed to continue his employment." [Dkt. #19-3].1 In the fourth letter, dated December 5, 2014, Shamus acknowledged that Parker, in response to the June 20, 2014 letter, had advised accommodation was not available but had asked if the Plaintiff was interested in mediation. Shamus advised his client was interested in mediating both the workers' compensation claim and the ADA claim if BEK would pay for the medication. [Dkt. #19-4]. According to Shamus, he received no response to the third or fourth letters.
+Shamas contends that his client is incapable of testifying about communications Shamus had with BEK's worker's compensation attorney concerning Reed's request for accommodation or the attorneys' discussions regarding mediation. However, his client was copied on at least three of the four letters. And according to counsel for BEK, Reed, when questioned in his deposition about the letters, was able to articulate why he suggested the two accommodations and believed they might work. Additionally, he knew that defendant did not agree to the requested accommodations and did not reinstate him to work. Furthermore, it is questionable whether evidence of mediation discussions would be admissible at trial pursuant to Fed. R. Evid. 408.
+Moreover, BEK argues it will be prejudiced by any delay in the case. Shamus was never identified as a potential witness in Plaintiff's initial disclosures or in response to BEK's discovery requests. [Dkt. #17, Ex. 3, Brightmire Decl. ¶¶3-5]. During Plaintiff's September 9, 2016, deposition, Shamus advised for the first time that he believed he needed to be a witness in the case and would be moving to withdraw. Id., ¶8. After an off-the-record conversation [*6]  concerning the matter, counsel for BEK completed Plaintiff's deposition. Id. BEK concluded its formal discovery by the September 9 deadline and subsequently filed a Motion for Summary Judgment on September 22, 2016. [Id., ¶9; Dkt. #21]. A change in the scheduling order permitting additional discovery or requiring modification of the summary judgment motion to address Shamus as a witness would require BEK to incur additional attorney fees.
+Additionally, Plaintiff has stated in discovery that he has not yet completed computing his damages because they are "continuing." [Dkt. #17-5, Answer to Interrogatory No. 13]. Thus, a delay in resolution of the case could result in a higher damage claim.
+
+Conclusion
+The court concludes Shamus's testimony is not necessary to establish Plaintiff's failure to accommodate claim. Moreover, in light of Plaintiff's failure to timely disclose Shamus as a potential witness, and the resulting exposure to BEK of additional attorney fees and a higher damages claim if the trial is delayed, the court concludes Shamus should not be permitted to withdraw as counsel and no extension of time is warranted.
+Accordingly, Plaintiff's Motion to Withdraw [Dkt. #15] is denied. [*7] 
+ENTERED this 30th day of September, 2016.
+/s/ Paul J. Cleary
+Paul J. Cleary
+United States Magistrate Judge
+
+
+End of Document
+

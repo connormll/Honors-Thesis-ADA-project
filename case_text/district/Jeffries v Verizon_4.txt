@@ -1,0 +1,46 @@
+Jeffries v. Verizon
+United States District Court for the Eastern District of New York
+September 21, 2012, Decided; September 21, 2012, Filed
+10-CV-2686(JFB)(AKT)
+
+Reporter
+2012 U.S. Dist. LEXIS 135537 *; 2012 WL 4344188
+DARRYL JEFFRIES, Plaintiff, - against - VERIZON, Defendant.
+Prior History: Jeffries v. Verizon, 2012 U.S. Dist. LEXIS 135543 (E.D.N.Y., Aug. 31, 2012)
+Counsel:  [*1] Darryl Jeffries, Plaintiff, Pro se, Massapequa, NY.
+For Verizon, Defendant: Martin Warren Aron, Jackson Lewis LLP, Morristown, NJ.
+Judges: JOSEPH F. BIANCO, UNITED STATES DISTRICT JUDGE.
+Opinion by: JOSEPH F. BIANCO
+Opinion
+
+
+ORDER ADOPTING REPORT AND RECOMMENDATION
+JOSEPH F. BIANCO, District Judge:
+On June 14, 2010, plaintiff filed the complaint in this action. On August 19, 2012, defendant filed an answer. On September 6, 2011, defendant requested a pre-motion conference in anticipation of moving for summary judgment. On September 12, 2012, the Court issued an Order directing the parties to participate in a pre-motion conference on September 23, 2011. On that date, the Court set a briefing schedule for defendant's motion. Defendant filed its motion for summary judgment on November 4, 2011. On December 19, 2011, plaintiff filed his opposition to defendant's motion. On January 20, 2012, defendant filed a reply. On April 11, 2012, the Court referred the motion to Magistrate Judge A. Kathleen Tomlinson for a Report and Recommendation.
+On August 31, 2012, Magistrate Judge Tomlinson issued a Report and Recommendation (the "R&R") recommending "that Defendant's motion for summary judgment be GRANTED, in part, and DENIED, in  [*2] part." (R&R, at 1.) Specifically, the R&R recommended that defendant's motion for summary judgment be granted as to all claims with the exception of plaintiffs February 2009 failure to accommodate claim. (Id. at 38.) The R&R states that "the parties shall have fourteen (14) days from service of this Report and Recommendation to file written objections." and that "[f]ailure to file objections will result in a waiver of those objections for purposes of appeal." (Id.) On September 14, 2012, defendant submitted its objections to the R&R. To date, plaintiff has not submitted any objections to the R&R. For the reasons that follow, the Court adopts Magistrate Judge Tomlinson's thorough and well-reasoned R&R in its entirety.
+
+I. Standard of Review
+When a party submits a timely objection to a report and recommendation, the district judge will review the parts of the report and recommendation to which the party objected under a de novo standard of review. See 28 U.S.C. § 636(b)(1)(C) ("A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made."); Fed. R. Civ. P. 72(b)(3) ("The district judge  [*3] must determine de novo any part of the magistrate judge's disposition that has been properly objected to. The district judge may accept, reject, or modify the recommended disposition; receive further evidence; or return the matter to the magistrate judge with instructions."). Where clear notice has been given of the consequences of failure to object, and there are no objections, the Court may adopt the report and recommendation without de novo review. See Thomas v. Arn, 474 U.S. 140, 150, 106 S. Ct. 466, 88 L. Ed. 2d 435 (1985) ("It does not appear that Congress intended to require district court review of a magistrate's factual or legal conclusions, under a de novo or any other standard, when neither party objects to those findings."); see also Mario v.P & C Food Mkts., Inc., 313 F.3d 758, 766 (2d Cir. 2002) ("Where parties receive clear notice of the consequences, failure timely to object to a magistrate's report and recommendation operates as a waiver of further judicial review of the magistrate's decision."). However, because the failure to file timely objections is not jurisdictional, the district judge can still excuse the failure to object in a timely manner and exercise its discretion to decide the case on  [*4] the merits to, for example, prevent plain error. See Cephas v. Nash, 328 F.3d 98, 107 (2d Cir. 2003) ("[B]ecause the waiver rule is non jurisdictional, we 'may excuse the default in the interests of justice."' (quoting Thomas v. Arn, 474 U.S. at 155)).
+
+II. Defendant's Objections
+Defendant objects to the R&R with respect to its recommendation that the Court deny defendant's motion for summary judgment with respect to the February 2009 accommodation request. Defendant's objection is twofold: (1) plaintiff failed to raise a genuine issue of material fact on his 2009 failure to accommodate claim because he presented no competent evidence that he was qualified or that there was a reasonable accommodation for the positions that he identified, and (2) plaintiff unreasonably cut off the interactive process by which Verizon sought to accommodate him in his managerial position in Westchester, New York. (Def.'s Objections at 4, 11, Sept. 14, 2012, ECF No. 68.) Having reviewed de no all portions of the R&R to which defendant specifically objects, and having reviewed the remainder of the R&R for clear error, the Court adopts the R&R in its entirety.1
+
+A. Reasonable Accommodation for the Positions Identified
+With respect to defendant's first argument, defendant argues that (a) plaintiff acknowledged that the managerial positions available in New Jersey in February 2009 "require accommodations" yet plaintiff never identified the required accommodation, (b) plaintiff has not shown he could perform the essential duties of the managerial positions in Florida and Virginia and in any event, plaintiff never stated he would accept these positions, and (c) plaintiff was unqualified for a field technician job because of his vertigo and an associate position would have interfered with the collectively bargained rights of other employees.
+Construing all of the evidence in the light most favorable to plaintiff, there is sufficient evidence in the record to find that plaintiff has met his burden to establish that a vacancy existed into which he may have been transferred, and that plaintiff was qualified for these positions. The Court notes that under the A.D.A., "reasonable accommodation may include, inter alia, modification of job duties  [*6] and schedules, alteration of the facilities in which a job is performed, acquisition of devices to assist the performance of job duties, and under certain circumstances, 'reassignment to a vacant position.'" McBride v. BIC Consumer Products Mfg. Co., Inc., 583 F.3d 92, 97 (2d Cir. 2009) (quoting 42 U.S.C. § 12111(9)(B)) (emphasis added).2 In response to plaintiff's proof, defendant has failed to point to any evidence in the record that any of these proposed positions could not be performed by someone with a hearing impairment. Thus, Magistrate Judge Tomlinson correctly determined that plaintiff had raised a genuine issue of material fact with respect to these positions that precluded summary judgment in defendant's favor.
+
+B. Plaintiff's Role in the Interactive Process
+In its objections, defendant reiterates its original argument in moving for summary judgment that plaintiff cut off the interactive process by not responding to Spath in March 2009, and such conduct is fatal to his A.D.A. claim. The Court agrees with Magistrate Judge Tomlinson, that plaintiff failed to respond to Spath's email only after Verizon denied his transfer accommodation request, and that plaintiff did in fact follow up in July 2009 with an additional request for transfer. As such, there are, at the very least, disputed issues of fact with respect to the circumstances surrounding the cessation of the interactive process, and summary judgment must be denied.
+
+III. Conclusion
+IT IS ORDERED that the R&R is adopted in its entirety, and defendant's motion for summary judgment is granted as to all claims with the exception of plaintiff's February 2009 failure to accommodate claim, for the reasons articulated by Magistrate Judge Tomlinson in the thorough and well-reasoned R&R. The parties  [*8] shall submit a joint pre-trial order pursuant to the Court's Individual Rules by November 21, 2012.
+SO ORDERED.
+/s/ JOSEPH F. BIANCO
+JOSEPH F. BIANCO
+UNITED STATES DISTRICT JUDGE
+Dated: September 21, 2012
+Central Islip, NY
+
+
+End of Document
+

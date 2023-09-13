@@ -1,0 +1,52 @@
+Chesnut v. Country Fin. Ins.
+United States District Court for the Middle District of Georgia, Macon Division
+September 25, 2019, Decided; September 25, 2019, Filed
+CIVIL ACTION NO. 5:18-CV-404 (MTT)
+
+Reporter
+2019 U.S. Dist. LEXIS 164041 *; 2019 WL 4675377
+CYNTHIA FLEMING CHESNUT, Plaintiff, v. COUNTRY FINANCIAL INSURANCE, et al., Defendants.
+Prior History: Chesnut v. Country Fin. Ins., 2019 U.S. Dist. LEXIS 155698, 2019 WL 4345988 (M.D. Ga., Sept. 12, 2019)
+Counsel:  [*1] For CYNTHIA FLEMING CHESNUT, Plaintiff: KENNETH E BARTON, III, LEAD ATTORNEY, Cooper, Barton & Cooper, LLP, MACON, GA; MICHAEL DEVLIN COOPER, MACON, GA.
+For CC SERVICES, INC., Defendant: Christopher Todd Van Dyke, Jackson Lewis P.C., Atlanta, GA; SAPNA K JAIN, ATLANTA, GA.
+Judges: MARC T. TREADWELL, UNITED STATES DISTRICT JUDGE.
+Opinion by: MARC T. TREADWELL
+Opinion
+
+
+
+ORDER
+Plaintiff Cynthia Chesnut has moved the Court to reconsider its order granting Defendant CC Services, Inc.'s motion to dismiss her failure-to-accommodate claim because she did not exhaust her administrative remedies (Doc. 28). Doc. 47. For the following reasons, that motion (Doc. 47) is DENIED.
+
+I. BACKGROUND
+In January 2018, Chesnut filed a charge of disability discrimination against her employer, CC Services, Inc. ("CCS"), with the Equal Employment Opportunity Commission. Doc. 30-1. In the body of her charge, she alleged:
+I began my employment with the above-named employer as an Insurance Financial Representative on October 15, 2013. Management and Human Resources was informed of disabilities in December of 2015 and January of 2016. On November 15, 2017, I was informed of my discharge by my supervisor, Mike Sehringer.
+The reason given for my discharge [*2]  was not meeting performance standards.
+I believe that I have been discriminated against because of my disabilities, in violation of Title I of the Americans with Disabilities Act of 1990, as amended.
+Id. After concluding its investigation, the EEOC provided Chesnut with a Notice of Rights on July 31. Doc. 24 ¶ 53. Chesnut then alleged in her amended complaint that CCS (1) failed to accommodate her disability in violation of the Americans with Disabilities Act; (2) terminated her because of her disability in violation of the ADA; (3) failed to pay her minimum wage; and (4) failed to pay overtime. Doc. 24 ¶¶ 54-89. CCS moved to dismiss Chesnut's failure-to-accommodate claim for failing to exhaust her administrative remedies with the EEOC because she did not bring that allegation in her charge. Doc. 28. The Court granted that motion. Doc. 45.
+
+II. MOTION FOR RECONSIDERATION STANDARD
+Pursuant to Local Rule 7.6, "Motions for Reconsideration shall not be filed as a matter of routine practice." M.D. Ga. L.R. 7.6. "Reconsideration is appropriate only if the movant demonstrates (1) that there has been an intervening change in the law, (2) that new evidence has been discovered which was not previously available to the [*3]  parties in the exercise of due diligence, or (3) that the court made a clear error of law." Bingham v. Nelson, 2010 U.S. Dist. LEXIS 4758, 2010 WL 339806, at *1 (M.D. Ga. 2010) (internal quotation marks and citation omitted). "In order to demonstrate clear error, the party moving for reconsideration must do more than simply restate his prior arguments, and any arguments which the party inadvertently failed to raise earlier are deemed waived." McCoy v. Macon Water Auth., 966 F. Supp. 1209, 1223 (M.D. Ga. 1997).
+
+III. DISCUSSION
+Chesnut has moved the Court to reconsider its order granting CCS's motion to dismiss her failure-to-accommodate claim based on clear error. Chesnut argues that (1) because CCS knew about her disability and terminated her before "considering making a reasonable accommodation," CCS discriminated against her; (2) her EEOC charge encompasses a failure-to-accommodate allegation; and (3) a reasonable EEOC investigator should have inquired whether CCS failed to accommodate her disability. See generally Doc. 47.
+
+A. Duty to Make a Reasonable Accommodation
+Chesnut's first argument that CCS violated the ADA by not preemptively offering an accommodation—an argument which she relies on throughout her entire motion—is patently without merit. An employer's "duty to provide a reasonable accommodation is not triggered unless a specific [*4]  demand for an accommodation has been made." Gaston v. Bellingrath Gardens & Home, Inc., 167 F.3d 1361, 1363 (11th Cir. 1999). Simply telling an employer that an employee has a disability, as Chesnut did here, does not trigger that duty. 29 C.F.R. Pt. 1630, App. ("If an employee with a known disability is having difficulty performing his or her job, an employer may inquire whether the employee is in need of a reasonable accommodation. In general, however, it is the responsibility of the individual with a disability to inform the employer that an accommodation is needed. When the need for an accommodation is not obvious, an employer, before providing a reasonable accommodation, may require that the individual with a disability provide documentation of the need for accommodation." (emphasis added)).
+
+B. Scope of the EEOC Charge
+Chesnut argues that because she informed CCS of her disability, then the Court should find that she alleged in her EEOC charge that CCS failed to accommodate her disability. She specifically stated that "[w]ithout making any inferences, the Court should find that the EEOC Charge alleges that Ms. Chesnut's November 15, 2017 termination is the action that she alleged was discrimination in violation of the ADA." Doc. 47 at 3. That is exactly what the Court did in [*5]  its previous order. See Doc. 45. Chesnut appears confused at this stage of the litigation1 that a claim for an unlawful termination due to an employee's disability is different than a claim for a failure to accommodate a disability. As stated in the Court's previous order, nowhere in her charge does Chesnut mention what her disability is or whether she asked CCS to accommodate her in any way; she merely states that she told CCS about her disability and that she was terminated because of her disability. Docs. 30-1; 45 at 7. Again, the only claim raised in her EEOC charge was termination based on her disability—not a failure to accommodate—and a claim for unlawful termination does not automatically encompass a failure-to-accommodate claim.
+
+C. EEOC Investigation
+Chesnut, again, argues that "a reasonable EEOC investigator should have known to investigate the issue of a reasonable accommodation." Doc. 47 at 5. Other than citing a non-binding Eastern District of Tennessee order from 20142 that was not in her response or surreply, Chesnut raised an identical argument in her previous filings.3 Docs. 30 at 11-13; 34 at 6-8. The Court is not convinced to reconsider its order based on this new citation. [*6] 
+
+IV. CONCLUSION
+For the reasons set forth above, Chesnut's motion for reconsideration [*7]  (Doc. 47) is DENIED.
+SO ORDERED, this 25th day of September, 2019.
+/s/ Marc T. Treadwell
+MARC T. TREADWELL, JUDGE
+UNITED STATES DISTRICT COURT
+
+
+End of Document
+

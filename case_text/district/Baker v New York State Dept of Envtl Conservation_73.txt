@@ -1,0 +1,73 @@
+Baker v. New York State Dep't of Envtl. Conservation
+United States District Court for the Northern District of New York
+June 22, 2012, Decided; June 22, 2012, Filed
+1:10-cv-1016(GLS/RFT)
+
+Reporter
+2012 U.S. Dist. LEXIS 86845 *; 2012 WL 2374699
+MAYNARD BAKER et al., Plaintiffs, v. NEW YORK STATE DEPARTMENT OF ENVIRONMENTAL CONSERVATION et al., Defendants.
+Counsel:  [*1] For Plaintiffs: MATTHEW D. NORFOLK, ESQ., OF COUNSEL, Briggs, Norfolk Law Firm, Lake Placid, NY.
+For Defendants: SUSAN LEE TAYLOR, Assistant Attorney General, OF COUNSEL, HON. ERIC T. SCHNEIDERMAN, New York State Attorney General, Albany, NY.
+Judges: Gary L. Sharpe, Chief U.S. District Judge.
+Opinion by: Gary L. Sharpe
+Opinion
+
+
+
+MEMORANDUM-DECISION AND ORDER
+
+I. Introduction
+Plaintiffs Maynard Baker, Douglas K. Irish, Mark Schumaker, Brett A. Kilroy, Louis Giovannini and Richard Kenny1 commenced this action against various New York State defendants,2 alleging violations of Title II of the Americans with Disabilities Act (ADA).3 (See 2d Am. Compl., Dkt. No. 55.) Pending is defendants' motion to dismiss. (See Dkt. No. 41.) For the reasons that follow, the motion is granted in part and denied in part.
+
+II. Background4
+In 1971, New York State enacted the Adirondack Park Agency Act to "insure optimum overall conservation, protection, preservation, development and use of the unique scenic, aesthetic, wildlife, recreational, open space, historic, ecological and natural resources of the Adirondack park." N.Y. Exec. Law § 801 (McKinney 2005). The Act directed the APA to consult with the DEC and develop a "Master Plan for Management of State Lands." Id. § 816. Accordingly, the DEC  [*3] promulgated rules and regulations that, among other things, prohibited the use of "float planes, motorized vehicles and bicycles (non-motorized vehicles) to access lakes in areas of the Adirondack Park classified by the [Master Plan] as Wilderness, Primitive or Canoe." (2d Am. Compl. ¶ 104.) Although universally applicable, plaintiffs—all of whom suffer from impairments that affect their ability to walk, (see id. ¶¶ 53-73)—claim that the rules and regulations have rendered thirty-eight lakes and ponds5 effectively inaccessible for disabled individuals such as themselves.6(See, e.g., id. ¶¶ 87-88, 165.)
+Dubbing these lakes and ponds the "Inaccessible Remote Lakes," plaintiffs aver that they "contain ecological, geological and scenic values unlike any other lands and bodies of water located in the Adirondack Park." (Id. ¶¶ 74, 81.) Each of the plaintiffs "desire" to visit the Lakes, but have, and continue to be, deterred from doing so because of defendants' prohibition on motorized vehicles. (See id. ¶¶ 76, 107, 109, 119-22.) While they acknowledge the existence of Policy 3—the DEC's policy entitled "Motorized Access Program for People with Disabilities"—plaintiffs claim that "defendants do not have a program or mechanism that offers . . . disabled people . . . a reasonable accommodation" to access the Lakes.7 (Id. ¶¶ 158-59.) Nevertheless, in 2009, plaintiff Maynard Baker contacted the DEC to request permission to "utilize a float plane to access"  [*5] the Lakes. (Id. ¶ 163.) The request was denied "and no other accommodation was made by defendants in response to . . . Baker's request." (Id.)
+Plaintiffs now allege that defendants violated the ADA by failing to provide them with a reasonable accommodation, and by enacting facially neutral rules and regulations that have a disparate impact on individuals with disabilities. (See id. ¶¶ 152-202.) To redress these violations, plaintiffs seek declaratory and injunctive relief, including the nullification of N.Y. Envtl. Conserv. Law §§ 1-0101, 3-0301, 9-0105 (McKinney 2005), N.Y. Exec. Law § 816 and 6 N.Y.C.R.R. §§ 190.13(f)(3)(iv), (v), 190.33(b)(2), 196.4 and 196.8. (See id. at 36-37.)
+
+III. Standard of Review
+The standard of review under Fed. R. Civ. P. 12 is well established and will not be repeated here. For a full discussion of the standard, the court refers the parties to its decision in Ellis v. Cohen & Slamowitz, LLP, 701 F. Supp. 2d 215, 218 (N.D.N.Y. 2010).
+
+IV. Discussion
+As a threshold  [*6] matter, defendants challenge the court's subject-matter jurisdiction, arguing that plaintiffs failed to satisfy the injury-in-fact requirement of constitutional standing. (See, e.g., Dkt. No. 60 at 3-5.8) Alternatively, defendants contend that plaintiffs' causes of action fail as a matter of law, and that, even if the claims are viable, the state and its agencies are immune from suit. (See id. at 6-20.) In addition to filing a response to defendants' motion, plaintiffs were permitted to amend their complaint for a second time; collectively, their submissions evidence a general disagreement with defendants' assertions. (See generally 2d Am. Compl.; Dkt. No. 43.) Because "Article III jurisdiction is always an antecedent question," Steel Co. v. Citizens for a Better Env't, 523 U.S. 83, 101, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998), the court first addresses plaintiffs' standing to sue, followed by the merits of the reasonable accommodation and disparate impact claims. See Alliance for Envtl. Renewal, Inc. v. Pyramid Crossgates Co., 436 F.3d 82, 85 (2d Cir. 2006).
+
+A. Constitutional Standing
+Defendants allege that plaintiffs have not established an actual injury insofar as they failed to demonstrate an inability to access the Lakes. (See Dkt. No. 60 at 5.) Though plaintiffs' response offers little in the way of a rebuttal, (see Dkt. No. 43, Attach. 1 at 15-18), their Second Amended Complaint alleges, in sum and substance, that each plaintiff has been deterred from visiting the Lakes because of defendants' noncompliance with the ADA, (see 2d. Am. Compl. ¶¶ 76, 107, 109, 119-22). At this juncture, this allegation is sufficient to confer standing.
+Described as an "irreducible constitutional minimum," standing has three elements, the first of which is the injury-in-fact requirement.9 Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S. Ct. 2130, 119 L. Ed. 2d 351 (1992). To satisfy this initial component, "the plaintiff must have suffered . . . an invasion of a legally protected interest which is (a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical." Id. (internal quotation marks and citations omitted). Although plaintiffs have the burden to establish the requisite injury-in-fact, they may do so through  [*8] "general factual allegations of injury resulting from the defendant's conduct" at the pleading stage. Id. at 561. Stated another way, generalized allegations are presumed to embrace the specific facts necessary to substantiate them. See id. Indeed, in a civil rights case—particularly one under the ADA—a "broad view of constitutional standing" is appropriate because "private enforcement suits are the primary method of obtaining compliance with the Act." Chapman v. Pier 1 Imports (U.S.) Inc., 631 F.3d 939, 946 (9th Cir. 2011) (internal quotation marks and citation omitted).
+In the context of the ADA, standing "often turns on the nature and source of the claim asserted." Id. (internal quotation marks and citation omitted). Generally, the requisite injury occurs when a plaintiff encounters an accessibility barrier that interferes with his "full and equal enjoyment of the facility on account of his particular disability." Id. The plaintiff need not, however, "await the consummation of threatened injury to obtain preventive  [*9] relief." Farmer v. Brennan, 511 U.S. 825, 845, 114 S. Ct. 1970, 128 L. Ed. 2d 811 (1994) (internal quotation marks and citation omitted). Where, as here, a plaintiff demonstrates an intent to return to, or is deterred from, visiting a noncompliant facility, he suffers a cognizable injury under Article III. See Chapman, 631 F.3d at 949 (citing Pickern v. Holiday Quality Foods Inc., 293 F.3d 1133, 1137-38 (9th Cir. 2002)); accord Camarillo v. Carrols Corp., 518 F.3d 153, 158 (2d Cir. 2008).
+Here, plaintiffs' allegations regarding their desire to visit the Lakes, and inability to do so, are, at this juncture, sufficient to satisfy the injury-in-fact requirement. (See 2d. Am. Compl. ¶¶ 76, 107, 109, 119-22.) While the allegations are succinct, there are just enough facts in the Second Amended Complaint to allow the court "to draw the reasonable inference that" plaintiffs are deterred from visiting the Lakes because of defendants' purported violations of the ADA.10 Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009); see Chapman, 631 F.3d at 949. This deterrence constitutes the requisite injury under Article III to allow plaintiffs to proceed with this action. See Chapman, 631 F.3d at 949-50. It follows that defendants' argument with  [*10] respect to plaintiffs' standing is rejected.
+
+B. Reasonable Accommodation Claim
+Defendants next argue that even if plaintiffs have standing, their reasonable accommodation claims are not ripe. (See Dkt. No. 60 at 6-8.) Conversely, plaintiffs assert, as they have throughout this litigation, that this lawsuit constitutes a request for a reasonable accommodation to access the Lakes. (See, e.g., 2d Am. Compl. ¶ 164.) They further allege—for the first time in the Second Amended Complaint—that plaintiff Baker made a request for float plane access to visit the Lakes in 2009. (See id. ¶ 163.) Although Baker's allegation is sufficient, the remaining plaintiffs' claims are not ripe.
+"To prevail on a reasonable accommodation claim, plaintiffs must first provide the governmental entity an opportunity to accommodate them through the entity's established procedures used to adjust the neutral policy in question." Tsombanidis v. West Haven Fire Dep't, 352 F.3d 565, 579 (2d Cir. 2003).  [*11] Here, with the exception of plaintiff Baker, the remaining plaintiffs concede that they never sought an accommodation from DEC, though they acknowledge that a universal access policy exists. (See 2d Am. Compl. ¶¶ 158-60, 163-64.) Indeed, plaintiffs' response—which appears to conflate the concepts of standing and ripeness—is devoid of any controlling legal authority which even suggests that an accommodation request, as distinguished from exhaustion, is unnecessary. (See Dkt. No. 43, Attach. 1 at 18-21, 23.) By the same token, defendants' remaining assertions, which are directed at Baker's request, are premature, as the nature and scope of the request is unclear. (See Dkt. No. 60 at 8-17.) Accordingly, defendants' motion is granted to the extent that it seeks dismissal of all but plaintiff Baker's reasonable accommodation claim.
+
+C. Disparate Impact Claim
+Finally defendants contend that plaintiffs' disparate impact cause of action is insufficiently pled. (See id. at 18-19.) Despite being given three attempts to state such a claim, the court agrees that plaintiffs have failed to raise even an inference of discriminatory impact. (See 2d Am. Compl. ¶¶ 180-202.) Among other things, plaintiffs  [*12] failed to include the requisite comparison between the affected and unaffected groups, as well as any "statistical evidence to show disparity in outcome between groups."11 Tsombanidis, 352 F.3d at 575. Presumably, plaintiffs attempted to satisfy this requirement by alleging that zero percent of the Lakes' visitors are disabled, and one hundred percent "are able-bodied people who can walk." (2d Am. Compl. ¶ 190.) Simply put, this assertion is inadequate to satisfy plaintiffs' burden to show that defendants' otherwise neutral policy, "imposes a significantly adverse or disproportionate impact on a protected group of individuals." Tsombanidis, 352 F.3d at 575 (internal quotation marks and citation omitted). As such, defendants' motion is granted to the extent that it seeks dismissal of plaintiffs' disparate impact claim.
+
+D. Eleventh Amendment Immunity
+Defendants argue, and the court agrees, that the State of New York, the DEC and the APA are immune from suit. (See Dkt. No. 60 at 19-20.) Because it is well settled that "a  [*13] plaintiff seeking prospective relief from the state must name as defendant a state official rather than the state or a state agency directly," Santiago v. N.Y. State Dep't of Corr. Servs., 945 F.2d 25, 32 (2d Cir. 1991), plaintiff Baker's remaining claims against the State of New York, DEC and APA are dismissed.
+
+V. Conclusion
+WHEREFORE, for the foregoing reasons, it is hereby
+ORDERED the Clerk is directed to AMEND the caption to include plaintiffs Brett A. Kilroy and Louis Giovannini, and to TERMINATE former plaintiffs Dixon and Franklin; and it is further
+ORDERED that the Clerk is directed to SUBSTITUTE defendant Joseph Martens for Pete Grannis; defendant Leilani Crafts Ulrich for Curt Stiles; and Andrew M. Cuomo for David Paterson; and it is further
+ORDERED that defendants' motion to dismiss (Dkt. No. 41) is GRANTED IN PART and DENIED IN PART as follows:
+GRANTED to the extent that it seeks dismissal of plaintiffs Irish, Schumaker, Kilroy, Giovannini and Kenny's reasonable accommodation claims;
+DENIED to the extent it seeks dismissal of plaintiff Baker's reasonable accommodation claim; and
+GRANTED to the extent that it seeks dismissal of plaintiffs' cause of action for disparate impact;
+GRANTED  [*14] to the extent that is seeks dismissal of all claims against the State of New York, DEC and APA; and it is further
+ORDERED that plaintiffs Irish, Schumaker, Kilroy, Giovannini and Kenny are TERMINATED as parties; and it is
+ORDERED that the State of New York, DEC and APA are TERMINATED as parties; and it is further
+ORDERED that defendants file the appropriate responsive pleadings within the time allotted by the rules; and it is further
+ORDERED that the parties notify Magistrate Judge Treece in order to schedule further proceedings in accordance with this order; and it is further
+ORDERED that the Clerk provide a copy of this Memorandum-Decision and Order to the parties.
+IT IS SO ORDERED.
+June 22, 2012
+Albany, New York
+/s/ Gary L. Sharpe
+Gary L. Sharpe
+Chief Judge
+U.S District Court
+
+
+End of Document
+

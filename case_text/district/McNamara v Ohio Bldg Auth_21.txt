@@ -1,0 +1,131 @@
+McNamara v. Ohio Bldg. Auth.
+United States District Court for the Northern District of Ohio, Western Division
+March 19, 2010, Decided
+Case No. 3:08CV2789
+
+Reporter
+697 F. Supp. 2d 820 *; 2010 U.S. Dist. LEXIS 25953 **
+Patrick McNamara, Plaintiff v. Ohio Building Authority, et al., Defendants
+Counsel:  [**1] For Patrick McNamara, M.D., Plaintiff: Stephen M. Dane, LEAD ATTORNEY, Relman & Dane - Perrysburg, Perrysburg, OH; Michael G. Allen, Relman & Dane - Washington, Washington, DC.
+For Ohio Building Authority, Defendant: William J. Cole, LEAD ATTORNEY, Office of the Attorney General - East Broad Street, State of Ohio, Columbus, OH.
+For Reuben Management, Defendant: Lisa L. Nagel, Stephen J. Stanford, Robison, Curphey & O'Connell - Toledo, Toledo, OH.
+Judges: James G. Carr, Chief Judge, United States District Judge.
+Opinion by: James G. Carr
+Opinion
+
+
+ [*823]  ORDER
+This is a case about disabled individuals' access to public buildings. Plaintiff Dr. Patrick McNamara alleges that defendant, Reuben Management (Reuben), illegally discriminated against him in violation of Titles II and III of the Americans with Disabilities Act, 42 U.S.C. §§ 12131 et seq. (ADA), and § 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794. Plaintiff alleges that Reuben both discriminated against him intentionally based on his disability and failed to make a reasonable accommodation for him to access the DiSalle Government Building (DiSalle Building) in Toledo, Ohio.
+Jurisdiction is proper under 28 U.S.C. § 1331.
+Pending is Reuben's motion to dismiss [Doc.  [**2] 21]. For the reasons discussed below, I grant the motion in part and deny it in part.
+
+Background
+Plaintiff is a retired physician with multiple physical disabilities. He cannot walk more than a short distance, and suffers pain when required to stand or sit for long periods. Plaintiff additionally is afflicted with upper-body muscle weakness which prevents him from operating a manual wheelchair.
+Reuben is a management company that contracts with the Ohio Building Authority (OBA) to manage the DiSalle Building.
+Because of his difficulty using devices such as wheelchairs or a walker, plaintiff uses a Segway Personal Transporter (Segway) to move around. Segways are battery-operated devices that allow riders to travel while standing upright.
+On August 16, 2007, plaintiff went to the DiSalle Building for an appointment with the Ohio Civil Rights Commission (OCRC).  [*824]  Before the appointment, plaintiff called the OCRC, which assured him that he could use his Segway inside the building to get to the OCRC office.
+When plaintiff arrived at the security desk of the DiSalle Building, a Reuben representative informed him that he could not use his Segway in the building. Plaintiff asked the security officer  [**3] to contact building management. Two Ohio state troopers and the building manager arrived shortly thereafter.
+Plaintiff asserts that one of the troopers was hostile and refused to call the OCRC or listen to plaintiff explain his need to go to the OCRC offices via Segway.
+The building manager presented plaintiff with OBA's Segway policy which prohibits Segways in the building, but states that: "[t]his policy does not apply to any ADA approved modes of personal transportation." [Doc. 1, at 7]. The building manager refused to discuss the possibility of making an exception for plaintiff.
+After some discussion, and after plaintiff threatened legal action, the building manager permitted plaintiff to park his Segway at the security desk. After plaintiff stated loudly, "I can't walk," the building manager retrieved a manual wheelchair from his office. [Doc. 1, at 8]. No one offered to help plaintiff reach the OCRC office until he asked for assistance.
+One of the troopers and the building manager accompanied plaintiff to the OCRC office. At one point, the trooper pushing the wheelchair "bang[ed] [plaintiff's feet] . . . into the elevator doors," causing plaintiff additional pain. [Doc. 1, at 9].
+The  [**4] building manager stayed with plaintiff in the OCRC office, despite plaintiff's request that the manager leave. After the OCRC meeting, an OCRC employee escorted plaintiff back to the lobby.
+As a result of this incident, plaintiff alleges that he suffers "stress, anxiety, inability to sleep and a fear that law enforcement officers would abridge his civil rights and subject him to harassment, intimidation, arrest or other sanctions because of his exercise of his rights." [Doc. 1, at 10].
+On or about November 25, 2008, OBA amended its policy to allow the use of Segways in its buildings for people with disabilities.
+On February 20, 2009, plaintiff accepted an offer of judgment from OBA. Reuben subsequently filed the present motion to dismiss for lack of subject matter jurisdiction and failure to state a claim.
+
+Standard of Review
+A claim survives a motion to dismiss under Fed. R. Civ. P. 12(b)(6) if it "contain[s] sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." Ashcroft v. Iqbal, U.S., 129 S. Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009). "The plausibility standard is not akin to a 'probability requirement,' but it asks for more than a sheer possibility that a  [**5] defendant has acted unlawfully." Id. A complaint's "[f]actual allegations must be enough to raise a right to relief above the speculative level, on the assumption that all of the complaint's allegations are true." Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555-56, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (internal citations omitted).
+A complaint is insufficient "if it tenders naked assertions devoid of further factual enhancement." Iqbal, supra, 129 S. Ct. at 1949 (citing Twombly, supra, 550 U.S. at 557) (internal quotation omitted).
+I must also "construe the complaint in the light most favorable to the plaintiff." Inge v. Rock Fin. Corp., 281 F.3d 613, 619 (6th Cir. 2002). Plaintiff, however, must provide "more than labels and conclusions, [*825]  and a formulaic recitation of the elements of a cause of action will not do." Twombly, supra, 550 U.S. at 555; see also Iqbal, 129 S.Ct. at 1949 ("Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice.").
+
+DISCUSSION
+
+I. Standing
+Reuben contends plaintiff lacks standing and the complaint must be dismissed because plaintiff did not plead facts showing: 1) the relief requested is necessary to afford access to the building; 2)  [**6] an immediate threat of future injury; and 3) a causal connection between plaintiff's injury and Reuben's actions.
+To establish standing for past injury, a plaintiff must allege facts sufficient to show: 1) an "injury-in-fact," which is "concrete and particularized" and "actual, or imminent, not conjectural or hypothetical"; 2) "the injury is fairly traceable to the challenged action of the defendant"; and 3) "it is likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision." Friends of the Earth, Inc. v. Laidlaw Envt'l Servs. (TOC), Inc., 528 U.S. 167, 180-81, 120 S. Ct. 693, 145 L. Ed. 2d 610 (2000) (citing Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61, 112 S. Ct. 2130, 119 L. Ed. 2d 351 (1992)). 1 
+Standing also involves prudential  [**7] requirements. One of these is that a party must raise a claim within the "zone of interests" protected by the statute in question. Allen v. Wright, 468 U.S. 737, 751, 104 S. Ct. 3315, 82 L. Ed. 2d 556 (1984).
+Plaintiff has satisfied the three elements of standing for his past discrimination claim. First, he pleads a concrete, particularized and actual injury in fact--namely, intentional discrimination and the physical and emotional suffering he alleges resulted from that discrimination.
+Second, plaintiff claims that Reuben's actions caused his injuries. Specifically, he alleges the building manager refused outright to consider an exception to the building Segway policy.
+Reuben argues that plaintiff has not adequately pled a causal connection because "any alleged injury was caused, or will be caused, by his own action in deciding not to use a wheelchair or other assistive device in the Building." [Doc. 21, at 20]. I disagree and find that plaintiff has adequately pled Reuben's actions caused injury.
+Third, plaintiff has adequately pled that damages will redress his injuries.
+Reuben also argues that plaintiff has failed to show he falls within the zone of interests protected by the ADA because his requested accommodation is  [**8] not "necessary" to afford access. As discussed below, I find that plaintiff has adequately pled that his requested accommodation is necessary and he is protected by the ADA. Allen, supra, 468 U.S. at 751.
+I therefore find that plaintiff has standing to pursue his monetary damages claim.
+
+II. ADA Title III Claim
+Plaintiff originally brought a claim under ADA Title III. Reuben argued that this claim should be dismissed because [*826]  plaintiff: 1) lacks standing to raise a claim for injunctive and declaratory relief; and 2) is collaterally estopped from asserting this claim.
+Title III of the ADA prohibits discrimination regarding the use of public accommodations. 42 U.S.C. § 12181 et seq.
+Private parties may sue to enforce Title III claims for discrimination and accessibility in public accommodations. 42 U.S.C § 12188. Title III permits declaratory and injunctive relief in civil actions brought by either private individuals or the Attorney General. 28 C.F.R. § 36.501-503. Damages are not available in Title III suits. Smith v. Wal-Mart Stores, Inc., 167 F.3d 286, 293 (6th Cir. 1999).
+In his sur-reply, plaintiff concedes that because OBA has adopted a new policy permitting the use of Segways in the  [**9] DiSalle Building, and Reuben has agreed to comply with that policy, his claim for preliminary and permanent injunctive relief is moot.
+Because plaintiff now concedes that he only seeks damages, and Title III does not permit a private party to obtain such relief, Count Three of plaintiff's complaint shall be dismissed.
+
+III. ADA Title II & Rehabilitation Act Claims
+Plaintiff alleges violations of Title II and the Rehabilitation Act based on Reuben's alleged intentional discrimination and failure make a reasonable accommodation.
+Reuben asserts that these claims must be dismissed because: 1) plaintiff entered the building and reached the OCRC; 2) the requested accommodation was not "necessary"; and 3) Reuben is not a "public entity" within the meaning of Title II.
+Plaintiff responds that: 1) the ADA and Rehabilitation Act protect more than just access; 2) he has adequately pled necessity; and 3) Reuben is a public entity subject to Title II by virtue of its contractual relationship with OBA.
+Title II of the ADA provides that "no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of the services, programs, or  [**10] activities of a public entity, or be subjected to discrimination by any such entity." 42 U.S.C. § 12132. The Rehabilitation Act similarly provides that "No otherwise qualified individual with a disability in the United States . . . shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance." 29 U.S.C. § 794(a). 2 
+"Apart from [the Rehabilitation Act's] limitation to denials of benefits 'solely' by reason of disability and its reach of only federally funded--as opposed to 'public'--entities, the reach and requirements of both [the Rehabilitation Act and Title II] are precisely the same." S.S. v. E. Ky. Univ., 532 F.3d 445, 452-53 (6th Cir. 2008) (quoting Weixel v. Bd. of Educ. of N.Y., 287 F.3d 138, 146 n.6 (2d Cir. 2002)).
+To state a claim under Title II or the Rehabilitation Act, plaintiff must therefore  [**11] show that he is: 1) disabled; 2) otherwise qualified; and 3) "excluded from [] participation in" a program, "denied the benefits of" a program, or "subjected to discrimination" by an entity receiving Federal money or by a public entity. 42 U.S.C. § 12132; 29 U.S.C. § 794(a).
+The implementing regulations of Title II state:
+ [*827]  A public entity shall make reasonable modifications in policies, practices, or procedures when the modification is necessary to avoid discrimination on the basis of disability, unless the public entity can demonstrate that making the modifications would fundamentally alter the nature of the service, program or activity.
+28 C.F.R. § 35.130(b)(7).
+
+A. Disability & Otherwise Qualified
+The first two elements of a claim under either statute are that plaintiff is disabled and he is "otherwise qualified" to enter the building, or participate in activities therein. Reuben does not dispute these elements.
+
+B. Federal Fund Recipient / Public Entity
+To state a claim under the Rehabilitation Act, plaintiff must show that Reuben receives federal funds. 29 U.S.C. § 794(a). Reuben does not dispute plaintiff's assertion that Reuben receives federal funds by virtue of its contractual relationship  [**12] with OBA.
+Title II applies to the "services, programs, or activities of a public entity." 42 U.S.C. § 12132. In his complaint, plaintiff alleges that Reuben "has acted as an agent or representative of OBA for purposes of carrying out its building access policies" and that because of that contractual relationship, Reuben is subject to Title II. [Doc. 1, at 4]. Reuben responds that a private corporation by definition "is not a public entity for purposes of Title II coverage." [Doc. 30, at 3].
+A "public entity" under Title II is defined as: "(A) any state or local government; (B) any department, agency, special purpose district, or other instrumentality of a State or States or local government; and (C) the National Railroad Passenger Corporation, and any commuter authority." 42 U.S.C. § 12131(1). 3 
+It is unclear when or if a private organization may be subject to Title II.
+Reuben cites three cases in support of its argument that it cannot be a public entity. None of these, however, explicitly holds that a private organization may never be subject to Title II. See Rogers v. Dep't of Health & Envt'l Control, 174 F.3d 431, 433 (4th Cir. 1999)  [**13] (uncontested that defendant was public entity); Barbosa v. Am. Osteopatic Bd. of Surgery, 2008 U.S. Dist. LEXIS 82251, 2008 WL 4372672, *6 (S.D. Ohio) (granting summary judgment to defendants because the plaintiff provided no evidence to indicate defendants were public entities); Watson v. City of Mason, 2005 U.S. Dist. LEXIS 27116, 2005 WL 3018690, *4 (S.D. Ohio) (simply referring to the text of Title II).
+In response, plaintiff cites two cases where courts within the Sixth Circuit have found that a private organization may be subject to suit as an "instrumentality" of the state under Title II. Rhodes v. Ohio High Sch. Athletic Ass'n, 939 F. Supp. 584, 591 (N.D. Ohio 1996) (holding that Ohio High School Athletic Association was an "instrumentality" of the state because state delegated authority to organization, majority of its members were public schools, and it frequently used public facilities); Hoot v. Milan Area Sch., 853 F. Supp. 243, 250-51 (E.D. Mich. 1994) (holding that a genuine issue of material fact existed as to whether Michigan High School Athletic Association was an instrumentality of the state). 4 
+ [*828]  For now I conclude that Reuben properly should be deemed to be a public entity. I am to interpret remedial statutes broadly, and in a way that fulfills their ameliorative purposes. Steger v. Franco, Inc., 228 F.3d 889, 894 (8th Cir. 2000) (holding that "the ADA is a remedial statute and should be broadly construed to effectuate its purpose); Arnold v. United Parcel Serv., Inc., 136 F.3d 854, 861 (1st Cir. 1998). Deeming Reuben a public entity, in view of its extensive (indeed, from all that appears, exclusive) control over the publicly-owned DiSalle Building accomplishes that objective.
+It is especially fitting in this case to deem Reuben a public entity subject to the law's  [**15] strictures. It, and it alone, caused the incident in the lobby of the DiSalle Building. It did so on behalf of the public owner of that building. Liability should follow responsibility.
+In making this ruling at this point, I leave open the opportunity for further briefing and argument, if grounds for further elucidation arise. 5 
+
+C. Discrimination & Reasonable Accommodation
+Plaintiff alleges Reuben intentionally discriminated against him and failed to make a reasonable accommodation as required by Title II and the Rehabilitation Act. Reuben responds that: 1) plaintiff entered the building  [**16] and reached the OCRC, and 2) plaintiff has not shown the accommodation was necessary.
+The ADA and Rehabilitation Act proscribe "being denied the benefits of" a program or "being subjected to discrimination" in addition to" exclusion from [ ] participation" in a program. 29 U.S.C. § 794(a); 42 U.S.C. § 12132.
+To prove intentional discrimination under Title II, plaintiff must allege specific acts of discrimination against him in particular. See Dillery v. City of Sandusky, 398 F.3d 562, 568 (6th Cir. 2005).
+Failure to provide a "reasonable modification," or to accommodate a person with a disability amounts to discrimination. 42 U.S.C. § 12131(2) (defining "qualified individual with a disability" as a person "who, with or without reasonable modifications . . . meets the essential eligibility requirements"); Sandison v. Mich. High Sch. Athletic Ass'n, Inc., 64 F.3d 1026, 1034 (6th Cir. 1995) (holding, under the Rehabilitation Act, that a disabled individual is "otherwise qualified to participate in a program if, with 'reasonable accommodation,' the individual can meet the 'necessary' requirements of the program").
+To prove discrimination based on failure to make a reasonable accommodation  [**17] under Title II, plaintiff must show that Reuben "could have reasonably accommodated him and refused to do so." McPherson v. Mich. High Sch. Athletic Ass'n, Inc., 119 F.3d 453, 461 (6th Cir. 1997).
+Whether an accommodation is necessary is also part of the inquiry under both Title  [*829]  III, 42 U.S.C. § 12182(b)(2)(A)(ii), and Title II, 28 C.F.R. § 35.130(b)(7). Under Title II, reasonable modifications are required when such modifications are "necessary to avoid discrimination on the basis of disability." 28 C.F.R. § 35.130(b)(7).
+In the Title III context, the Supreme Court has held that the ADA requires "an individualized inquiry" based on whether the modification is necessary and reasonable under the circumstances. PGA Tour, Inc. v. Martin, 532 U.S. 661, 688, 121 S. Ct. 1879, 149 L. Ed. 2d 904 (2001).
+Despite Reuben's argument to the contrary, the fact that plaintiff entered the building and reached the OCRC does not require dismissal. Title II and the Rehabilitation Act protect against intentional discrimination and "being denied the benefits" of a program, in addition to access. 29 U.S.C. § 794(a); 42 U.S.C. § 12132.
+Plaintiff has also adequately pled that Reuben discriminated against plaintiff based on his disability. His complaint  [**18] alleges that Reuben representatives treated him rudely, and required him to disclose private details of his disability publicly. He also alleges that Reuben, after telling him that he could not use his Segway, did not offer him any assistance in reaching the OCRC office until he stated loudly, "I can't walk." [Doc. 1, at 8]. He claims further that Reuben's building manager refused to leave when plaintiff reached the OCRC office, despite plaintiff's requests for privacy. I find that this claim is sufficiently pled.
+Plaintiff has also adequately pled failure to make a reasonable accommodation. First, Reuben seemingly concedes in reply that the requested modification is reasonable. [Doc. 23, at 5 ("[W]hen the Ohio Building Authority unilaterally changed its policy to allow Segways in One Government Center, it essentially abrogated any argument Reuben had that using Segways in the building is unreasonable.")].
+Second, plaintiff points to the OBA policy which permitted the use of Segways when required to comply with the ADA. That policy, at least arguendo, should have prompted, if it did not require, Reuben to permit plaintiff to proceed with his Segway as he requested, and as he claimed  [**19] and claims he needed to do.
+The parties dispute whether plaintiff's requested accommodation was "necessary" or, as defendant characterizes it, simply a "preference." [Doc. 21, at 4]. Whether the accommodation is necessary is a fact-based inquiry, and one where, in the Title III context, the Supreme Court has held requires "an individualized inquiry." Martin, supra, 532 U.S. at 688.
+I find that plaintiff has adequately alleged facts to support a claim that the requested accommodation was necessary. Plaintiff alleges that his conditions "cause him considerable pain, impair his ability to walk and operate a manual wheelchair." [Doc. 1, at 1]. He also alleges that his conditions "prevent him from being able to walk more than a very short distance, impair his ability to sit without pain, and cause upper body muscle weakness" and that "[a]lthough he takes multiple medications for his pain, he still suffers serious pain when he is required to stand or sit for prolonged periods." Id. at 5. Finally, plaintiff alleges that "[b]ecause of his upper-body muscle weakness, [he] is unable to operate a manual wheelchair" and "the structure of a manual or power wheelchair is highly uncomfortable for him."  [**20] Id. at 5-6.
+I therefore deny Reuben's motion to dismiss plaintiff's Title II and Rehabilitation Act claims.
+
+III. Collateral Estoppel
+Reuben asserts that collateral estoppel requires plaintiff's complaint to be dismissed. I disagree.
+ [*830]  Collateral estoppel is an affirmative defense, so Reuben bears the burden of proving each of its elements. Spilman v. Harley, 656 F.2d 224, 229 (6th Cir. 1981). The Supreme Court has described collateral estoppel as providing that "once an issue is actually and necessarily determined by a court of competent jurisdiction, that determination is conclusive in subsequent suits based on a different cause of action involving a party to the prior litigation." Montana v. U.S., 440 U.S. 147, 153, 99 S. Ct. 970, 59 L. Ed. 2d 210 (1979).
+To prove collateral estoppel, Reuben must show:
+1. The issue in the subsequent litigation is identical to that resolved in the earlier litigation,
+2. The issue was actually litigated and decided in the prior action,
+3. The resolution of the issue was necessary and essential to a judgment on the merits in the prior litigation,
+4. The party to be estopped was a party to the prior litigation (or in privity with such a party), and
+5. The party to be estopped had a full and fair  [**21] opportunity to litigate the issue.
+Santana-Albarran v. Ashcroft, 393 F.3d 699, 704 (6th Cir. 2005).
+Reuben relies on a class action case from the Middle District of Florida, Ault v. Walt Disney World Co., 2009 U.S. Dist. LEXIS 92911, 2009 WL 3242028 (M.D. Fla.), involving Segways and the ADA, to assert collateral estoppel.
+In Ault, plaintiffs brought suit seeking the right to use Segways at Walt Disney Parks. The court in Ault dismissed the suit for lack of standing, holding that "[o]n the record as it stands now, it is clear that the named Plaintiffs' requested relief is not 'necessary' and therefore, the named Plaintiffs' claims fall outside the zone of interests created by [Title III]." 2009 U.S. Dist. LEXIS 92911, [WL] at *5.
+First, I disagree with Reuben's contention that the court in Ault decided "the same issues of fact and law" as are at issue here. [Doc. 21, at 20]. In Ault, plaintiffs sought an accommodation under Title III permitting use of Segways in Walt Disney World parks. Here, plaintiff asserts Reuben intentionally discriminated against him and that he was denied a reasonable accommodation during a visit to access government services at the DiSalle Building in Toledo. Plaintiff in the present case has, additionally, conceded his  [**22] Title III claim, but still asserts violations of Title II and the Rehabilitation Act, statutes not at issue in Ault.
+The reasonableness of an accommodation permitting use of a Segway, moreover, may vary depending on the circumstances--which are certainly distinct between Disney World and a government building--and based on the needs of particular individuals. 6 
+Plaintiff may have been a member of the putative class in Ault, and listed as an "interested party" in the case. The order provisionally certifying the class was, however vacated by the court's decision, and plaintiff was not a party to the Ault case. 7 
+ [*831]  Finally, Reuben has not shown that plaintiff had a "full and fair opportunity" to litigate the issues in the present suit before the court in Ault. The court in Ault simply could not have considered plaintiff's impairments nor the relationship of those impairments to accessing the DiSalle Building.
+Reuben has thus failed to show that collateral estoppel is appropriate here.
+
+Conclusion
+For the foregoing reasons, it is hereby:
+ORDERED THAT Reuben's motion to dismiss [Doc. 21] is granted in part and denied in part. A scheduling conference is set for March 31, 2010 at 2:30p.m.
+So ordered.
+/s/ James G. Carr
+James G. Carr
+Chief Judge
+
+
+End of Document
+

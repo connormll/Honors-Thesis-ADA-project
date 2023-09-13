@@ -1,0 +1,39 @@
+Hess v. Delta Med. Cannabis Co., LLC
+United States District Court for the Eastern District of Arkansas, Northern Division
+July 15, 2022, Decided; July 15, 2022, Filed
+CASE NO. 3:21-CV-00242-BSM
+
+Reporter
+2022 U.S. Dist. LEXIS 125776 *; 2022 WL 2789891
+JESSICA HESS PLAINTIFF v. DELTA MEDICAL CANNABIS COMPANY, LLC DEFENDANT
+Subsequent History: Dismissed by, Judgment entered by Hess v. Delta Med. Cannabis Co., LLC, 2023 U.S. Dist. LEXIS 100319 (E.D. Ark., June 8, 2023)
+Counsel:  [*1] For Jessica Hess, Plaintiff: Lucien Ramseur Gillham, LEAD ATTORNEY, Sutter & Gillham, PLLC, Benton, AR.
+For Delta Medical Cannabis Company LLC, Defendant: Scott P. Richardson, LEAD ATTORNEY, McDaniel, Wolff & Benca, PLLC, Little Rock, AR.
+Judges: Brian S. Miller, UNITED STATES DISTRICT JUDGE.
+Opinion by: Brian S. Miller
+Opinion
+
+
+
+ORDER
+Delta Medical Cannabis Company's motion to dismiss [Doc. No. 3] is denied.
+I. BACKGROUND
+Jessica Hess is suing Delta for violating the Americans with Disabilities Act (ADA), 42 U.S.C. section 12101 et seq., and the Arkansas Civil Right Act (ACRA), Ark. Code Ann. sections 16-123-107(a)(1) and 108, when it terminated her.
+Hess was a security officer for Delta and was tasked with observing cameras, and logging entries and exits, clock-in times, and deliveries. Id. ¶ 6. At some point, Hess was asked to begin doing clerical work which required her to be away from her desk and the cameras. Id. ¶¶ 9-10. This caused anxiety and depression because she "could not ensure that her security duties were done appropriately." Id. ¶ 11. As a result, her anxiety and depression medication was increased and she began taking blood pressure medicine, had to have a cardiac work-up with a 30-day monitor, and experienced panic attacks, crying, migraines, and stomach problems. Id. Hess communicated her problems to management and requested an accommodation and, [*2]  upon request, provided a supporting doctor's note. Id. ¶¶ 12-15. Her requested accommodation included "elimination of marginal job functions, an assurance that she would not be punished for security problems arising from her absence from the cameras or doing other duties, and [she] asked to talk about these issues." Id. ¶ 14. Less than two weeks after requesting the accommodation, management met with Hess and yelled at her and hit the table. Id. ¶ 16. Management informed her that it could not accommodate her and no longer had a position for her. Id. Delta moves to dismiss Hess's complaint.
+II. LEGAL STANDARD
+Federal Rule of Civil Procedure 12(b)(6) permits dismissal when the plaintiff fails to state a claim upon which relief may be granted. To meet the 12(b)(6) standard, a complaint must allege sufficient facts to entitle the plaintiff to the relief sought. See Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). Although detailed factual allegations are not required, threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, are insufficient. Id. In ruling on a 12(b)(6) motion to dismiss, materials embraced by the pleadings, as well as exhibits attached to the pleadings and matters of public record, may all be considered. Mills v. City of Grand Forks, 614 F.3d 495, 498 (8th Cir. 2010).
+III. DISCUSSION
+The motion [*3]  to dismiss is denied because the complaint must be read in the light most favorable to Hess. To establish a prima facie case of disparate treatment under the ADA, Hess only has to show that: "(1) she is disabled within the meaning of the ADA; (2) she is qualified to perform the essential functions of her job with or without reasonable accommodation; and (3) she suffered an adverse employment action under circumstances that give rise to an inference of unlawful discrimination based on disability." Heisler v. Metro. Council, 339 F.3d 622, 626-27 (8th Cir. 2003) (quoting Dropinski v. Douglas County, 298 F.3d 704, 706-07 (8th Cir. 2002)).
+Delta argues that dismissal is proper because Hess has failed to allege that she has an ADA disability or that she could perform the essential functions of the job with or without an accommodation. Def.'s Br. Supp. Mot Dismiss at 8, Doc. No. 4. It also argues that Hess was not fired, but quit, and she has not sufficiently alleged constructive discharge. Id. at 8-9. Finally, it argues that Hess's proposed accommodation was unreasonable because she wanted to limit her job duties down to only watching the cameras. Id. at 10.
+In response, Hess argues that her complaint sufficiently alleges a disability because her anxiety and depression caused "panic attacks, crying, migraines, stomach [*4]  problems, going on BP medicine, and having to have a cardiac workup with a 30-day monitor." Pl.'s Resp. at 5-6. She also argues that Delta failed to engage in an "interactive process" after she requested the accommodation. Id. at 8-9.
+Although major depressive disorder is not a disability as a matter of law, the complaint sufficiently alleges that Hess experienced symptoms as a result of her anxiety and depression that meet the "disability" definition. See 42 U.S.C. § 12102(1) (A disability is "a physical or mental impairment that substantially limits one or more major life activities of such an individual"); Compl. ¶ 11. Second, according to the complaint, Delta read Hess's doctor's note and then determined that she did not need an accommodation and did not engage in an interactive process. Fjellestad v. Pizza Hut of Am., Inc., 188 F.3d 944, 950-54 (8th Cir. 1999) (An employer is not required to eliminate essential job functions to accommodate a disabled employee; however, an employer must make a good faith effort to engage in an interactive process to determine whether an appropriate accommodation exists.). Finally, Hess alleges that she was fired after the meeting in which management yelled at her and told her it would not accommodate her. Compl. ¶¶ 16-17. Although Delta [*5]  disputes all of this, I am duty bound to accept these allegations as true and to view them in the light most favorable to Hess. Ashcroft, 556 U.S. at 678.
+To the extent Hess is asserting retaliation and failure to accommodate claims, those claims are dismissed because they were not pleaded in her complaint.
+IV. CONCLUSION
+For the forgoing reasons, the motion to dismiss is denied.
+IT IS SO ORDERED this 15th day of July, 2022.
+/s/ Brian S. Miller
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

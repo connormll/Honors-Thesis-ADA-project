@@ -1,0 +1,36 @@
+Washburn v. Gymboree Retail Stores, Inc.
+United States District Court for the Western District of Washington
+September 14, 2012, Decided; September 14, 2012, Filed
+Case No. C11-822RSL
+
+Reporter
+2012 U.S. Dist. LEXIS 131593 *; 2012 WL 4056254
+KERRY and MICHAEL WASHBURN, Plaintiffs, v. GYMBOREE RETAIL STORES, INC., et al., Defendants.
+Subsequent History: Findings of fact/conclusions of law at, Sanctions allowed by Washburn v. Gymboree Retail Stores, Inc., 2012 U.S. Dist. LEXIS 156240 (W.D. Wash., Oct. 30, 2012)
+Prior History: Washburn v. Gymboree Retail Stores, Inc., 2012 U.S. Dist. LEXIS 125378 (W.D. Wash., Sept. 4, 2012)
+Counsel:  [*1] For Kerry Washburn, Plaintiff: Dan'L W Bridges, Shellie McGaughey, MCGAUGHEY BRIDGES DUNLAP, BELLEVUE, WA.
+For Michael Washburn, wife and husband, Plaintiff: Dan'L W Bridges, MCGAUGHEY BRIDGES DUNLAP, BELLEVUE, WA.
+For Gymboree Retail Stores, Inc., a California corporation, doing business as Gymboree, Fran Anyan, John Doe Anyan, and the marital community comprised thereof, Defendants: James Sanders, PERKINS COIE, SEATTLE, WA; Michael C. Hallerud, NIXON PEABODY (CA), SAN FRANCISCO, CA; Paul R. Lynd, PRO HAC VICE, NIXON PEABODY LLP, SAN FRANCISCO, CA.
+For Gymboree Retail Stores Inc, doing business as Gymboree, Defendant: Paul R. Lynd, NIXON PEABODY LLP, SAN FRANCISCO, CA.
+For Lana Rackley, Defendant: James Sanders, PERKINS COIE, SEATTLE, WA; Paul R. Lynd, NIXON PEABODY LLP, SAN FRANCISCO, CA.
+For John Doe Rackley, Defendant: James Sanders, PERKINS COIE, SEATTLE, WA.
+Judges: Robert S. Lasnik, United States District Judge.
+Opinion by: Robert S. Lasnik
+Opinion
+
+
+ORDER DENYING PLAINTIFFS' MOTION FOR RECONSIDERATION
+This matter comes before the Court on Plaintiffs' motion for reconsideration (Dkt. # 103). For the reasons set forth below, the Court DENIES the motion.
+Motions for reconsideration are disfavored in this district and  [*2] will be granted only upon a "showing of manifest error in the prior ruling" or "new facts or legal authority which could not have been brought to [the Court's] attention earlier with reasonable diligence." Local Civil Rule 7(h)(1). Plaintiffs have not made either showing.
+First, contrary to Plaintiffs' assertion, Dkt. # 103, this Court did not conclude that Washington's Law Against Discrimination ("WLAD") does not permit a hostile work environment claim. That much should be obvious from the fact that the Court denied Defendants' motion as to Ms Washburn's WLAD hostile work environment claim to the extent it is premised on Ms. Anyan's and Ms. Rackley's alleged threats of demotion. Compare Dkt. # 95 at 23-24 (allowing Ms. Washburn's "§ 12203(b) demotion-related interference claim to proceed to trial"), with id. at 25 (denying, for the reasons discussed previously, Defendants' motion as to Ms. Washburn's WLAD threat-of-demotion-based harassment claim). As to Ms. Washburn's WLAD claim for dirty looks, shunning, and file cabinet slamming, the Court simply concluded that these acts were not "sufficiently pervasive so as to alter the conditions of employment and create an abusive working environment."  [*3] Compare Dkt. # 95 at 13 ("Simply put, being 'shunned,' being glared at, and having a file cabinet door 'slammed' in one's presence on a single occasion is not 'sufficiently severe or pervasive to alter the conditions of the victim's employment and create an abusive working environment.'" (citing Brown v. City of Tucson, 336 F.3d 1181, 1193 (9th Cir. 2003)), and Dkt. # 95 at 23-25 (relying on its prior discussion of Brown to distinguish Ms. Washburn's viable ADA and WLAD harassment claims from her meritless ones), with Robel v. Roundup Corp., 148 Wn.2d 35, 46, 59 P.3d 611 (2002) ("Of the fourth element, whether the conduct affected the terms and conditions of employment, the Glasgow court explained that '[t]he harassment must be sufficiently pervasive so as to alter the conditions of employment and create an abusive working environment.'" (citation omitted)).
+Second, the Court agrees with Plaintiffs that they adequately raised their ADA collaborative process contention. See Dkt. # 103 at 2-4. It is for that reason that the Court addressed that contention on the merits in its Order. E.g., Dkt. # 95 at 19 ("The Court turns first to Ms. Washburn's accommodation-related claim, which encompasses her allegations  [*4] that Gymboree both failed to properly engage in an interactive process and failed to allow her at least three reasonable accommodations . . . ." (emphasis added)); id. at 20 ("Accordingly, the Court will evaluate Defendant's [collaborative] efforts both in relation to each of the accommodations Ms. Washburn now proposes and in relation to her own actions."). The Court simply found that, to the extent Ms. Washburn failed to identify a reasonable accommodation, she had no viable process related claim. See id. at 19 (quoting Humphrey v. Mem'l Hosps. Ass'n, 239 F.3d 1128, 1138 (9th Cir. 2001) ("Given MHA's failure to engage in the interactive process, liability is appropriate if a reasonable accommodation without undue hardship to the employer would otherwise have been possible.")). As to those accommodation claims that the Court has allowed to proceed to trial, namely leave without threat of demotion and transfer to an actually vacant position, id. at 23, she remains free to make out a case at trial that a reasonable accommodation was not given due to a failure on Defendants' part to adequately engage in an interactive process. See, e.g., id. at 23 ("As a result, assuming she can convince  [*5] the trier of fact that she did indicate a desire to transfer to any store, and not just store # 325, which did not have an opening, id., and assuming that she can further prove that transfer would have been a reasonable accommodation under the circumstances, Ms. Washburn may have a claim." (emphasis added)).
+Third, the Court notes that it did fully consider Plaintiffs' "substantial briefing" on their contention that Defendants could have "bumped" another employee from his or her position to create an opening for Ms. Washburn. Dkt. # 103 at 3-4. It simply found the contention to be without merit and thus not in need of further discussion. As stated, a position actually occupied by another person is, by definition, not "vacant." Dkt. # 95 at 2 (quoting U.S. Airways, Inc. v. Barnett, 535 U.S. 391, 398-99, 122 S. Ct. 1516, 152 L. Ed. 2d 589 (2002) ("The position in this case was held, at the time of suit, by Barnett, not by some other worker; and that position, under the U.S. Airways seniority system, became an 'open' one.").
+Finally, the Court sees no reason to revisit its conclusion that Defendant Gymboree's statement was non-defamatory as a matter of law.
+DATED this 14th day of September, 2012.
+/s/ Robert S. Lasnik
+Robert S. Lasnik [*6] 
+United States District Judge
+
+
+End of Document
+

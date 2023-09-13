@@ -1,0 +1,105 @@
+Patz v. Sureway Supermarket
+United States District Court for the Eastern District of Louisiana
+July 30, 2019, Decided; July 30, 2019, Filed
+CIVIL ACTION NO. 17-3465 SECTION: "E" (1)
+
+Reporter
+2019 U.S. Dist. LEXIS 126629 *; 2019 WL 3430383
+VIVIAN PATZ, ET AL., Plaintiffs VERSUS SUREWAY SUPERMARKET, ET AL., Defendants
+Prior History: Patz v. Sureway Supermarket, 2018 U.S. Dist. LEXIS 145211 (E.D. La., Aug. 27, 2018)
+Counsel:  [*1] For Michael Patz, Vivian Patz, Previously named Vivian Blackledge, Plaintiffs: William Brock Most, LEAD ATTORNEY, Law Office of William Most, New Orleans, LA.
+For Walter H. Maples, Inc., Shelly Jambon, SHH Properties, L.L.C., Defendants: Sean Renee Dawson, LEAD ATTORNEY, Stephenson, Chavarri & Lambert LLC, New Orleans, LA; Kathleen Diane Lambert, Stephenson, Chavarri & Lambert, LLC, New Orleans, LA.
+Judges: SUSIE MORGAN, UNITED STATES DISTRICT JUDGE.
+Opinion by: SUSIE MORGAN
+Opinion
+
+
+
+ORDER AND REASONS
+Before the Court is a renewed motion for judgment as a matter of law or for a new trial, filed by Plaintiff Vivian Patz under Rule 50(b) of the Federal Rules of Civil Procedure.1 Defendant Walter H. Maples, Inc. ("Maples") opposes.2 For the reasons that follow, Vivian Patz's motion is DENIED.
+
+BACKGROUND
+Plaintiffs Vivian and Michael Patz were employees of Maples, doing business as Sureway Supermarket.3 Maples fired Plaintiffs.4 On April 14, 2017, Plaintiffs filed suit against Maples; SHH Properties, LLC; and Shelly Jambon.5 On April 19, 2018, Plaintiffs filed their Second Amended Complaint.6 At issue in this motion are the following claims brought by Vivian Patz against Maples7 for employment discrimination on the basis of pregnancy: Count 1, under Title VII of the Civil [*2]  Rights Act, as amended by the Pregnancy Discrimination Act ("Title VII");8 Count 2, under the Americans with Disabilities Act ("ADA");9 and Count 5, under the Louisiana Employment Discrimination Law ("LEDL").10
+The Court held a jury trial in this case from January 28, 2019 to January 31, 2019.11 On January 30, 2019, Vivian Patz moved for judgment as a matter of law under Rule 50(a) of the Federal Rules of Civil Procedure on Count 1, her Title VII claim, arguing Maples limited her in a way that deprived her of employment opportunities when it sent her home mid-shift without pay.12 Vivian Patz moved for judgment as a matter of law on Count 2, her ADA claim, arguing (1) Maples sent her home without pay, an adverse employment action, because of her pregnancy, which was a disability; (2) Maples did not engage in an interactive process to determine whether the Vivian Patz needed accommodations; and (3) Maples failed to accommodate her disability.13 The Court denied Vivian Patz's Rule 50(a) motions.14
+The jury returned a verdict in this case on January 31, 2019.15 On Counts 1 and 5, Vivian Patz's Title VII and LEDL claims against Maples, the jury found for Maples and against Vivian Patz, specifically finding (1) Vivian Patz had not proven by a preponderance [*3]  of the evidence that she would not have been terminated by Maples but for her pregnancy, (2) Vivian Patz's pregnancy was not a motivating factor in Maples' termination decision; (3) Maples did not limit its employees "in a way that deprived Vivian Patz of employment opportunities or otherwise adversely affected her status as an employee because of her pregnancy or related medical condition"; and (4) Maples did not fail to make a reasonable accommodation after a request by Vivian Patz.16 On Count 2, Vivian Patz's ADA claim against Maples, the jury found for Maples and against Vivian Patz, specifically finding (1) Maples did not terminate Vivian Patz "because of her disability, or because she was regarded as having an impairment, or because [Maples] had a record of her having a disability," and (2) Maples was not on notice of Vivian Patz's disability and Maples did not fail to make a reasonable accommodation after a request by Vivian Patz.17 On February 1, 2019, the Court entered judgment in favor of Maples and against Vivian Patz.18
+Vivian Patz filed the instant motion under Rule 50(b) on February 28, 2019,19 within the 28 days of entry of judgment required by Fed. R. Civ. P. 50(b). On May 20, 2019, Vivian Patz refiled the [*4]  motion with citations to the trial transcript.20 Maples opposes.21
+
+RULE 50(b) STANDARD
+Rule 50(b) of the Federal Rules of Civil Procedure provides:
+If the court does not grant a motion for judgment as a matter of law made under Rule 50(a), the court is considered to have submitted the action to the jury subject to the court's later deciding the legal questions raised by the motion. No later than 28 days after the entry of judgment--or if the motion addresses a jury issue not decided by a verdict, no later than 28 days after the jury was discharged--the movant may file a renewed motion for judgment as a matter of law and may include an alternative or joint request for a new trial under Rule 59. In ruling on the renewed motion, the court may:
+(1) allow judgment on the verdict, if the jury returned a verdict;
+(2) order a new trial; or
+(3) direct the entry of judgment as a matter of law.22
+"A party is entitled to judgment as a matter of law 'only if the evidence points but one way and is susceptible to no reasonable inferences which may support the opposing party's position.'"23 The Court does not "weigh evidence, judge witness credibility, or challenge the factual conclusions of the jury. Judgment as a matter of law is appropriate if there is no legally sufficient evidentiary [*5]  basis for a claim under the controlling law."24
+
+ANALYSIS
+
+I. Vivian Patz is not entitled to judgment as a matter of law on her Title VII and LEDL claims.
+In the instant motion, Vivian Patz argues she is entitled to judgment as a matter of law on her Title VII claim because Maples sent her home mid-shift without pay because of her pregnancy.25 She does not argue she is entitled to judgment as a matter of law that Maples' firing her was discriminatory.26 Vivian Patz states that, at trial, Jambon testified Vivian Patz told her on April 11, 2016, before she was sent home, that (1) she may be pregnant, (2) she had a history of miscarriages, (3) she could not lift more than ten pounds, and (4) she felt sick.27 Vivian Patz also cites a note recounting the conversation between Vivian Patz and Jambon written by Maples employee Denise Esponge, which stated, "Said she could not lift anything over 10 lbs because she was pregnant. Asked for a doctor's excuse—has not seen a doctor. Told her to go see one and bring excuse back."28 Vivian Patz argues that, because only one of the four reasons given by Jambon was not "explicitly pregnancy related," Patz has established as a matter of law that her pregnancy was [*6]  "at least a motivating factor" in Jambon's decision to send her home.29
+At trial, Jambon gave the following testimony about Vivian Patz's conversation with her on April 11, 2016:
+She said she didn't know if she was pregnant or not, and she didn't -- and in her last pregnancy she couldn't lift ten pounds. That was the gist of the conversation. So, I asked her to go home and get a note and find out if she was or wasn't pregnant.
+It wouldn't have mattered if she was pregnant or not. It would just mean she had to come back with a note so that I would know what she could and couldn't do, but if we don't even know what's wrong, how am I supposed to know what we can and cannot do?30
+When asked about why she asked Vivian Patz for a doctor's note, Jambon responded:
+A. I was asking her to bring a note saying she could come back to work. It wasn't saying whether there was limitations or not limitations. It was just -- that way it's the doctor saying that it's okay for her to come back to work.
+It wasn't that it had to have any limitations at all. She might have been cleared to come back to work with none. She was just self-diagnosing herself.
+Q. You did [*7]  not ask her for a doctor's note that explained any limitations that she had?
+A. I asked her for a doctor's note to come back to work.31
+Based on this testimony, a reasonable jury could have believed that Jambon's reason for sending Vivian Patz home without pay was because Vivian Patz felt sick and had not seen a doctor, not because Vivian Patz was pregnant. As a result, the Court finds Vivian Patz is not entitled to judgment as a matter of law on her Title VII claim on the basis that she was sent home without pay because of her pregnancy.
+Vivian Patz also moves for judgment as a matter of law on her LEDL claim.32 "The Louisiana jurisprudence has reviewed such claims following the analysis set forth in federal cases for discrimination under Title VII."33 Because Vivian Patz has not shown she is entitled to judgment as a matter of law on her Title VII claim, she has not shown she is entitled to judgment as a matter of law on her LEDL claim. The Court also notes Vivian Patz did not move for judgment as a matter of law on her LEDL claim at trial under Rule 50(a).
+
+II. Vivian Patz is not entitled to judgment as a matter of law that Defendants discriminated against her because they regarded her as having an [*8]  impairment.
+Vivian Patz argues she is entitled to judgment as a matter of law on her ADA claim against Maples because (1) she was a qualified individual under the ADA, (2) Maples regarded her as having an impairment, and (3) there was a "nexus" between the adverse employment actions and her impairment.34 In connection with the third prong, the nexus between the adverse employment actions and her impairment, Vivian Patz argues she "suffered two adverse employment[] actions: first, she was sent home mid-shift on April 11, 2016 and taken off the schedule, and second, she was terminated on April 15, 2016."35
+In her Second Amended Complaint, Vivian Patz brought an ADA claim only for denial of reasonable accommodations.36 The Second Amended Complaint did not include a claim for discrimination by termination or by being sent home mid-shift without pay.37 The scope of Vivian Patz's claims was expanded in the pretrial order, in which the parties state:
+Vivian Patz alleges she requested a reasonable accommodation from Defendants, and was denied the accommodation without explanation. She further alleges, the accommodations she sought were not an undue burden on Defendants. Additionally, she alleges her [*9]  termination on the basis of her pregnancy-related disability is proscribed discrimination under the ADA.38
+The Fifth Circuit has held "[t]he pre-trial order supersedes the pleadings and becomes the governing pattern of the lawsuit."39 As a result, the pretrial order expanded the pleadings to include a claim under the ADA for discriminatory termination, but not for discrimination in connection with Maples' sending Vivian Patz home without pay.
+This is confirmed by the jury instructions and jury verdict form in this case.40 The jury instructions provided:
+37. Plaintiff Vivian Patz claims that:
+A. Defendant Sureway Supermarket discriminated against her because she had a disability by terminating because of her pregnancy-related physical limitations;
+B. Defendant Sureway Supermarket discriminated against her because it regarded her as having an impairment, specifically of having a pregnancy which limited her ability to lift over ten pounds; and
+C. Defendant Sureway Supermarket failed to reasonably accommodate her disability, specifically her pregnancy which limited her ability to lift more than 10 pounds.
+Defendant Sureway Supermarket denies Plaintiff Vivian Patz's claims and contends that [*10]  she was terminated because she did not timely submit a doctor's note regarding her limitations and because she failed to communicate with Sureway Supermarket.41
+The jury verdict form included the following question:
+5. Do you find by a preponderance of the evidence that Sureway Supermarket terminated Vivian Patz because of her disability, or because she was regarded as having an impairment, or because Sureway Supermarket had a record of her having a disability?42
+The jury verdict form did not include a question asking whether Vivian Patz was discriminated against by being sent home mid-shift on April 11, 2016. Vivian Patz did not object to this portion of the jury verdict form.43
+At trial, Plaintiffs' counsel argued, in connection with Vivian Patz's Rule 50(a) motion on her ADA claim:
+The [ADA] has the same limiting, segregating, or classifying language that Title VII does if it limits an employee in a way that adversely affects the opportunities of an employee. . . . [H]ere it's undisputed that [Vivian Patz] was sent home without pay, which is an adverse employment action. . . . It was explicitly related to her disability. Ms. Jambon testified that she sent Vivian home specifically to find out her physical [*11]  limitations.44
+Plaintiffs' counsel did not argue at trial that Maples discriminated against Vivian Patz by terminating her. Instead, Vivian Patz argued only that she was entitled to judgment as a matter of law on her ADA claim because her being sent home mid-shift without pay was discriminatory. Vivian Patz cannot expand the pleadings by a motion under Rule 50(a). Because Vivian Patz's being sent home was not a basis for her ADA claim at trial, she is not entitled to judgment as a matter of law on her ADA claim based on her being sent home mid-shift without pay.
+In the instant Rule 50(b) motion, Vivian Patz now asserts her ADA claim was based on both her being sent home mid-shift and her termination.45 A motion under Rule 50(b) is "technically only a renewal" of the Rule 50(a) motion at trial.46 The Fifth Circuit "prohibit[s] parties from using a Rule 50(b) motion to 'assert a ground that was not included in the original motion.'"47 Vivian Patz is prohibited from using the instant Rule 50(b) motion to assert a ground for relief not included in her Rule 50(a) motion at trial. Post-trial, Vivian Patz may not argue that she is entitled to judgment as a matter of law on her ADA claim because Maples terminated her because of her disability.
+Even if the Court allowed [*12]  Vivian Patz either (1) to expand the pleadings to bring a claim for discrimination in connection with Vivian Patz being sent home mid-shift or (2) to expand the scope of her Rule 50 motion after trial, the Court would find Vivian Patz is not entitled to judgment as a matter of law on the claim. The Court has found a reasonable jury could have believed that Jambon's reason for sending Vivian Patz home without pay was because Vivian Patz felt sick and had not seen a doctor, not because Vivian Patz was pregnant. As a result, the Court denies Vivian Patz's motion for judgment as a matter of law on her ADA claim.
+
+III. Vivian Patz is not entitled to judgment as a matter of law on her ADA claim against Maples for failure to make a reasonable accommodation.
+Vivian Patz argues she is entitled to judgment as a matter of law on her reasonable accommodations ADA claim against Maples on two bases: (1) she requested an accommodation, but Maples did not provide one and (2) Maples did not engage in an interactive process with her to provide accommodations.48
+
+A. "Regarded As" Having a Disability
+In order to show discrimination under the ADA, a plaintiff must show she is a qualified individual with a disability. [*13] 49 The ADA defines "disability" as follows:
+(A) a physical or mental impairment that substantially limits one or more major life activities of such individual;
+(B) a record of such an impairment; or
+(C) being regarded as having such an impairment.50
+Vivian Patz argues she was disabled under the ADA because uncontradicted evidence at trial established Defendants regarded her as having a physical impairment, under 42 U.S.C. § 12102(1)(C).51
+The ADA requires that an employer make "reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity."52 In 42 U.S.C. § 12201(h), the ADA provides, a covered entity "need not provide a reasonable accommodation . . . to an individual who meets the definition of disability in section 12102(1) of this title solely under subparagraph (C) of such section."53 Subparagraph codifies the "regarded as" prong of the definition of "disability."54 Under the plain language of § 12201(h), even if Vivian Patz were entitled to judgment as a matter of law that she was regarded as having a physical impairment, [*14]  she is not entitled to reasonable accommodations. As a result, Vivian Patz is not entitled to judgment as a matter of law on her reasonable accommodations claim.
+
+B. Reasonable Accommodations
+Even if Vivian Patz had established she is entitled to reasonable accommodations, a reasonable jury could have found Maples did not deny her request for accommodations.
+At trial, Jambon testified that, during her conversation with Vivian Patz on April 11, 2016, Vivian Patz told her she could not lift more than ten pounds and that she had previously had a miscarriage.55
+Q. Did you have a back-and-forth dialogue with Vivian during that conversation on April 11th about what type of accommodations she might need?
+A. No.
+. . .
+Q. After she mentioned that she had a ten-pound [*15]  restriction, did you engage her a discussion about what kind of accommodations she might need?
+A. No, I did not because I didn't -- she didn't know if she was pregnant or not.
+. . .
+Q. You didn't ask her about ways that she might be able to do her job without lifting ten-pounds, did you?
+A. No. Because she was saying she wasn't feeling well.56
+Vivian Patz argues, based on this and similar testimony, that Jambon denied her request for a reasonable accommodation and failed to engage in an interactive process with her.57
+However, Jambon also testified, "[Patz] had to come back with a note so that I would know what she could and couldn't do, but if we don't even know what's wrong, how am I supposed to know what we can and cannot do?"58 Jambon also stated, "I thought I was accommodating her if she said she's not feeling well."
+Based on this testimony, the Court finds a reasonable jury could have found Jambon engaged in an interactive process to make a reasonable accommodation by asking Vivian Patz to get a note from a doctor to explain her limitations. As a result, the Court finds Vivian Patz is not entitled to judgment as a matter of law on her reasonable accommodations claim under the ADA.
+
+CONCLUSION [*16] 
+For the foregoing reasons, IT IS ORDERED that the renewed motion for judgment as a matter of law or for a new trial, filed by Plaintiff Vivian Patz under Rule 50 of the Federal Rules of Civil Procedure, be and hereby is DENIED.59
+New Orleans, Louisiana, this 30th day of July, 2019.
+/s/ Susie Morgan
+SUSIE MORGAN
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

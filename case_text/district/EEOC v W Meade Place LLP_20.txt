@@ -1,0 +1,179 @@
+EEOC v. W. Meade Place LLP
+United States District Court for the Middle District of Tennessee, Nashville Division
+October 22, 2019, Filed
+NO. 3:18-cv-00101
+
+Reporter
+2019 U.S. Dist. LEXIS 182600 *; 19 Accom. Disabilities Dec. (CCH) P19-006; 2019 WL 5394314
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Plaintiff, v. WEST MEADE PLACE LLP d/b/a THE HEALTH CARE CENTER AT WEST MEADE PLACE, Defendant.
+Subsequent History: Reversed by, Remanded by EEOC v. West Meade Place, LLP, 841 Fed. Appx. 962, 2021 U.S. App. LEXIS 3390, 2021 FED App. 79N (6th Cir.), 2021 WL 424444 (6th Cir. Tenn., Feb. 8, 2021)
+Request denied by EEOC v. W. Meade Place LLP, 2023 U.S. Dist. LEXIS 104665 (M.D. Tenn., June 14, 2023)
+Counsel:  [*1] For Equal Employment Opportunity Commission, Plaintiff: Faye A. Williams, Markeisha K. Savage, Equal Employment Opportunity Commission (Memphis Office), Memphis, TN; Mark Hsin-tzu Chen, Equal Employment Opportunity Commission, Nashville, TN.
+For West Meade Place, LLP, doing business as The Healthcare Center at West Meade Place, Defendant: Stephen W. Elliott, Howell & Fisher, PLLC, Nashville, TN.
+Judges: WILLIAM L. CAMPBELL, JR., UNITED STATES DISTRICT JUDGE. MAGISTRATE JUDGE BROWN.
+Opinion by: WILLIAM L. CAMPBELL, JR.
+Opinion
+
+
+
+MEMORANDUM
+
+I. Introduction
+Pending before the Court are Defendant's Motion for Summary Judgment (Doc. No. 42), Plaintiff's Response (Doc. No. 47), and Defendant's Reply (Doc. No. 52). For the reasons set forth below, Defendant's Motion for Summary Judgment (Doc. No. 42) is GRANTED, and this action is DISMISSED.
+
+II. Factual and Procedural Background
+Plaintiff Equal Employment Opportunity Commission brings this action alleging Defendant West Meade Place LLP d/b/a The Health Care Center at West Meade Place ("WMP") violated the Americans With Disabilities Act, 42 U.S.C. §§ 12101, et seq. ("ADA") by failing to provide a reasonable accommodation to Carma Kean, a former employee of WMP, and by discharging her because of her disability. [*2]  (Doc. No. 1). More specifically, Plaintiff alleges Ms. Kean, who worked as a laundry technician at WMP from February 2015 to November 2015, was terminated from her employment after requesting a reasonable accommodation for her anxiety disorder. (Id.)
+
+III. Analysis
+
+A. The Standards Governing Motions for Summary Judgment
+Summary judgment should be granted "if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has construed Rule 56 to "mandate[] the entry of summary judgment, after adequate time for discovery and upon motion, against a party who fails to make a showing sufficient to establish the existence of an element essential to that party's case, and on which that party will bear the burden of proof at trial." Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S. Ct. 2548, 91 L.Ed.2d 265 (1986).
+In considering a motion for summary judgment, a court must draw all reasonable inferences in favor of the nonmoving party. See, e.g., Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp.,475 U.S. 574, 587-88, 106 S. Ct. 1348, 89 L.Ed.2d 538 (1986); Shreve v. Franklin County, Ohio, 743 F.3d 126, 132 (6th Cir. 2014). The court does not, however, make credibility determinations, weigh the evidence, or determine the truth of the matter. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S. Ct. 2505, 91 L.Ed.2d 202 (1986).
+In order to defeat the motion, the nonmoving party must provide evidence, beyond the pleadings, upon which a reasonable jury [*3]  could return a verdict in its favor. Celotex Corp., 477 U.S. at 324; Shreve, 743 F.3d at 132. Ultimately, the court is to determine "whether the evidence presents a sufficient disagreement to require submission to a jury or whether it is so one-sided that one party must prevail as a matter of law." Anderson, 477 U.S. at 251-52.
+
+B. ADA Discrimination/Failure to Accommodate
+Plaintiff claims WMP violated the ADA by discharging Ms. Kean because of her disability. The ADA prohibits discrimination against "a qualified individual on the basis of disability" with regard to hiring, compensation, discharge, and other terms, conditions, and privileges of employment. 42 U.S.C. § 12112(a). A "qualified individual" is "an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C. § 12111(8). In order to establish a prima facie case of discrimination under the ADA, a plaintiff must show: (1) she is disabled; (2) she is otherwise qualified to perform the essential functions of a position, with or without accommodation; and (3) she suffered an adverse employment action because of her disability. Demyanovich v. Cadon Plating & Coatings, L.L.C., 747 F.3d 419, 433 (6th Cir. 2014); Perry v. American Red Cross Blood Services, 651 Fed. Appx. 317 (6th Cir. 2016).
+Plaintiff also claims WMP violated the ADA by failing to accommodate Ms. Kean's disability. To establish a prima [*4]  facie failure-to-accommodate claim, a plaintiff must show: (1) she is disabled under the ADA; (2) she is otherwise qualified for the position, with or without a reasonable accommodation; (3) her employer knew or had reason to know of her disability; (4) she requested a reasonable accommodation; and (5) the employer failed to provide the reasonable accommodation. Cotuna v. Wal-Mart Stores, Inc., 2017 U.S. App. LEXIS 22749, 2017 WL 5171247, at *2 (6th Cir. 2017). The employee bears the burden of requesting a reasonable accommodation. Aldini v. Kroger Co. of Michigan, 628 Fed. Appx. 347, 350 (6th Cir. 2015).
+Defendant argues Ms. Kean is not disabled, and therefore, Plaintiff cannot establish the first element under either claim. Under the ADA, a "disability" is defined in three ways: (A) a physical or mental impairment that substantially limits one or more of the major life activities of an individual; (B) a record of such an impairment; or (C) being regarded as having such an impairment. 42 U.S.C. § 12102(1). For purposes of this definition, "major life activities" "include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working. 42 U.S.C. § 12102(2).1 The definition of "disability" is to be construed in accordance with [*5]  the following: "(A) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter; (B) The term 'substantially limits' shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008; (C) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability; and (D) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active." 42 U.S.C. § 12102(4).
+To support the claim that Ms. Kean meets the first definition in Section 12102(1), Plaintiff relies on the testimony of Dr. Aisha Hashmat. According to Plaintiff, Dr. Hashmat opined that Ms. Kean "could not work during flare-ups of her anxiety and therefore could potentially be unable to work for one to three days per month." (Doc. No. 47, at 7). This is, indeed, what Dr. Hashmat stated in a form Ms. Kean provided to her employer. When asked about that form during her deposition, Dr. Hashmat testified as follows:
+Q. All right. Okay. Well, Dr. Hashmat, why did you — let's see — why did you sign this FMLA [*6]  [Family Medical Leave Act] form for Ms. Kean?
+A. Because she wanted me to sign it.
+Q. Okay. Well — but did you make an assessment for Ms. Kean in order to sign this form? . . .
+A. I don't know. I can't answer it.
+Q. All right. Now — well, Dr. Hashmat, let's — let's maybe look at the form itself. Okay.
+Dr. Hashmat, looking at — looking at the second page of the form, it says there under the paragraph number 4, 'Patient is not able to work during flare-up/episodes.'
+Was that your opinion at the time when you — when you signed this form?
+A. The patient asked me that (sic) whenever she has a flare-up of anxiety attacks, she wants this time off. I'm like, 'Okay.'
+Q. I mean, did you —
+A. Because I can't argue with my patients.
+Q. Okay.
+A. I mean, can I say 'no' to her or my patients?
+Q. Well, I guess — I mean, Dr. Hashmat —
+A. If she is wanting that time off, I have to give it to her.
+Q. Okay. But Dr. Hashmat, I mean —
+A. That interferes with her job then.
+Q. Yes.
+A. So I have to give it to her.
+(Deposition of Dr. Aisha Hashmat, at 29-31 (Doc. No. 54-1, at 29-30)).
+Dr. Hashmat further testified about how she reached her diagnosis of Ms. Kean, who became her patient in April 2014:
+Q. . . . Now, during your treatment [*7]  of Ms. Kean, did you ever diagnose her with any mental health issue?
+A. She was already diagnosed when I saw her.
+Q. Okay. And what was your diagnosis at that time?
+A. Anxiety.
+Q. Okay. And can you explain that diagnosis for the record?
+A. Nervousness. . . .
+Q. Okay. Well, Dr. Hashmat, you have seen — you have seen Carma Kean as a patient, is that correct?
+A. Yes.
+Q. All right. And she had a prior diagnosis of anxiety, is that correct?
+A. Yes.
+Q. What was your own diagnosis of Ms. Kean with — as far as any mental health issues went?
+A. The same.
+Q. Okay. And based on your training, and your experience as a medical doctor, as a family physician, what is — what is anxiety as a medical disorder?
+A. Nervousness.
+Q. Uh-huh.
+A. Apprehension.
+Q. Uh-huh. Do you — let's see — does it also have any other symptoms?
+A. Are you taking my exam here?
+Q. No, Dr. Hashmat. But just —
+A. That's what I was seeing her for.
+Q. Whatever your —
+A. Whatever the diagnosis was, that's what I was treating her for.
+Q. Okay.
+A. Nothing else.
+Q. Okay. And based on that diagnosis, how did you treat Ms. Kean's anxiety?
+A. With an antianxiety pill.
+Q. Okay. And what was that medication?
+A. I don't know. It was probably Klonopin.
+* * *
+Q. Okay. [*8]  Dr. Hashmat, was Ms. Kean disabled? . . . Did she have a disability?
+A. What kind of disability.
+Q. Any kind of disability.
+A. No.
+(Id., at 41; Doc. No. 50-4, 18-20).
+Dr. Hashmat's deposition testimony is the only testimony by a medical professional offered by Plaintiff in support of its claims. Although Dr. Hashmat's testimony confirmed her diagnosis of Ms. Kean as "anxiety," she did not explain how she reached that diagnosis by use of her medical expertise. Her testimony suggests she relied on a diagnosis made by a previous physician, and one suggested to her by Ms. Kean. Indeed, it is not evident from Dr. Hashmat's testimony that her diagnosis of "anxiety" rose to the level of a "mental impairment." See 29 C.F.R. 1630.2(h)(2) ("Physical or mental impairment means" — "Any mental or psychological disorder, such as an intellectual disability (formerly termed 'mental retardation'), organic brain syndrome, emotional or mental illness, and specific learning disabilities.")
+Assuming Dr. Hashmat's testimony is sufficient to establish Ms. Kean had a "mental impairment," Plaintiff must also show that impairment substantially limits one or more of Ms. Kean's major life activities when her anxiety is active. 42 U.S.C. § 12102(4)(D) ("An impairment that [*9]  is episodic or in remission is a disability if it would substantially limit a major life activity when active.") Nothing in Dr. Hashmat's testimony supports such a finding. Dr. Hashmat's notation on the medical form that Ms. Kean could not work during "flare-ups" and could potentially need to take off one-to-three days per month does not appear to have been based on a medical assessment, but instead, on Dr. Hashmat's belief that she could not refuse her patient's request. Thus, Plaintiff's medical evidence does not establish Ms. Kean's condition satisfies the first definition of "disability" in Section 12102(1).
+Plaintiff argues, however, that Ms. Kean's own testimony supports such a finding, and specifically relies on Ms. Kean's description of her episodes of anxiety:
+When I have anxiety it can be different at any time. My heart could race. You feel like you have to catch your breath. You break down and cry. Sometimes you are just a little, you may say, discombobulated. Various things like that.
+(Deposition of Carma Kean, at 218 (Doc. No. 42-1)). According to an interrogatory answer, at such times, Ms. Kean "needs to go to a quiet place in order to calm down, usually for no more than 15 minutes." (Doc. [*10]  No. 50-1, at 4).
+Other statements made by Ms. Kean, however, undermine the claim that her anxiety episodes were substantially limiting. For example, Ms. Kean testified that her anxiety did not prevent her from being able to perform her job: "I was able to do my job. I did my job. My anxiety is from the surroundings, the situation, the things that trigger my anxiety. It does not keep me from folding laundry." (Kean Deposition, at 107-08). More broadly, Ms. Kean was asked if her anxiety substantially limited any of her major life activities during the time she was employed by WMP:
+Q. I read to you the first list of major life activities. You said well, those cover everything that I do in my job. Was there any physical or mental impairment that you had that was substantially limiting any of those major life activities at the time you were employed?
+A. No. I was not substantially limited. I did my job. I was able to do my job at that time.
+* * *
+Q. . . . During that nine month period while you were employed [at WMP] did you have a physical or mental impairment that substantially limited one of your major life activities . . .
+A. It didn't limit my ability to do my job.
+* * *
+Q. . . . I'm asking [*11]  if you had a physical or mental impairment during the time you were employed at West Meade Place that substantially limited one of your major life activities that I just read to you?
+A. I don't have a physical, I never had any physical impairment. I do have anxiety. I did my job though.
+Q. Did your anxiety substantially limit any of your other major life activities while you were employed by West Meade Place?
+A. No, it didn't.
+* * *
+Q. Yes, ma'am. The major life activities I just read to you, I will read them again because I want to be clear on this., we are going to go through both lists. We have another list to go through. 'The first list includes many activities such as caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating and working.' Now with that list in mind, when you were employed by West Meade Place did your anxiety substantially limit any of those activities?
+A. No. Not as far as walking, breathing, all that stuff, no.
+(Kean Deposition, at 110-12, 113-14).
+Ms. Kean's testimony also suggests that the episodes of anxiety did not occur on a frequent [*12]  basis while she was at WMP: ". . . it is not daily because of my medication. It depends on the situation and the environment. What is going on around me, you know." (Id., at 219). Indeed, Ms. Kean could only recall one day, though she did not remember the date, when she missed work because of anxiety. (Id., at 125).2
+Ms. Kean's testimony is wholly lacking in support for a finding that her anxiety rose to the level of a mental impairment that substantially limited a major life activity. Thus, Plaintiff has not created a genuine issue of material fact through the testimony of Ms. Kean, or otherwise, that Ms. Kean's condition satisfies the first definition of "disability" under the ADA.3
+Plaintiff alternatively argues Ms. Kean had a "record of impairment" that was provided to WMP at the start of her employment. An individual has "a record of a disability if the individual has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities." 29 C.F.R. § 1630.2(k)(1). The definition is to be "construed broadly." 29 C.F.R. § 1630.2(k)(2). The Sixth Circuit has "analyzed this prong to include 'people who have recovered from previous disability conditions . . . but who may remain vulnerable [*13]  to the fears and stereotypes of their employers.'" Neely v. Benchmark Family Services, 640 Fed. Appx. 429, 435 (6th Cir. 2016) (quoting Spence v. Donahoe, 515 Fed. Appx. 561, 570 (6th Cir. 2013)).
+Plaintiff contends two documents provided to WMP by Ms. Kean — the Employee Health Examination form and the Report of Medical History — establish a "record of impairment" because they reveal her "anxiety" condition and/or the medication she took to address it. Defendant argues that neither of these documents revealed to WMP that Ms. Kean had an impairment "that substantially limits one or more major life activities."
+The "Report of Medical History" (Doc. No. 50-1, at 5-6 of 25) is dated February 9, 2015, and appears to be signed by Ms. Kean, as well as Ken Tanner, whose name appears in the signature line for "physician or examiner." In response to "Statement of Present Health and Medications Currently Used," near the top of the form, is handwritten "Clozapine." The rest of the form lists a series of medical conditions followed by a space for "yes" and "no." By "Had Nervous, Mental or Psychological Problems," the space is marked "yes" with "Anxiety" handwritten in the blank space given. Also marked "yes" is "Adverse or Allergic reaction to serum, drug or medicine." In response to a question about past hospitalizations, the [*14]  phrase "c-section 1987" and "DNC-miscarriage 1985" is handwritten in the blank space given.
+The remaining conditions described in the form are marked "no." Specifically, the form indicates Ms. Kean had no "Depression or excessive worry," or "Nervous trouble of any sort." The form also indicates Ms. Kean had not "ever been treated for a mental condition," nor had she "consulted or been treated by clinics, physicians, healers, or other practitioners with the past 5 years for other than minor illnesses."
+The "Employee Health Examination" form (Doc. No. 50-1, at 7 of 25) is dated February 9, 2015, and is signed by Ms. Kean, and apparently, a nurse named "Bowers." The form asks if there has been "Any change in health status in last year," and "no" is marked in response. The forms asks for a list of allergies, and the handwritten response is "Sulfa — Food Allergies." The form asks for "Medications Taken Daily," and the handwritten response is "Colonzapam." The form asks if the employee has had a cold, infection, or communicable disease in the last three months, and "no" is marked in response. Finally, the form asks if the employee has a "History of Tuberculosis," and if the employee has had a "TB Skin [*15]  Test reaction." Both questions are marked "no."
+These two documents do not establish a "record of impairment" under the ADA. They do not show Ms. Kean had a history of anxiety of such severity that it substantially limited one or more of her major life activities. Furthermore, Plaintiff has not provided any evidence indicating that identification of the medicine Ms. Kean was taking establishes her anxiety rose to that level. This conclusion is supported by Ms. Kean's employment application, which was submitted approximately one month earlier and indicates Ms. Kean did not, at that time or in the past, have any mental or physical impairment. (Doc. No. 42-2, at 1). The application also indicates Ms. Kean does not need an accommodation to perform job tasks.4
+Alternatively, Plaintiff argues the "Certification of Health Care Provider" executed by Dr. Hashmat on behalf of Ms. Kean, and sent to WMP on November 17, 2015, shows a "record of impairment." (Defendant's Reply Statement to Plaintiff's Statement of Undisputed Material Facts, at ¶ 16 (Doc. No. 53)). That form, as discussed above, states "Patient is not able to work during flare-ups/episodes," and describes the episodes of incapacity [*16]  as lasting "1-3 days per month (sic) For episode/flare-up patient will be unable to work." (Doc. No. 50-4, at 4 of 8). The form indicates the condition commenced in "10/2006 and will be ongoing for lifetime;" that treatments for the condition are estimated to be needed "3-4 times a year or as needed for flare-ups/episodes for treatment/appts;" and that the treatment required is "prescription drugs."
+The Court is not persuaded this document satisfies the definition either. Assuming the Certification reflects a "history of a mental impairment," it does not indicate the impairment rose to the level of one that "substantially limits one or more major life activities." First, the document does not identify the "mental impairment" for which Ms. Kean has been diagnosed. In addition, although the form requests the medical provider support the certification with "medical facts," the form does not describe any medical basis for the opinion that would suggest this condition "substantially limits" Ms. Kean's major life activities. As the testimony of Dr. Hashmat indicates, the physician had not made such a finding.
+Finally, Plaintiff argues Ms. Kean was "regarded as having an impairment" by WMP. [*17]  "An individual meets the requirement of 'being regarded as having such an impairment' if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity." 42 U.S.C. § 12102(3)(A). This definition only requires a showing that the defendant "took a prohibited action based on a perceived impairment, regardless of whether the employer thought the impairment was substantially limiting." Neeley, 640 Fed. Appx. at 435. It is not enough, however, to show "the employer is simply aware of a plaintiff's symptoms, rather the plaintiff must show that the employer regarded the individual as 'impaired' within the meaning of the ADA." Id., at 435-36.
+Plaintiff relies on the testimony of Theresa Jarvis, who was the Director of Nursing at WMP during Ms. Kean's tenure there, to support the argument that WMP regarded Ms. Kean as having a disability. (Deposition of Theresa Jarvis, at 30 (Doc. No. 50-3)). In that regard, Plaintiff cites the following excerpt from Ms. Jarvis' testimony: "[Ms. Kean] had some sort of medical issue or an issue where she could not work her job duties at that [*18]  time." (Id., at 55). Considered in context, however, Ms. Jarvis' testimony does not support Plaintiff's argument:
+A. I met Ms. Kean the day when she came up to West Meade Place and she wanted FMLA, and the HR director called me to the office because she was having a hard time explaining to Carma that she had not worked at West Meade for a year and did not qualify for FMLA, and I went down to explain . . .
+* * *
+Q. Okay. What role did you play in West Meade's termination of Ms. Kean?
+A. She provided me with a statement during that meeting where she requested FMLA, a statement that said she could not work; that she had to have 12 weeks off, and she looked at me and told me, well, I can't be off work without any pay. I need to come back to work.
+I told her — I informed her that I couldn't let her immediately come back to work; she had to go back to the doctor and the doctor had to approve her to come back to work because apparently she had — I explained she had some sort of medical issue or an issue where she could not work her job duties at that time or the doctor wouldn't have wrote that, do not work for 12 weeks.
+She said, well I need to come back to work immediately. I can't do without 12 weeks of [*19]  pay. And I said, well, you can come back, but you have to go back to your doctor to get a note.
+She said, well, I can go today. And I said, well, it doesn't have to be today . . .
+* * *
+Q. Were you aware that Ms. Kean had a disability?
+A. No, sir.
+Q. Did you know that Ms. Kean had a disability at the time Ms. Kean was terminated?
+A. No, sir.
+Q. Did anyone inform you that Ms. Kean had a disability?
+A. They didn't inform me she had a disability. They informed me that EEOC had made these allegations.
+Q. Okay. Well, did Ms. Kean tell you that she had a disability?
+A. No, sir.
+Q. All right. Well, what did — what did Ms. Kean tell you about why she wanted to leave?
+A. She told me she had went to the doctor — the — I didn't ask her the specifics of why she wanted to leave because if she's going on FMLA that's none of my business why.
+She had requested 12 weeks FMLA off with pay, and the doctor's note was on a prescription. It just said she needed 12 weeks off. It didn't say a diagnosis.
+I explained to her, as Deborah Varden had just explained to her, she could take FMLA, but she didn't meet the criteria per the law, and I explained what that was . . .
+* * *
+Q. Ms. Jarvis, did you ask Ms. Kean if she had [*20]  a disability?
+A. No. Ms. Kean — when she said she wanted to come back to work, to me, she's able to come back to work. Why would she ask me if she could come back to work if she needed reasonable accommodations or had a disability?
+Q. Okay. Did you ever ask anyone if Ms. Kean had a disability?
+A. No. Why would I? She had asked for FMLA.
+Q. All right. At this time, Ms. Jarvis, were you aware that the ADA provided protections for people with disabilities?
+A. Yes. But Carma didn't present as a person with a disability. She presented with (sic) a person in need of FMLA.
+* * *
+Q. And if Ms. Kean told you that she had anxiety, did you ever ask her how long that this anxiety disabled her?
+A. No. She mentioned it in just passing. She never said that was the reason why she needed the FMLA, and she told me that she wanted to come back to work full (sic). And I said, well, you have to go back to your doctor. I can't let you work until you go back to the doctor.
+* * *
+Q. So you knew that she was working despite having a disability, isn't that fair to say? . . .
+A. I didn't know she had a disability. No one told me, not even Carma told me she had a disability. When she said she had anxiety, that doesn't make [*21]  it a disability. I have anxiety. It's not a disability.
+* * *
+Q. Well, once West Meade learned that Ms. Kean had a disability didn't West Meade go ahead and terminate her? . . .
+A. West Meade never learned she had a disability. She never informed me of a disability, and she was terminated, not for a disability; she was terminated for falsified documents.
+Q. . . . So I think, Ms. Jarvis, we are agreed, you — Ms. Kean asked for leave on November 18th; is that correct?
+A. She asked for FMLA on November 18th.
+Q. Yes. And at that time she did disclose that she had anxiety; is that correct?
+A. She mentioned anxiety in a statement. She did not say I have anxiety that is incapacitating to me.
+(Id., at 53, 55, 58-59; 54-2, at 64, 120, 125, 130-31).
+Nothing in Ms. Jarvis' testimony suggests she regarded Ms. Kean as having an impairment, or that she took any action based on a perceived impairment. Indeed, Ms. Jarvis' testimony suggests that Ms. Kean was eager to return to work once she learned she would not qualify for paid-time off under the FMLA.
+Plaintiff also relies on a report written by Ms. Jarvis to show she regarded Ms. Kean as disabled. The excerpt cited by Plaintiff states: "On 11/18/2015, the employee reported to [*22]  the Director of Payroll that she had a medical condition of anxiety that required restrictions be made to her position and she applied for FMLA" and "[t]he employee was informed that she was being terminated because she was unable to perform her job duties." (Doc. No. 50-3, at 6-7). Considered in context, however, this report does not contradict Ms. Jarvis' deposition testimony. Ms. Jarvis was simply stating what Ms. Kean reported to her. The report does not reflect that Ms. Jarvis regarded Ms. Kean as disabled.5
+The Court has [*24]  fully considered the evidence offered by Plaintiff to show Ms. Kean had a "disability" as defined by the ADA. None of that evidence creates a genuine issue of material fact upon which a reasonable jury could return a verdict in its favor. Therefore, Defendant is entitled to summary judgment on Plaintiff's ADA claims.
+
+IV. Conclusion
+For the reasons discussed above, the Court grants summary judgment to the defendant on all claims, and this action is dismissed.
+It is so ORDERED.
+/s/ William L. Campbell, Jr.
+WILLIAM L. CAMPBELL, JR.
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

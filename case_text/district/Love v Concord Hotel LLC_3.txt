@@ -1,0 +1,32 @@
+Love v. Concord Hotel LLC
+United States District Court for the Northern District of California
+July 15, 2021, Decided; July 15, 2021, Filed
+Case No. 21-cv-00933-VC
+
+Reporter
+549 F. Supp. 3d 1047 *; 2021 U.S. Dist. LEXIS 132221 **
+SAMUEL LOVE, Plaintiff, v. CONCORD HOTEL LLC, Defendant.
+Counsel:  [**1] For Samuel Love, Plaintiff: Russell Clive Handy, LEAD ATTORNEY, Amanda Lockhart Seabock, Prathima Reddy Price, Raymond George Ballister, Jr., Zachary Manning Best, Center for Disability Access, San Diego, CA.
+For Concord Hotel LLC, a Delaware Limited Liability Company, Defendant: Jan Nicholas Marfori, LEAD ATTORNEY, Ogletree Deakins Nash Smoak & Stewart, P.C., Los Angeles, CA.
+Judges: VINCE CHHABRIA, United States District Judge.
+Opinion by: VINCE CHHABRIA
+Opinion
+
+
+
+ [*1048]  ORDER GRANTING MOTION TO DISMISS WITH LEAVE TO AMEND; VACATING CASE MANAGEMENT CONFERENCE
+Re: Dkt. No. 24
+Concord Hotel's motion to dismiss Love's claim under the Americans with Disabilities Act (ADA) and derivative claim under California law is granted. Love's claims are based on Concord Hotel's alleged failure to comply with ADA regulations that require hotels to include accessibility information on their websites. Specifically, section 36.302 provides that hotels must "[i]dentify and describe accessible features in the hotels and guest  [*1049]  rooms . . . in enough detail to reasonably permit individuals with disabilities to assess independently whether a given hotel or guest room meets his or her accessibility needs." 28 C.F.R. § 36.302(e)(1)(ii). The Department of Justice has issued guidance interpreting section 36.302, to which this Court must generally [**2]  defer. See 28 C.F.R. § Pt. 36, App. A, "Guidance on Revisions to ADA Regulation on Nondiscrimination on the Basis of Disability by Public Accommodations and Commercial Facilities"; Love v. Ashford San Francisco II LP, 2021 U.S. Dist. LEXIS 73148, 2021 WL 1428372, at *5 (N.D. Cal. April 15, 2021).
+But the guidance does not provide a definitive list of precisely what information hotels must include on their websites to comply with section 36.302. Instead, it provides that "all hotels should consider the size and number of beds to be part of the basic information they are required to provide," but recognizes that a website is "not intended to be an accessibility survey." The guidance further provides: "For hotels that were built in compliance with the 1991 Standards, it may be sufficient to specify that the hotel is accessible and, for each accessible room, to describe the general type of room (e.g., deluxe executive suite), the size and number of beds (e.g., two queen beds), the type of accessible bathing facility (e.g., roll-in shower), and communications features available in the room (e.g., alarms and visual notification devices)." 28 C.F.R. § Pt. 36, App. A (emphasis added).
+Relying on this guidance, most courts have found that a hotel complies with the ADA when its website states that rooms are "accessible" and provides the information listed in the guidance [**3]  (type of room, size and number of beds, type of accessible bathing facility, and communications features). See Love v. CCMH Fisherman's Wharf LLC, 2021 U.S. Dist. LEXIS 85405, 2021 WL 1734924, at *7-8 (N.D. Cal. May 3, 2021). In most circumstances, this has to be right—requiring additional information would indeed turn websites into full accessibility surveys. And if a disabled person wants more specific information, they can, as contemplated by the guidance, contact the hotel and ask for it. See 28 C.F.R. § Pt. 36, App. A ("[M]any individuals with disabilities may wish to contact the hotel or reservations service for more detailed information . . . such as the specific layout of the room and bathroom, shower design, grab-bar locations, and other amenities available (e.g., bathtub bench).").
+But providing this basic information may be insufficient if there is something unusual about a hotel room that could create problems for a disabled person. As the use of the word "may" in the guidance suggests, there could be situations where a room is "accessible" as defined by the ADA but there is something quirky about the room that many disabled people would need to know. In those circumstances, a hotel must include on its website information describing the aspects of the room that may make it problematic for a person with disabilities, [**4]  and not just the basic information listed in the guidance.1
+Concord Hotel's website states that its rooms are "accessible" and provides the basic information specified in the guidance. Love has not alleged that there is anything  [*1050]  in particular about Concord Hotel's rooms that would make additional information necessary. The motion to dismiss is thus granted. Presumably Love will never be able to state a claim, because he does not allege that he actually checked in to the hotel, which is likely the only way he could have discovered something about a room that the ADA obligated the hotel to disclose on its website. But in an abundance of caution, dismissal is with leave to amend, and any amended complaint is due within 14 days. If no amended complaint is filed, the dismissal will be with prejudice. The case management conference scheduled for July 21 is vacated.2
+IT IS SO ORDERED.
+Dated: July 15, 2021
+/s/ Vince Chhabria
+VINCE CHHABRIA
+United States District Judge
+
+
+End of Document
+

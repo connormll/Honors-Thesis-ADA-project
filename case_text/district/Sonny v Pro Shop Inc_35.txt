@@ -1,0 +1,101 @@
+Sonny v. Pro Shop, Inc.
+United States District Court for the District of the Virgin Islands, Division of St. Croix
+January 14, 2009, Decided
+Civil Action No. 2005-23
+
+Reporter
+2009 U.S. Dist. LEXIS 3566 *; 2009 WL 167394
+JOSEPH SONNY v. PRO SHOP, INC.
+Counsel:  [*1] Natalie Nelson Tang How, Law Offices of Natalie Nelson, PLLC, St. Croix, VI, For the Plaintiff.
+
+H. A. Curt Otto, Law Office of H.A. Curt Otto, P.C., St. Croix, VI, For the Defendant.
+Judges: BARTLE III, Chief Judge. Sitting By Designation
+Opinion by: BARTLE III
+Opinion
+
+
+
+MEMORANDUM
+(January 14, 2009)
+Plaintiff Joseph Sonny (“Sonny”) instituted this employment discrimination against his former employer, defendant Pro Shop, Inc. (“Pro Shop”). He contends that he was discriminated against and wrongfully discharged from his employment due to a disability he suffered from an on-the-job accident. Pro Shop now seeks summary judgment under Rule 56 of the Federal Rules of Civil Procedure as to each of the seven claims brought in Sonny's Second Amended Complaint: (1) Count I for discrimination in violation of the Americans with Disabilities Act (“ADA”), 42 U.S.C. § 12101, et seq.; (2) Count II for wrongful termination during a period of medical leave in violation of V.I. Code Ann. tit. 24, § 285; (3) Count III for breach of the covenant of good faith and fair dealing; (4) Count IV for breach of the employment contract; (5) Count V for intentional infliction of emotional distress;  [*2] (6) Count VI for negligent infliction of emotional distress; and (7) Count VII for punitive damages.
+I.
+Summary judgment is appropriate only where there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986); see Fed. R. Civ. P. 56(c). A dispute is genuine if the evidence is such that a reasonable jury could return a verdict for the non-moving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 254, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). After reviewing the evidence, the court makes all reasonable inferences from the evidence in the light most favorable to the non-movant. In re Flat Glass Antitrust Litig., 385 F.3d 350, 357 (3d Cir. 2004).
+The party moving for summary judgment bears the initial burden of providing the court with “the basis for its motion, and identifying those portions of ‘the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any,’ which it believes demonstrate the absence of a genuine issue of material fact.” Celotex, 477 U.S. at 323 (citing Fed. R. Civ. P. 56(c)). When, as here, the nonmoving party will bear the burden of proof at trial on a  [*3] dispositive issue, that party must then “go beyond the pleadings” and “designate specific facts showing that there is a genuine issue for trial.” Id. at 324 (citations and internal quotations omitted). Specifically:
+the plain language of Rule 56(c) mandates the entry of summary judgment, after adequate time for discovery and upon motion, against a party who fails to make a showing sufficient to establish the existence of an element essential to that party's case, and on which that party will bear the burden of proof at trial. In such a situation, there can be no genuine issue as to any material fact, since a complete failure of proof concerning an essential element of the nonmoving party's case necessarily renders all other facts immaterial. The moving party is entitled to a judgment as a matter of law because the nonmoving party has failed to make a sufficient showing on an essential element of her case with respect to which she has the burden of proof.
+Id. at 322-23.
+II.
+The following facts are undisputed for purposes of Pro Shop's motion for summary judgment.
+Sonny was hired by Pro Shop on February 9, 2004 as a carpenter and was assigned to work on the roof of a residential property.  [*4] A few weeks later, on February 23, Sonny lost his footing and fell approximately six feet while working on the roof. In the course of the fall, he injured his lower back. Sonny returned to work on February 24th and 25th, though he was unable to perform his usual duties as a carpenter due to his back pain. On February 26, Sonny went to the hospital emergency room where he was examined and given a prescription painkiller. He was also provided with a “Certificate to return to work,” signed by the emergency room physician, which stated that he was cleared to return to work on March 1, 2004. Despite complaints of residual pain from the fall, Sonny did not seek medical attention after his initial visit to the emergency room until May of that year.
+Sonny returned to work on March 1 and was provided with light-duty work at the same work site. At some unspecified point, he was transferred to a different location where he continued to engage in similar light-duty work. In response to Sonny's complaints about residual pain from the fall, John Herbert, Pro Shop's Chief Executive Officer, reassigned Sonny to perform landscaping duties at a third work site. There, Sonny's duties involved cutting  [*5] grass and brush with a machete. He again complained that because of his injury he was unable to perform the duties assigned to him. With occasional days off, Sonny worked in some capacity for Pro Shop until May 14, 2004.
+On May 14, Sonny was called in to the Pro Shop office where he spoke with Dave Clark (“Clark”), Pro Shop's Project Administrator. Clark told Sonny during that meeting that he would have to take a few weeks off due to lack of work. Sonny called later and asked that Clark put that employment decision in writing. Sonny was provided with a letter, signed by Clark and dated May 18, 2004. It read: “At the present time due to the lack of work we can no longer offer Joseph Sonny subcontract work.” 1 Pro Shop laid off two other carpenters around the same time, one on April 24, 2004 and one on May 22, 2004. Pro Shop's stated reasons for both of those layoffs was also lack of work.
+Because his injuries occurred at the workplace, Sonny filed a clam with the local Worker's Compensation  [*6] Administration for the periods during which he was temporarily disabled. The Worker's Compensation Administration found that Sonny was totally disabled from February 23, 2004 to February 29, 2004, from May 17, 2004 to May 27, 2004, and from May 27, 2004 to June 12, 2004. He received compensation for his claim in accordance with those findings.
+III.
+[1, 2] Pro Shop first argues that it is entitled to summary judgment as to Sonny's claim in Count I under the ADA. The ADA prohibits employment discrimination on the basis of disability. 42 U.S.C. § 12112(a). To make out a prima facie case of discrimination under the ADA, a plaintiff must show that he: (1) is disabled within the meaning of the ADA; (2) is otherwise qualified to perform the essential functions of the job, with or without reasonable accommodations by the employer; and (3) has suffered an adverse employment decision. Shaner v. Synthes, 204 F.3d 494, 500 (3d Cir. 2000). Pro Shop contends that Sonny cannot succeed in showing that he was disabled or that he was otherwise qualified to perform the essential functions of the carpenter job. Sonny's only argument in rebuttal is that he was “disabled” within the meaning of the ADA because Pro  [*7] Shop regarded him as such. He does not contend that he was “otherwise qualified” to perform the essential functions of the carpenter job. We agree with Pro Shop that Sonny has failed to make a prima facie case of discrimination. Even assuming that Sonny has met his burden with respect to a showing of disability, Sonny was not “otherwise qualified to perform the essential functions of the job, with or without reasonable accommodations by the employer.” Id.; see also 42 U.S.C. § 12111(8) and 29 C.F.R. § 1630.2(m).
+It is apparent from Sonny's deposition testimony that he was not able to perform the essential functions of his position as a carpenter.
+Q: How often would you complain [about your residual pain from the accident] to [your supervisors]?
+A: I complained of my injuries almost on a daily basis telling them that I can't perform the duties that they want me to perform.
+Q: So you said you could not perform the duties?
+A: I couldn't do any strenuous work or any kind of lifting, heavy lifting and stuff like that. I couldn't do that. So they had me doing light duties like little light stuff.
+
+* * *
+Q: [A]t that time [from March to May, 2004] what were the activities that you could comfortably  [*8] engage in? I'm talking about work-related activities. I don't need to know about anything else like sitting watching TV is great, just the work-related activities.
+A: At that time I don't remember. It wasn't that much.
+Q: Were there any work-related activities that you could do comfortably?
+A: (Witness shakes head.)
+Q: Okay. You're shaking your head no.
+A: The most I was doing, like I said, was just being a help to the crew, and I was like a helper to the crew at that time.
+Q: Mr. Sonny, the question I'm asking is, were there any work-related activities that you could undertake that were comfortable?
+A: No, there wasn't.
+Sonny Dep. at 20:1 - 20:10; 23:21 - 24:13. He further testified that his injuries from the accident rendered him unable to engage in any kind of work:
+Q: Are you totally disabled? Are you partially disabled? What kind of disability do you have?
+A: All they said that I'm disabled [sic], you know, I'm unable to perform the work duties that I used to do for a living on the construction field.
+Q: What work are you able to do now?
+A: I'm unable to do any kind of work. I'm unable to bend down, to lift, do any lifting.
+Sonny Dep. at 49:20 - 50:2. Nor has Sonny attempted any type of work  [*9] since his termination:
+Q: … Have you worked since your termination?
+A: No, I haven't.
+Q: Have you applied to work anywhere?
+A: No.
+Sonny Dep. at 54:19 - 54:23.
+[3, 4] In addition, Sonny makes no showing that he requested or that Pro Shop failed to provide him with a reasonable accommodation. Under the ADA, negotiations regarding reasonable accommodations are an “interactive process” engaged in between the employee and employer. Jones v. United Parcel Serv., 214 F.3d 402, 408 (3d Cir. 2000) (citing 29 C.F.R. § 1630.2(o)(3)). To show that an employer has violated its duty to engage in this interactive process, a disabled employee must demonstrate that:
+1) the employer knew about the employee's disability; 2) the employee requested accommodations or assistance for his or her disability; 3) the employer did not make a good faith effort to assist the employee in seeking accommodations; and 4) the employee could have been reasonably accommodated but for the employer's lack of good faith.
+Id. at 408 (citing Taylor v. Phoenixville Sch. Dist., 184 F.3d 296, 319-20 (3d Cir. 1999).
+[5, 6] There is no evidence that Sonny requested accommodation or assistance. Sonny's deposition testimony establishes only that he “complained”  [*10] repeatedly about his pain to his supervisors and co-workers. See Sunny Dep. at 20:1 - 20:5; 22:21 - 22:24; 23:8 - 23:14; 26:15 - 27:6; 28:2 - 28:5. Our Court of Appeals has explained that “while the notice of a desire for an accommodation does not have to be in writing … or formally invoke the magic words ‘reasonable accommodation,’ the notice nonetheless must make clear that the employee wants assistance for his or her disability.” Jones, 214 F.3d at 408 (citation and internal quotations omitted). Sonny's complaints, as he described them, do not rise to the level of a clear request for assistance.
+[7] Moreover, even if Sonny's complaints did amount to a request to Pro Shop for assistance, there is no evidence that Pro Shop acted in bad faith in failing to provide reasonable assistance or that Sonny could have been reasonably accommodated at work but for Pro Shop's bad faith. To the contrary, the undisputed record shows that Pro Shop, on its own accord, provided Sonny with light-duty work and a non-carpentry position after the accident. These efforts by Pro Shop were rejected by Sonny, who testified that he was unwilling to work for Pro shop in any capacity other than a carpenter. A long  [*11] series of questions in which Sonny is asked whether he would have been willing to perform other types of work other for Pro Shop concludes in the following manner:
+Q: Okay. So essentially anything outside of rough carpentry you were not prepared to do because it was unfair?
+A: (Witness nods head.)
+Q: You're shaking your head yes.
+A: Yeah. Yeah.
+Q: You've got to say it on the record.
+A: Yes.
+Sonny Dep. at 46:8 - 46:14.
+As Sonny has not succeeded in establishing a prima facie case that he was a qualified employee with a disability under the ADA, we will enter judgment against him and in favor of Pro Shop as to Count I of his Second Amended Complaint.
+IV.
+[8] Next, we consider the claims in Count II of Sonny's Second Amended Complaint for wrongful termination during a period of medical leave in violation of V.I. Code Ann. tit. 24, § 285. That statute provides that:
+(a) An employer shall rehire any employee who
+(1) has been disabled and thereby unable to continue his employment, as certified under this chapter, and
+(2) immediately after the termination of the disability, applies to the employer for reemployment in the position which he held, at the time of the injury, or in a substantially equivalent position,  [*12] unless the employer satisfies the Administrator either that the employee, as a result of the injury, will be unable to resume in full his previous obligations and duties, or that the employer had terminated the employment after the accident for just cause. No employee rehired under this section may be subsequently dismissed without just cause.
+Sonny has failed to show that his alleged disability has been “terminated” or that he has ever applied to Pro Shop for reemployment there. Under Celotex, this is a “complete failure of proof concerning an essential element” of Sonny's claim, which entitles Pro Shop to summary judgment on this claim. 477 U.S. at 322-23. We will grant the motion of Pro Shop for summary judgment as to Count II of the Second Amended Complaint.
+V.
+Sonny also claims breach of the covenant of good faith and fair dealing and breach of his employment contract in Counts III and IV of the Second Amended Complaint.
+[9] To state a claim for breach of contract under Virgin Islands law, a plaintiff must allege: (1) the existence of a contract, including its essential terms; (2) the breach of a duty imposed by the contract; and (3) damages resulted from the breach. Pourzal v. Marriott Intern., Inc., 2006 U.S. Dist. LEXIS 60230, *5 (D.V.I. Aug. 21, 2006)  [*13] (citing Stallworth Timber Co. v. Triad Bldg. Supply, 37 V.I. 49, 968 F. Supp. 279, 282 (D.V.I. App. Div. 1997); Restatement (Second) of Contracts §§ 235, 237, 240 2). Sonny has made no showing as to the essential terms of any contract or how that contract was breached by Pro Shop.
+[10] Additionally, to state a claim for breach of the implied duties of good faith and fair dealing under Virgin Islands law, a plaintiff must allege: “(1) that a contract existed between the parties, and (2) that, in the performance or enforcement of the contract, the opposing party engaged in conduct that was fraudulent, deceitful, or otherwise inconsistent with the purpose of the agreement or the reasonable expectations of the parties.” LPP Mortgage Ltd. v. Prosper, 2008 U.S. Dist. LEXIS 102549, *6 (D.V.I. Dec. 17, 2008) (citing  [*14] Restatement (Second) of Contracts § 205; other citations omitted). Sonny has not provided any evidence that Pro Shop's conduct was fraudulent or deceitful.
+[11] Given this “complete failure of proof,” as to these essential elements of Sonny's contract claims, we will enter judgment against him on Counts III and IV of the Second Amended Complaint. Celotex, 477 U.S. at 322-23.
+VI.
+Pro Shop further moves for summary judgment as to Sonny's tort claims in Counts V and VI of the Second Amended Complaint for intentional infliction of emotional distress and negligent infliction of emotional distress. Pro Shop contends that Sonny's tort claims are barred by the Worker's Compensation Act (“WCA”), which provides that worker's compensation is the exclusive remedy for injuries sustained at the workplace against an employer insured under the Act. The relevant provision of the WCA states that “[w]hen an employer is insured under this chapter, the right herein established to obtain compensation shall be the only remedy against the employer … .” V.I. Code Ann. tit. 24, § 284(a). It is undisputed that Pro Shop was insured under the Act at the time of Sonny's accident.
+[12, 13] In applying § 284 to a plaintiff's emotional  [*15] distress claim, our Court of Appeals has stated that the “threshold inquiry in determining whether the exclusive remedies of workmen's compensation apply is whether the injuries complained of fit within the definition of ‘injury’ set forth in the statute as compensable, namely, harmful changes in the human organism.” Eddy v. V.I. Water and Power Auth., 369 F.3d 227, 232 (3d Cir. 2004) (citations and internal quotations omitted). As in Eddy, it is abundantly clear that Sonny's back injuries resulting from the February 23, 2004 accident constitute physical injury under that definition. This brings his injuries within the scope of the WCA. 3 Id. at 233, n.7. Accordingly, Sonny's claim for negligent infliction of emotional distress cannot stand.
+[14, 15] To rule upon Sonny's claim for intentional infliction of emotional distress, however, we must take one further step. The Eddy court recognized a judicially-created exception to the exclusivity provision of § 284 for intentional torts. Id. at 233. Thus, in a “situation in which the employer had an actual, specific and deliberate intention to cause injury,”  [*16] a plaintiff may avoid the exclusivity provision and bring a claim for an intentional tort against his employer. Id. at 235. Sonny has not identified whether his alleged emotional distress is a result of the accident or his termination, but in either case, he has made no showing that Pro Shop ever “actual[ly], specific[ally], and deliberate[ly]” intended to injure him. Id.
+We conclude that the exclusivity provision of the WCA applies to Sonny's claims of intentional infliction of emotional distress and negligent infliction of emotional distress. 4 Therefore, we will grant the motion of Pro Shop for summary judgment as to Counts V and VI of the Second Amended Complaint.
+VII.
+[16] Finally, we address Sonny's claim for punitive damages. This claim is included as Count  [*17] VII of the Second Amended Complaint. We will grant the motion of Pro Shop for summary judgment as to this claim, as punitive damages cannot form a separate cause of action upon which a plaintiff is entitled to relief.
+VIII.
+In sum, the motion of Pro Shop for summary judgment will be granted as to all seven counts of the Second Amended Complaint. Judgment will be entered in favor of Pro Shop and against Sonny.
+
+ORDER
+AND NOW this 14th day of January, 2009, for the reasons set forth in the accompanying Memorandum, it is hereby ORDERED that:
+(1) the motion of defendant Pro Shop, Inc. for summary judgment (Doc. No. 64) is GRANTED; and
+(2) judgment is entered in favor of defendant Pro Shop, Inc. and against plaintiff Joseph Sonny.
+
+
+End of Document
+

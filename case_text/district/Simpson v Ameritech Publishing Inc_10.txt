@@ -1,0 +1,44 @@
+Simpson v. Ameritech Publishing, Inc.
+United States District Court for the Eastern District of Michigan, Southern Division
+April 4, 2012, Decided; April 4, 2012, Filed
+Case No: 09-14619
+
+Reporter
+2012 U.S. Dist. LEXIS 47728 *
+VALERIE SIMPSON, ET AL, Plaintiffs, vs AMERITECH PUBLISHING, INC., Defendant.
+Counsel:  [*1] For Valerie Simpson, Ms., Daniel Simpson, Mr., Plaintiffs: Sheldon L. Miller, Farmington Hills, MI.
+For Ameritech Publishing Inc., also known as AT and T Advertising Solutions, Defendant: Barbara E. Buchanan, Terrence J. Miglio, Keller Thoma, Detroit, MI.
+Judges: Honorable Victoria A. Roberts, United States District Judge.
+Opinion by: Victoria A. Roberts
+Opinion
+
+
+
+ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT
+
+I. INTRODUCTION
+In this employment discrimination case, Defendant seeks summary judgment with respect to all counts of Plaintiffs' Complaint. Plaintiff Valerie Simpson did not oppose Defendant's request that the Court grant it summary judgment on her claims of disability discrimination (Count I), disability/hostile work environment (Count II), and retaliation (Count III). Her husband, Plaintiff Daniel Simpson, did not respond to Defendant's arguments in favor of summary judgment on his loss of consortium claim (Count IV). Accordingly, the Court GRANTS Defendant's motion with respect to these claims. Celotex Corp. v. Catrett, 477 U.S. 317, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986).
+Plaintiff Valerie Simpson did oppose Defendant's request for summary judgment with respect to her failure to accommodate claim (part of Count III).
+
+II. STANDARD OF  [*2] REVIEW
+Summary judgment is appropriate when "the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). On a motion for summary judgment, the facts must be viewed in the light most favorable to the non-moving party. Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986). "As the moving party, Defendant[ ] bear[s] the burden of showing the absence of a genuine issue of material fact as to at least one essential element of Plaintiff's claim." Moses v. Providence Hosp. and Med. Ctrs., Inc., 561 F.3d 573, 578 (6th Cir. 2009).
+"Plaintiff, as the non-moving party, must then present sufficient evidence from which a jury could reasonably find for [her]." Id. To do this, Plaintiff must establish more than some "metaphysical doubt" as to the material facts. Matsushita, 475 U.S. at 586. It must show that there is a genuine issue for trial. Id. at 587. Plaintiff must establish a genuine issue with specific facts and affirmative evidence; [she] "may not rest upon mere allegation or denials . . ." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256, 257, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). And, "[c]onclusory  [*3] allegations, speculation, and unsubstantiated assertions are not evidence, and are not enough to defeat a well-supported motion for summary judgment." Gooden v. City of Memphis Police Dep't., 67 Fed. Appx. 893, 895 (6th Cir. June 17, 2003). "The Court must consider all pleadings, depositions, affidavits, and admissions on file, and draw all justifiable inferences in favor of the party opposing the motion." Golliday v. Chase Home Fin, LLC, 761 F. Supp. 2d 629, 634 (W.D. Mich. 2011) (citing Matsushita, 475 U.S. at 587 and Smith v. Williams-Ash, 520 F.3d 596, 599 (6th Cir. 2008)).
+Under Fed. R. Civ. P. 56(c)(1):
+A party asserting that a fact cannot be or is genuinely disputed must support the assertion by: (A) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or (B) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
+Applying this standard of review,  [*4] the Court finds that Defendant is entitled to summary judgment on Plaintiff Valerie Simpson's failure to accommodate claim.
+
+III. DEFENDANT IS ENTITLED TO SUMMARY JUDGMENT
+The narrow issue is whether the law required Defendant to find a position to which Plaintiff could be reassigned, even though it appears that Defendant reasonably accommodated Plaintiff in her existing telephone sales representative position so that she could perform the essential functions of that job. The requested accommodations which Defendant supplied included accommodations for medical restrictions, training, special software and a reduction in Plaintiff's call time requirements.
+Plaintiff was informed that if equipment and other options could be implemented that would enable her to perform her existing job, Defendant would not engage in a search for another job for her. Under these circumstances, Defendant did all that was required of it. Plaintiff is not entitled to reassignment if she can be accommodated in her current job. Bratten v. SSI Services, Inc., 185 F3d 625, 633-34 (6th Cir. 1999) (The "ADA required an employer to consider reassignment to a vacant position if the disabled employee cannot be reasonably  [*5] accommodated in his or her current job.") Other cases have held that reassignment is an accommodation of last resort, to be considered only after other efforts at accommodations have failed. Aka v. Washington Hosp. Ctr., 156 F.3d 1284, 1301, 332 U.S. App. D.C. 256 (D.C. Cir. 1998); Cravens v. Blue Cross & Blue Shield of Kansas City, 214 F.3d 1011, 1019 (8th Cir. 2000). Cases cited by Plaintiff Valerie Simpson are not to the contrary.
+Plaintiff presents no evidence that she could not perform her job as a telephone sales representative with the accommodations Defendant put in place for her. Nor does she present any evidence that she told Defendant that the accommodations they put in place for her did not work and that only a reassignment could reasonably accommodate her.
+Finally, with respect to any position to which she could be assigned, Plaintiff does have the burden to prove that reassignment was possible and reasonable. Plaintiff says in her Response Brief, that she "raises no argument as to this legal proposition." Response Brief, p. 7. Nonetheless, Plaintiff presents no evidence to substantiate her burden.
+The Court finds there is no genuine issue of material fact; Defendant is entitled to judgment as a  [*6] matter of law.
+IT IS ORDERED.
+/s/ Victoria A. Roberts
+Victoria A. Roberts
+United States District Judge
+Dated: April 4, 2012
+
+
+End of Document
+

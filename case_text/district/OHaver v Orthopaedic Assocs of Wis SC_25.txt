@@ -1,0 +1,54 @@
+O'Haver v. Orthopaedic Assocs. of Wis., S.C.
+United States District Court for the Eastern District of Wisconsin
+September 29, 2015, Decided; September 29, 2015, Filed
+Case No. 15-CV-240
+
+Reporter
+2015 U.S. Dist. LEXIS 131505 *; 2015 WL 5714231
+ILENE L. O'HAVER, Plaintiff, v. ORTHOPAEDIC ASSOCIATES OF WISCONSIN, S.C., Defendant.
+Counsel:  [*1] For Ilene L O'Haver, Plaintiff: James A Walcheske, Jesse R Dill, LEAD ATTORNEYS, Kelly L Temeyer, Scott S Luzi, Walcheske & Luzi LLC, Brookfield, WI.
+For Orthopaedic Associates of Wisconsin SC, Defendant: Carmen N Couden, LEAD ATTORNEY, Foley & Lardner LLP, Milwaukee, WI; Keith E Kopplin, Timothy C Kamin, Ogletree Deakins Nash Smoak & Stewart PC, Milwaukee, WI.
+For Acuity A Mutual Insurance Company, Intervenor Defendant: Christine M Rice, Simpson & Deardorff SC, Milwaukee, WI.
+Judges: WILLIAM E. DUFFIN, United States Magistrate Judge.
+Opinion by: WILLIAM E. DUFFIN
+Opinion
+
+
+
+ORDER
+
+I. Facts and Procedural History
+Plaintiff Ilene L. O'Haver started working for defendant Orthopaedic Associates of Wisconsin, S.C., as a medical receptionist in February 2003. (ECF No. 1, ¶7.) She worked primarily at Orthopaedic Associates' location in Oconomowoc, Wisconsin (ECF No. 1, ¶9), the town she resides in (ECF No. 1, ¶3). At some point, perhaps from the start, O'Haver was working 40 hours per week. (ECF No. 1, ¶13.)
+In April 2013 O'Haver suffered concussion-like injuries as a result of a fall at her home. (ECF No. 1, ¶ 14.) As a result of her injury, she was restricted from driving. (ECF No. 1, ¶21.) She continued working through late-September [*2]  of 2013 (ECF No. 1, ¶ 29), but on or about October 1, 2013, her injuries led to her take leave under the Family and Medical Leave Act (FMLA) (ECF No. 1, ¶¶ 50, 79). In December 2013, Orthopaedic Associates and O'Haver engaged in numerous discussions about her return to work. (See ECF No. 1, ¶¶ 83-112.)
+On December 4, 2013, Orthopaedic Associates received a fax from O'Haver's treating physician stating: "Please allow pt to return to work 12/23/13 [with] restructured hours 16/week @ present. Pt still unable to operate/drive a vehicle." (ECF No. 1, ¶ 86.) Orthopaedic Associates informed O'Haver that upon her return she would be working at its Waukesha location. (ECF No. 1, ¶¶ 92-93, 97.) O'Haver told Orthopaedic Associates that she could not drive and did not have a way to get to the Waukesha location. (ECF No. 1, ¶94.) On December 20, 2013, O'Haver's treating physician wrote that O'Haver was unable to return to work on December 23, 2013, "and will remain off until further notice due to this illness." (ECF No. 1, ¶ 110.) As a result, Orthopaedic Associates terminated O'Haver's employment on December 23, 2013. (ECF No. 1, ¶ 115 (O'Haver's complaint separately identifies December 27, 2013, [*3]  as the date Orthopaedic Associates terminated her employment (ECF No. 1, ¶ 11)).)
+O'Haver filed the present action on March 3, 2015, alleging that Orthopaedic Associates interfered with her rights under the FMLA and retaliated against her for exercising her FMLA rights. (ECF No. 1, ¶¶ 124-129.) Orthopaedic Associates filed a motion to dismiss (ECF No. 17), which motion is now ready for resolution. All parties, including an intervenor defendant who is not material to the present motion, have consented to have this court resolve this matter. (ECF Nos. 4, 8, 9, 13.)
+
+II. Motion to Dismiss Standard
+"To survive a motion to dismiss, the plaintiffs' complaint need contain only 'a short and plain statement of the claim showing that the pleader is entitled to relief.'" Olson v. Champaign Cnty., 784 F.3d 1093, 1098 (7th Cir. 2015) (quoting Fed. R. Civ. P. 8(a)(2)). The complaint must contain sufficient details to give the defendant fair notice of the nature of the claim and to state a plausible claim for relief. Id. (citing Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). The court accepts the allegations in the complaint as true and draws all reasonable inferences in favor of the plaintiff. Carlson v. CSX Transp., Inc., 758 F.3d 819, 827 (7th Cir. 2014).
+
+III. Analysis
+Orthopaedic Associates argues that O'Haver's complaint must be dismissed because it demonstrates that she received her full [*4]  allotment of unpaid FMLA leave and could not thereafter return to work without restrictions. (ECF No. 17 at 2.) In response, O'Haver argues that Orthopaedic Associates violated the FMLA when it required that she report to its Waukesha location rather than its Oconomowoc location upon her return from FMLA leave. (ECF No. 20 at 4-5.)
+The FMLA makes it unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise rights under the FMLA. 29 U.S.C. § 2615(a)(1). An employee on FMLA leave has the right to be restored to the same or an "equivalent position" that the employee had before she took leave. 29 U.S.C. the same or a geographically proximate worksite (i.e., one that does not involve a significant increase in commuting time or distance) from where the employee had previously been employed." 29 C.F.R. § 825.215(e)(1). The complaint alleges that the Waukesha location "was a significantly further distance from Ms. O'Haver's home." (ECF No. 1, ¶ 98.) Therefore, the court presumes for purposes of this motion that the position at the Waukesha location was not an "equivalent position" to that which she held before her FMLA leave. Nonetheless, the complaint must be dismissed because O'Haver demonstrates [*5]  in her complaint that she was not able to return to her position with Orthopaedic Associates at either location.
+Following FMLA leave, an employee has no right to reinstatement "[i]f the employee is unable to perform an essential function of the position because of a physical or mental condition...." 29 C.F.R. § 825.216(c). O'Haver had been a full-time receptionist prior to her leave. (ECF No. 1, ¶ 13.) Her complaint variously alleges that after she exhausted her FMLA leave she was able to work 16 hours per week (see ECF No. 1, ¶ 113) and that she was incapable of performing any work and would remain unable to do so until further notice (ECF No. 1, ¶ 110). For purposes of the present motion the court considers the evidence in the light most favorable to the plaintiff and presumes O'Haver was capable of working 16 hours per week.
+A full-time employee who can work only part-time is not capable of performing the essential functions of her position. Kronenberg v. Baker & McKenzie LLP, 692 F. Supp. 2d 994, 999 (N.D. Ill. 2010). Because O'Haver was not capable of performing the essential functions of her position when her FMLA leave ended, Orthopaedic Associates's alleged interference and retaliation did not result in damages to O'Haver and its termination of her employment was lawful under [*6]  the FMLA. See Franzen v. Ellis Corp., 543 F.3d 420, 426 (7th Cir. 2008) (a plaintiff is entitled to relief under the FMLA only if she was prejudiced by the employer's violation of the FMLA) (citing Ragsdale v. Wolverine World Wide Inc., 535 U.S. 81, 89, 122 S. Ct. 1155, 152 L. Ed. 2d 167 (2002)).
+Only if the Americans with Disabilities Act (ADA) applied might O'Haver be entitled to the reasonable accommodation of reassignment to a part-time position. See 29 C.F.R. § 825.702(c)(4). However, O'Haver makes no claim under the ADA and there is no indication that it would apply.
+Consequently, the court will grant Orthopaedic Associates's motion to dismiss the complaint. O'Haver did not seek leave to amend the complaint should the court grant the Orthopaedic Associates's motion, and there is no reason to believe that amending the complaint could remedy the defects in O'Haver's claim. Thus, the court will also dismiss this action.
+To the extent that the cross-claim and counterclaim of intervenor defendant Acuity is not mooted by the court's dismissal of O'Haver's complaint, the intervenor's claim is dismissed. The intervenor's claims were before this court only on the basis of supplemental jurisdiction under 28 U.S.C. § 1367. Having dismissed all claims over which it has original jurisdiction, the court declines to exercise its supplemental jurisdiction. See 28 U.S.C. § 1367(c)(3).
+IT IS THEREFORE ORDERED that [*7]  Orthopaedic Associates's motion to dismiss the complaint (ECF No. 17) is granted. To the extent the claims of intervenor defendant ACUITY, A Mutual Insurance Company, are not moot, they are dismissed pursuant to 28 U.S.C. § 1367(c)(3). Ilene L. O'Haver's complaint and this action are hereby dismissed. The Clerk shall enter judgment accordingly.
+Dated at Milwaukee, Wisconsin this 29th day of September, 2015.
+/s/ William E. Duffin
+WILLIAM E. DUFFIN
+U.S. Magistrate Judge
+
+JUDGMENT IN A CIVIL ACTION
+☒ Decision by Court. This action came for consideration before the Court. The issues have been considered and a decision has been rendered.
+IT IS ORDERED AND ADJUDGED that Orthopaedic Associate's motion to dismiss the complaint is GRANTED.
+IT IS FURTHER ORDERED AND ADJUDGED that the plaintiff's complaint and this action are DISMISSED.
+Date: September 29, 2015
+/s/ William E. Duffin
+WILLIAM E. DUFFIN
+United States Magistrate Judge
+
+
+End of Document
+

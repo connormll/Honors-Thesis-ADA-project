@@ -1,0 +1,44 @@
+Hamilton v. Robb
+United States District Court for the Middle District of Pennsylvania
+March 12, 2020, Decided; March 12, 2020, Filed
+CIVIL ACTION NO. 3:18-CV-1915
+
+Reporter
+2020 U.S. Dist. LEXIS 43348 *; 2020 WL 1228077
+HARRY EDWIN HAMILTON, Plaintiff, v. LT. KEITH ROBB, et al., Defendants.
+Prior History: Hamilton v. Robb, 2019 U.S. Dist. LEXIS 77875, 2019 WL 2028518 (M.D. Pa., May 8, 2019)
+Counsel:  [*1] Harry Edwin Hamilton, aka Black Horse, Plaintiff, Pro se, Lemont, PA.
+Judges: Robert D. Mariani, United States District Judge.
+Opinion by: Robert D. Mariani
+Opinion
+
+
+
+MEMORANDUM OPINION
+Plaintiff's Motion for Reconsideration (Doc. 12) is pending before the Court. With the motion, Plaintiff seeks reconsideration of the Court's Order adopting Magistrate Judge Martin C. Carlson's Report and Recommendation ("R&R") (Doc. 3), dismissing Plaintiff's Complaint (Doc. 1) with prejudice, and directing the Clerk of Court to close the case. (Doc. 11 ¶¶ 1-3.) For the reasons discussed below, the Court will deny Plaintiff's motion.
+
+I. ANALYSIS
+Plaintiff asserts that the bases for reconsideration are that he did not see the Report and Recommendation because his attention was focused elsewhere (Doc. 12 ¶ 5), and he has diminished abilities to focus and recall due to post-concussion injury which should entitle him to accommodation under the Americans with Disabilities Act ("ADA") (id. ¶¶ 2, 5). Plaintiff also requests that he be allowed to amend his pleading to include a claim under the ADA, or, alternatively, that the Court retroactively impose a stay, reissue the Report and Recommendation, and allow him an opportunity to respond. (Id. [*2]  ¶¶ 7, 8.)
+Based on Plaintiff's asserted grounds for relief, the Court construes his filing as a motion filed pursuant to Federal Rule of Civil Procedure 60(b)(1) which provides as follows: "On motion and just terms, the court may relieve a party or its legal representative from a final judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect." Fed. R. Civ. P. 60(b)(1). The Third Circuit Court of Appeals has stated that "[t]he test for 'excusable neglect' is equitable, and requires us to weigh the 'totality of the circumstances." Nara v. Frank, 488 F.3d 187, 193-94 (3d Cir.2007) (quoting Welch v. Forbes, Inc. v. Cendant Corp., 234 F.3d 166, 171 (3d Cir. 2000) (citing Pioneer Inc. Servs. v. Brunswick Assocs. L.P., 507 U.S. 380, 113 S. Ct. 1489, 123 L. Ed. 2d 74 (1993))). In particular, a court is to consider "1) the danger of prejudice to the other party; 2) the length of the delay and its potential impact on judicial proceedings; 3) the reason for the delay—and whether it was within the movant's control; and 4) whether the movant acted in good faith." Nara, 488 F.3d at 194 (citations omitted).
+Here Magistrate Judge Carlson conducted a preliminary review of Plaintiff's Complaint pursuant to 28 U.S.C. § 1915(e)(2)(B)(ii) in his R&R. (Doc. 3 at 2-3.) Because the Court adopted his recommendation that Plaintiff's Complaint be dismissed with prejudice (id. at 22; Doc. 11 ¶ 2), Defendants were not served. While this procedural posture may be indicative of a lack of [*3]  prejudice to Defendants, the fact that reopening the case may subject them to defend an action filed in October 2018 which the Magistrate Judge found raised many time-barred claims suggests that the passage of time may present prejudice.
+More importantly, the reason for the delay, i.e., that Plaintiff was distracted by other matters and focused his attention on defending himself in a state proceeding (Doc. 12 ¶ 5), does not square with the fact that he filed numerous documents in this case after Magistrate Judge Carlson issued his R&R (see Docs. 4-10). These filings are indicative of the fact that Plaintiff continued to pay attention to his federal filing. Further, a review of the procedural histories of Plaintiff's previous filings in this Court shows that Plaintiff is an experienced litigant in federal court who should be well-aware of the need to timely file objections to a Report and Recommendation. See, e.g., Hamilton v. Commonwealth, 4:18-CV-657, Docs. 5, 6; Hamilton et al v. Centre County Tax Claim Bureau, 3:17-CV-1853, Docs. 22, 24-29, Hamilton v. Bromley, 4:14-CV-2248, Docs. 30-35; Hamilton v. National Football League, 3:14-CV-1988, Docs. 5, 6; Hamilton v. General Services [*4]  Administration, 3:10-Cv-1494, Docs. 5, 6; Hamilton v. Centre County Child Access Center, 4:12-CV-952, Docs. 31, 32. Given these circumstances, the Court concludes that the reason for the delay does not support a finding of excusable neglect in that the reason provided is not consistent with his course of conduct and familiarity with civil litigation in this Court. Relatedly, the totality of the circumstances does not support a finding that the delay was out of Plaintiff's control.
+Plaintiff's assertion that he should be allowed an accommodation pursuant to the Americans with Disabilities Act ("ADA") (Doc. 12 ¶ 5) is totally without foundation and legal efficacy in the circumstances presented here. While the ADA requires an employer to make reasonable accommodations for an employee's disabilities, 42 U.S.C. § 12112(b)(5)(A), the governing statute has no application in the context of excusing a pro se litigant from following statutory provisions, regulatory provisions, the Federal Rules of Civil Procedure and court rules, including the Middle District of Pennsylvania Local Rules of Court, and court orders.
+More, generally, Plaintiff's belief that he should be excused from filing objections to the Report and Recommendation [*5]  because he has a problem focusing (Doc. 12 ¶ 5) is without merit. Even though pro se filings are held to less stringent standards than those drafted by lawyers, Erickson v. Pardus, 551 U.S. 89, 94, 127 S. Ct. 2197, 167 L. Ed. 2d 1081 (2007); Haines v. Kerner, 404 U.S. 519, 92 S. Ct. 594, 30 L. Ed. 2d 652 (1972), a pro se litigant must follow applicable rules. See, e.g., McNeil v. United States, 508 U.S. 106, 113 S. Ct. 1980, 124 L. Ed. 2d 21 (1993); Fantone v. Latini, 780 F.3d 184, 193 (3d Cir. 2015). As stated by the Supreme Court in McNeil,
+we have never suggested that procedural rules in ordinary civil litigation should be interpreted so as to excuse mistakes by those who proceed without counsel. As we have noted before, "in the long run, experience teaches that strict adherence to the procedural requirements specified by the legislature is the best guarantee of evenhanded administration of the law."
+508 U.S. at 113 (1993) (quoting Mohasco Corp. v. Silver, 447 U.S. 807, 826, 100 S. Ct. 2486, 65 L. Ed. 2d 532 (1980)); see also Hedges v. United States, 404 F.3d 744, 753 (citing McNeil, 508 U.S. at 113). The Seventh Circuit Court of Appeals took the Supreme Court's guidance to mean that "rules apply to uncounseled litigants and must be enforced." Members v. Paige, 140 F.3d 699, 702 (7th Cir. 1998). Thus, the leniency afforded pro se litigants does not extend to a failure to file objections to a Magistrate Judge's Report and Recommendation.
+
+II. CONCLUSION
+Based on the foregoing analysis, the Court concludes that Plaintiff's Motion for Reconsideration (Doc. 12) is properly denied. An appropriate Order will be filed simultaneously with this Memorandum Opinion.
+/s/ Robert D. Maria
+Robert [*6]  D. Maria
+United States District Judge
+
+ORDER
+AND NOW, THIS 12th DAY OF MARCH 2020, upon consideration of Plaintiff's Motion for Reconsideration (Doc. 12) and all relevant documents, for the reasons set out in the simultaneously filed Memorandum opinion, IT IS HEREBY ORDERED THAT Plaintiff's Motion for Reconsideration (Doc. 12) is DENIED.
+/s/ Robert D. Maria
+Robert D. Maria
+United States District Judge
+
+
+End of Document
+

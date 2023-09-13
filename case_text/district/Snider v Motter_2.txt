@@ -1,0 +1,85 @@
+Snider v. Motter
+United States District Court for the Middle District of Pennsylvania
+March 1, 2018, Decided; March 1, 2018, Filed
+No. 4:13-CV-01226
+
+Reporter
+2018 U.S. Dist. LEXIS 33287 *; 2018 WL 1123727
+JOEL SNIDER, Plaintiff. v. WARDEN JACQUELIN MOTTER, et al., Defendants.
+Prior History: Snider v. Motter, 2017 U.S. Dist. LEXIS 200807 (M.D. Pa., Dec. 5, 2017)
+Counsel:  [*1] For Joel Snider, Plaintiff: Alexandra T Morgan-Kurtz, PA Institutional Law Project, Pittsburgh, PA.
+For Warden Jacqueline Motter, Smith, Lieutenant, Clinton County Correctional Facility, Defendants: Joseph P. Green, Lee Martin Green & Reiter, Inc., Bellefonte, PA; Robert Allen Mix, Lee, Green & Reiter, Inc., Bellefonte, PA.
+For Rupert, Nurse, Andrus, Nurse, Defendant: Robert J Schweiger, LEAD ATTORNEY, Johnson, Duffie, Stewart & Weidner, PC, Lemoyne, PA.
+For Nolte, Officer, Goshorn, Officer, Hughes, Officer, Richards, Officer, Walker, Officer, Grimes, Officer, C.O. Gray, Officer Shearer, Defendants: Joseph P. Green, Lee Martin Green & Reiter, Inc., Bellefonte, PA.
+Judges: Matthew W. Brann, United States District Judge.
+Opinion by: Matthew W. Brann
+Opinion
+
+
+
+MEMORANDUM OPINION
+There are three motions for summary judgment pending before this Court—one filed by Kyrie Andrus, LPN, and Tiffany Rupert, LPN, one filed by the Clinton County Correctional Facility ("CCCF"), and one filed by Joel Snider. For the reasons that follow, the motions filed by Ms. Andrus, Ms. Rupert, and the CCCF will be granted, and the motion filed by Mr. Snider will be denied.
+
+I. Background and Procedural History1
+Plaintiff Joel Snider was incarcerated [*2]  at the CCCF as a pretrial detainee from December 6, 2012, through May 7, 2013.2 At that time, he suffered from various mental illnesses.3
+On February 28, 2013, he was put into handcuffs and leg shackles in connection with a "shake down" at his cell.4 In that restrained state, he was transported to another area of the prison; during transport, he fell down and was "tackled" by several corrections officers accompanying him.5 As a consequence of the restraints and his fall, Mr. Snider suffered from "red marks on both wrists and both ankles"—which were also "swollen"—as well as "swelling in [his] hands and fingers."6 Consequently, Mr. Snider was examined by Ms. Rupert.7 During that examination, he told Ms. Rupert "that [his] neck was hurting[,] . . . [his] throat was hurting[,] . . . [his] wrists and ankles were hurting[,] . . . [and] that [his] left shoulder was hurting too."8 Ms. Rupert did not, however, provide any treatment at that time.9
+A little more than a month later, on April 5, 2013, Mr. Snider refused to submit to handcuffing in his cell.10 Therefore, officers disabled him with pepper spray, and forcibly restrained and extracted him from his cell.11 The officers then allowed Mr. Snider [*3]  to shower himself to ameliorate the effects of the spray.12 As a consequence of the spray and forcible restraint and extraction, Mr. Snider developed "a big lump on the top of [his] head, a "really swollen" left arm," "redness [and] swelling" on his ankles, "swollen[-]shut" eyes, a "bruise or a black and blue area around [his] left eye," a "swollen" nose, and a "cut on [his] nose."13
+Ms. Andrus and Ms. Rupert were both present during the extraction; Ms. Andrus examined Mr. Snider subsequent to it.14 During that examination, Mr. Snider told Ms. Andrus that his "head hurt," his "forehead hurt," his "arms hurt," that his "left arm really hurt," that his "ankles hurt," that his "neck and [] left shoulder hurt," that his "nose hurt," that "the left side of [his] head hurt," and that his "hands and thumbs hurt."15 He also told her that, as a result of the spray, his "skin was burning[,] . . . that everything was burning[,] . . . [and that the spray] had gone down onto [his] genitals and anus[,] and . . . was burning."16 Ms. Andrus examined Mr. Snider, conducted a "push and pull" test on his wrist, concluded that Mr. Snider "had no problem or [complaint of] pain while" completing the "push and pull" [*4]  test.17 She provided no other treatment.18
+On May 6, 2013, Mr. Snider initiated the instant suit against a host of defendants.19 Count I of his Second Amended Complaint is a Fourteenth Amendment claim brought against the corrections officers involved in the February 28, 2013 incident; it argues that the officers' actions "were objectively unreasonable and . . . excessive in relation to any legitimate government purpose."20 Count II is a similar claim, brought against those officers involved in the April 5, 2013 incident, including Lieutenant Adam Smith.21 Count III is a Fourteenth Amendment claim brought against CCCF's warden, Jacqueline Motter; it argues that Ms. Motter "has enforced a policy or practice allowing the use of objectively unreasonable force in cell extractions against inmates with serious mental illness," such as Mr. Snider.22 Count IV is an Eighth Amendment claim brought against Ms. Rupert and Ms. Andrus; it argues that the two nurses were "deliberately indifferent to Mr. Snider's serious medical needs arising out of the" incidents on February 28 and April 5, 2013.23 Finally, Count V is an Americans with Disabilities Act ("ADA") claim brought against the CCCF; it argues that CCCF "failed to provide [Mr. Snider] with reasonable accommodations [*5]  for his [mental] disability."24
+On March 20, 2017, the parties filed three motions for summary judgment. Mr. Snider seeks judgment on Count II against Lieutenant Smith, Count III against Warden Motter, Count IV against Ms. Andrus and Ms. Rupert, and Count V against the CCCF;25 Ms. Andrus and Ms. Rupert seek judgment on Count IV in their favor.26 The CCCF seeks judgment on Count V in its favor.27 On December 5, 2017, Chief Magistrate Judge Susan E. Schwab issued a Report and Recommendation vis-à-vis those motions,28 to which the parties have filed various objections.29
+
+II. Mr. Snider's and CCCF's Motions for Summary Judgment
+Chief Magistrate Judge Schwab recommends denying Mr. Snider's motion in its entirety and granting the CCCF's motion on Count V. Mr. Snider objects only to that portion of the Report and Recommendation that recommends a grant of summary judgment to CCCF on Count V; he argues, instead, that summary judgment should be granted in his favor on that count.
+When a party does not object to a portion of a Magistrate Judge's Report and Recommendation, this Court "need only satisfy itself that there is no clear error on the face of the record [before] accept[ing]" it.30 This [*6]  Court has completed that review, determined that there is no such clear error, and will therefore adopt the portions of the Report and Recommendation that recommends denying summary judgment to Mr. Snider on Counts II and III.
+When a party does object to portions of an Report and Recommendation, this Court must conduct a de novo review of those objected-to portions.31 This Court has completed that review, determined that summary judgment should be granted to CCCF on Count V, and will adopt the portion of the Report and Recommendation doing so.
+The Report and Recommendation recommends granting summary judgment to CCCF on Count V on the basis of an expired limitations period. It decides that Pennsylvania's two-year limitations period applies to this claim, not the federal four-year period; suggests that the two-year period should not be equitably tolled; notes that Mr. Snider's ADA claim against CCCF was brought outside the two-year period; and concludes, therefore, that the ADA claim was untimely. This Court agrees with all parts of that analysis.
+Mr. Snider's claim was not "made possible by a post-1990 enactment" to the ADA;32 therefore, the state, not federal, limitations applies. In his [*7]  complaint, Mr. Snider alleges that his "mental illness affects nearly every aspect of his daily life," and is not controlled "despite repeated increases to his medication."33 Therefore, his claim does not need to rely on the post-1990 amendments to the ADA—i.e., his claim would have been possible under the regimes enunciated in Sutton v. United Air Lines, Inc.34 and Toyota Motor Manufacturing, Kentucky, Inc. v. Williams.35
+Mr. Snider is also not entitled to equitable tolling of the two-year period under either the Pennsylvania or federal tolling standards. Regarding the Pennsylvania standard, he has argued neither application of the discovery rule nor fraud.36 Regarding the federal standard, neither his mental illness37 nor his motions for appointment of counsel38 justify tolling.
+Mr. Snider's ADA claim accrued, at the latest, on May 7, 2013—the day he was transferred out of the CCCF. His ADA claim first appears in his Second Amended Complaint, filed on December 19, 2015. Because this claim was raised for the first time more than two years after it accrued, it is untimely. Consequently, this Court will grant summary judgment to CCCF on [*8]  Count V of Mr. Snider's complaint and deny summary judgment to Mr. Snider on that count.
+
+III. Ms. Andrus and Ms. Rupert's Motion for Summary Judgment
+
+A. Standard of Review
+Summary judgment is granted when "the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law."39 A dispute is "genuine if a reasonable trier-of-fact could find in favor of the non-movant," and "material if it could affect the outcome of the case."40 To defeat a motion for summary judgment, then, the nonmoving party must point to evidence in the record that would allow a jury to rule in that party's favor.41 When deciding whether to grant summary judgment, a court should draw all reasonable inferences in favor of the non-moving party.42
+
+B. Eighth Amendment Deliberate Indifference Claim
+The Eighth Amendment to the United States Constitution prohibits the infliction of "cruel and unusual punishment[]." The United States Supreme Court has interpreted this provision to prohibit "deliberate indifference to serious medical needs of prisoners."43 To prevail on his claim against Ms. Rupert and Ms. Andrus, then, Mr. Snider must show (1) that he had a "serious" medical need, and (2) that the nurses were "deliberately indifferent" to [*9]  that serious medical need. Unfortunately, Mr. Snider has not produced sufficient evidence for a jury to make either of those findings, and summary judgment on this claim will be granted in favor of Ms. Rupert and Ms. Andrus.
+
+1. Whether Mr. Snider's Medical Needs Were "Serious"
+The United States Court of Appeals for the Third Circuit has noted that "the concept of a serious medical need . . . has two components."44 The first is that the condition "must be such that a failure to treat [it] can be expected to lead to substantial and unnecessary suffering, injury, or death." Second, the condition "must be one that has been diagnosed by a physician as requiring treatment or one that is so obvious that a lay person would easily [*10]  recognize the necessity for a doctor's attention."45 Neither Mr. Snider's condition on February 28, 2013, nor his condition on April 5, 2013, meet either of these prongs.
+On February 28, after being cuffed and shackled, and after falling down in that state, Mr. Snider had "red marks" on his ankles, and swelling in his wrists, ankles, hands, and fingers. He told Ms. Rupert that various parts of his body were "hurting." Although clearly in pain, there is no evidence that Mr. Snider's condition was such that failure to treat it at that time would lead to "substantial and unnecessary suffering, injury, or death." Additionally, he had no physician-diagnosed condition, nor were his symptoms and complaints so "obvious that a lay person would easily recognize the necessity for a doctor's attention." While unpleasant, his "red marks" and swelling could only be interpreted as temporary effects of the cuffs and shackles, his "hurting" an additional, disagreeable accompaniment.
+On April 5, after being pepper sprayed and forcibly restrained and extracted from his cell, he had various bruising, swelling, and abrasions. He complained that various parts of his body "hurt" or "really hurt," and that [*11]  his skin was "burning" after the spray and shower. Again, this Court cannot interpret Mr. Snider's condition as one that would lead to "substantial and unnecessary suffering, injury, or death." And it was neither physician-diagnosed, nor obviously in need of a physician's attention. Again, while clearly in pain, the evidence at that time can only be interpreted as showing that Mr. Snider was suffering unfortunate—but likely self-limiting—consequences of the altercation in his cell.
+Mr. Snider, therefore, cannot show that his medical needs on February 28 and April 5, 2013, were "serious."
+
+2. Whether Ms. Rupert or Ms. Andrus Were Deliberately Indifferent to Mr. Snider's Medical Needs
+Even if Mr. Snider could prove the necessary "serious medical need," he would still have to show that Ms. Andrus and Ms. Rupert were "deliberately indifferent" to that need. The Third Circuit has noted that "deliberate indifference" require more than "[a]llegations of medical malpractice."46 As a initial matter, there is a "presum[ption] that [any] treatment [provided to] a prisoner is proper absent evidence that it violates professional standards of care."47 Even with such evidence, however, a plaintiff must also [*12]  show that a defendant acted with "obduracy and wantonness," or with "recklessness or a conscious disregard of a serious risk";48 in other words, there must be evidence from which a jury could find that any "delay or denial [of care] was motivated by non-medical factors."49
+Mr. Snider has not produced any evidence from which a jury could find that either Ms. Andrus or Ms. Rupert acted with "deliberate indifference." First, Mr. Snider was examined after both incidents, and he has provided no evidence that the nurses' decision to provide limited care after those examinations fell below any professional standard of care.50 Second, Mr. Snider points to no evidence in the record that could sustain a finding that the nurses subjectively acted with "obduracy and wantonness" or "recklessness or a conscious disregard of a serious risk," or that the nurses were "motivated by non-medical factors."
+Mr. Snider, therefore, cannot show that Ms. Andrus and Ms. Rupert acted with "deliberate indifference" to his medical needs on February 28 or April 5, 2013. Because he also cannot show a "serious medical need," see supra, this Court will grant the nurses' motion for summary judgment on Count IV of Mr. Snider's [*13]  compliant.51
+
+III. CONCLUSION
+For the reasons discussed above, this Court will deny Mr. Snider's motion for summary judgment but grant summary judgment to Ms. Andrus, Ms. Rupert, and the CCCF. An appropriate Order follows.
+BY THE COURT:
+/s/ Matthew W. Brann
+Matthew W. Brann
+United States District Judge
+
+ORDER
+AND NOW, this 1st day of March 2018, in accordance with the accompanying Memorandum Opinion, IT IS HEREBY ORDERED that:
+1. The Report and Recommendation prepared by Chief Magistrate Judge Susan E. Schwab, ECF No. 285, is ADOPTED IN PART AND REJECTED IN PART as follows:
+a. The portion of the Report and Recommendation discussing Count IV of Plaintiff's Second Amended Complaint, id. at 6-19, is REJECTED.
+b. The portion of the Report and Recommendation discussing Counts II, III, and V of Plaintiff's Second Amended Complaint, id. at 20-90, is ADOPTED.
+2. The Motion for Summary Judgment filed by Plaintiff Joel Snider, ECF No. 262, is DENIED.
+3. The Motion for Summary Judgment filed by Defendants Kyrie Andrus and Tiffany Rupert, ECF No. 255, is GRANTED.
+4. The Motion for Summary Judgment filed by Defendant the Clinton County Correctional Facility, ECF No. 258, is GRANTED.
+5. Upon the resolution of the [*14]  remaining claims in this case, the Clerk of Court is directed to enter judgment as follows:
+a. On Count II, the Clerk of Court shall enter judgment in favor of Defendants Kyrie Andrus and Tiffany Rupert;
+b. On Count V, the Clerk of Court shall enter judgment in favor of Defendant the Clinton County Correctional Facility.
+6. This matter is remanded to Chief Magistrate Judge Schwab for further pre-trial proceedings.
+BY THE COURT:
+/s/ Matthew W. Brann
+Matthew W. Brann
+United States District Judge
+
+
+End of Document
+

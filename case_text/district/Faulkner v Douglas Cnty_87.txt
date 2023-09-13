@@ -1,0 +1,41 @@
+Faulkner v. Douglas Cnty.
+United States District Court for the District of Nebraska
+January 23, 2017, Decided; January 23, 2017, Filed
+8:15CV303
+
+Reporter
+2017 U.S. Dist. LEXIS 8926 *; 2017 WL 318644
+LINDA L. FAULKNER, an individual;, Plaintiff, vs. DOUGLAS COUNTY, NEBRASKA, a political subdivision of the State of Nebraska;, Defendant.
+Prior History: Faulkner v. Douglas Cnty., 2016 U.S. Dist. LEXIS 177396 (D. Neb., Dec. 22, 2016)
+Counsel:  [*1] For Linda L. Faulkner, an individual, Plaintiff: Alexis S. Mullaney, Terry A. White, CARLSON, BURNETT LAW FIRM, Omaha, NE.
+For Douglas County, Nebraska, a political subdivision of the State of Nebraska, Defendant: Jimmie L. Pinkham, III, DOUGLAS COUNTY ATTORNEY'S OFFICE, Civil Division, Omaha, NE; Sandra K. Connolly, DOUGLAS COUNTY ATTORNEY'S OFFICE - CIVIL DIVISION, Omaha, NE.
+Judges: Laurie Smith Camp, Chief United States District Judge.
+Opinion by: Laurie Smith Camp
+Opinion
+
+
+
+MEMORANDUM AND ORDER
+This matter is before the Court on the Plaintiff's Motion for Reconsideration, ECF No. 44. Plaintiff Linda L. Faulkner ("Faulkner") asks the Court to reconsider its Memorandum and Order, ECF No. 42, in which the Court granted the Defendant's Motion for Summary Judgment, ECF No. 26.
+
+STANDARD OF REVIEW
+Faulkner's Motion for Reconsideration is construed as a motion to alter or amend judgment under Fed. R. Civ. P. 59(e), and is timely.
+"Rule 59(e) motions serve the limited function of correcting 'manifest errors of law or fact or to present newly discovered evidence.'" United States v. Metro. St. Louis Sewer Dist., 440 F.3d 930, 933 (8th Cir. 2006) (quoting Innovative Home Health Care v. P.T.-O.T. Assocs. of the Black Hills, 141 F.3d 1284, 1286 (8th Cir. 1998)).
+
+DISCUSSION
+Faulkner contends that the Court committed manifest errors of fact by finding that a 350-pound team lifting requirement was an essential function of Faulkner's job, and by [*2]  failing to find that the Defendant neglected a requisite interactive process to determine whether reasonable accommodations could enable Faulkner to perform the essential functions of her job.
+With respect to the 350-pound team lifting requirement, the Defendant cited the official job description for the Correctional Officer II position, which included the statement, "[i]ncumbents must meet the following specific job related physical requirements: . . . Lifting . . . occasional up to 350 lbs., as part of a team lift." Defendant's Brief, ECF No. 27, Page ID 108 (quoting Douglas County Civil Service Commission Position Description for Correctional Officer II ("Position Description"), ECF No. 28-21, Page ID 312). Faulkner acknowledged that the Defendant accurately identified the position description for a Correctional Officer II, although she disputed that the listed job duties were actually performed regularly by all persons employed by the Defendant in Correctional Officer II positions. Plaintiff's Brief, ECF No. 36, Page ID 1400.
+Faulkner's argument regarding the 350-pound team lifting requirement fails for two principal reasons. First, there were other physical requirements of the Correctional [*3]  Officer II position that Faulkner could not meet, including specific measures of individual lifting, pulling, and pushing abilities. See Position Description, ECF No. 28-21, Page ID 312. Second, even if some people employed by the Defendant in Correctional Officer II positions did not perform functions requiring the specified physical standards on a frequent basis, such employees were required to be able to perform such duties when the need arose. Among the primary duties and responsibilities of employees in the Correctional Officer II position was the duty to "[r]estrain or restrict the actions of combative or disruptive inmates . . . ." Position Description, ECF No. 28-21, Page ID 310. Among the basic skills and abilities required of employees in the Correctional Officer II position was the "[a]bility to physically restrain combative inmates." Id., Page ID 311; see also Deposition of Mark Foxall at 26:15 to 27:8, ECF 28-1, Page ID 185.
+With respect to the interactive process, the Defendant provided Faulkner with a letter on August 27, 2013, noting that Defendant was informed by Faulkner's medical providers that Faulkner would not be able to perform essential functions of a Correctional Officer II position. [*4]  The letter also stated, "[i]f you feel that there is some type of accommodation that will allow you to perform the essential functions of the position, or some other position within the county, please advise and an Employee Review Committee meeting will be scheduled to initiate an interactive dialog on the matter." Defendant's Brief ¶ 32, ECF No. 27, Page ID 115 (quoting letter of Mark Foxall, ECF No. 28-6, Page ID 268-69). On October 7, 2013, such a meeting was convened, and Faulkner suggested that she be assigned to the Douglas County Department of Corrections central control or lobby, or to a position within the Douglas County Department of Motor Vehicles. Defendant's representative noted that Faulkner could apply for any open positions within the Douglas County Department of Motor Vehicles, and Faulkner made no such applications. Faulkner does not deny that this interactive process occurred, as described in Defendant's Brief ¶ 34, ECF No. 27, Page ID 116, but she disputes the good-faith of Defendant's representatives who participated in the process. Plaintiff's Brief ¶ 34, ECF No. 36, Page ID 1410.
+Faulkner's argument regarding the interactive process also fails for two principal reasons. [*5]  First, the undisputed evidence shows that the Defendant did engage in an interactive process to determine whether any accommodations would enable Faulkner to perform the essential functions of the Correctional Officer II position. Second, the interactive process is unnecessary when a plaintiff is not a qualified employee who can perform the essential functions of the position with reasonable accommodation, nor is the process required when no reasonable accommodation is available. See Scruggs v. Pulaski County, Ark., 817 F.3d 1087, 1094 (8th Cir. 2016) (quoting Battle v. United Parcel Serv, Inc., 438 F.3d 856, 864 (8th Cir. 2006)) ("[U]nder the ADA, if no reasonable accommodation is available, an employer is not liable for failing to engage in a good-faith interactive process."); Dropinski v. Douglas County, 298 F.3d 704, 709-10 (8th Cir. 2002) (holding that the interactive process is superfluous where worker cannot perform essential job duties, and any accommodation would result in job restructuring).
+Faulkner's suggested accommodations were not ones that would enable her to perform the essential functions of the Correctional Officer II position, but ones she perceived would relieve her of those functions. Even though the Court accepts as true Faulkner's assertion that she was assigned to a post without inmate contact for a prolonged period of time at some point during her career with the [*6]  Defendant, the Court concludes that the Defendant was not obliged to contravene a current Collective Bargaining Agreement to provide Faulkner with a permanent assignment where she would be shielded from inmate contact.
+For the reasons stated in the Court's Memorandum and Order of December 22, 2016, ECF No. 42, and the reasons stated herein,
+IT IS ORDERED: Plaintiff Linda L. Faulkner's Motion for Reconsideration, ECF No. 44, is denied.
+Dated this 23rd day of January, 2017.
+BY THE COURT:
+/s/ Laurie Smith Camp
+Chief United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,56 @@
+Lewis v. Univ. of Pa.
+United States District Court for the Eastern District of Pennsylvania
+March 9, 2018, Decided; March 9, 2018, Filed
+CIVIL ACTION No. 16-5874
+
+Reporter
+2018 U.S. Dist. LEXIS 38780 *; 2018 WL 1243721
+JOSEPH H. LEWIS, JR., Plaintiff, v. UNIVERSITY OF PENNSYLVANIA, Defendant.
+Prior History: Lewis v. Univ. of Pa., 2018 U.S. Dist. LEXIS 13423 (E.D. Pa., Jan. 29, 2018)
+Counsel:  [*1] For JOSEPH H. LEWIS, JR., Plaintiff: TIMOTHY P. CREECH, LEAD ATTORNEY, CREECH & CREECH LLC, PHILADELPHIA, PA.
+For UNIVERSITY OF PENNSYLVANIA, Defendant: JOE H. TUCKER, JR., MICHON LA VIE CRAWFORD, THE TUCKER LAW GROUP, PHILADELPHIA, PA.
+Judges: GENE E.K. PRATTER, UNITED STATES DISTRICT JUDGE.
+Opinion by: GENE E.K. PRATTER
+Opinion
+
+
+
+MEMORANDUM
+Pratter, J.
+Mr. Lewis filed a motion for reconsideration of this Court's January 29, 2018 Memorandum and Order (Doc. Nos. 34 and 35), which partially granted Penn Police's motion for summary judgment. A party seeking reconsideration must demonstrate: "(1) an intervening change in the controlling law; (2) the availability of new evidence that was not available when the court granted the motion for summary judgment; or (3) the need to correct a clear error of law or fact or to prevent manifest injustice." Max's Seafood Cafe ex rel. Lou-Ann, Inc. v. Quinteros, 176 F.3d 669, 677 (3d Cir. 1999); see also Howard Hess Dental Laboratories, Inc. v. Dentsply Int'l, Inc., 602 F.3d 237, 251 (3d Cir. 2010). Mr. Lewis raises two clear errors of law in his motion: the Court's grant of summary judgment as to (1) his ADA reasonable accommodations claim and (2) his constructive discharge claim.
+At the outset, the Court dismisses Mr. Lewis's argument that "the Court's judgment on these areas . . . create[s] a manifest injustice because they materially affect the evidence that the [*2]  jury will hear." Pl.'s Mot. for Recon., Doc. No. 36, at 1. How a ruling affects the evidence a jury will hear is irrelevant to a motion for reconsideration. This argument does not point to an intervening change of law, the availability of new evidence, or demonstrate the need to correct a clear error of law or fact or prevent manifest injustice.
+For the reasons that follow, the Court denies the motion for reconsideration.
+
+1. ADA Reasonable Accommodations Claim
+Mr. Lewis raises two arguments as to why the Court should reconsider his ADA reasonable accommodations claim. First, he states that Penn Police's policy requires successive medical examinations, which are prohibited by law. Second, he argues that a reasonable jury could find that Penn Police failed to engage in an interactive process with Mr. Lewis about the reasonable accommodation he requested. Mr. Lewis did not raise either of these arguments in any of his briefing and that alone is grounds to dismiss his motion for reconsideration on his reasonable accommodations claim. However, the Court will briefly address, and dismiss, each argument.
+First, there is nothing in the record to indicate that Penn Police required successive medical [*3]  examinations. Directive 45, the policy that requires officers to be clean shaven, permits facial hair so long as the officer provides a medical certificate every 60 days and keeps his facial hair trimmed. Mr. Lewis has pointed to nothing in the record to indicate that getting a medical certificate requires repeated medical examinations.
+Second, Mr. Lewis has not demonstrated that Penn Police failed to engage in an interactive process after he requested a reasonable accommodation. The EEOC's interpretive guidelines state that, "[o]nce a qualified individual with a disability has requested provision of a reasonable accommodation, the employer must make a reasonable effort to determine the appropriate accommodation. The appropriate reasonable accommodation is best determined through a flexible, interactive process that involves both the employer and the [employee] with a disability." 29 C.F.R. § 1630.9. This interactive process requires both parties to act in good faith and search for an appropriate reasonable accommodation. Taylor v. Phoenixville School Dist., 184 F.3d 296, 312 (3d Cir. 1999) (citing Mengine v. Runyon, 114 F.3d 415, 419-20 (3d Cir. 1997)). While an employee does not need to "formally invoke the magic words 'reasonable accommodation'" to request one, "the employer must know of both the disability and the employee's [*4]  desire for accommodations for that disability." Id. at 313.
+As this Court noted in its prior Memorandum:
+All the evidence shows is that Mr. Lewis asked to be relieved from shaving, and that Penn Police responded that Directive 45 permits the growth of facial hair with proper medical certifications. Mr. Lewis did not clarify his request or make a new request that would have given Penn Police a better understanding of what he was seeking. Therefore, Mr. Lewis has not shown that Penn Police failed to offer him a reasonable accommodation.
+Memorandum, Doc. No. 34, at 13. The breakdown of the interactive process occurred because Mr. Lewis failed to clarify or follow up on his original request. Mr. Lewis could have, and should have, been his own best advocate.
+
+2. Constructive Discharge
+Mr. Lewis also disputes this Court's grant of summary judgment on his constructive discharge claim. He argues that "the Court placed too much emphasis on his subjective understanding of the events of March 10, 2016"1 and did not adequately consider the events leading up to that day. Pl.'s Mot. for Recon., Doc. No. 36, at 6. He points to evidence in the record from before the events on March 10 that he argues demonstrate he [*5]  was constructively discharged. Mr. Lewis points to three pieces of evidence for this. First, during a disciplinary meeting, Chief Rush said Mr. Lewis's beard was too long, noted that he was arrogant, and asked if he still wanted to work for Penn Police. Second, at that same meeting, Chief Rush mentioned the length of his beard and then alluded to a shift change.2 Third, Mr. Lewis says that he requested FMLA leave because he found the harassment about his beard unbearable. This led him to "the reasonable conclusion that he could no longer work for Defendant." Pl.'s Mot. for Recon., Doc. No. 36, at 6.
+The Court again points to its prior Memorandum:
+While Mr. Lewis meets the standard for a hostile work environment claim, the Court concludes that those same facts do not suffice to allow the claim to go forward on constructive discharge grounds. Mr. Lewis's employment conditions were not so intolerable that a reasonable person subject to them would have been forced to resign. Penn Police did not threaten to fire or demote Mr. Lewis, nor did they threaten to dock his pay. Penn Police was going to reassign Mr. Lewis from SB-40, but, that reassignment had not taken place yet and he was told the [*6]  job would not be posted so he could resume the post if he dealt with his disciplinary issues. While he was given a negative performance evaluation in the form of the temporary written reprimand, that reprimand was for violations of Penn Police policies that Mr. Lewis admits he violated[.]
+Memorandum, Doc. No. 34, at 30.
+In his motion for reconsideration, Mr. Lewis points to evidence that the Court previously considered. Neither in his initial briefs in response to Penn Police's motion for summary judgment nor in his motion for reconsideration has Mr. Lewis coherently argued that Penn Police "knowingly permitted conditions of discrimination in employment so intolerable that a reasonable person subject to them would resign." See Aman v. Cort Furniture Rental Corp., 85 F.3d 1074, 1084 (3d Cir. 1996) (articulating the standard for a constructive discharge claim). Mr. Lewis's argument has always been that he found the conditions so intolerable that he had to take FMLA leave (and thus was constructively discharged) but the Court concluded in its memorandum that a reasonable person would not have.
+It bears repeating that "the law does not permit an employee's subjective perceptions to govern a claim of constructive discharge." Gray v. York Newspapers, Inc., 957 F.2d 1070, 1083 (3d Cir. 1992) (citing Bristow v. Daily Press, Inc., 770 F.2d 1251, 1255 (4th Cir. 1985)). Mr. Lewis continues to [*7]  base his constructive discharge claim on his subjective perceptions of the events in question, instead of case law delineating how a reasonable person would have felt. Given that Mr. Lewis has not cited any law, the Court is hard pressed to conclude it has made a clear error of law.
+
+Conclusion
+For the foregoing reasons, the Court denies Mr. Lewis's motion for reconsideration. An appropriate order follows.
+BY THE COURT:
+/s/ Gene E.K. Pratter
+Gene E.K. Pratter
+United States District Judge
+
+ORDER
+AND NOW, this 9th day of March, 2018, upon consideration of the Court's Memorandum and Order granting in part and denying in part Defendant's Motion for Summary Judgment (Doc. No. 14), Plaintiff's Motion for Reconsideration (Doc. No. 36), and Defendant's Response (Doc. No. 37), it is hereby ORDERED that the Plaintiff's Motion for Reconsideration (Doc. No. 36) is DENIED.
+BY THE COURT:
+/s/ Gene E.K. Pratter
+GENE E.K. PRATTER
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,38 @@
+Glover v. Minnesota
+United States District Court for the District of Minnesota
+July 31, 2018, Decided; July 31, 2018, Filed
+Case No. 17-CV-0641 (PJS/KMM)
+
+Reporter
+2018 U.S. Dist. LEXIS 127487 *; 2018 WL 3637529
+ANNA GLOVER, Plaintiff, v. STATE OF MINNESOTA; DEPARTMENT OF PUBLIC SAFETY; DEPARTMENT OF HEALTH; OFFICE OF MN.IT SERVICES (MN.IT); BOARD OF PUBLIC DEFENSE; MONA DOHMAN, in her individual and official capacity as Commissioner of the Department of Public Safety; EDWARD EHLINGER, in his individual and official capacity as Commissioner of the Department of Health; THOMAS A. BADEN, JR., in his individual and official capacity as Commissioner of the Department of MN.IT Services, Defendants.
+Counsel:  [*1] Adrianna H. Shannon and Bonnie M. Smith, SHANNON LAW, LLC, for plaintiff.
+Eric V. Brown and Kathryn Fodness, MINNESOTA ATTORNEY GENERAL'S OFFICE, for defendants.
+Judges: Patrick J. Schiltz, United States District Judge.
+Opinion by: Patrick J. Schiltz
+Opinion
+
+
+ORDER
+Plaintiff Anna Glover brings this employment-discrimination and retaliation action against the State of Minnesota and various state agencies and commissioners. Pending before the Court are defendants' motion for summary judgment and Glover's cross-motion for partial summary judgment.
+At the July 25, 2018 motion hearing, the Court denied Glover's motion and resolved defendants' motion in part. Specifically, the Court denied defendants' motion as to all claims against defendants Department of Public Safety ("DPS") and Mona Dohman and declined to dismiss the State of Minnesota as a party. The Court granted defendants' motion as to all claims against defendants Department of Health, Jan Malcolm, Edward Ehlinger, Thomas Baden, Jr., and Johanna Clyborne.1 Finally, the Court granted defendants' motion as to all claims against defendant Office of MN.IT Services ("MN.IT")2 with the exception of Glover's retaliation claims, as to which the Court reserved ruling.3
+Having now reviewed the relevant portions of the record, the Court will grant in part and deny in part defendants' motion with respect to Glover's retaliation claims against MN.IT. These claims arise out of MN.IT's rejection of three job applications that Glover submitted shortly before or during her medical leave of absence from DPS. See Def. Ex. 19 (listing three positions for which Glover applied).
+With respect to the latter two of the three applications, the record does not contain sufficient admissible evidence to permit a reasonable jury to find that the reason that Glover was not hired was because she had engaged in protected conduct, such as requesting a disability accommodation or complaining of sex or race discrimination. The Court therefore grants defendants' motion with respect to Glover's retaliation claims insofar as those claims arise out of the rejection of those two applications.
+With respect to Glover's first application (in April 20154), the record does not contain sufficient admissible evidence to permit a reasonable jury to find that the reason that Glover's interview was cancelled by MN.IT was because she had complained of sex and race discrimination [*3]  at DPS. The Court therefore grants defendants' motion with respect to Glover's Title VII, 42 U.S.C. § 1981, and 42 U.S.C. § 1983 retaliation claims against MN.IT insofar as those claims arise out of the rejection of her April 2015 application. Likewise, the record does not contain sufficient admissible evidence to permit a reasonable jury to find that the reason that Glover's interview was cancelled by MN.IT was because she had asked DPS to accommodate her disability. The Court therefore grants defendants' motion with respect to Glover's retaliation claim under the Americans with Disabilities Act ("ADA") insofar as that claim is based on allegations that MN.IT retaliated against Glover because she asked DPS to accommodate her disability.
+There is, however, evidence from which a jury could conclude that MN.IT rejected Glover's April 2015 application because she asked for accommodations for her disabilities during a previous stint working for MN.IT. Defendants argue that, at the time that the April 2015 application was under consideration, Glover was on medical leave and incapable of performing any type of work. But Glover did not clearly testify that she was incapable of working at any job during her medical [*4]  leave. Instead, she testified that if she had been offered another position, she would have discussed it with her doctor. Glover Dep. 79. As there is a factual issue concerning whether Glover was capable of working, the Court denies defendants' motion with respect to Glover's retaliation claim under the ADA insofar as that claim is based on allegations that MN.IT retaliated against Glover because she had previously asked MN.IT to accommodate her disability.
+ORDER
+Based on the foregoing, and on all of the files, records, and proceedings herein, IT IS HEREBY ORDERED THAT:
+1. Plaintiff's motion for partial summary judgment [ECF No. 100] is DENIED.
+2. Defendants' motion for summary judgment [ECF No. 82] is GRANTED IN PART and DENIED IN PART.
+a. The motion is DENIED as to all claims against defendants Department of Public Safety and Mona Dohman and all claims against the State of Minnesota arising out of such claims.
+b. The motion is DENIED as to plaintiffs' retaliation claim under the ADA against defendant Office of MN.IT Services, and the related ADA claim against the State of Minnesota, insofar as these claims arise out of the allegation that MN.IT rejected Glover's April 2015 job application [*5]  because she had previously asked MN.IT to accommodate her disability.
+c. The motion is GRANTED as to all remaining claims, which are DISMISSED WITH PREJUDICE AND ON THE MERITS.
+3. Per the Court's letter dated April 13, 2018 [ECF No. 76], the Clerk of Court is directed to terminate defendant Board of Public Defense as a party.
+Dated: July 31, 2018
+/s/ Patrick J. Schiltz
+Patrick J. Schiltz
+United States District Judge
+
+
+End of Document
+

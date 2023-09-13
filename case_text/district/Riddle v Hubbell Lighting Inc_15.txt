@@ -1,0 +1,43 @@
+Riddle v. Hubbell Lighting, Inc.
+United States District Court for the Western District of Virginia, Roanoke Division
+July 19, 2013, Decided; July 19, 2013, Filed
+Civil Action No. 7:12cv00488
+
+Reporter
+2013 U.S. Dist. LEXIS 101370 *; 28 Am. Disabilities Cas. (BNA) 583; 15 Accom. Disabilities Dec. (CCH) P15-202; 2013 WL 3788790
+SIDNEY H. RIDDLE, Plaintiff, v. HUBBELL LIGHTING, INC., Defendant.
+Counsel:  [*1] For Sidney H. Riddle, Plaintiff: Jonathan Martin Rogers, FLOYD, VA.
+For Hubbell Lighting, Inc., Defendant: Teresa Burke Wright, LEAD ATTORNEY, JACKSON LEWIS, LLP, RESTON, VA.
+Judges: Samuel G. Wilson, UNITED STATES DISTRICT JUDGE.
+Opinion by: Samuel G. Wilson
+Opinion
+
+
+
+MEMORANDUM OPINION
+By: Samuel G. Wilson
+United States District Judge
+Plaintiff Sidney Riddle brings this action pursuant to the Americans with Disabilities Act of 1990 ("ADA"), 42 U.S.C. § 12101 et seq., and the Family and Medical Leave Act ("FMLA"), 29 U.S.C. § 2601 et seq., based on events that culminated with Hubbell Lighting, Inc. ("HLI"), terminating Riddle for falling asleep at work. Riddle claims that HLI failed to accommodate him in violation of the ADA, and refused to let him use the FMLA leave to which he was entitled. HLI has moved to dismiss Riddle's complaint pursuant to Federal Rule of Civil Procedure 12(b)(6), arguing that Riddle's claims are infirm in a number of areas. For example, HLI argues that Riddle is not a "qualified individual with a disability" under the ADA; that it is unreasonable under the ADA to (as Riddle has suggested) ask an employer to wake an employee every time he falls asleep at work; and that Riddle could have used  [*2] his FMLA but never tried. More fundamentally, however, HLI points out that the pleading rules require Riddle to allege sufficient facts to raise his "right to relief above the speculative level." 1 After reviewing Riddle's complaint, the court concludes that he has pled a plausible ADA claim, but has failed to allege sufficient facts in support of his FMLA claim. Accordingly, the court denies HLI's motion to dismiss in part, and grants it in part.
+
+I.
+According to Riddle, he has been working for HLI since 2008, most recently as a "manufacturing engineer." In July of 2010, Riddle was diagnosed with fibromyalgia, and he told HLI as much. Because of his condition, Riddle began sleeping poorly, grew tired at work, and "on one or two occasions fell asleep at his workstation." Compl. 2, ECF No. 1. This prompted Riddle to ask HLI for a leave determination under the FMLA. On January 19, 2012, HLI approved Riddle for FMLA leave that allowed him to "call in on any day that he felt that he was too tired to work or . . . notify his supervisor of any flare-ups of sleep deprivation which occurred after he arrived at work and he could then return  [*3] home." Id. at 3. According to Riddle, he also told his supervisor that he could ably perform his job if HLI accommodated him by waking him up when he fell asleep.
+The very next day, according to Riddle, HLI "claimed that he had fallen asleep at his work station," sent Riddle home, and suspended him. HLI terminated him three days later. Id. Riddle seeks a declaration that HLI violated his rights under the ADA and the FMLA, reinstatement to his former position, back pay, front pay, benefits, $300,000 in damages for emotional distress and humiliation, interest, costs, and fees.
+
+II.
+HLI argues that Riddle has failed to state a claim under the ADA for failure to accommodate. The court disagrees and denies HLI's motion to dismiss Riddle's ADA claim.
+A complaint must contain "enough facts to state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). To establish a prima facie case of failure to accommodate under the ADA, a plaintiff must show that he was disabled within the meaning of the statute, that his employer had notice of his disability, that he could perform the essential functions of his position with reasonable accommodation, and that  [*4] his employer refused to make such an accommodation. See Rhoads v. FDIC, 257 F.3d 373, 387 n.11 (4th Cir. 2001).
+Here, Riddle alleges that he had disabling fibromyalgia (which prevented him from sleeping), that HLI knew about his condition, and that he could satisfactorily perform his job if HLI would accommodate him by waking him up when fell asleep. He further alleges that he requested such accommodation and HLI refused to provide it. Though the court has previously noted that a plaintiff who could not stay awake at work would likely not be a "qualified" individual under the ADA, see Leschinskey v. Rectors and Visitors of Radford Univ., No. 7:11cv00189, 2011 U.S. Dist. LEXIS 122510, 2011 WL 5029813, at *2 n.4 (W.D. Va. Oct. 24, 2011), the court cannot say, on the record before it, that Riddle is unqualified. Construing Riddle's allegations in the light most favorable to him, he has stated a claim for failure to accommodate under the ADA. Accordingly, the court denies HLI's motion to dismiss Riddle's ADA claim.
+
+III.
+HLI argues that the court should dismiss Riddle's FMLA claim because he does not allege that he ever attempted to use his FMLA leave. The court agrees and dismisses Riddle's FMLA claim.
+In an FMLA case,  [*5] whether the employer had notice of the employee's intention to take leave is a question of critical importance. See, e.g., Rodriguez v. Smithfield Packing Co., 545 F. Supp. 2d 508, 516 (D. Md. 2008) ("To establish unlawful interference with an entitlement to FMLA benefits, an employee must prove that: (1) she was an eligible employee; (2) her employer was covered by the statute; (3) she was entitled to leave under the FMLA; (4) she gave her employer adequate notice of her intention to take leave; and (5) the employer denied her FMLA benefits to which she was entitled.") (emphasis added). Here, Riddle alleges that HLI had approved him for FMLA leave that would permit him to "call in on any day that he felt that he was too tired to work or . . . notify his supervisor of any flare-ups of sleep deprivation which occurred after he arrived at work and he could then return home." Compl. 3, ECF No. 1. Riddle's complaint omits to mention, however, that he attempted to do either of those things at any time. Without more, Riddle has not stated an FMLA claim. Accordingly, the court grants HLI's motion to dismiss Riddle's FMLA claim.
+
+IV.
+For the reasons stated, the court denies HLI's motion to dismiss  [*6] Riddle's ADA claim, and grants HLI's motion to dismiss Riddle's FMLA claim. 2
+ENTER: July 19, 2013.
+/s/ Samuel G. Wilson
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

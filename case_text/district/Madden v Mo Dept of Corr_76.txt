@@ -1,0 +1,64 @@
+Madden v. Mo. Dep't of Corr.
+United States District Court for the Western District of Missouri, Central Division
+July 25, 2011, Decided; July 25, 2011, Filed
+No. 2:11-cv-04087-FJG
+
+Reporter
+2011 U.S. Dist. LEXIS 80897 *; 2011 WL 3101826
+Andrew Madden, Plaintiff, v. Missouri Department of Corrections, et. al., Defendants.
+Counsel:  [*1] For Andrew Madden, Plaintiff: Grant R. Doty, LEAD ATTORNEY, Anthony E. Rothert, American Civil Liberties Union of Eastern MO, St. Louis, MO.
+For Missouri Department of Corrections, George Lombardi, Steve Long, Matt Sturm, Dave Dormire, Defendants: Cheryl Ann Schuetze, LEAD ATTORNEY, Jefferson City, MO.
+Judges: Fernando J. Gaitan, Jr., Chief United States District Judge.
+Opinion by: Fernando J. Gaitan, Jr.
+Opinion
+
+
+
+ORDER
+Pending before the Court is Defendants' Motion to Dismiss Plaintiff's Complaint pursuant to Fed R. Civ. P. 12(b)(6) (Doc. No. 11), and Plaintiff's Motion to Certify to Attorney General of the United States of America that Constitutionality of Title II of the American with Disabilities Act has been questioned. (Doc. No 14). We address these motions, in turn, below.
+
+I. Background
+Plaintiff Andrew Madden is an inmate at the Jefferson City Correctional Center (JCCC). (Doc. 1, ¶ 1, 3). In April 2006, while Madden was an inmate at the South Central Correctional Center, prison officials agreed to allow him to buy with his own funds an electric wheelchair. Later on, Madden was transferred to the JCCC and JCCC officials allowed him to continue to use his electric wheelchair. Madden would like to replace his aging  [*2] electric wheelchair with a new one, but prison officials have refused, telling him that he may repair the one he currently uses or be pushed manually by another inmate or staff member. Madden has brought suit under Title II of the American with Disabilities Act (42 U.S.C. § § 12131 - 12134) and Section 504 of the Rehabilitation Act (29 U.S.C. § 794), seeking injunctive relief to compel Defendants to allow Madden to purchase a replacement electric wheelchair.
+Defendants have filed a motion to dismiss under Rule 12(b)(6), arguing that Madden has failed to state a claim for which relief can be granted. Defendants contend that the complaint is legally insufficient because: (1) the defendants are immune from suit under the Eleventh Amendment; and (2) plaintiff has failed to state all essential elements of a claim either under the American with Disabilities Act or the Rehabilitation Act.
+
+II. Motion to Dismiss Under Rule 12(b)(6).
+
+A. Standard
+Rule 8(a)(2) of the Federal Rules of Civil Procedure requires a "short and plain statement of the claim showing that the pleader is entitled to relief." To survive a motion to dismiss under Rule 12(b)(6), "a complaint must contain sufficient factual matter,  [*3] accepted as true, to state a claim for relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). A pleading that merely offers "labels and conclusions," or a "formulaic recitation" of the elements of a cause of action, or "naked assertions" devoid of factual enhancement will not suffice. Id. (quoting Twombly, 550 U.S. at 557). Determining whether a claim is plausible is a "context-specific task that requires the reviewing court to draw on its judicial experience and common sense." Iqbal 129 S.Ct. at 1950. Under Fed. R. Civ. P. 12(b)(6), we must accept the plaintiff's factual allegations as true and grant all reasonable inferences in the plaintiff's favor. Berry v. Time Ins. Co., No. CIV 11-4018-KES, 2011 U.S. Dist. LEXIS 70256, 2011 WL 2566129, *2 (D.S.D. June 28, 2011).
+
+B. Analysis
+
+1. Immunity Under the Eleventh Amendment.
+Defendants first claim that plaintiff's suit must be dismissed because defendants are entitled to immunity under the Eleventh Amendment. The Eighth Circuit has consistently held that private individuals can sue prison officials in their official capacities for injunctive, prospective relief under the  [*4] ADA and Rehabilitation Act. See Randolph v Rodgers, 253 F.3d 342, 344 (8th Cir. 2001). The cases cited by defendants consider whether the American with Disabilities Act validly abrogates state sovereign immunity for private causes of action for monetary damages. See United States v Georgia, 546 U.S. 151, 126 S. Ct. 877, 163 L. Ed. 2d 650 (2006); Klingler v Dir., Dep't of Revenue, Mo., 455 F.3d 888, 893 (8th Cir. 2006). Madden is seeking injunctive, prospective relief against prison officials in their official capacities, and therefore, dismissal based on immunity grounds is not warranted. See Randolph, 253 F.3d at 344.
+
+2. Failure to State a Claim
+To establish a violation of Title II of the ADA, a plaintiff must allege: (1) that he is a qualified individual with a disability; (2) that he was excluded from participation in or denied the benefits of the prison's services, programs, or activities, or was otherwise subjected to discrimination by the prison; and (3) that such exclusion was by reason of his disability. Randolph v Rodgers, 170 F.3d 850, 858 (8th Cir. 1999); Baribeau v City of Minneapolis, 596 F.3d 465, 484 (8th Cir. 2010). The Rehabilitation Act contains the additional requirement that the plaintiff show the program  [*5] or activity which he is excluded receives federal financial assistance. Randolph, 170 F.3d at 858.
+
+a. Medical Treatment Decision.
+Defendants first claim that Madden has failed to state a claim under either Act because the decision to deny him the use of an electric wheelchair is a medical treatment decision not governed by the ADA or Rehabilitation Act. It is true that a lawsuit under the American Disabilities Act or Rehabilitation Act cannot be based on medical treatment decisions. Burger v Bloomberg, 418 F.3d 882, 883 (8th Cir. 2005). Madden alleges in his complaint that he currently uses an electric wheelchair. (Doc. No. 1, ¶ 2). There is nothing in the record before us that defendants' decision to discontinue this practice was based on a medical decision. Cf. McElroy v Patient Selection Committee of the Neb. Med. Ctr., 2007 U.S. Dist. LEXIS 86321, 2007 WL 4180695, at *2 (D. Neb. Nov. 21, 2007), aff'd per curiam, No. 07-3877, 2009 U.S. App. LEXIS 417, 2009 WL 50176 (8th Cir. Jan. 9, 2009) (evidence established plaintiff denied kidney transplant because of legitimate medical reason).
+
+b. Denial of a benefit or service.
+Defendants next claim that Madden has failed to state a claim under either Act because there is no factual or rational basis  [*6] for establishing the second element of an ADA claim. 1 Specifically, defendants explain that there can be no difference in Madden's opportunities to participate in the prison's services, programs, or activities if he is powered by a person or a motor. Defendants also direct this court to Moore v Curtis, 68 F.Appx. 561 (6th Cir. 2003), as support for their argument that the use of an inmate pusher ( as opposed to the use of an electric wheelchair) does not violate the ADA or Rehabilitation Act.
+Madden has alleged sufficient facts to permit this court to conclude that his claim under the ADA is plausible. Madden has alleged that defendants refusal to allow him to continue to use an electric wheelchair will prevent him "the opportunity to participate in services, programs and activities at the JCCC." (Doc. No. 1, ¶ 29). Madden identifies the affected services, programs, and activities: "the dining hall; medical services; educational programs; use of the library; use of the gym and "yard" for recreation; social meetings such as Vietnam Veterans of America;  [*7] and religious activities and functions." (Doc. No. 1, 22). Finally, Madden alleges that he has been discrimination based on his disability by not allowing him to replace his electric wheelchair. (Doc. No. 1, ¶ 38)
+Madden is not required to set forth detailed facts to allege the difference between an electric wheelchair and a pusher at this stage of the proceedings. See Gardner v First Am. Title Ins. Co., 294 F.3d 991, 994 (8th Cir. 2002) (detailed facts not required). The ADA and RA require that qualified individuals receive "meaningful access" to programs and activities. Randolph, 170 F.3d at 858. Madden's allegation that the refusal to allow him to continue to use his electric wheelchair will deny him meaningful access to programs and activities is sufficient. See, e.g., Flynn v Doyle, 672 F.Supp.2d 858, 879 (E.D. Wisc. 2009) (use of wheelchair pusher may not provide inmate meaningful access to programs and activities).
+Defendants' arguments focus on whether Madden can ultimately prevail on the merits. In Baribeau v City of Minneapolis, the Minnesota district court considered arguments similar to those raised by the defendants here. No. 06-4953, 2007 U.S. Dist. LEXIS 52850, 2007 WL 2123307 (D. Minn. 2007).2 The  [*8] plaintiff in Baribeau brought an ADA claim after his prosthetic leg was removed during a two-day incarceration in the Hennepin County Jail. 2007 U.S. Dist. LEXIS 52850, [WL] at * 1. The plaintiff alleged that he "had to remain in a wheelchair while he was in jail, whereas he could have otherwise functioned normally." Id. After filing suit under the ADA, defendants filed a motion to dismiss arguing that because the plaintiff was in a wheelchair and in an ADA compliant cell he could not allege that he was denied any public benefit because of his disability. 2007 U.S. Dist. LEXIS 52850, [WL] at *2. The district court, adopting the report and recommendation of the magistrate judge, held that plaintiff's complaint survived a motion to dismiss. 2007 U.S. Dist. LEXIS 52850, [WL] at *3. The court emphasized that plaintiff's complaint satisfied the minimal requirements of Rule 8 and that defendant's arguments were addressed more to whether plaintiff could ultimately prevail on the merits. Id. Likewise, defendants citation to Moore v Curtis, is not helpful as that case was also decided on summary judgment. 68 Fed. Appx. at 561.
+
+c. Reasonable accommodation.
+Along similar lines, defendants argue that Madden has failed to state a claim because he has not alleged how the use of a pusher instead of a motor "are not unreasonable ways to accommodate plaintiff's desires to access the benefits at JCCC." Although reasonable accommodation is an affirmative defense to a claim under the ADA and RA, establishing lack of reasonable accommodation is not part of Madden's burden in stating a claim for relief. See Baribeau, No. 06-4953, 2007 U.S. Dist. LEXIS 52850, 2007 WL 2123307 at * 4 (failure of reasonable accommodation is an issue for summary judgment, not Rule 12 motion to dismiss); Mason v Correctional Medical Svs., 559 F.3d 880 (8th Cir. 2009)(deciding question of reasonable accommodation at summary judgement stage).
+
+III. Plaintiff's Motion to Certify to Attorney General
+Plaintiff filed a motion for entry of an order certifying to the Attorney General of the United States that the constitutionality of Title II of the American with Disabilities Act has been  [*10] questioned. Plaintiff asserts that such an order is required because defendants have asserted that Congress did not validly abrogate the State's Eleventh Amendment immunity in cases when a violation of Title II does not rise to the level of an independent constitutional violation. (Doc. No. 14)
+Rule 5.1 compels any party challenging the constitutionality of a federal statute to provide notice to the appropriate attorney general that a statute has been questioned." Defendants neither filed a notice under Rule 5.1(a) nor responded to plaintiff's motion. However, we do not read defendants' argument concerning sovereign immunity as questioning the constitutionality of the Age Discrimination Act or Rehabilitation Act such that notice under Rule 5.1 is required. Plaintiff's motion to certify under Rule 5.1 is DENIED. (Doc. No. 14).
+
+III. Conclusion
+Therefore, for the foregoing reasons: (1) Defendants' Motion to Dismiss (Doc. No. 11) is DENIED; and (2) Plaintiff's Motion to Certify Under Rule 5.1 (Doc. No. 14) is DENIED.
+IT IS SO ORDERED.
+/s/ FERNANDO J. GAITAN, JR.
+Fernando J. Gaitan, Jr.
+Chief United States District Judge
+Dated: July 25, 2011
+Kansas City, Missouri
+
+
+End of Document
+

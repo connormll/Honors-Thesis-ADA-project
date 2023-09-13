@@ -1,0 +1,80 @@
+Saeedy v. Regents of the Univ. of Cal.
+United States District Court for the Central District of California
+April 12, 2022, Decided; April 12, 2022, Filed
+Case No. 8:21-cv-01911-DOC-JDE
+
+Reporter
+2022 U.S. Dist. LEXIS 109559 *; 2022 WL 2189540
+NOAH ARIA SAEEDY v. THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+Subsequent History: Dismissed by Saeedy v. California, 2022 U.S. Dist. LEXIS 237149, 2022 WL 18284994 (C.D. Cal., June 13, 2022)
+Counsel:  [*1] For Noah Aria Saeedy, Plaintiff: Mandy G Leigh, Leigh Law Group PC, San Francisco, CA; Damien Berkes Troutman, Leigh Law Group PC, San Francisco, CA; Jay T Jambeck, LEAD ATTORNEY, Leigh Law Group PC, San Francisco, CA.
+For The Regents of the University of California, Defendant: Erika Lynn Shao, Gordon Rees Sccully Mansukhani LLP, Los Angeles, CA; Nicole Lomibao, LEAD ATTORNEY, Gordon Rees Sully Mansukhani LLP, Los Angeles, CA; Stephen E Ronk, Gordon Rees Scully Mansukhani LLP, Los Angeles, CA.
+Judges: HONORABLE DAVID O. CARTER, JUDGE.
+Opinion by: DAVID O. CARTER
+Opinion
+
+
+
+CIVIL MINUTES - GENERAL
+
+PROCEEDINGS (IN CHAMBERS): ORDER GRANTING MOTION TO DISMISS [11]
+Before the Court is Defendant Regents of the University of California's ("Defendant") Motion to Dismiss ("Motion" or "Mot.") (Dkt. 11). Having reviewed the papers and considered the parties' arguments, the Court GRANTS Defendant's Motion to Dismiss and DISMISSES Plaintiff's Complaint. The hearing scheduled for April 13, 2022, is VACATED.
+
+I. Background
+
+A. Facts
+Plaintiff Noah Aria Saeedy's ("Plaintiff") matriculated at the University of California, Irvine ("UCI") in 2007 to obtain a Bachelor of Arts degree in political science. Complaint ("Compl.") (Dkt. 1-1) ¶ 5. Prior [*2]  to matriculation, Plaintiff was diagnosed with Dyscalculia, which is a disorder that affects 3-6% of the population and manifests as difficulty in performing mathematical calculations Id. ¶¶ 6, 8. Dyscalculia does not affect other cognitive abilities. Id. ¶ 6. In 2007, Plaintiff approached disability services and was told by the director that she did not believe Dyscalculia was a disabling condition. Id. ¶ 7. In 2008, Plaintiff provided Defendant with a report which demonstrated Plaintiff performed mathematics at about a fourth-grade level. Id. ¶ 8.
+Plaintiff requested, and was continually denied, waiving the departmental mathematics requirement as a reasonable accommodation. Id. ¶¶ 9-11. Plaintiff has completed all other degree requirements, except the departmental mathematics requirement. Id. ¶ 10. Plaintiff is still enrolled at UCI. Id. ¶ 13.
+Further, Plaintiff alleges that on October 6, 2017, "then-Associate Dean Mark Petracca wrote an email to then-Dean William Mauer that Plaintiff was the 'kid who claims to be the bastard grandson of the former Shah of Iran,' to which then-Dean William Mauer responded in a denigrating manner and ended with 'let's just hope he leaves us alone.'" [*3]  Id. ¶ 23.
+In 2018, Plaintiff engaged in the interactive process with representatives from the School of Humanities to determine if he could obtain a degree in that program, but was advised that the mathematics course was a requirement that would not be waived. Id. ¶12.
+Defendant advised Plaintiff that the math requirement would not be waived, and instead, Plaintiff "could either take a 3-course series in Linguistics or Philosophy . . . [or] a 2-course equivalent (semester courses) from a community college . . . [and Defendant] will evaluate whether such courses could serve to meet the math requirement." Joint Rule 26(f) Report (Dkt. 23).
+
+B. Procedural History
+On April 22, 2022, Plaintiff filed a Complaint in Orange County Superior Court alleging that Defendant violated the Americans with Disabilities Act § 12131, et seq. and California Education Code § 220. See generally, Compl. Defendant then removed the action on November 19, 2021. Notice of Removal (Dkt. 1).
+On December 17, 2021, Defendant filed the instance Motion to Dismiss, which Plaintiff opposed ("Opp'n") (Dkt. 21) on March 7, 2022. On March 14, 2022, Defendant replied ("Reply") (Dkt. 22).
+
+II. Legal Standard
+
+A. Motion to Dismiss
+Under Federal Rule of Civil Procedure 12(b)(6), a complaint must be dismissed when a plaintiff's allegations fail to set forth a set [*4]  of facts that, if true, would entitle the complainant to relief. Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009); Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (holding that a claim must be facially plausible in order to survive a motion to dismiss). The pleadings must raise the right to relief beyond the speculative level; a plaintiff must provide "more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." Twombly, 550 U.S. at 555 (citing Papasan v. Allain, 478 U.S. 265, 286, 106 S. Ct. 2932, 92 L. Ed. 2d 209 (1986)). On a motion to dismiss, a court accepts as true a plaintiff's well-pleaded factual allegations and construes all factual inferences in the light most favorable to the plaintiff. See Manzarek v. St. Paul Fire & Marine Ins. Co., 519 F.3d 1025, 1031 (9th Cir. 2008). A court is not required to accept as true legal conclusions couched as factual allegations. Iqbal, 556 U.S. at 678.
+In evaluating a Rule 12(b)(6) motion, review is ordinarily limited to the contents of the complaint and material properly submitted with the complaint. Van Buskirk v. Cable News Network, Inc., 284 F.3d 977, 980 (9th Cir. 2002); Hal Roach Studios, Inc. v. Richard Feiner & Co., Inc., 896 F.2d 1542, 1555, n.19 (9th Cir. 1990). Under the incorporation by reference doctrine, the court may also consider documents "whose contents are alleged in a complaint and whose authenticity no party questions, but which are not physically attached to the pleading." Branch v. Tunnell, 14 F.3d 449, 454 (9th Cir. 1994), overruled on other grounds by Galbraith v. Cnty. of Santa Clara, 307 F.3d 1119, 1121 (9th Cir. 2002). The court may treat such a document as "part of the complaint, and thus may assume that its contents are true for purposes of a motion [*5]  to dismiss under Rule 12(b)(6)." United States v. Ritchie, 342 F.3d 903, 908 (9th Cir. 2003).
+When a motion to dismiss is granted, the court must decide whether to grant leave to amend. The Ninth Circuit has a liberal policy favoring amendments, and thus leave to amend should be freely granted. See, e.g., DeSoto v. Yellow Freight Sys., Inc., 957 F.2d 655, 658 (9th Cir. 1992). However, a court need not grant leave to amend when permitting a plaintiff to amend would be an exercise in futility. See, e.g., Rutman Wine Co. v. E. & J. Gallo Winery, 829 F.2d 729, 738 (9th Cir. 1987) ("Denial of leave to amend is not an abuse of discretion where the pleadings before the court demonstrate that further amendment would be futile.").
+
+B. Declining Supplemental Jurisdiction
+28 U.S.C.A. § 1367(c)(3) provides that a district court may decline to exercise jurisdiction over supplemental state-law claims if the court has dismissed all claims over which it has original jurisdiction. Although the district court may retain jurisdiction over the state-law claims remaining after a dismissal, especially where judicial resources have been expended, in the usual case in which all federal law claims are eliminated before trial, the factors of judicial economy, convenience, fairness, and comity weigh in favor of declining supplemental jurisdiction. Carnegie-Mellon University v. Cohill, 484 U.S. 343, 350 n.7, 108 S. Ct. 614, 98 L. Ed. 2d 720 (1988).
+The Ninth Circuit has affirmed that this Court may decline jurisdiction and dismiss without prejudice [*6]  state law claims "[w]here [the] district court dismisses a federal claim, leaving only state claims for resolution . . . ." Wade v. Reg'l Credit Assn., 87 F.3d 1098, 1101 (9th Cir. 1996).
+
+III. Discussion
+Plaintiff's action alleges that Defendant violated the Americans with Disabilities Act § 12131, et seq. and California Education Code § 220. See generally, Compl.
+Defendant argues that (1) both claims are time barred; (2) waiving the departmental math requirement is not a reasonable accommodation; and (3) Plaintiff has failed to demonstrate he "suffered severe, pervasive, and offensive discrimination or harassment on the basis of disability and/or race" as required by Cal. Ed. Code Section 220. Mot. at 4, 8-11.
+In contrast, Plaintiff argues that (1) both claims are timely; (2) whether waiving the departmental math requirement is a reasonable accommodation is an affirmative defense requiring factual development and should not be decided on a motion to dismiss; and (3) in regard to the violation of Section 220, Defendant erroneously uses the standard for peer-to-peer harassment, but Plaintiff has not alleged peer-to-peer harassment. Opp'n at 4, 6, 7-11.
+The Court will first address whether Plaintiff's ADA claim falls outside the statute of limitations.
+
+A. Plaintiff's ADA Claim is Outside the Statute of Limitations
+Plaintiff was first denied his request for accommodations [*7]  in 2008, approximately thirteen years ago. See Compl. ¶ 9-11. Plaintiff subsequently submitted similar requests for the university to waive the departmental math requirement, all of which were also denied. Id. Plaintiff argues that meeting with Defendant's representatives in April 2018 to discuss whether the math requirement would be waived, creates the inference that "the interactive process was still ongoing and therefore the complaint was timely brought within three years of the date of that interactive process meeting." Opp'n at 5.
+
+i. The ADA Claim Accrued in 2008
+The statute of limitations to bring an ADA claim is three years. See Sharkey v. O'Neal, 778 F.3d 767, 773 (9th Cir. 2015) (holding that the statute of limitations for claims under Title II of the ADA and Section 504 is generally three years). In the Ninth Circuit, "an act must be 'discrete' or 'independently wrongful' to cause a new claim to accrue. If the act is merely the 'delayed, but inevitable, consequence' of a prior discriminatory act, it will not cause a new statute of limitations to run." Ervine v. Desert View Reg'l Med. Ctr. Holdings, LLC, 753 F.3d 862, 870 (9th Cir. 2014) (internal citation omitted).
+"Under federal law, a claim accrues when the plaintiff knows or has reason to know of the injury which is the basis of the action." Knox v. Davis, 260 F.3d 1009, 1013 (9th Cir. 2001) (internal quotation marks and citation omitted). [*8]  Here, Plaintiff first engaged in the interactive process by requesting the departmental mathematics requirement be waived in 2008, and continued to make the same request for approximately thirteen years. Compl. ¶¶ 9-11. Plaintiff's continuing requests did not pertain to any "independently wrongful" act. Instead, the requests all related to one single event: Defendant's complete denial of waiving the math requirement in 2008. Thus, Plaintiff's ADA claim regarding the request that the mathematics requirement be waived, accrued in 2008.
+
+ii. Equitable Estoppel
+Plaintiff argues that meeting with the Defendant's representatives in April 2018 "provides a sufficient basis to equitably estop [Defendant] from arguing" the statute of limitations has long passed. Opp'n at 5-6. Based on the facts currently contained in the Complaint, the Court is not persuaded that equitable estoppel applies.
+The traditional elements of equitable estoppel are: "(1) the party to be estopped must know the facts; (2) he must intend that his conduct shall be acted on or must so act that the party asserting the estoppel has a right to believe it is so intended; (3) the latter must be ignorant of the true facts; and (4) [*9]  he must rely on the former's conduct to his injury." Gabriel v. Alaska Elec. Pension Fund, 773 F.3d 945, 955 (9th Cir. 2014) (quoting Greany v. W. Farm Bureau Life Ins. Co., 973 F.2d 812, 821 (9th Cir. 1992)).
+To recall, Plaintiff first engaged in the interactive process by requesting the departmental mathematics requirement be waived in 2008, and continued to make the same request for approximately thirteen years. Compl. ¶¶ 9-11. Defendant consistently denied the request. Id. ¶ 9.
+Even accepting all the facts in the Complaint as true and in the light most favorable to Plaintiff, there is nothing in the record to suggest that Defendant would ever waive the math requirement. Plaintiff does not describe how frequently he made his request for a waiver, nor does he describe why Defendant denied the request, or if Defendant offered any other accommodations. And significantly, Plaintiff "fails to allege that [Defendant] made any affirmative misrepresentations from January 2008 to April 30, 2018 related to the waiver of the math requirement that dissuaded him from filing an action." Reply at 5. Plaintiff's current Complaint simply states that Defendant "consistently" denied Plaintiff's request for accommodation since 2008. Compl. ¶ 9. This bare factual statement alone does not support a finding that Plaintiff reasonably relied on the [*10]  waiver being granted, particularly when his request was rejected consistently over the years. Accordingly, the doctrine of equitable estoppel does not apply based on the current pleadings.
+Because equitable estoppel does not apply and Plaintiff has surpassed the statute of limitations, the Court GRANTS Defendant's Motion to Dismiss and DISMISSES WITHOUT PREJUDICE.
+
+B. Declining Supplemental Jurisdiction of Cal. Ed. Code § 220
+Because the Court dismisses the only federal claim, the Court declines to grant supplemental jurisdiction over Plaintiff's remaining state law claim and dismisses the claim without prejudice. Wade v. Reg'l Credit Assn., 87 F.3d 1098, 1101 (9th Cir. 1996).
+
+IV. Disposition
+For the reasons set forth above, the Court GRANTS Defendant Regents of the University of California's Motion to Dismiss.
+Plaintiff Noah Aria Saeedy's claim for the violation of the Americans with Disabilities Act § 12131 is DISMISSED WITHOUT PREJUDICE;
+Plaintiff Noah Aria Saeedy's claim for the violation of California Education Code § 220 is DISMISSED WITHOUT PREJUDICE.
+Plaintiff has until April 22, 2022 to file an amended complaint if he chooses to do so.
+The hearing scheduled for April 13, 2022, is VACATED.
+The Clerk shall serve this minute order on the parties.
+
+
+End of Document
+

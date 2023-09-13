@@ -1,0 +1,113 @@
+Rodriguez v. Steven Schor, Inc.
+United States District Court for the Eastern District of New York
+January 21, 2011, Decided; January 21, 2011, Filed
+09 CV 2197 (NGG)(LB)
+
+Reporter
+2011 U.S. Dist. LEXIS 18176 *; 2011 WL 743476
+JOSE M. RODRIGUEZ, Plaintiff, -against- STEVEN SCHOR, INC., Defendant.
+Subsequent History: Adopted by, Summary judgment granted by Rodriguez v. Steven Schor, 2011 U.S. Dist. LEXIS 18514 (E.D.N.Y., Feb. 22, 2011)
+Counsel:  [*1] Jose M. Rodriguez, Plaintiff, Pro se, New York, NY.
+For Steven Schor, Inc., Defendant: Michael T. Hopkins, LEAD ATTORNEY, Hopkins & Kopilow, Garden City, NY.
+Judges: LOIS BLOOM, United States Magistrate Judge.
+Opinion by: LOIS BLOOM
+Opinion
+
+
+
+REPORT AND RECOMMENDATION
+BLOOM, United States Magistrate Judge:
+Plaintiff, Jose Rodriguez, brings this pro se action against his former employer, Steven Schor, Inc., pursuant to the Americans with Disabilities Act, 42 U.S.C. § 12101, et seq. ("ADA"). Plaintiff alleges that defendant discriminated against him on the basis on his disability when defendant terminated his employment and failed to accommodate his disability. Defendant moves for summary judgment pursuant to Rule 56 of the Federal Rules of Civil Procedure. The Honorable Nicholas G. Garaufis referred defendant's motion to me for a Report and Recommendation pursuant to 28 U.S.C. § 636(b). For the following reasons, it is respectfully recommended that defendant's motion for summary judgment should be granted.
+
+BACKGROUND
+Plaintiff was employed as a fabric stretcher from 1996 to 2007 by defendant, a clothing manufacturer and importer. (Statement Pursuant to Local Rule 56.1(a) ("Def.'s 56.1 Statement"), ¶¶2, 4. 1) Defendant employed  [*2] a total of twenty-five workers, including three fabric stretchers. (Def.'s 56.1 Statement, ¶3.) As a fabric stretcher, plaintiff carried bundles of fabric, each weighing between sixty and seventy pounds, and lifted them onto a stretching table. 2 (Id. at ¶¶8-9.) Once the fabric was placed on the table, the fabric stretcher walked around the table to stretch and cut the fabric. (Id. at ¶10.) It is clear from the record that plaintiff was a hardworking, valued employee who loved his job. (Declaration of Michael T. Hopkins ("Hopkins Decl.") at Ex. K, pp. 19-20, 36.)
+On June 4, 2007, plaintiff injured his right leg and lower back while lifting a one hundred fifty pound roll of fabric at work. (Compl. ¶¶7-8.) Plaintiff continued to work for defendant until June 13, 2007. (Def.'s 56.1 Statement, ¶4.) By that time, plaintiff's leg and back pain was intolerable and he stopped working. (Hopkins Decl. at Ex. K, p. 23.) Sometime during July 2007, plaintiff informed the company that he could not return to work due to his physical  [*4] condition. (Affidavit of Steven Behar ("Behar Aff."), ¶16.) Plaintiff applied for workers' compensation and Social Security disability benefits. (Hopkins Decl. at Ex. K, p. 29.) The Workers' Compensation Board of the State of New York found plaintiff to be partially disabled and plaintiff received temporary workers' compensation benefits from the date of the accident through at least the date of his deposition on February 8, 2010. (Hopkins Decl. at Ex. B; Behar Aff., ¶¶27-33.)
+In January 2008, plaintiff asked Steven Schor if he could return to his job as a fabric stretcher because he was in need of income to support his family. (Behar Aff., ¶44; Hopkins Decl. at Ex, K, pp. 37-38.) Schor advised plaintiff that he could not return to his previous job because the company had decided not to fill that position. (Behar Aff., ¶44; Hopkins Decl. at Ex. K, p. 38.) At that time, plaintiff did not request reassignment to another position or any other accommodation of his disability. (Behar Aff, at ¶47.) Although plaintiff told Schor that he was medically cleared to return to work, plaintiff later admitted at his deposition that he could not lift anything weighing more than twenty pounds, had trouble  [*5] walking, and could not stand or sit for more than ten to thirty minutes at a time. (Hopkins Decl. at Ex. D; Def.'s 56.1 Statement, ¶¶18, 22, 27.) Plaintiff believed that other employees who had left the company were provided nine weeks of severance pay plus vacation days. (Hopkins Decl. at Ex. K, p. 45.) Plaintiff asked Schor for severance pay and was offered four weeks of severance pay. (Hopkins Decl. at Ex. K, p. 39; Hopkins Decl. at Ex. G, p. 2.)
+Plaintiff filed a complaint with the New York State Division of Human Rights on January 17, 2008. (Hopkins Decl. at Ex. J.) Plaintiff alleged that defendant discriminated against him on the basis of his disability when defendant refused to give him his job back in January 2008. (Hopkins Decl. at Ex. D.) Upon receiving his right to sue letter on April 29, 2009 from the Equal Employment Opportunity Commission, plaintiff commenced this pro se action on May 13, 2009. (Docket Entry 1.) Defendant answered the complaint on October 1, 2009, and the parties conducted discovery. 3 (Docket Entry 5.) Defendant now moves for summary judgment. 4 (Docket Entry 12.) Plaintiff has not opposed defendant's motion.
+
+DISCUSSION
+
+I. Standard of Review
+Summary judgment "should be rendered if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(c). A fact is material if it is one that "might affect the outcome of the suit under the governing law." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). "An issue of fact is 'genuine' if 'the evidence is such that a reasonable jury could return a verdict for the nonmoving party.'" McCarthy v. Dun & Bradstreet Corp., 482 F.3d 184, 202 (2d Cir. 2007) (quoting Anderson, 477 U.S. at 248); see also Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986); Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 586-87, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986). "The trial court's function in deciding such a motion is not to weigh the evidence or resolve issues of fact, but to decide instead whether, after resolving all  [*7] ambiguities and drawing all inferences in favor of the nonmoving party, a rational juror could find in favor of that party." Pinto v. Allstate Ins. Co., 221 F.3d 394, 398 (2d Cir. 2000); see also Baker v. The Home Depot, 445 F.3d 541, 543 (2d Cir. 2006) (resolving all ambiguities and drawing all inferences in favor of the non-moving party on summary judgment). For the purposes of defendant's motion for summary judgment, even though plaintiff has not opposed the motion, the facts are still viewed in the light most favorable to plaintiff.
+"[A]n opposing party may not rely merely on allegations or denials in its own pleading; rather, its response must - by affidavits or as otherwise provided in this rule - set out specific facts showing a genuine issue for trial." Fed. R. Civ. P. 56(e)(2); see Matsushita, 475 U.S. at 586-87. In other words, the non-moving party must provide "affirmative evidence" from which a jury could return a verdict in its favor. Anderson, 477 U.S. at 257. "Conclusory allegations, conjecture, and speculation . . . are insufficient to create a genuine issue of fact." Niagara Mohawk Power Corp. v. Jones Chem., Inc., 315 F.3d 171, 175 (2d Cir. 2003) (quoting Kerzer v. Kingly Mfg., 156 F.3d 396, 400 (2d Cir. 1998)).  [*8] Moreover, "[t]he 'mere existence of a scintilla of evidence' supporting the non-movant's case is also insufficient to defeat summary judgment." Id. (quoting Anderson, 477 U.S. at 252). Here, because plaintiff is proceeding pro se, we read his papers "liberally and interpret them to raise the strongest arguments that they suggest." Brownell v. Krom, 446 F.3d 305, 310 (2d Cir. 2006) (quoting Jorgensen v. Epic/Sony Records, 351 F.3d 46, 50 (2d Cir. 2003) (internal quotation marks omitted)). Even though plaintiff has not opposed defendant's motion, the Court must still determine whether defendant is entitled to judgment as a matter of law. See Amaker v. Foley, 274 F.3d 677, 681 (2d Cir. 2001) (Where the non-moving party "chooses the perilous path of failing to submit a response to a summary judgment motion, the district court may not grant the motion without first examining the moving party's submission to determine if it has met its burden of demonstrating that no material issue of fact remains for trial."); Champion v. Artuz, 76 F.3d 483, 486 (2d Cir. 1996) ("The fact that there has been no response to a summary judgment motion does not, of course, mean that the motion is to be granted  [*9] automatically.").
+
+II. Americans with Disabilities Act Claims
+
+A. Discriminatory Discharge
+The ADA provides that "no covered entity shall discriminate against a qualified individual with a disability because of the disability of such individual in regard to . . . the hiring, advancement, or discharge of employees . . . and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). 5
+ADA employment discrimination claims are subject to the familiar burden-shifting analysis established by the Supreme Court in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973): A plaintiff must establish a prima facie case; the employer must offer through the introduction of admissible evidence a legitimate non-discriminatory reason for the discharge; and the plaintiff must then produce evidence and carry the burden of persuasion that the proffered reason is a pretext. To establish a prima facie case under the ADA, a plaintiff must show by a preponderance of the evidence that: (1) his employer is subject to the ADA; (2) he was disabled within the meaning of the ADA; (3) he was otherwise qualified to perform the essential functions of his job, with or without reasonable accommodation; and  [*10] (4) he suffered adverse employment action because of his disability.
+Sista v. CDC Ixis N. Am., Inc., 445 F.3d 161, 169 (2d Cir. 2006) (citations and internal quotation marks omitted).
+It is undisputed that defendant is an employer subject to the ADA pursuant to 42 U.S.C. § 12111(5)(A). (Def.'s 56.1 Statement, ¶3.) Moreover, for the purposes of the instant motion, defendant concedes that plaintiff is disabled within the meaning of the ADA. (Defendant's Memorandum of Law in Support of its Rule 56 Motion ("Def.'s Mem."), p.  [*11] 7.) Defendant argues, however, that plaintiff fails to establish a prima facie claim of discrimination because plaintiff cannot perform the essential functions of the job with or without accommodation.
+On the instant record, there is no issue of material fact regarding plaintiff's ability to perform the essential functions of his job as a fabric stretcher with or without accommodation. In determining whether a job function is essential, "consideration shall be given to the employer's judgment as to what functions of a job are essential." 42 U.S.C. § 12111(8). Defendant has produced evidence that the essential functions of a fabric stretcher are: 1) the physical ability to lift and carry bundles of fabric weighing between sixty and seventy-five pounds; 2) the physical ability to lift the bundles about three-feet above the ground onto a stretching table; and 3) the physical ability to continuously walk around the seventy foot long table to stretch and cut the fabric. (Def.'s 56.1 Statement, ¶¶8-10.) Plaintiff does not contest that these are the essential functions of his job. (Hopkins Decl. at Ex. K, pp. 19-22.)
+The instant record demonstrates that plaintiff could not perform the essential  [*12] functions of his job as a fabric stretcher from June 13, 2007 through at least the date of his deposition in February 2010. In fact, plaintiff repeatedly admitted during his deposition that he could not perform the essential functions of the job.
+
+Q: Do you have trouble walking?
+A: Yes, I have problems when I lift up things and I cannot walk much.
+Q: And you also have trouble lifting things?
+A: No, I can't.
+Q: I don't think you understood the question, let me try it again. Can you lift things; yes or no?
+A: I can lift things that are under twenty pounds but anything heavier than that I can't. And I cannot bend down after two minutes, my back starts hurting.
+(Hopkins Decl. at Ex. K, p. 10.)
+Q: Can you lift those things; thirty, fifty, sixty, 120 pounds, today?
+A: No.
+Q: When was the last time that you were able to lift that much weight, the last time?
+A: June 18th.
+Q: What year is that?
+A: 2007.
+(Id. at p. 23.)
+Q: How long can you stand before it starts to hurt?
+A: Half an hour, the most. Then I have to sit down, then half hour sitting, then I have to stand up because it hurts.
+(Id. at p. 25.)
+Q: Could you stand seven hours today straight, doing the same kind of work that you did for the company?
+A: No,  [*13] no.
+Q: The work that you did at the company, could that be done sitting down?
+A: No.
+Q: You had to be able to stand, is that right?
+A: And walk.
+(Id. at p. 27.)
+Q: So Mr. Rodriguez, if the company was to give you back your job, could you accept it?
+A: No. If I was healthy, I would accept it because I love the job more than eating...
+Q; But you couldn't accept it because you were in so much pain; is that right?
+A: Because I feel too much pain, that is the problem. Because otherwise if I had work I would be working already.
+(Id. at pp. 36-37.)
+From his deposition testimony, it appears that plaintiff believed that he was entitled to compensation under the ADA because he was injured on the job and could no longer work. However, a claim of discrimination under the ADA is entirely different than a workers' compensation or Social Security disability claim. 6 As plaintiff has failed to demonstrate that he can perform the essential functions of the job, he cannot establish a prima facie claim of discrimination under the ADA. Accordingly, defendant's motion for summary judgment should be granted on plaintiff's discriminatory discharge claim under the ADA.
+
+B. Reasonable Accommodation
+Discrimination under the ADA includes "not making reasonable accommodation to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity." 42 U.S.C. § 12112(b)(5)(A).
+
+Where [] a disabled plaintiff claims that he can perform a particular job with a reasonable accommodation, the prima facie burden requires a showing that (1) plaintiff is a person with a disability under the meaning of the ADA; (2) an employer covered by the statute had notice of his disability; (3) with reasonable accommodation, plaintiff could perform the essential functions of the job at issue; and (4) the employer  [*16] has refused to make such accommodations.
+Rodal v. Anesthesia Group of Onondaga, P.C., 369 F.3d 113, 118 (2d Cir. 2004). "[G]enerally, it is the responsibility of the individual with a disability to inform the employer that an accommodation is needed." Graves v. Finch Pruyn & Co., Inc., 457 F.3d 181, 184 (2d Cir. 2006) (citations and quotation marks omitted). However, "an employer has a duty reasonably to accommodate an employee's disability if . . . the employer knew or reasonably should have known that the employee was disabled." Brady v. Wal-Mart Stores, Inc., 531 F.3d 127, 135 (2d Cir. 2008).
+A reasonable accommodation under the ADA may include "modification of job duties and schedules, alteration of the facilities in which a job is performed, acquisition of devices to assist the performance of job duties, and, under certain circumstances, reassignment to a vacant position." McBride v. BIC Consumer Prods. Mfg. Co., 583 F.3d 92, 97 (2d Cir. 2009) (internal quotation marks omitted). "The plaintiff bears the burdens of both production and persuasion as to the existence of some accommodation that would allow [him] to perform the essential functions of [his] employment, including the existence  [*17] of a vacant position for which [he] is qualified." Id.
+Defendant does not challenge that plaintiff was disabled within the meaning of the ADA or that defendant had notice of plaintiff's disability. Rather, defendant argues that plaintiff never requested an accommodation and no accommodation would have allowed plaintiff to perform the essential functions of his job. Moreover, defendant argues that plaintiff was not qualified for any other position at the company.
+Plaintiff's disability discrimination claim cannot withstand defendant's motion for summary judgment as plaintiff has failed to identify a potential reasonable accommodation that would have allowed him to perform the essential functions of a fabric stretcher, either in June 2007 when he was injured on the job or in January 2008 when he sought to return to work. Indeed, the record reflects that the design of the stretching table requires that a fabric stretcher stand while stretching and cutting the fabric, and that the tables cannot be modified. (Behar Aff., ¶26.) To the extent that plaintiff sought an accommodation through reassignment, plaintiff has presented no evidence that a vacant position existed for which he was qualified.  [*18] In fact, plaintiff repeatedly admitted at his deposition that he cannot perform any job at the company due to his physical condition.
+
+Q: So would it be fair to say there is no job that you can do at Schor Incorporated?
+A: No. For me, no.
+Q: And that is because you are hurting too much?
+A: Because it hurts too much, I cannot do it. The medical records will show what I am [] saying.
+(Hopkins Decl. at Ex. K, p. 33.)
+Q: Mr. Rodriguez, I understand but I am just trying to figure out if there is any other kind of work that you can do for the company, even in your current physical condition?
+A: No, no, now, I can't. No type of work because my waist hurts too much, every day it hurts me.
+(Id. at pp. 35-36.)
+Q: But just so I understand Mr. Rodriguez, even if he took you back, there is nothing you can do because there is no work you can do because you are so hurt?
+A: Of course no, no.
+Q: Do you agree with what I said?
+A: Of course, there is no type of work I can do now. Maybe with time you know, because they wanted to perform some surgery.
+(Id. at p. 38.)
+As plaintiff has failed to show that he could perform the essential functions of his job with a reasonable accommodation or that a vacant position existed  [*19] for which he was qualified, plaintiff cannot establish a prima facie reasonable accommodation claim under the ADA. Accordingly, defendant's motion for summary judgment should be granted. 7
+
+CONCLUSION
+For the reasons set forth above, it is respectfully recommended that defendant's motion for summary judgment should be granted.
+
+FILING OF OBJECTIONS TO REPORT AND RECOMMENDATION
+Pursuant to 28 U.S.C. § 636(b)(1) and Rule 72(b) of the Federal Rules of Civil Procedure, the parties shall have fourteen days from service of this Report to file written objections. See also Fed. R. Civ. P. 6. Such objections shall be filed with the Clerk of  [*20] the Court. Any request for an extension of time to file objections must be made within the fourteen-day period. Failure to file a timely objection to this Report generally waives any further judicial review. Marcella v. Capital Dist. Physician's Health Plan, Inc., 293 F.3d 42 (2d Cir. 2002); Small v. Sec'y of Health and Human Servs., 892 F.2d 15 (2d Cir. 1989); see Thomas v. Arn, 474 U.S. 140, 106 S. Ct. 466, 88 L. Ed. 2d 435(1985).
+SO ORDERED.
+/Signed by Judge Lois Bloom/
+LOIS BLOOM
+United States Magistrate Judge
+Dated: January 21, 2011
+Brooklyn, New York
+
+
+End of Document
+

@@ -1,0 +1,35 @@
+Michaud v. City of Casselberry
+United States District Court for the Middle District of Florida, Orlando Division
+March 6, 2013, Decided; March 6, 2013, Filed
+Case No: 6:12-cv-1930-Orl-31GJK
+
+Reporter
+2013 U.S. Dist. LEXIS 30071 *; 2013 WL 828584
+PHILLIP W. MICHAUD, Plaintiff, v. CITY OF CASSELBERRY, Defendant.
+Counsel:  [*1] For Phillip W. Michaud, Plaintiff: Aaron R. Resnick, LEAD ATTORNEY, Law Offices of Aaron Resnick, PA, Miami, FL.
+For City of Casselberry, Defendant: Jeffrey S. Weiss, LEAD ATTORNEY, Brown, Garganese, Weiss & D'Agresta, PA, Orlando, FL.
+Judges: GREGORY A. PRESNELL, UNITED STATES DISTRICT JUDGE.
+Opinion by: GREGORY A. PRESNELL
+Opinion
+
+
+
+Order
+This matter comes before the Court without a hearing on the Motion to Dismiss Counts I, II, and IV (Doc. 13) filed by the Defendant, City of Casselberry, and the response (Doc. 19) filed by the Plaintiff, Phillip Michaud ("Michaud").
+According to the allegations of the Complaint (Doc. 1), which are accepted as true for purposes of resolving this motion to dismiss, Michaud worked for the City for approximately five and a half years. After he experienced some medical problems, he requested leave under the Family Medical Leave Act ("FMLA") and, subsequently, accommodation under the Americans with Disabilities Act ("ADA"). The City interfered with his FMLA leave in several ways and refused him reasonable accommodation. For attempting to exercise his rights under those Acts, and for complaining about his treatment (and the treatment of another City employee, Carlos Sanso ("Sanso"), who  [*2] was fired for unspecified reasons), Michaud was fired.
+Michaud filed the instant suit on December 28, 2012, alleging retaliation in violation of Title VII of the Civil Rights Act of 1964 (Count I); violations of the FMLA (Count II); and violations of the ADA (Counts III and IV). The City seeks dismissal of all but Count III.
+In Count I, Michaud contends that his rights under Title VII were violated when the City retaliated against him for exercising his rights under the FMLA and for complaining about the City's conduct toward himself and Sanso. As the City points out, Title VII forbids discrimination against employees on the basis of race, color, religion, sex, or national origin. 42 U.S.C. §2000e-2(a). In Count I, there is no assertion that the City's actions were motivated in any way by race, color, religion, sex, or national origin. Challenged on this point, Michaud simply reiterates the allegations of the Complaint. Michaud's Title VII claim will be dismissed with prejudice.
+In Count II, Michaud asserts that the City interfered with his efforts to obtain FMLA leave and retaliated against him — eventually firing him — for taking such leave. The City complains that, as Michaud appears  [*3] to be asserting two different types of FMLA claim – an interference claim and a retaliation claim – he should be required to assert these claims in two separate counts. However, the case law cited by the City does not support the imposition of such a requirement.
+The City also contends that Michaud has failed to state a claim for either interference or retaliation in Count II, because he never states that he was denied FMLA leave (as required to assert an interference claim) and he does not establish the requisite causal connection between the FMLA leave he took and his termination (as required to assert a retaliation claim). However, Michaud does allege that he was ordered to return to work "[p]rior to fully recovering from heart surgery and prior to exhausting all FMLA [leave]." (Doc. 1 at 3). If proven true, this would support an FMLA interference claim. See Strickland v. Water Works & Sewer Bd. of City of Birmingham, 239 F.3d 1199, 1206-07 (11th Cir. 2001) ("To state a claim of interference with a substantive [FMLA] right, an employee need only demonstrate by a preponderance of the evidence that he was entitled to the benefit denied."). To succeed on an FMLA retaliation claim, an  [*4] employee must demonstrate that his employer intentionally discriminated against him in the form of an adverse employment action for having exercised an FMLA right. Strickland at 1207. Michaud alleges that, in retaliation for his having made FMLA requests, his pay was cut by "ten percent (10%) or more" (Doc. 1 at 5) and he was later fired (Doc. 1 at 8). This is enough to state an FMLA retaliation claim.
+Finally, Michaud's third and fourth counts appear to overlap. In Count III, he complains that the City violated the ADA by refusing him reasonable accommodation, by subjecting him to a hostile work environment, and by firing him due to his disability. In Count IV, he again asserts that he had a disability, that the City denied his request for reasonable accommodation, and that he was required to transfer to a job that paid less. He contends that by doing so, the City "engaged in unlawful employment practices ... in violation of [the ADA]". Although Michaud does not explicitly reiterate his contentions that he was subjected to a hostile work environment and then fired, Count IV does reincorporate all of the Complaint's common factual allegations, Doc. 1 at 10, which include allegations  [*5] that Michaud was subjected to a hostile work environment and later fired.
+The City argues that Count IV should be dismissed because it duplicates Count III. Confronted by this apparent redundancy, Michaud responds that Count IV properly states a claim. Whether this is true or not, it misses the point. Count IV will be dismissed with prejudice.
+In consideration of the foregoing, it is hereby
+ORDERED that Motion to Dismiss Counts I, II, and IV (Doc. 13) is GRANTED IN PART AND DENIED IN PART. Counts I and IV are DISMISSED WITH PREJUDICE. In all other respects, the motion is DENIED.
+DONE and ORDERED in Orlando, Florida on March 6, 2013.
+/s/ Gregory A. Presnell
+GREGORY A. PRESNELL
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

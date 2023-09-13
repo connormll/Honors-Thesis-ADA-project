@@ -1,0 +1,136 @@
+Hemphill v. Sch. Dist. of Phila.
+United States District Court for the Eastern District of Pennsylvania
+February 26, 2018, Decided
+CIVIL ACTION No. 15-3505
+
+Reporter
+2018 U.S. Dist. LEXIS 30842 *; 2018 WL 11079282
+JOCELYN HEMPHILL, Plaintiff, v. THE SCHOOL DISTRICT OF PHILADELPHIA, Defendant.
+Prior History: Hemphill v. Sch. Dist. of Phila., 2011 U.S. Dist. LEXIS 148393 (E.D. Pa., Dec. 27, 2011)
+Counsel:  [*1] For JOCELYN HEMPHILL, Plaintiff: TAMIKA N. WASHINGTON, LEAD ATTORNEY, LAW OFFICES OF TAMIKA WASHINGTON PC, PHILADELPHIA, PA.
+For THE SCHOOL DISTRICT OF PHILADELPHIA, Defendant: RONAK RAMESH CHOKSHI, LEAD ATTORNEY, SCHOOL DISTRICT OF PHILADELPHIA, PHILADELPHIA, PA; COURTNEY DEVON TAYLOR, JO BENNETT, SCHNADER HARRISON SEGAL & LEWIS LLP, PHILADELPHIA, PA; MICHAEL A. BOWMAN, SWARTZ CAMPBELL LLC, PHILADELPHIA, PA.
+Judges: ROBERT F. KELLY, SENIOR UNITED STATES DISTRICT JUDGE.
+Opinion by: ROBERT F. KELLY
+Opinion
+
+
+
+FINDINGS OF FACT AND CONCLUSIONS OF LAW
+ROBERT F. KELLY, Sr. J.
+Plaintiff Jocelyn Hemphill ("Hemphill") filed this action against The School District of Philadelphia (the "School District"), alleging violations of the Americans with Disabilities Act ("ADA"), 42 U.S.C. §§ 12101 et seq., Title VII of the Civil Rights Act of 1964 ("Title VII"), 42 U.S.C. §§ 2000e et seq., and the Family and Medical Leave Act of 1993 ("FMLA"), 29 U.S.C. §§ 2601 et seq. Specifically, Hemphill alleged failure to accommodate and retaliation claims under the ADA, retaliation under Title VII, and a violation of the FMLA.
+Hemphill withdrew her Title VII claim prior to trial. On January 23 and 24, 2018, the Court held a jury trial on her ADA failure to accommodate and FMLA claims.1 The retaliation claim under the ADA is [*2]  a nonjury issue for the Court to decide. See Kramer v. Banc of Am. Sec., LLC, 355 F.3d 961, 964-66 (7th Cir. 2004); see also Shellenberger v. Summit Bancorp., Inc., No. 99-5001, 2006 U.S. Dist. LEXIS 36314, 2006 WL 1531792, at *4-5 (E.D. Pa. June 2, 2006); Santana v. Lehigh Valley Hosp. & Health Network, No. 05-1496, 2005 U.S. Dist. LEXIS 16677, 2005 WL 1941654, at *2 (E.D. Pa. Aug. 11, 2005) (collecting cases); Sabbrese v. Lowe's Home Ctrs., Inc., 320 F. Supp. 2d 311, 331-32 (W.D. Pa. 2004). After hearing the testimony and considering the evidence presented at the January 23 and 24, 2018 trial, as well as considering Hemphill's and the School District's Proposed Findings of Fact and Conclusions of Law, the Court makes the following findings of fact and conclusions of law as to Hemphill's ADA retaliation claim.
+
+I. FINDINGS OF FACT
+
+A. The 2011 Lawsuit
+1. The School District hired Hemphill as a General Cleaner in 2002. (Trial Tr. 63, Jan. 23, 2018 PM Session.)
+2. In July 2006, Hemphill suffered a work-related injury and went on a medical leave of absence from the School District. (Id. at 65-66.)
+3. In January 2011, she filed a lawsuit under the ADA and FMLA against the School District in the United States District Court for the Eastern District of Pennsylvania, seeking reinstatement to a General Cleaner position. (Id. at 66; see also Hemphill v. The Sch. Dist. of Phila., No. 11-0570, Doc. No. 1.)
+4. In February 2012, she was restored to service as a General Cleaner and was assigned to Bridesburg Elementary School. (Trial Tr. 9, Jan. 24, 2018 AM Session.)
+5. General Cleaners are members of a collective bargaining unit [*3]  that is represented by SEIU Local 32BJ District 1201 (the "Union"). (Id. at 13; Trial Tr. 39, Jan. 23, 2018 PM Session.)
+6. During the summer of 2012, Hemphill bid for a General Cleaner position at the Roosevelt School pursuant to the bidding procedures in the collective bargaining agreement ("CBA"). (Trial Tr. 9, Jan. 24, 2018 AM Session.)
+7. Hemphill began working at the Roosevelt School on July 30, 2012. (Id.)
+
+B. Hemphill's Transfer Requests
+
+1. The October 2012 Request
+8. Kevin Moore ("Moore") was formerly the Personnel Administrator for the School District. (Trial Tr. 25-26, Jan. 23, 2018 PM Session.)
+9. On October 18, 2012, Hemphill requested a transfer from the Roosevelt School and provided a note from her doctor in support of the request. (Trial Tr. 14, Jan. 24, 2018 AM Session.)
+10. Hemphill faxed her transfer request to Moore. (Id.)
+11. The doctor's note was dated October 9, 2012 and provided that Hemphill "requires a change in building in which she may work. This is a matter of medical necessity." (Pl.'s Ex. 8) (emphasis in original).
+12. Moore forwarded the note to Carol Kenney ("Kenney"), the Director of Employee Health Services for the School District. (Trial Tr. 34, Jan. 23, 2018 PM Session.) [*4] 
+13. Kenney sent Hemphill a letter stating that if she wanted an accommodation for medical reasons, she should contact Andrew Rosen ("Rosen"), the head of the School District's Labor Relations Unit, and include "detailed medical documentation." (Def.'s Ex. 24.) The letter was sent to Hemphill's home address. (See id.; Trial Tr. 34, Jan. 24, 2018 AM Session; Compl. (noting Hemphill's address).)
+14. On October 26, 2012, Kenney sent an email to Rosen that attached the copy of the letter she sent to Hemphill. (Def.'s Ex. 24.)
+15. On October 26, 2012, Rosen sent an email to Hemphill at her work email address. (Trial Tr. 31-33, Jan. 24, 2018 PM Session; Def.'s Ex. 25.) The email provided as follows:
+Dear Ms. Hemphill,
+It is my understanding that you are inquiring about an accommodation. The process is as follows to start the Interactive Process required by the ADA.
+You need to send me letter [sic] (or email) stating what your disability is and what specific accommodations you want. Please note that you cannot be relieved of the essential functions of your job.
+You also need to provide a report from your treating doctor(s), that is legible and on letterhead, confirming your disability, stating why [*5]  the requested accommodations are necessary and a prognosis. I already have a copy of a handwritten doctor's note. While I can read the note, the signature is not legible. In addition, the note does not state what your disability is and does not provide a prognosis. Therefore, the note is not acceptable.
+The District does not perceive you as disabled and no accommodations will be granted until you are approved. Therefore, you must continue to perform all of your duties. No action will be taken with respect to your request until you supply the documents requested.
+(Def.'s Ex. 25.)
+16. On October 29, 2012, Rosen sent Hemphill a letter to her home address that was identical to the October 26, 2012 email he sent to her. (Trial Tr. 33-34, Jan. 24, 2018 PM Session; Def.'s Ex. 26.)
+17. Hemphill testified that she received Rosen's letter. (Trial Tr. 18, Jan. 24, 2018 AM Session.)
+18. She admitted that she never sent Rosen the information he required in the letter. (Id. at 20.)
+19. Rosen testified that he had "no recollection of knowing" that Hemphill filed a lawsuit against the School District in 2011. (Trial Tr. 34, Jan. 24, 2018 PM Session.)
+
+2. The March 2013 Request
+20. On March 22, 2013, Hemphill's Union [*6]  representative, James Whitehead ("Whitehead"), asked the School District via email to "please consider transferring [Hemphill] from the Roosevelt School. She is claiming harassment and hostile work environment." (Pl.'s Ex. 9; Trial Tr. 58, Jan. 23, 2018 PM Session.)
+21. After Whitehead sent the March 22, 2013 email, he, Hemphill, and a Facilities Area Coordinator for the Roosevelt School, Yvette Young ("Young"), met to discuss Hemphill's concerns. (Trial Tr. 58-59, Jan. 23, 2018 PM Session.) Hemphill requested a transfer at the meeting. (Id.)
+22. The School District did not transfer Hemphill after the meeting. (Id.)
+23. Hemphill did not file a grievance with her Union regarding her transfer requests. (Id.)
+
+C. Work Correction Notices and Conferences
+24. Hemphill worked an unauthorized overtime shift on September 10, 2012. (Trial Tr. 13, 21, Jan. 24, 2018 PM Session.)
+25. Derek Parker ("Parker"), a Facilities Area Coordinator at the Roosevelt School in 2012 and 2013, held an investigatory conference with her and her Union representative on September 24, 2012 to address the unauthorized overtime. (Id. at 21-22.)
+26. He testified that Hemphill worked overtime after being told not to. (Id. at 22.) He had the building [*7]  engineer document the incident and then held an investigatory conference. (Id.)
+27. An investigatory conference is a sit-down with the employee to ensure that the prior action does not happen again. (Id.) The outcome of Hemphill's investigatory conference was a warning so that she understood not to commit the prior action. (Id.)
+28. Hemphill was not disciplined as a result of the investigatory conference. (Id.; Trial Tr. 26, Jan. 24, 2018 AM Session.)
+29. Edward Goode ("Goode"), Hemphill's direct supervisor, also corroborated the fact that Hemphill worked an unauthorized overtime shift. (Trial Tr. 13, Jan. 24, 2018 PM Session.)
+30. On November 28, 2012, Hemphill received a "work correction notice" because she refused to clean up a mess in the boys' bathroom in her assigned work area. (Id. at 13; Trial Tr. 26-27, Jan. 24, 2018 AM Session.)
+31. Sharon Denise Myrick ("Myrick") is a Custodial Assistant at the Roosevelt School and has worked there since 2012. (Trial Tr. 3, 8, Jan. 24, 2018 PM Session.)
+32. Myrick testified that a call was made on the walkie-talkies that there was a bad odor coming from the bathroom assigned to Hemphill. (Id. at 3-4, 7.)
+33. Hemphill did not respond to the call on the walkie-talkie. [*8]  (Id. at 4.) When Myrick went to Hemphill to say that the office is calling her about cleaning the bathroom, Hemphill responded, "I'm not cleaning that S-H-I-T." (Id.) Hemphill refused to clean the bathroom. (Id.)
+34. As a result, Myrick was forced to clean the bathroom due to Hemphill's refusal. (Id.)
+35. Myrick reported the incident to Goode. (Id.)
+36. In April and May 2013, Hemphill received additional work correction notices. (Trial Tr. 30, Jan. 24, 2018 AM Session.)
+37. In May 2013, Hemphill participated in a conference with Young, Goode, Myrick, and Whitehead. (Trial Tr. 13, Jan. 24, 2018 PM Session.)
+38. Goode testified that the conference was a result of Hemphill's failure to follow directions. (Id. at 13-15.)
+39. The conference was intended simply to talk to her and make sure that she was doing her job properly. (Id. at 15.)
+40. Hemphill was not disciplined as a result of the May 2013 conference. (Id.)
+41. Moore, who worked as a Hearing Officer for approximately ten or eleven years at the School District, testified that work correction notices are not part of the discipline process. (Id. at 23; Trial Tr. 26, Jan. 23, 2018 PM Session.)
+42. Moore stated that Hemphill never received discipline under the CBA. (Trial Tr. 23, [*9]  Jan. 24, 2018 PM Session.)
+
+II. CONCLUSIONS OF LAW
+1. The anti-retaliation provision of the ADA provides that "[n]o person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this chapter or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this chapter." 42 U.S.C. § 12203(a); Krouse v. Am. Sterilizer Co., 126 F.3d 494, 500 (3d Cir. 1997).
+2. A prima facie case of retaliation under the ADA consists of: (1) protected employee activity; (2) an adverse action by the employer contemporaneous with or after the protected activity; and (3) a causal connection between the protected activity and the employer's adverse action. Krouse, 126 F.3d at 500; see also Williams v. Phila. Hous. Auth. Police Dep't, 380 F.3d 751, 759 (3d Cir. 2004) (citation omitted).
+3. The Supreme Court of the United States has defined an adverse employment action "as 'a significant change in employment status, such as hiring, firing, failing to promote, reassignment with significantly different responsibilities, or a decision causing a significant change in benefits.'" Durham Life Ins. Co. v. Evans, 166 F.3d 139, 152-53 (3d Cir. 1999) (quoting Burlington Indus., Inc. v. Ellerth, 524 U.S. 742, 761, 118 S. Ct. 2257, 141 L. Ed. 2d 633 (1998)); see also Clark v. Phila. Hous. Auth., 701 F. App'x 113, 117 (3d Cir. 2017).
+4. "Courts have operationalized the principle that retaliatory conduct must be serious and tangible enough to alter an employee's compensation, terms, conditions [*10]  or privileges of employment into the doctrinal requirement that the alleged retaliation constitute 'adverse employment action.'" Sabbrese, 320 F. Supp. 2d at 319 (quoting Robinson v. City of Pittsburgh, 120 F.3d 1286, 1300 (3d Cir. 1997), abrogated on other grounds by Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S. 53, 126 S. Ct. 2405, 165 L. Ed. 2d 345 (2006)) (emphasis in original).
+5. Thus, "not everything that makes an employee unhappy qualifies as retaliation, for otherwise, minor and even trivial employment actions that an irritable, chip-on-the-shoulder employee did not like would form the basis of a discrimination suit." Robinson, 120 F.3d at 1300 (quoting Smart v. Ball State Univ., 89 F.3d 437, 441 (7th Cir. 1996)) (internal quotation marks and alteration omitted).
+6. The causation factor is fact-intensive and "depends on the particular context in which the events occurred." Mercer v. Se. Pa. Transit Auth., 26 F. Supp. 3d 432, 447 (E.D. Pa. 2014) (citing Farrell v. Planters Lifesavers Co., 206 F.3d 271, 280 (3d Cir. 2000)).
+7. "A plaintiff can generally establish a causal connection by showing that the temporal proximity between the protected activity and the adverse action is 'unusually suggestive,' or through a combination of timing and other evidence of ongoing antagonism or retaliatory animus." Id. (quoting Farrell, 206 F.3d at 280).
+8. "While there is no bright-line rule as to what amount of time is unusually suggestive, 'a gap of three months between the protected activity and the adverse action, without more, cannot create an inference of causation . . . .'" Raskind v. Res. for Human Dev., Inc., No. 16-0629, 2017 U.S. Dist. LEXIS 182261, 2017 WL 5070725, at *14 (E.D. Pa. Nov. 3, 2017) (Kelly, J.) (quoting LeBoon v. Lancaster Jewish Cmty. Ctr. Ass'n, 503 F.3d 217, 232 (3d Cir. 2007)) (discussing Title VII retaliation). [*11] 
+9. Moreover, "[i]t is only intuitive" for the decision-maker to have knowledge of the protected activity for there to be a causal connection between the protected activity and the employer's adverse action. See Ambrose v. Twp. of Robinson, Pa., 303 F.3d 488, 493 (3d Cir. 2002) (discussing First Amendment retaliation).
+10. The parties and the Court agree that Hemphill's 2011 lawsuit based, in part, on the ADA, constitutes protected activity. (See Pl.'s Proposed Conclusions of Law ¶ 2; Def.'s Proposed Conclusions of Law ¶ 2.)
+11. The School District's decision not to transfer Hemphill after her October 2012 request and the Union's March 2013 request are not adverse employment actions because there was no alteration of her "compensation, terms, conditions or privileges of employment." Sabbrese, 320 F. Supp. 2d at 319.
+12. Nor is there any causal connection between her 2011 lawsuit and the School District not transferring her in October 2012 and March 2013.
+13. The timeframe between when Hemphill was reinstated in February 2012 to a General Cleaner position and the October 2012 and March 2013 transfer requests was eight and thirteen months, respectively.
+14. Such a timeframe cannot be "unusually suggestive" of retaliation. LeBoon, 503 F.3d at 232.
+15. The School District not transferring Hemphill after her October 2012 request [*12]  is actually a consequence of her own inaction.
+16. After Hemphill sent her doctor's note in support of her transfer request to Moore, he sent it to Kenney, who is the Director of Employee Health Services. (Trial Tr. 34, Jan. 23, 2018 PM Session; Trial Tr. 14, Jan. 24, 2018 AM Session.)
+17. Kenney sent Hemphill a letter stating that if she wanted an accommodation for medical reasons, she should contact Rosen and include "detailed medical documentation." (Def.'s Ex. 24.)
+18. On October 26, 2012, Rosen sent an email to Hemphill at her work email address that provided the steps she would need to take to receive an accommodation. (Trial Tr. 31-33, Jan. 24, 2018 PM Session; Def.'s Ex. 25.)
+19. Rosen sent a letter to Hemphill's home that was identical to his October 26, 2012 email to her. (Trial Tr. 33-34, Jan. 24, 2018 PM Session; Def.'s Ex. 26.)
+20. Hemphill received Rosen's letter. (Trial Tr. 18, Jan. 24, 2018 AM Session.)
+21. Hemphill never sent Rosen the information he required in the letter. (Id. at 20.)
+22. Further, any action (or inaction) of Rosen was not causally related to her 2011 lawsuit because he did not know that Hemphill had previously filed a lawsuit against the School District under the [*13]  ADA. (Trial Tr. 34, Jan. 24, 2018 PM Session); see also Ambrose, 303 F.3d at 493 (stating that the decision-maker must be aware of the protected conduct for the protected conduct to be a substantial or motivating factor in the decision).
+23. Accordingly, the School District did not retaliate against Hemphill based on the 2011 lawsuit by not transferring her in October 2012 and March 2013.
+24. The work correction notices Hemphill received and the conferences she attended are not adverse employment actions.
+25. Hemphill attended an investigatory conference after working an unauthorized overtime shift on September 10, 2012. (Trial Tr. 13, 21-22, Jan. 24, 2018 PM Session.)
+26. She was not disciplined as a result of the investigatory conference. (Id. at 22; Trial Tr. 26, Jan. 24, 2018 AM Session.)
+27. Hemphill also received work correction notices in November 2012, April 2013, and May 2013. (Id. at 30.)
+28. Work correction notices are not part of the discipline process under the CBA. (Id. at 23; Trial Tr. 26, Jan. 23, 2018 PM Session.)
+29. Hemphill never received discipline under the CBA. (Trial Tr. 23, Jan. 24, 2018 PM Session.)
+30. Therefore, the work correction notices were not adverse employment actions because they were not "serious and tangible [*14]  enough to alter [Hemphill's] compensation, terms, conditions or privileges of employment." Sabbrese, 320 F. Supp. 2d at 319.
+31. In May 2013, Hemphill participated in a conference with Young, Goode, Myrick, and Whitehead that concerned her failure to follow directions. (Trial Tr. 13-15, Jan. 24, 2018 PM Session.)
+32. Hemphill was not disciplined as a result of the May 2013 conference. (Id. at 15.)
+33. Therefore, the May 2013 was not an adverse employment action. See Sabbrese, 320 F. Supp. 2d at 319.
+34. The work correction notices and conferences are also not causally related to the 2011 lawsuit.
+35. The work correction notices of September 2012, November 2012, April 2013, and May 2013, occurred six, eight, fourteen, and fifteen months, respectively, after her reinstatement in February 2012.
+36. Accordingly, the work correction notices and conferences are not "unusually suggestive" of retaliation. LeBoon, 503 F.3d at 232.
+37. There is no evidence in the record to show that the 2011 lawsuit caused the work correction notices and conferences.
+38. The testimony of Moore, Kenney, Myrick, Rosen, Parker, and Goode that detailed the factual scenario and the policies of the School District was extremely credible.
+
+III. CONCLUSION
+Accordingly, the School District is not liable for retaliation under [*15]  the ADA, and we will enter judgment in its favor.
+An appropriate Order follows.
+
+ORDER
+AND NOW, this 26th day of February, 2018, upon consideration of the testimony and evidence presented at the January 23 and 24, 2018 trial, Plaintiff Jocelyn Hemphill's ("Hemphill") Proposed Findings of Fact and Conclusions of Law, and The School District of Philadelphia's (the "School District") Proposed Findings of Fact and Conclusions of Law, it is hereby ORDERED that JUDGMENT is entered in favor of the School District on Hemphill's claim of retaliation in violation of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12203(a) (Count II of the Amended Complaint). It is FURTHER ORDERED, having orally ruled on the School District's Motion for Judgment as a Matter of Law pursuant to Federal Rule of Civil Procedure 50(a), that JUDGMENT is entered in favor of the School District on Hemphill's ADA failure to accommodate claim (Count I of the Amended Complaint) and FMLA interference claim (Count IV of the Amended Complaint).2
+BY THE COURT:
+/s/ Robert F. Kelly
+ROBERT F. KELLY
+SENIOR JUDGE
+
+
+End of Document
+

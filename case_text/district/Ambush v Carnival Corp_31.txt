@@ -1,0 +1,60 @@
+Ambush v. Carnival Corp.
+United States District Court for the Southern District of Florida
+August 15, 2023, Decided; August 15, 2023, Entered on Docket
+Case No. 1:23-cv-20021-OTAZO-REYES
+
+Reporter
+2023 U.S. Dist. LEXIS 143467 *
+SHOVAN AMBUSH, Plaintiff, v. CARNIVAL CORPORATION, Defendant.
+Prior History: Ambush v. Carnival Corp., 2023 U.S. Dist. LEXIS 1291, 2023 WL 1930516 (S.D. Fla., Jan. 4, 2023)
+Counsel:  [*1] Shovan Ambush, Plaintiff, Pro se, Fairless Hills, PA.
+Judges: ALICIA M. OTAZO-REYES, UNITED STATES MAGISTRATE JUDGE.
+Opinion by: ALICIA M. OTAZO-REYES
+Opinion
+
+
+
+CONSENT CASE
+
+ORDER
+THIS CAUSE came before the Court upon Defendant Carnival Corporation's ("Defendant" or "Carnival") Motion to Dismiss pro se Plaintiff Shovan Ambush's ("Plaintiff") Second Amended Complaint for Failure to Comply with Applicable Pleading Standards and for Failure to State a Claim Upon Which Relief May Be Granted and Incorporated Memorandum of Law (hereafter, "Motion to Dismiss") [D.E. 39]. For the reasons stated below, Defendant's Motion to Dismiss is GRANTED; and Plaintiff's Second Amended Complaint [D.E. 35] is DISMISSED WITH PREJUDICE.
+
+PROCEDURAL AND FACTUAL BACKGROUND
+On January 3, 2023, Plaintiff commenced this action alleging employment discrimination under the Americans with Disabilities Act of 1990, 42 U.S.C. §§ 12112-12117 (hereafter, "the ADA"). See Compl. [D.E. 1]. On February 3, 2023, the Court granted Plaintiff's Motion to Amend the Complaint [D.E. 12, 15]; and on February 13, 2023, Plaintiff filed an Amended Complaint [D.E. 18].
+On June 16, 2023, the Court granted Defendant's Motion to Dismiss the Amended Complaint [D.E. 22] and afforded Plaintiff thirty days "to file an amended pleading that cures [*2]  the [] deficiencies [noted in the Order] with respect to her failure to rehire claim." See Order Granting Motion to Dismiss [D.E. 33 at 9]. Plaintiff timely filed a Second Amended Complaint, wherein she alleges, in pertinent part, as follows:
+1. The plaintiff was hired by the defendant on July 10, 2017, as a Customer Service Agent and ended employment on 02 July 2020 due to medical issues that needed to be resolved.
+2. The plaintiff sought out to be rehired in the company beginning in August of 2021.
+3. The plaintiff identifies as a disabled veteran, and this information was noted on the application.
+. . .
+6. Plaintiff interviewed on August 09, 2021 and December 1st, 2021.
+. . .
+9. The plaintiff qualifies [for the various jobs to which she has applied] because of her previous experience with the company. The plaintiff meets the minimum qualifications of all positions applied for.
+10. The plaintiff's request for a modified schedule as a reasonable accommodation was made during the plaintiff's employment and on 07/09/2021 during the application process.
+11. Despite the plaintiff's qualifications and the knowledge of their disability status, the defendant failed to engage in an interactive process [*3]  as required under the [ADA].
+12. By failing to engage in an interactive process, and not informing job applicants of their right to request accommodations during the hiring process, the defendant has violated the ADA's provisions, including 42 U.S. Code § 12112.
+See Sec. Am. Compl. [D.E. 35 at 2-3]. Based on these allegations, Plaintiff asserts a single claim against Defendant for "Failure to Provide Reasonable Accommodation and ADA Violations". Id. at 1. As remedies, Plaintiff seeks to be rehired by Defendant and to recover backpay. Id. at 3.
+On July 10, 2023, Defendant filed the instant Motion to Dismiss [D.E. 39]. Defendant argues that the Second Amended Complaint should be dismissed with prejudice for the same reasons as the Amended Complaint, namely, that the Second Amended Complaint does not adhere to the federal pleading standards set forth in Federal Rule of Civil Procedure 8(a); and fails to state a claim upon which relief may be granted pursuant to Federal Rule of Civil Procedure 12(b)(6).
+Also on July 10, 2023, Plaintiff served her Response to Defendant's Motion to Dismiss (hereafter, "Response") [D.E. 44]; and on July 17, 2023, Defendant filed its Reply to Plaintiff's Response (hereafter, "Reply") [D.E. 43].1
+
+APPLICABLE LAW
+Federal Rule of Civil Procedure 8(a) (hereafter, "Rule 8(a)") provides, in part, that "[a] pleading [*4]  that states a claim for relief must contain . . . a short and plain statement of the claim showing that the pleader is entitled to relief". Fed. R. Civ. P. 8(a)(2). "To meet Rule 8[a]'s requirements, a complaint does not need detailed factual allegations, [but] a plaintiff's obligation to provide the grounds of his entitle[ment] to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." Kennedy v. Grova, No. 11-61354-CIV, 2012 U.S. Dist. LEXIS 5952, 2012 WL 163879, at *2 (S.D. Fla. Jan. 19, 2012) (alterations in original) (quotation marks omitted) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544, 545, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)).
+Moreover, "[t]o survive a motion to dismiss brought pursuant to Federal Rule of Civil Procedure 12(b)(6) [(hereafter, "Rule 12(b)(6)")], a claim must contain sufficient factual matter, accepted as true, to state a claim [for] relief that is plausible on its face, meaning that it must contain factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Alexander v. Medley, No. 21-cv-24386, 2022 U.S. Dist. LEXIS 67680, 2022 WL 1102856, 678 (2009); Twombly, 550 U.S. at 570).
+"Pro se pleadings are held to a less stringent standard than pleadings drafted by attorneys and will, therefore, be liberally construed." Tannenbaum v. United States, 148 F.3d 1262, 1263 (11th Cir. 1998). Nevertheless, "[w]hile [courts] construe pro se plaintiffs' pleadings liberally, courts may not act as de facto counsel or rewrite an otherwise deficient pleading in order to sustain an action." [*5]  Porter v. Duval Cnty. Sch. Bd., 406 F. App'x 460, 462 (11th Cir. 2010) (quotation marks and citation omitted).
+
+DISCUSSION
+In its Motion to Dismiss, Defendant argues that the Second Amended Complaint should be dismissed with prejudice because: (1) Plaintiff once more did not comply with Rule 8(a)'s pleading requirements; (2) Plaintiff's revised claim for failure to accommodate is not recognized under the law; and (3) Plaintiff did not plead a viable failure to rehire claim. See Motion to Dismiss [D.E. 39 at 2-3, 7].
+The Court notes Plaintiff's purported efforts to comply with Rule 8(a) by reducing the length of her pleading and setting forth a discrete claim for "Failure to Provide Reasonable Accommodation and ADA Violations". See Sec. Am. Compl. [D.E. 35 at 1]. As noted above, in support of this claim, Plaintiff alleges that Defendant failed to provide her a reasonable accommodation upon her request "during [her] employment and on 07/09/2021 during the application process", thereby resulting in a violation of the ADA. Id. at 2-3. However, in its Order Granting Defendant's Motion to Dismiss the Amended Complaint [D.E. 33], the Court found that "Defendant's alleged failure to accommodate Plaintiff throughout her re-application process is exempt from the continuing violation [*6]  doctrine"; and that "Plaintiff's omission of this claim from her December 13, 2021, Charge of Discrimination renders it time barred." See Order Granting Motion to Dismiss [D.E. 33 at 6].2 Accordingly, the Court held that "any claim of discrimination arising from Plaintiff's prior period of employment with Defendant and any claim of discrimination arising from Plaintiff's re-application process are time barred and subject to dismissal with prejudice." Id. at 7. A plaintiff "is not permitted to replead claims which the District Court dismisses with prejudice." Neal v. Wells Fargo Bank N.A., No. 12-CV-3135, 2012 WL 13130455, at *4 n.2 (N.D. Ga. Oct. 31, 2012) (emphasis in original). Thus, Plaintiff's attempt to revive a failure to accommodate claim in her Second Amended Complaint contravenes the Court's Order dismissing this claim with prejudice.
+Conversely, the Court permitted Plaintiff to replead her failure to rehire claim. See Order Granting Motion to Dismiss [D.E. 33 at 9] (dismissing Plaintiff's failure to rehire claim without prejudice and affording Plaintiff thirty days "to file an amended pleading that cures the [] deficiencies [noted in the Order] with respect to her failure to rehire claim") (emphasis added). However, the Second Amended Complaint does not allege a failure [*7]  to rehire claim whatsoever. As noted in the Court's Order Granting Defendant's Motion to Dismiss the Amended Complaint, to establish a prima facie case of discrimination under the ADA for Defendant's alleged failure to rehire her, Plaintiff "must show (1) that she has a disability; (2) that she is a 'qualified individual'; and (3) that she was discriminated against because of her disability." Id. at 7 (citing Terrell v. USAir, 132 F.3d 621, 624 (11th Cir. 1998)). At most, Plaintiff baldly asserts that she "qualifies [for the various jobs to which she has applied] because of her previous experience with the company" and that she "meets the minimum qualifications of all positions applied for." See Sec. Am. Compl. [D.E. 35 at 2]. This, without more, is wholly insufficient "to state a claim [for] relief that is plausible on its face". Alexander, 2022 U.S. Dist. LEXIS 67680, 2022 WL 1102856, at *2. Further, to the extent that Plaintiff seeks to flesh out a failure to rehire claim in her Response by reciting her credentials and the essential functions of the "Virtual Agent" job title, "a legal memorandum in response to a motion to dismiss cannot cure a defective complaint. . . . [A] complaint must stand on its own." Hernandez v. MB Yachts, LLC, No. 22-cv-22135, 2023 U.S. Dist. LEXIS 23951, 2023 WL 4972847, at *5 (S.D. Fla. Feb. 10, 2023) (internal quotation marks and citations omitted).
+The Court also concludes that it is [*8]  appropriate to dismiss this case with prejudice. Although Federal Rule of Civil Procedure 15 contemplates that "[t]he court should freely give leave [to amend a pleading] when justice so requires", see Fed. R. Civ. P. 15(a)(2), "a district court need not grant leave to amend where (1) 'there has been undue delay, bad faith, dilatory motive, or repeated failure to cure deficiencies by amendments previously allowed'; (2) 'allowing amendment would cause undue prejudice to the opposing party'; or (3) the 'amendment would be futile.'" Malcolm v. Hypower Inc., No. 19-CIV-60573, 2019 U.S. Dist. LEXIS 56550, 2019 WL 11555240, at *1 (S.D. Fla. Apr. 1, 2019) (emphasis omitted) (quoting Bryant v. Dupree, 252 F.3d 1161, 1163 (11th Cir. 2001)). Here, Plaintiff has had three opportunities to file a viable pleading but has failed to do so. Given such repeated failures, Plaintiff is not entitled to further leave to amend. See Malcolm, 2019 U.S. Dist. LEXIS 56550, 2019 WL 11555240, at *1 ("Plaintiff has been given two opportunities to amend his pleading to state a claim upon which relief may be granted [and] has been unable to produce a complaint that provides facts addressing each element of the claim.").
+
+CONCLUSION
+Based on the foregoing considerations, it is
+ORDERED AND ADJUDGED that Defendant's Motion to Dismiss the Second Amended Complaint [D.E. 39] is GRANTED; and Plaintiff's Second Amended Complaint [D.E. 35] is DISMISSED WITH PREJUDICE. The Clerk of Court is directed to close this [*9]  case.
+DONE AND ORDERED in Chambers at Miami, Florida, this 15th day of August, 2023.
+/s/ Alicia M. Otazo-Reyes
+ALICIA M. OTAZO-REYES
+UNITED STATES MAGISTRATE JUDGE
+
+
+End of Document
+

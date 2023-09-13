@@ -1,0 +1,54 @@
+Salmeron v. Regents of the Univ. of Cal.
+United States District Court for the Northern District of California, San Francisco Division
+June 9, 2014, Decided; June 9, 2014, Filed
+No. C 13-5606 LB
+
+Reporter
+2014 U.S. Dist. LEXIS 80344 *; 2014 WL 2582712
+IRVING SALMERON, an Individual, Plaintiff, v. REGENTS OF THE UNIVERSITY OF CALIFORNIA, a California public entity; SAM HAWGOOD, an individual in his official and individual capacities; DAVID IRBY, an individual in his official and individual capacities; TERRY SMITH, an individual in her official and individual capacities; MAXINE PAPADAKIS, an individual in her official and individual capacities; and DOE Defendants 1-10, inclusive, Defendants.
+Counsel:  [*1] For Irving Salmeron, an individual, Plaintiff: Robert Michael Flynn, LEAD ATTORNEY, Flynn Law Office, Oakland, CA.
+For Regents of the University of California, a California public entity, Defendant: Brian Maschler, LEAD ATTORNEY, Michael D. Bruno, Gordon & Rees, LLP, San Francisco, CA.
+Judges: LAUREL BEELER, United States Magistrate Judge.
+Opinion by: LAUREL BEELER
+Opinion
+
+
+
+ORDER DENYING DEFENDANT THE REGENTS OF THE UNIVERSITY OF CALIFORNIA'S MOTION TO DISMISS
+
+INTRODUCTION
+Plaintiff Irving Salmeron sued the Regents of the University of California after the University of California — San Francisco School of Medicine ("UCSF") dismissed him from medical school during his third year. See Third Amended Complaint ("TAC"), ECF No. 25.1 Plaintiff claims that the dismissal was wrongful because UCSF discriminated against him because he has a learning disability and is of non-white Mexican-American heritage. See TAC ¶¶ 10-12. The Regents, the only Defendant,2 moved to dismiss the claims to the extent that they are predicated on race, ancestry, or national origin discrimination because the complaint pleads no facts in support of that theory. Motion, ECF No. 26. The court finds this matter suitable for determination without a hearing  [*2] under Civil Local Rule 7-1(b), vacates the hearing set for June 19, 2014, and denies the motion to dismiss.
+
+STATEMENT
+For purposes of the pending motion, Plaintiff's allegations about disability discrimination are less relevant. Broadly, the TAC alleges that Plaintiff suffers from a learning disability that makes if difficult for him to complete some required course work without reasonable accommodations, that UCSF discriminated against him based on that disability, and refused to provide him with reasonable accommodations or an interactive process to determine what accommodations may be reasonable. See TAC ¶¶ 2,11, 34-40. In March 2011, Salmeron was dismissed from UCSF. Id. ¶ 19. In September 2011, the UCSF Grievance Committee recommended that Salmeron be readmitted. Id. ¶ 16. The Dean of the school overruled  [*3] the Grievance Committee's recommendation. Id. ¶ 18.
+The race/ancestry/national origin discrimination allegations are that UCSF used race and/or national origin as a standard for considering whether to afford reasonable accommodations for disabled students. Id. ¶ 42. Plaintiff is a Mexican-American man, part of a highly noticeable minority at UCSF. Id. ¶ 44. Defendants were aware of Plaintiff's background. He made his Mexican-American heritage known to Defendants in his medical school application materials. Id. ¶ 45. Defendants used Plaintiff's image on publicity / diversity materials and on their website, asked Plaintiff to speak to funders, including the California Legislature. Id. ¶ 46. This benefitted UCSF by making it appear diverse and welcoming to students of color. Id. ¶ 47.
+UCSF previously engaged in interactive processes and provided reasonable accommodations and modifications to school policies and practices to qualified, disabled non-Mexican-American medical students. Id. ¶¶ 41-43. These students had disabilities that are the same or similar to Plaintiff's. Id. ¶ 100. These individuals have matriculated from UCSF and are now practicing physicians. Id. Nonetheless, UCSF refused  [*4] to engage in an interactive process with Plaintiff and denied his request for reasonable accommodations because of his Mexican-American ancestry and because his skin is not white. Id. ¶¶ 41-49.
+The complaint has four claims as follows:
+
+On April 3, 2014, Defendant moved to dismiss Plaintiff's third and fourth claims based on race/ancestry/national origin discrimination. See Motion, ECF No. 26. Plaintiff filed a timely opposition brief, ECF No. 28, and Defendant replied, ECF No. 29.
+
+ANALYSIS
+Rule 8(a) requires that a complaint contain a "short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. 8(a)(2). A complaint must therefore provide a defendant with "fair notice" of the claims against it and the  [*5] grounds for relief. See Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (quotation and citation omitted).
+A court may dismiss a complaint under Federal Rule of Civil Procedure 12(b)(6) when it does not contain enough facts to state a claim to relief that is plausible on its face. See Twombly, 550 U.S. at 570. "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Ashcroft v. Iqbal, 556 U.S. 662, 129 S. Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009). "The plausibility standard is not akin to a 'probability requirement,' but it asks for more than a sheer possibility that a defendant has acted unlawfully." Id. (quoting Twombly, 550 U.S. at 557). "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the 'grounds' of his 'entitle[ment] to relief' requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do. Factual allegations must be enough to raise a right to relief above the speculative level." Twombly, 550 U.S. at 555 (internal citations  [*6] and parentheticals omitted).
+In considering a motion to dismiss, a court must accept all of the plaintiff's allegations as true and construe them in the light most favorable to the plaintiff. See id. at 550; Erickson v. Pardus, 551 U.S. 89, 93-94, 127 S. Ct. 2197, 167 L. Ed. 2d 1081 (2007); Vasquez v. Los Angeles County, 487 F.3d 1246, 1249 (9th Cir. 2007). In addition, courts may consider documents attached to the complaint. Parks School of Business, Inc. v. Symington, 51 F.3d 1480, 1484 (9th Cir. 1995) (citation omitted). If the court dismisses the complaint, it should grant leave to amend even if no request to amend is made "unless it determines that the pleading could not possibly be cured by the allegation of other facts." Lopez v. Smith, 203 F.3d 1122, 1127 (9th Cir. 2000) (quoting Cook, Perkiss and Liehe, Inc. v. Northern California Collection Serv. Inc., 911 F.2d 242, 247 (9th Cir. 1990)).
+
+I. CLAIMS OF RACE OR ANCESTRY DISCRIMINATION
+The TAC's allegations of race, ancestry, or national origin discrimination are sufficient to survive a motion to dismiss. Defendants argue that the factual allegations contradict Plaintiff's claims and fail to show discriminatory intent. The court disagrees.
+Defendant's first argument  [*7] is that Plaintiff's factual allegations fatally contradict his claims. See Motion at 2. Defendant points to the allegations that UCSF admitted Plaintiff knowing about his Mexican-American heritage, used his image on publicity and diversity materials, asked him to speak to funders, and benefitted from having a "Latino man of color" in the medical school. Motion at 2. Defendant argues that it "defies logic (and plausibility) that The Regents would knowingly admit to its medical school and publicly flaunt a student from a group it dislikes only to expel that student after he is enrolled." Motion at 7. The court disagrees. It is plausible that Defendant would admit a Mexican-American student but still deny him the same support services offered to white students of non-Mexican-American national origin "due to discriminatory stereotypes about the abilities of Mexican-American students." See Opp'n at 4.
+Defendant's second argument is that the TAC lacks factual allegations of discriminatory intent, which the parties agree is an element of the relevant claims. See Motion at 2-3; Opp'n at 5. At the pleading stage, the court finds these allegations sufficient. The TAC includes allegations that  [*8] Defendant refused to make reasonable accommodations for Plaintiff's disability or even to engage in an interactive process on the issue. Defendant provided those benefits to non-Mexican students. When the school's grievance committee recommended readmitting Plaintiff, the dean of the school refused to do so. Finally, Defendant used Plaintiff's image to tout its diversity programs even after dismissing Plaintiff from the medical school. Although it is a close call, the court finds these allegations sufficient to plausibly allege discriminatory intent. Accord Equal Employment Opportunity Commission v. ABM Indus. Inc., No. C 09-4593 BZ, ECF No. 32, 2010 U.S. Dist. LEXIS 35079 (N.D. Cal. Apr. 9, 2010) (denying motion to dismiss race/national origin discrimination claims where complaint alleged that Hispanic employees were treated poorly by their employer and were later replaced by non-Hispanic employees).
+In the age discrimination context, the Ninth Circuit has found similar allegations sufficient under the more stringent McDonnell Douglas framework. See Sheppard v. David Evans and Assoc., 694 F.3d 1045 (9th Cir. 2012). In Sheppard, the plaintiff's two-and-one half page complaint established a prima facie case of age  [*9] discrimination claim by alleging that: "(1) she was at least forty years old; (2) 'her performance was satisfactory or better' and that 'she received consistently good performance reviews'; (3) she was discharged; and (4) her five younger comparators kept their jobs." Id. at 1049-50. According to the Ninth Circuit, "[t]his is an 'entirely plausible scenario' of employment discrimination." Here, Plaintiff alleges he is a member of an underrepresented minority group, he was denied an interactive process or reasonable accommodation for his disability, he was dismissed from UCSF as a result, and Defendant treated white students with similar disabilities differently. These allegations are sufficient under the liberal pleading standard applicable on a motion to dismiss.
+
+CONCLUSION
+The court DENIES the motion to dismiss.
+This disposes of ECF No. 26.
+IT IS SO ORDERED.
+Dated: June 9, 2014
+/s/ Laurel Beeler
+LAUREL BEELER
+United States Magistrate Judge
+Table1 ()
+Table1 ()
+
+
+End of Document
+

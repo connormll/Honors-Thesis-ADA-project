@@ -1,0 +1,46 @@
+McDonald v. UAW-GM Ctr. for Human Res.
+United States District Court for the Eastern District of Michigan, Southern Division
+September 20, 2016, Decided; September 20, 2016, Filed
+Case No. 15-12619
+
+Reporter
+2016 U.S. Dist. LEXIS 127650 *; 2016 WL 5074133
+SHANNAN McDONALD, Plaintiff, v. UAW-GM CENTER FOR HUMAN RESOURCES, Defendant.
+Subsequent History: Affirmed by Shears v. Carter, 2018 U.S. Dist. LEXIS 16752 (M.D. Pa., Jan. 31, 2018)
+Prior History: McDonald v. UAW-GM Ctr. for Human Res., 2015 U.S. Dist. LEXIS 108561 ( E.D. Mich., Aug. 18, 2015)
+Counsel:  [*1] For Shannan McDonald, Plaintiff: Jeffrey S. Burg, Law Offices Jeffrey S. Burg, Esq., Bingham Farms, MI.
+Judges: Honorable John Corbett O'Meara, United States District Judge.
+Opinion by: John Corbett O'Meara
+Opinion
+
+
+
+OPINION AND ORDER GRANTING DEFENDANT'S MAY 4, 2016 MOTION FOR SUMMARY JUDGMENT
+This matter came before the court on defendant UAW-GM Center for Human Resources' May 4, 2016 motion for summary judgment. Plaintiff Shannan McDonald filed a response June 7, 2016; and Defendant filed a reply brief June 14, 2016. Oral argument was scheduled for September 15, 2016; however, the court determined that the matter would be submitted on the briefs.
+
+BACKGROUND FACTS
+Defendant UAW-GM Center for Human Resources ("CHR") employed plaintiff Shannan McDonald as a receptionist from 2004 to 2014. Plaintiff was born with a genetic disorder known as Crouzon's Syndrome, a condition resulting from premature fusion of the sutures of the skull and deformity of the skull. Throughout her employment, Plaintiff underwent frequent medical procedures related to her medical condition and went on short-term disability leave nine times.
+Dottie Barnett supervised Plaintiff during her entire CHR career. Defendant contends that Plaintiff "consistently [*2]  disregarded the amount of time allocated for breaks (per a Collective Bargaining Agreement) and spent an inordinate amount of time away from her assigned work area, first floor reception." Def.'s mot. br. at 1. Defendant asserts that Barnett counseled Plaintiff over the years in order to correct the behavior. On June 16, 2014, Plaintiff left the reception desk fifteen minutes early to go to CHR's fitness center. Barnett admonished Plaintiff, and Plaintiff swore at Barnett. CHR disciplined Plaintiff for disregarding her supervisor's instructions and for insubordinate language. Plaintiff then resigned.
+On July 26, 2015, Plaintiff filed this complaint. After the court dismissed Plaintiff's state court claims, the remaining counts are Count I, which alleges discrimination under the Americans with Disabilities Act, 42 U.S.C. § 12101; and Count III, which alleges retaliation under the same statute. Specifically, Plaintiff alleges that CHR harassed her and disciplined her due to her disability, denied her a reasonable accommodation to extend her lunch break, and constructively discharged her. She also alleges that CHR disciplined her and constructively discharged her in retaliation for complaints about discrimination. [*3] 
+
+LAW AND ANALYSIS
+To establish a prima facie case for failure to accommodate, a plaintiff must show the following: 1) she is disabled under the ADA; 2) she is otherwise qualified for the position; 3) her employer knew or had reason to know of her disability; 4) plaintiff requested a reasonable accommodation; and 5) the employer failed to provide the reasonable accommodation. Aldini v. Kroger Co. of Mich., 628 F. App'x 347, 350 (6th Cir. 2015).
+The plaintiff bears the "initial burden of proposing an accommodation and showing that that accommodation is objectively reasonable." Hedrick v. Western Reserve Care Sys., 355 F.3d 444, 457 (6th Cir. 2004) (quoting Cassidy v. Detroit Edison Co., 138 F.3d 629, 633-34 (6th Cir. 1998)). "Where there is more than one reasonable accommodation, the choice of accommodation is the employer's." Smith v. Honda of Am. Mfg., Inc., 101 F. App'x 20, 25 (6th Cir. 2004).
+In this case plaintiff McDonald requested that CHR accommodate her medically-requested exercise program by extending her lunch hour. Plaintiff obtained a letter from her physician that requested CHR to allow her to "continue strengthening exercises daily for 30 to 60 minutes." Def.'s Ex. 28. However, Plaintiff's request to extend her lunch hour contravened the parties' collective bargaining agreement, which provided that Plaintiff was allowed to alter her lunch and break schedule only at the beginning of each calendar year. Instead, CHR offered that Plaintiff could arrive [*4]  at work fifteen minutes earlier each day in order to achieve her requested forty minutes of exercise. Although the physician's letter requested that CHR allow Plaintiff to continue her exercise routine, it did not request that Plaintiff exercise at any specific time of day, or even at work for that matter. It also did not state that the exercise had to occur in one continuous session. Therefore, Defendant's failure to accommodate Plaintiff's request was not unreasonable.
+Furthermore, there is no evidence that CHR ultimately denied Plaintiff's request. The request was forwarded up the chain of command to the co-executive director level. One of the co-executives was away on business, so no decision was made by June 18, 2014, the day that Plaintiff was allegedly told that her request would be approved. However, Plaintiff immediately stopped going to work and then resigned.
+Although Plaintiff initially claimed harassment based on her disability, she abandoned that claim by failing to address it in her response brief. The same is true for her claim of discrimination based on her disability.
+A constructive discharge requires a plaintiff to show the following: 1) the employer deliberately created [*5]  intolerable working conditions as perceived by a reasonable person; 2) the employer did so with the intention of forcing the employee to quit; and 3) the employee actually quit. Hurtt v. International Servs., Inc., 627 F. App'x 414, 420 (6th Cir. 2015).
+In this case Plaintiff fails to establish both an underlying violation of the ADA and the additional, aggravating factors to support a constructive discharge. Plaintiff alleges that her less than two-day suspension, which CHR claims was discipline for Plaintiff's direct insubordination and swearing at her supervisor, showed that "the handwriting was on the wall and the axe was about to fall." The law is clear, however, that an employee asserting constructive discharge "has an obligation not to assume the worst, and not to jump to conclusions too fast." West v. Tyson Foods, Inc., 374 F. App'x 624, 640 (6th Cir. 2010). Here, Plaintiff did just that. A supervisor told her it looked as though CHR would approve her extended lunch request, yet Plaintiff stopped going to work immediately.
+Finally, in order to establish a prima facie case of retaliation under the ADA, a plaintiff must show the following: 1) she engaged in protected activity under the ADA; 2) the employer knew of that activity; 3) the employer took an adverse action against her; and 4) there was a causal connection [*6]  between the protected activity and the adverse action. Rorrer v. City of Stow, 743 F.3d 1025, 1046 (6th Cir. 2014). The plaintiff must "establish that his or her protected activity was a but-for cause of the alleged adverse action by the employer." EEOC v. Ford Motor Co., 782 F.3d 753, 768 (6th Cir. 2015).
+Plaintiff McDonald's alleged harassment complaints and her June 17, 2014 formal complaint do not allege conduct because of her disability. Therefore, those complaints are not protected activity. The ADA is not a "catchall statute," and a plaintiff must have engaged in activity covered by the ADA in order to establish a case of retaliation. Rorrer, supra.
+Because the court has found that Plaintiff's claim of constructive discharge fails, the only adverse action by CHR was its suspension of Plaintiff. However, as discussed above, the suspension had nothing to do with Plaintiff's disability. Rather, Plaintiff was suspended for insubordination and swearing at her supervisor.
+
+ORDER
+It is hereby ORDERED that Defendant's May 4, 2016 motion for summary judgment is GRANTED.
+/s/ John Corbett O'Meara
+United States District Judge
+Date: September 20, 2016
+
+
+End of Document
+

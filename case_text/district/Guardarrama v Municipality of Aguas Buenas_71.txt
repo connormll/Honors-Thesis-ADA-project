@@ -1,0 +1,56 @@
+Guardarrama v. Municipality of Aguas Buenas
+United States District Court for the District of Puerto Rico
+November 8, 2012, Decided; November 8, 2012, Filed
+CIVIL NO. 10-2254 (JAG)
+
+Reporter
+2012 U.S. Dist. LEXIS 161377 *; 2012 WL 5462920
+JOSE GUARDARRAMA, Plaintiff v. MUNICIPALITY OF AGUAS BUENAS, et al., Defendants
+Prior History: Guardarrama v. Municipality of Aguas Buenas, 2012 U.S. Dist. LEXIS 66040 (D.P.R., May 11, 2012)
+Counsel:  [*1] For Jose Guardarrama, Plaintiff: Carlos Concepcion-Castro, LEAD ATTORNEY, Concepcion Law Offices, Guaynabo, PR; Carlos M. Fernandez-Cordero, Agustin Collazo law Offices, San Juan, PR.
+For Municipality of Aguas Buenas, Defendant: Luis S. Herrero-Acevedo, LEAD ATTORNEY, O'Neill & Borges, San Juan, PR.
+For Luis Arroyo-Chiques, Nelson Ortiz-Reyes, Defendants: Idza Diaz-Rivera, LEAD ATTORNEY, P. R. Department of Justice - Federal Litigation, San Juan, PR; Yahil Quintero-Santos, LEAD ATTORNEY, Vega Baja, PR.
+Judges: JAY A. GARCIA-GREGORY, United States District Judge.
+Opinion by: JAY A. GARCIA-GREGORY
+Opinion
+
+
+
+OPINION AND ORDER
+GARCIA-GREGORY, D.J.
+Pending before the Court is co-defendant the Municipality of Aguas Buenas' ("the Municipality") Motion for Summary Judgment. (Docket No. 41). For the reasons set forth below, this motion is hereby DENIED.
+
+BACKGROUND
+On December 22, 2012, Jose Guardarrama ("Plaintiff") filed a complaint pursuant to the American with Disabilities Act, 42 U.S.C. §§ 12101 et seq. ("ADA") and Puerto Rico's Law No. 80 of May 30, 1976, PR Laws Ann. tit. 29 §§ 185a et seq. ("Law 80"). (Docket No. 1). Plaintiff, who allegedly suffers from a mental disability that impairs his speech and emotional state, claims  [*2] he was forced to resign from his position after the Municipality failed to provide him with reasonable accommodation. Plaintiff alleges he requested to be separated from co-worker Isabel Rosario ("Rosario") during working shifts, because Rosario had previously harassed and humiliated him due to his mental condition.
+On April 18, 2012, the Municipality filed a Motion for Summary Judgment with its statement of uncontested facts and the corresponding memorandum of law. (Docket No. 41). Co-defendants Nelson Ortiz Reyes ("Ortiz") and Luis Arroyo Chiques {"Arroyo") filed a Joinder Motion for Summary Judgment requesting to join the Municipality's Motion for Summary Judgment. (Docket No. 45). Plaintiff timely filed an opposition to the Municipality's motion, (Docket No. 52); the Municipality then filed a response, (Docket No. 60); and Plaintiff filed a surreply. (Docket No. 65).
+
+STANDARD OF REVIEW FOR SUMMARY JUDGMENT
+Federal Rule of Civil Procedure 56 states, in pertinent part, that a court may grant summary judgment only if "the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material  [*3] fact and that the moving party is entitled to judgment as a matter of law." Fed.R.Civ.P. 56(c); See also Santiago-Ramos v. Centennial P.R. Wireless Corp., 217 F.3d 46, 52 (1st Cir. 2000).
+Summary judgment is appropriate if "there is no genuine issue as to any material fact and ... the moving party is entitled to a judgment as a matter of law." See Fed.R.Civ.P. 56(c). The party moving for summary judgment bears the burden of showing the absence of a genuine issue of material fact. See Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986).
+Once a properly supported motion has been presented before the court, the opposing party has the burden of demonstrating that a trial-worthy issue exists that would warrant the court's denial of the motion for summary judgment. For issues where the opposing party bears the ultimate burden of proof, that party cannot merely rely on the absence of competent evidence, but must affirmatively point to specific facts that demonstrate the existence of an authentic dispute. See Suarez v. Pueblo Int'l, Inc., 229 F.3d 49 (1st Cir. 2000).
+In order for a factual controversy to prevent summary judgment, the contested facts must be "material" and the dispute must be "genuine".  [*4] "Material" means that a contested fact has the potential to change the outcome of the suit under governing law. The issue is "genuine" when a reasonable jury could return a verdict for the nonmoving party based on the evidence. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). It is well settled that "[t]he mere existence of a scintilla of evidence" is insufficient to defeat a properly supported motion for summary judgment." Id. at 252. It is therefore necessary that "a party opposing summary judgment must present definite, competent evidence to rebut the motion." Maldonado-Denis v. Castillo-Rodriguez, 23 F.3d 576, 581 (1st Cir. 1994).
+In making this assessment, the court "must view the entire record in the light most hospitable to the party opposing summary judgment, indulging in all reasonable inferences in that party's favor." Griggs-Ryan v. Smith, 904 F.2d 112, 115 (1st Cir. 1990). The court may safely ignore "conclusory allegations, improbable inferences, and unsupported speculation." Medina-Munoz v. R.J. Reynolds Tobacco Co., 896 F.2d 5, 8 (1st Cir. 1990).
+
+DISCUSSION
+
+Discrimination under ADA
+To survive a summary judgment on a reasonable accommodation claim, Plaintiff  [*5] must produce enough evidence for a reasonable jury to find that: (1) he is disabled within the meaning of the ADA; (2) he was able to perform the essential functions of the job with or without reasonable accommodation; and (3) the employer, despite knowing of his disability, did not reasonably accommodate him. See Estades- Negroni v. The Associates Corp. of N.A., 377 F.3d 58, 63 (1st Cir. 2004).
+The ADA prohibits employers from discriminating against a qualified individual with a disability. According to the statute, employers must provide "reasonable accommodations to known physical or mental limitations of an otherwise qualified individual with a disability." § 12112(b)(5)(A). The Municipality has moved for summary judgment alleging that Plaintiff did not comply with the ADA requirements.
+First, the Municipality claims that Plaintiff's condition was not apparent, as he did not present the typical physical characteristics of mental retardation and was able to perform everyday tasks without constant assistance. However, the reason why Rosario allegedly poked fun of Plaintiff was because of his speech disability. Furthermore, Plaintiff alleges he complained specifically about Rosario to  [*6] the Municipality and, thus, defendants had knowledge of his disability. Therefore, there is sufficient evidence on the record for a reasonable jury to find that Plaintiff's condition was in fact apparent.
+Defendant also alleges that Plaintiff did not request reasonable accommodation to the Municipality that was in compliance with the ADA. After citing case law that establishes that a plaintiff must make a direct and specific request for accommodation in order for an employer to receive sufficient notification, the Municipality argues that it was never put in a position to accommodate Plaintiff under the ADA. The Municipality claims that Plaintiff never directly told the Municipality that, due to his disability, he would not be able to work with Rosario, who had previously humiliated Plaintiff during working hours and in front of other coworkers. However, Plaintiff counters that the Municipality was well-aware of Plaintiff's problem with Rosario. Also-as admitted by both parties and as reflected on the record-the Municipality verbally admonished Rosario after the incident. Then, after a meeting with Plaintiff, the Municipality did not pair Rosario and Plaintiff together for at least  [*7] 9 months. The Court understands that a reasonable jury could find that the Municipality's action of separating Plaintiff and Rosario was a reasonable accommodation, although it was not labeled as such. In other words, there is a triable issue of fact as to whether the Municipality had been properly notified of Plaintiff's need for a reasonable accommodation, and whether the Municipality's action, taken after the incident, was a reasonable accommodation.
+Finally, the Municipality avers that, even if it had been properly notified, Plaintiff's request was not valid under the ADA because it would impose an undue hardship on the Municipality. The Municipality provides a list of reasons as to why an undue hardship would be imposed if Plaintiff were never to be paired again with Rosario- all of them unfounded. The Municipality goes as far as to say that one hundred families would go without water due to Plaintiff's request. The Court cannot take this statement alone as true. On the other hand, Plaintiff claims that since no attempts were ever made to reasonably accommodate Plaintiff, such a conclusion cannot be made at this point in the proceedings. The Court agrees. Once again, the Municipality  [*8] has not provided the Court with evidence that indicates that there is not a genuine issue of material fact as to the difficulty of accommodating Plaintiff due to his disability. Thus, summary judgment is not proper at this stage.
+
+Law 80 Dismissal
+The Municipality posits that summary judgment should be granted for Plaintiff's Law 80 claims, since there is no evidence showing that the Municipality compelled Plaintiff to resign. But Plaintiff claims that he was forced to resign because the Municipality never offered the reasonable accommodations needed due to his disability. The Court has already found that there are genuine issues of material facts regarding these allegations. Therefore, summary judgment is also denied as to Plaintiff's Law 80 Claims.
+
+CONCLUSION
+For the reasons set forth above, the Court DENIES the Municipality's Motion for Summary Judgment. (Docket No. 41). Accordingly, Arroyo and Ortiz's Joinder Motion for Summary Judgment is also DENIED. (Docket No. 45).
+IT IS SO ORDERED.
+In San Juan, Puerto Rico, on November 8th, 2012.
+/s/ Jay A. Garcia-Gregory
+JAY A. GARCIA-GREGORY
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,61 @@
+Wright v. C.K.S. Packaging, Inc.
+United States District Court for the Western District of Missouri, Western Division
+April 13, 2023, Decided; April 13, 2023, Filed
+Case No. 23-cv-00130-SRB
+
+Reporter
+2023 U.S. Dist. LEXIS 64826 *; 2023 WL 2935009
+DWAYNE WRIGHT, Plaintiff, v. C.K.S. PACKAGING, INC., Defendant.
+Counsel:  [*1] Dwayne Wright, Plaintiff, Pro se, Overland Park, KS.
+For C.K.S. Packaging, Inc., Defendant: Colin J. Finnegan, LEAD ATTORNEY, Ogletree Deakins, Kansas City, MO; Shelley Irene Ericsson, Ogletree, Deakins, Nash, Smoak & Stewart-KCMO, Kansas City, MO.
+Judges: STEPHEN R. BOUGH, UNITED STATES DISTRICT JUDGE.
+Opinion by: STEPHEN R. BOUGH
+Opinion
+
+
+
+ORDER
+Before the Court is Defendant C.K.S. Packaging, Inc.'s Motion to Dismiss or in the Alternative Motion for More Definite Statement. (Doc. #4.) For the reasons discussed below, the motion is GRANTED WITHOUT PREJUDICE.
+
+I. BACKGROUND
+This lawsuit arises from allegations regarding employment discrimination from pro se Plaintiff Dwayne Wright ("Plaintiff"). Briefly, the Court sets forth the relevant facts as taken from Plaintiff's complaint.
+Plaintiff was employed by Defendant C.K.S. Packaging, Inc. ("CKS") from July 2021 through December 22, 2021. Due to an arrest and a subsequent "dual diagnosis breakdown," Plaintiff needed time away from work in November 2021. ("Doc. #5-1, p. 3.) Plaintiff took roughly three days off work and alerted CKS that the time off was necessary for his mental health. CKS disciplined Plaintiff and eventually terminated his employment due to excessive absences. [*2] 
+Plaintiff filed a charge of discrimination on January 31, 2022, and an amended charge on May 31, 2022, with the US Equal Employment Opportunity Commission. On January 4, 2023, filed a civil action against CKS in Clay County, Missouri by Plaintiff. On February 23, 2023, the case was removed to the federal court in the Western District of Missouri. Plaintiff alleges that CKS terminated his employment, failed to promote him, failed to accommodate his disability, retaliated against him, committed "Disparale [sic] Resolution,"1 racially discriminated against him, and defamed him. ("Doc. #5-1, p. 15.) On March 2, 2023, Defendant filed a motion to dismiss all claims.
+
+II. LEGAL STANDARD
+Rule 12(b)(6) provides that a defendant may move to dismiss for "failure to state a claim upon which relief can be granted." Fed. R. Civ. P. 12(b)(6). "To survive a motion to dismiss [for failure to state a claim], a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (citations and quotation marks omitted). "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the [*3]  misconduct alleged." Ash v. Anderson Merchs., LLC, 799 F.3d 957, 960 (8th Cir. 2015) (quoting Iqbal, 556 U.S. at 678). When considering a motion to dismiss, "[t]he factual allegations of a complaint are assumed true and construed in favor of the plaintiff, even if it strikes a savvy judge that actual proof of those facts is improbable." Data Mfg., Inc. v. United Parcel Serv., Inc., 557 F.3d 849, 851 (8th Cir. 2009) (citations and quotation marks omitted).
+
+III. DISCUSSION
+CKS argues that Plaintiff's claims should be dismissed because (1) Plaintiff did not administratively exhaust his retaliation claim; (2) Plaintiff fails to allege that race played any role in his termination; (3) Plaintiff fails to allege a plausible defamation claim; and (4) Plaintiff fails to plead an ADA failure to accommodate his disability discrimination claim. Plaintiff opposes the motion.
+
+A. Administrative Exhaustion of Retaliation Claim
+CKS argues that Plaintiff fails to adequately exhaust his retaliation claim. Plaintiff does not directly address this argument in his opposition brief.
+"Under Title VII, a plaintiff must first exhaust his administrative remedies before filing suit in federal court." Lindeman v. Saint Luke's Hosp. of Kansas City, 899 F.3d 603, 608 (8th Cir. 2018). "Allowing a complaint to encompass allegations outside the ambit of the predicate EEOC charge would circumscribe the EEOC's investigatory and conciliatory role, as well as deprive [*4]  the charged party of notice of the charge, as surely as would an initial failure to file a timely EEOC charge." Williams v. Little Rock Mun. Water Works, 21 F.3d 218, 223 (8th Cir.1994) (quotations omitted). "A plaintiff will be deemed to have exhausted administrative remedies as to allegations contained in a judicial complaint that are like or reasonably related to the substance of charges timely brought before the EEOC." Id. at 222.
+Here, the Court agrees with CKS. Neither Plaintiff's original nor his amended charge of discrimination against CKS alleges retaliation. In addition to failing to check the retaliation box, he failed to use the word retaliation in either charge. Though he does mention racial discrimination, it is well established by the Eighth Circuit that retaliation claims are not automatically related to underlying discrimination claims. See Williams v. Little Rock Mun. Water Works, 21 F.3d 218, 223 (8th Cir.1994). In other words, referencing racial discrimination does not necessarily put the Defendant on notice of the retaliation charge. As a result of failing to exhaust his retaliation claim, dismissal of this allegation is warranted.
+
+B. Allegation of Racial Discrimination
+CKS argues that Plaintiff fails to adequately allege that "CKS's termination of [Plaintiff's] employment arose under circumstances giving rise to an [*5]  inference of race discrimination." (Doc. #5, p. 11.) Plaintiff counters that he "feels racism." (Doc. #9, p. 1.)
+To establish a prima facie case alleging racial discrimination, a plaintiff must show that "(1) is a member of a protected group; (2) was meeting the legitimate expectations of the employer; [and] (3) suffered an adverse employment action; . . . (4) under circumstances permitting 'an inference of discrimination." Clegg v. Arkansas Dep't of Correction, 496 F.3d 922, 926 (8th Cir. 2007) (quotations omitted).
+Here, the Court agrees with CKS. Plaintiff fails to adequately allege that his race played a role in CKS's decision to terminate his employment. Plaintiff admits that he missed work and CKS disciplined him. He alleges he was terminated, but there are no factual allegations regarding his race. There are no allegations that his supervisors discriminated against him based on his race, called him racial names, treated him differently based on his race, or treated other non-African American employees better than him. Plaintiff fails to plead a cognizable claim of race discrimination. As a result, dismissal of this allegation is warranted.
+
+C. Defamation Claim
+CKS argues that Plaintiff does not allege any facts that support a defamation claim. Plaintiff [*6]  does not directly address this argument in his opposition brief.
+" Under Missouri law, the elements of defamation are (1) publication (2) of a defamatory statement (3) that identifies the plaintiff, (4) that is false, (5) that is published with the requisite degree of fault, and (6) that damages the plaintiff's reputation." Turntine v. Peterson, 959 F.3d 873, 882 (8th Cir. 2020) (quotations omitted).
+Here, the Court agrees with CKS. Plaintiff fails to plead facts sufficient to state a plausible defamation claim. In fact, he did not plead any facts to support or state a plausible defamation claim. The only reference to defamation is made when Plaintiff makes a general statement of "defamation of character." (Doc. #5-1, p. 4.) See Kidd v. Maryville Univ., No. 4:19-CV-1193 JAR, 2020 U.S. Dist. LEXIS 10393, 2020 WL 364282, at *3 (E.D. Mo. Jan. 22, 2020) (Conclusory statements, lacking any factual support, are insufficient to show damage to reputation for defamation.) As a result, dismissal of this allegation is warranted.
+
+D. Failure to Accommodate Disability
+CKS argues that Plaintiff failed to plead sufficient facts to state a plausible claim for disability discrimination. Plaintiff does not directly address this argument in his opposition brief.
+"To make a prima facie case for a failure to accommodate under the ADA, an employee must show that he (1) has a disability [*7]  within the meaning of the ADA, (2) is a qualified individual under the ADA, and (3) suffered an adverse employment action due to his disability." Mobley v. St. Luke's Health Sys., Inc., 53 F.4th 452, 456 (8th Cir. 2022) (quotations omitted). "To meet the requirements of the second element, proving he is a qualified individual under the ADA, an employee must demonstrate that he: (1) possesses the skill, education, experience, and training the position requires, and (2) can perform the essential job functions, with or without reasonable accommodation." Id. An employee must show that a desired accommodation is "reasonable on its face." Id. "[F]or a failure-to-accommodate claim to survive summary judgment, an employee must do more than establish a prima facie case—he must also show that his employer failed to engage in the interactive process in good faith." Id.
+Here, the Court agrees with CKS. Plaintiff does not offer any allegations that he requested accommodation or assistance for his alleged disability. Rather, Plaintiff let CKS know after he already missed work that it was a result of a mental health crisis. There are no allegations that CKS failed to engage in the interactive process, or that CKS could have reasonably accommodated Plaintiff but for its [*8]  lack of good faith. There are no allegations that Plaintiff could perform his essential job functions with or without accommodation. As a result, dismissal of this allegation is warranted.
+
+IV. CONCLUSION
+Accordingly, it is hereby ORDERED that Motion to Dismiss or in the Alternative Motion for More Definite Statement (Doc. #4) is GRANTED. All claims by Plaintiff are hereby DISMISSED WITHOUT PREJUDICE.
+IT IS SO ORDERED.
+/s/ Stephen R. Bough
+STEPHEN R. BOUGH, JUDGE
+UNITED STATES DISTRICT COURT
+DATE: April 13, 2023
+
+
+End of Document
+

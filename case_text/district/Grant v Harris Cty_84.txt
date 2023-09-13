@@ -1,0 +1,83 @@
+Grant v. Harris Cty.
+United States District Court for the Southern District of Texas, Houston Division
+March 19, 2018, Decided; March 19, 2018, Filed; March 20, 2018, Entered
+CIVIL ACTION NO. 4:16-CV-03529
+
+Reporter
+2018 U.S. Dist. LEXIS 45232 *; 2018 WL 1397539
+OTIS GRANT, Plaintiff, VS. HARRIS COUNTY, Defendant.
+Subsequent History: Related proceeding at Grant v. Harris Cty., 2018 U.S. Dist. LEXIS 132093 (S.D. Tex., Aug. 6, 2018)
+Affirmed by Grant v. Harris Cty., 2019 U.S. App. LEXIS 32647 (5th Cir. Tex., Oct. 30, 2019)
+Counsel:  [*1] For Otis Grant, Plaintiff: Victoria Plante-Northington, LEAD ATTORNEY, Plante Law Firm, P.C., Houston, TX; Marjorie A Murphy, The Murphy Law Practice, Houston, Tx.
+For Harris County, Defendant: David Adler, LEAD ATTORNEY, David Adler PC, Bellaire, TX; Seth Barrett Hopkins, Harris County Attorney's Office, Houston, TX.
+Judges: Kenneth M. Hoyt, United States District Judge.
+Opinion by: Kenneth M. Hoyt
+Opinion
+
+
+
+MEMORANDUM AND ORDER
+
+I.
+On January 29, 2018, the defendant filed its motion for summary judgment [DE 69]. On or about February 13, 2018, during a phone conference, the plaintiff requested an extension of time to respond to the defendant's motion. The requested extension was granted. However, the plaintiff did not and has not filed a timely response. Instead, the plaintiff sought leave to file a fourth amended complaint [DE 83]. That motion was addressed by separate order and, at this time, there is no response on file to the defendant's motion for summary judgment. Nevertheless, the defendant is not automatically entitled to summary judgment because there is no response on file.
+Because the Court entered an Order denying the defendant's motion for summary judgment, the Court sua sponte withdraws that Order [DE 87]. [*2]  Having done so, the Court at this time takes up the defendant's motion. After examining the motion, attachments, exhibits and arguments presented, the Court determines that the motion is meritorious and should be granted.
+
+II.
+On November 8, 2012, the plaintiff filed a Charge of Discrimination asserting that his Shift Supervisor was engaging discriminatory conduct against Juvenile Supervision officers of African descent. The plaintiff is an African American, but not in the class of persons against whom he contends discriminatory conduct was focused.
+After the plaintiff filed the internal complaint, he contends that he was retaliated against in violation of Title VII of the Civil Rights Act of 1964. The plaintiff asserts that retaliation took on the form of "ignoring or substantially delaying a decision on his request for ADA accommodations". The plaintiff was not laboring under a job related disability but, instead, had been diagnosed with "Type 2 Diabetes" which condition carried with it occasional impairments.
+The plaintiff received a "right to sue letter" but did not timely file a suit concerning his ADA, retaliation and harassment claims. Therefore, the time for filing a suit lapsed. [*3]  On January 13, 2014, the plaintiff filed a second Charge of Discrimination. In that Charge the plaintiff asserted a claim of retaliation and disability. However, the retaliation claim that he asserted related back to his first charge filed on November 8, 2012. Therefore, the second Charge does not state a new basis for retaliation, but appears to rely on the earlier charge and suggests that the voliative conduct is continuing conduct. See [DE 831-1, Ex. "A"].
+A civil action brought pursuant to Title VII must be commenced within ninety days after receipt of the right-to-sue letter issued by the EEOC. See Berry v. CIGNA/RSI-CIGNA, 975 F.2d 1188, 1191 (5th Cir. 1992) (citing 42 U.S.C. § 2000e-5(f); Price v. Digital Equip Corp., 846 F.2d 1026, 1027 (5th Cir. 1988)). The Fifth Circuit has held that "the 90-day period of limitation established by 42 U.S.C. § 2000e-5(f)(1) begins to run on the date that the EEOC right-to-sue letter is delivered to the offices of fomally designated counsel or to the claimant." Ringgold v. Nat'l Maint. Corp., 796 F.2d 769, 770 (5th Cir. 1986) (internal citations omitted).
+"The ninety-day filing requirement is a statutory precondition to maintaining a cause of action in federal court . . . and is treated as a statute of limitations for all purposes." Mitchell v. Champs Sports, 42 F. Supp. 2d 642, 646 (E.D.Tex. 1998) (citing Espinoza v. Missouri Pac. R.R., 754 F.2d 1247, 1248 n.1 (5th Cir. 1985) (internal citations omitted)). As such, "[c]ourts within this Circuit have repeatedly dismissed cases in which the plaintiff did not file [*4]  a complaint until after the ninety-day limitation period had expired." See Taylor v. Books A Million, Inc., 296 F.3d 376, 379 (5th Cir. 2002). Because the plaintiff failed to timely pursue the November 8, 2012, Charge those claims are statutorily barred. Taylor, 296 F.3d at 379.
+
+III.
+The suit before the Court is based on alleged violations of the ADA, the American Disabilities Act, and the ADAAA, the Americans with Disabilities Act Amendments Act of 2008.1 The statutes provide that "[n]o covered entity shall discriminate against a qualified individual on the basis of disability or impairment in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). A "disability" with respect to an individual, is defined within the meaning of the Act to include: "(A) a physical or mental impairment that substantially limits one or more of the major life activities of such individual; (B) a record of such an impairment; or (C) being regarded as having such an impairment." 42 U.S.C. § 12102(1). A "qualified individual" within the meaning of the Act is defined as "an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C.A. § 12111(8).
+To establish a prima facie discrimination [*5]  claim under either Act, a plaintiff must prove: (1) that he has a disability or impairment; (2) that he was qualified for the job; [and] (3) that he was subject to an adverse employment decision on account of his disability or impairment. See E.E.O.C. v. LHC Grp., Inc., 773 F.3d 688, 697 (5th Cir. 2014) (quoting Zenor v. El Paso Healthcare Sys., Ltd., 176 F.3d 847, 853 (5th Cir. 1999)). The [f]ailure to establish an actual or perceived disability or impairment is fatal to a plaintiff's case, and no further consideration is required. See Willis v. Noble Envtl. Power, LLC, 143 F. Supp.3d 475, 479 (N.D. Tex. 2015), appeal dismissed (Feb. 26, 2016) (citing McInnis v. Alamo Cmty. Coll. Dist., 207 F.3d 276, 280 (5th Cir. 2000); see Waldrip v. Gen. Elec. Co., 325 F.3d 652, 654 (5th Cir. 2003)). In this case, the plaintiff has failed to establish a disability.
+
+IV.
+The plaintiff has failed to satisfy the second prong of the aforementioned test—that he is disabled within the meaning of the ADA or the ADAAA. Other than his own subjective complaints, the plaintiff has tendered no evidence whatsoever that his employer was ever made aware that he was disabled, or that he ever requested any reasonable accommodation. Moreover, the mere violation of the ADA or the ADAAA alone is not demonstrative of an injury for which a recovery is mandated. Rather, a plaintiff is required to establish, by competent evidence, that the defendant's violation proximately caused his injury before he can recover. See, Armstrong v. Turner Indus., Inc., 141 F.3d 554, 562 (5th Cir. 1998) (holding "that damages liability [under [*6]  the ADA] must be based on something more than a mere violation of that provision. There must be some cognizable injury in fact of which the violation is a legal and proximate cause for damages to arise from a single violation.").
+The Court reaches the same conclusion regarding the plaintiff's ADAA impairment claim. There is not a "scintilla" of evidence that the plaintiff had an impairment that required an accommodation. In fact, he admits as much. Moreover, the evidence shows that the plaintiff's job was essentially "light duty" in nature, an accommodation in and of itself.
+[W]hile [the plaintiff's] diabetes may have adversely affected his feet, it never substantially limited his ability to perform his duties nor did it require an accommodation under the ADA or the ADAAA. Ingles v. Neiman Marcus Grp., 974 F. Supp. 996, 1003 (S.D. Tex. 1997) (citing See 29 C.F.R. § 1630.2(i)). This fact is borne out by the plaintiff's deposition. He testified as follows:
+Q. So on the morning of — the night of 28th, morning of October 29, 2013, because you didn't have to walk on your shift, your feet didn't prevent you from being able to do your job; correct?
+A. Correct.
+Q. And you didn't need an accommodation for that shift, correct?
+A. Correct.
+p. 260, ll. 16-23
+Q. Okay. The question is: Was your [*7]  work-related injury that you commented on related to your foot condition?
+A. No. . . .
+Q. Okay. Do you recall that your workers' comp doctor released you to full duty?
+A. No. . . .
+Q. And nowhere in this document does it say that you have an ADA accommodation, does it?
+A. No, it doesn't.
+p. 300, ll. 12-22.
+Q. Mr. Grant, did you sign — is this your signature and the date, 9-1-2012?
+A. That is my signature.
+Q. All right. So let's go back to the first page under "Essential Functions," and I want you to look about two thirds of the way down, and I'm going to read.
+Must be able to stand/walk throughout the majority of the shift.
+You're not on the right page. Let me help you. On the first page, and you see there three of them that --- three of the bullet points that look like they've been marked. The second one says, Must be able to stand/walk through the majority of the shift.
+Did I read that correctly?
+A. Correct.
+Q. And could you do that in 2011?
+A. Yes.
+Q. And could you do that in 2012?
+A. Yes.
+Q. And could you do that in 2013?
+A. Yes.
+Q. I'm going to read the next one.
+Must be able to exert (i.e., lifting, pushing, pulling) 20 to 50 pounds of force occasionally (up to a third of the time) and 10 to 25 pounds [*8]  of force frequently to move objects.
+Could you do that in 2011?
+A. Yes.
+Q. 2012?
+A. Yes
+Q. 2013?
+A. Yes.
+p. 298-99, ll. 4-25; 1-20].
+The evidence shows that the plaintiff was not required to stand or walk as a condition of his employment. Moreover, he testified that he did not need an accommodation. Not only does the evidence show that the plaintiff had no physical impairment that limited a major life function, he was not regarded as disabled or suffering an impairment. This Court HOLDS that the plaintiff has failed to establish the third element of his prima facie case because he has not offered evidence that the defendant discriminated against him by reason of a disability or impairment. Melton v. Dallas Area Rapid Transit, 391 F.3d 669, 671 — 72 (5th Cir. 2004). Therefore, the Court GRANTS the defendant's motion for summary judgment.
+It is so Ordered.
+SIGNED on this 19th day of March, 2018.
+/s/ Kenneth M. Hoyt
+Kenneth M. Hoyt
+United States District Judge
+
+
+End of Document
+

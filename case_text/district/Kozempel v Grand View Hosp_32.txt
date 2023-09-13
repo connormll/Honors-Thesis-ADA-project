@@ -1,0 +1,49 @@
+Kozempel v. Grand View Hosp.
+United States District Court for the Eastern District of Pennsylvania
+March 30, 2011, Decided; March 30, 2011, Filed
+CIVIL ACTION NO. 10-6839
+
+Reporter
+2011 U.S. Dist. LEXIS 34843 *
+LAURA KOZEMPEL, Plaintiff, v. GRAND VIEW HOSPITAL, Defendant.
+Counsel:  [*1] For LAURA KOZEMPEL, Plaintiff: BRETT A. CONDON, SIDNEY L. GOLD, SIDNEY L. GOLD & ASSOC PC, PHILADELPHIA, PA.
+For GRAND VIEW HOSPITAL, Defendant: A. JAMES JOHNSTON, LEAD ATTORNEY, JONATHAN B. SPRAGUE, ROBERT J. TOY, POST & SCHELL PC, PHILADELPHIA, PA.
+Judges: C. DARNELL JONES, II, Judge.
+Opinion by: C. DARNELL JONES, II
+Opinion
+
+
+
+MEMORANDUM
+JONES, II, J.
+Plaintiff Laura Kozempel brings this employment discrimination action against Grand View Hospital ("Grand View"), alleging that Grand View discriminated and retaliated against her in violation of Title VII of the Civil Rights Act, 42 U.S.C. §§ 2000e et seq. ("Title VII"), the Americans with Disabilities Act, 42 U.S.C. §§ 12101 et seq. ("ADA"), the Family and Medical Leave Act, 29 U.S.C. §§ 2601 et seq. ("FMLA"), and the Pennsylvania Human Relations Act, 43 P.S. §§ 951 et seq. ("PHRA"). Ms. Kozempel's Complaint seeks compensatory and punitive damages on all claims.
+Grand View has filed a motion to dismiss or strike Plaintiff's Complaint in part, specifically Ms. Kozempel's demands for compensatory and punitive damages as they relate to her FMLA and ADA retaliation claims, and for punitive damages as they relate to her PHRA claims (Dkt. No. 7 ("Motion")). In her opposition  [*2] brief (Dkt. No. 8 ("Opp.")), Ms. Kozempel concedes that she is not entitled to compensatory or punitive damages with respect to her FMLA retaliation claim, nor to punitive damages with respect to her PHRA claims; she voluntarily withdraws said demands. (Opp. at 2 n.1.) 1 Ms. Kozempel maintains, however, that she is entitled to punitive and/or compensatory damages under the ADA retaliation claim. For the reasons set forth below, I will grant Grand View's motion and strike Ms. Kozempel's demands for punitive and compensatory damages under her FMLA and ADA retaliation claims, as well as her demand for punitive damages under her PHRA claims.
+
+I. STANDARD OF REVIEW
+In this case, the Court must assess whether the ADA retaliation claim for compensatory and punitive damages set forth in the Complaint fails to state a claim upon which relief may be granted. In deciding a motion to dismiss pursuant to Rule 12(b)(6), courts must "accept all factual allegations as true, construe the complaint in the light most favorable to the plaintiff, and determine whether, under any reasonable reading of the complaint, the plaintiff may be entitled to relief." Phillips v. County of Allegheny, 515 F.3d 224, 233 (3d Cir. 2008) (internal quotation and citation omitted). After the Supreme Court's decision in Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007), "[t]hreadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice." Ashcroft v. Iqbal, ___U.S. ___, ___, 129 S. Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009). "A claim has facial plausibility when the plaintiff  [*4] pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 129 S.Ct. at 1949 (citing Twombly, 550 U.S. at 556). This standard, which applies to all civil cases, "asks for more than a sheer possibility that a defendant has acted unlawfully." Iqbal, 129 S. Ct. at 1949; accord Fowler v. UPMC Shadyside, 578 F.3d 203, 210-211 (3d Cir. 2009) ("All civil complaints must contain more than an unadorned, the-defendant-unlawfully-harmed-me accusation.") (internal quotation omitted).
+
+II. DISCUSSION
+The ADA has four subchapters. The first sub-chapter addresses employment, the second relates to the provision of public services, and the third applies to public accommodations and services provided by private entities. Each of these subchapters provides for its own remedies. The fourth subchapter includes miscellaneous sections, including the anti-retaliation provision at issue in this case. See, e.g., Santana v. Lehigh Valley Hosp. and Health Network, et al., No. 05-1496, 2005 U.S. Dist. LEXIS 16677, 2005 WL 1914654, at *1 (E.D. Pa. Aug. 11, 2005) (unpublished) (discussing ADA structure).
+The ADA does not specify the substantive remedies available  [*5] to plaintiffs suing on retaliation grounds; however, subsection (c) of the retaliation provision adopts the remedies set forth in each of the first three subchapters. See Shellenberger v. Summit Bancorp., Inc., No. 99-5001, 2006 U.S. Dist. LEXIS 36314, 2006 WL 1531792, at *2 (E.D. Pa. June 2, 2006) (unpublished) (citing 42 U.S.C. §§ 12117, 12133, 12188). Section 12203 states:
+(a) Retaliation. No person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this chapter or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this chapter.
+....
+Remedies and Procedures. The remedies and procedures available under sections 107, 203, and 308 of this title [42 U.S.C. §§ 12117, 12133, and 12188 respectively] shall be available to aggrieved persons for violations of subsections (a) and (b) of this section, with respect to subchapter I, subchapter II and subchapter III, respectively.
+Id. § 12203.
+Ms. Kozempel claims that she was retaliated against in connection with her employment, and therefore, the remedies available under Subchapter I are applicable here. The remedies provision  [*6] under Subchapter I, § 12117, applies those remedies set forth in Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-5. Section 2000e-5 does not allow for compensatory and punitive damages. Santana, 2005 U.S. Dist. LEXIS 16677, 2005 WL 1914654, at *1.
+The Civil Rights Act of 1991, 42 U.S.C. § 1981a(a)(2), however, expanded the remedies available in certain ADA cases to include compensatory and punitive damages. Section 1981a(a)(2) provides:
+In an action brought by a complaining party under the powers, remedies, and procedures set forth in section 706 ... of the Civil Rights Act of 1964 [42 U.S.C. § 2000e-5] (as provided in section 107(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. § 12117(a)) ... ) against a respondent who engaged in unlawful intentional discrimination ... under ... section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. § 12112), or committed a violation of section 102(b)(5) of the Act [42 U.S.C. § 12112(b)(5), which requires reasonable accommodation of disabilities], against an individual, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized section 706(g) of the  [*7] Civil Rights Act of 1964 [42 U.S.C. § 2000e-(5)g], from the respondent.
+Id. Importantly, while Sections 12112 and 12112(b)(5) are specifically listed in this statutory excerpt, Section 12203 is not.
+While federal courts are divided on the question, a significant number of cases at both the appellate and trial court level have held that the anti-retaliation provisions of the ADA do not authorize the award of compensatory and punitive damages, including the cases in the Eastern and Western District of Pennsylvania. 2 Shellenberger, 2006 U.S. Dist. LEXIS 36314, 2006 WL 1531792, at *2; Santana, 2005 U.S. Dist. LEXIS 16677, 2005 WL 1914654, at *2; Baker v. PPL Corp., No. 09-0428, 2010 U.S. Dist. LEXIS 7589, 2010 WL 419417, at *7-8 (W.D. Pa. Jan. 29, 2010) (slip copy); Sabbrese v. Lowe's Home Centers, Inc., 320 F. Supp. 2d 311, 331 (W.D. Pa. 2004). 3 The Court of Appeals has not addressed the issue, but the trial judges in our Circuit have adopted the analysis set forth in Kramer v. Banc of Am. Sec., LLC, 355 F.3d 961 (7th Cir. 2004). See id. In Kramer, the Seventh Circuit held that the language of Section 1981a(a)(2) was clear, such that "a meticulous tracing of this tangle of interrelated statutes reveals no basis for plaintiff's claims of compensatory and punitive damages  [*8] in his ADA retaliation claim." Kramer, 355 F.3d at 965 (internal quotation omitted). This Court agrees, and echoes the Honorable Lawrence F. Stengel in Santana:
+Section 1981a(a)(2) expands the available remedies 'against a respondent who engaged in unlawful intentional discrimination ... under ... section 102 of the [ADA] or committed a violation of section 102(b)(5) of the [ADA] ...' 42 U.S.C. § 1981a(a)(2). It does not extend these remedies to violations of § 12203. 'When legislation expressly provides a remedy or remedies, courts should not expand the coverage of the statute to subsume other remedies.... This principle of statutory construction reflects an ancient maxim-expressio unius est exclusio alterius.' Nat'l R.R. Passenger Corp. v. Nat'l Ass'n of R.R. Passengers, 414 U.S. 453, 458, 94 S. Ct. 690, 38 L. Ed. 2d 646 (1974). Because the anti-retaliation provision, § 12203, was not listed in § 1981a(a)(2), compensatory and punitive damages are not available to the plaintiff for her ADA retaliation claim.
+Santana, 2005 U.S. Dist. LEXIS 16677, 2005 WL 1914654, at *2. 4
+The Court will therefore grant Grand View's Motion. An appropriate Order follows.
+
+ORDER
+AND NOW, this 30th day of March, 2011, upon consideration of Defendant's Motion to Dismiss or Strike (in Part) the Complaint (Dkt. No. 7), Plaintiff's Opposition thereto (Dkt. No. 8), and Defendant's Reply (Dkt. No. 11), it is hereby ORDERED that the Motion is GRANTED and Plaintiff's demands for compensatory and punitive damages for her FMLA and ADA retaliation claims and her PHRA claims shall be STRICKEN from her Complaint.
+BY THE COURT:
+/s/ C. Darnell Jones, II
+C. DARNELL JONES, II, J.
+
+
+End of Document
+

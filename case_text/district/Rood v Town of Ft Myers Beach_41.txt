@@ -1,0 +1,56 @@
+Rood v. Town of Ft. Myers Beach
+United States District Court for the Middle District of Florida, Fort Myers Division
+April 28, 2021, Decided; April 28, 2021, Filed
+Case No: 2:20-cv-981-SPC-MRM
+
+Reporter
+2021 U.S. Dist. LEXIS 81201 *; 2021 WL 1662761
+EDWARD ROOD, Plaintiff, v. TOWN OF FT. MYERS BEACH, FLORIDA, Defendant.
+Subsequent History: Later proceeding at Rood v. Town of Ft. Myers Beach, 2022 U.S. Dist. LEXIS 144585 (M.D. Fla., Aug. 12, 2022)
+Summary judgment granted by Rood v. Town of Fort Myers Beach, 2022 U.S. Dist. LEXIS 148327 (M.D. Fla., Aug. 18, 2022)
+Counsel:  [*1] For Edward Rood, Plaintiff: Matthew P. Farmer, Farmer & Fitzgerald, PA, Tampa, FL.
+For Town of Ft. Myers Beach, Florida, a Florida municipality, Defendant: Christopher J. Stearns, LEAD ATTORNEY, Johnson, Anselmo, Murdoch, Burke, Piper & Hochman, PA, Ft Lauderdale, FL; Selena A Gibson, LEAD ATTORNEY, Johnson, Anselmo, Murdoch, Burke, Piper & Hochman, PA, Fort Lauderdale, FL; Jonathan Howard Railey, Johnson, Anselmo, Murdoch, Burke, Piper & Hochman, PA, Ft Lauderdale, FL.
+Judges: SHERI POLSTER CHAPPELL, UNITED STATES DISTRICT JUDGE.
+Opinion by: SHERI POLSTER CHAPPELL
+Opinion
+
+
+
+OPINION AND ORDER1
+Before the Court is Defendant Town of Fort Myers Beach, Florida's Motion to Dismiss the Second Amended Complaint (Doc. 40), to which Plaintiff Edward Rood has responded (Doc. 41). For the below reasons, the Court denies the Motion.
+
+BACKGROUND
+This is a Title II of the Americans with Disabilities Act ("ADA") case. Rood alleges the Town discriminated against him by failing to provide him with a reasonable accommodation.
+Rood uses a wheelchair because he cannot walk on uneven ground and can walk unaided on even ground only for short distances. (Doc. 36 at 3). Rood's physical impairment poses an issue for him enjoying his beachfront home [*2]  in the Town of Fort Myers Beach. That is because separating Rood's home from the water is a low-lying dune covered with vegetation and a shallow non-tidal lagoon. (Doc. 36 at 4; Doc. 38-1 at 30).
+For several years, Rood has tried to get permits to build a wooden walkover structure over the dune toward the shoreline wide enough for his wheelchair. (Doc. 36 at 4; Doc. 38-1 at 30). According to Rood, the walkover will allow him the same access to the public beach enjoyed by non-disabled people. (Doc. 36 at 4-5).
+To get the walkover, Rood applied to the State of Florida for environmental permits. But the Town sued to stop the State from issuing any permits. The Town lost. After a hearing, an administrative law judge found for Rood and issued the permits.
+But victory wasn't complete. Rood still needed the Town Council's approval before he could build the walkover. So, as best the Court can tell, Rood applied in June 2019 for a special exception.2 (Doc. 38-1). Although the Town's Local Planning Agency unanimously recommended that the Town Council approve the structure, the Town Council voted differently. It denied final approval and reconsideration. (Doc. 36 at 6).
+Rood now turns to Title II [*3]  of the ADA. He sues the Town arguing it has violated the statute by not accommodating his disability with the walkover. He seeks a judgment for declaratory, compensatory, and nominal relief. The Town moves to dismiss this suit.
+
+LEGAL STANDARD
+When considering a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), "a complaint must contain sufficient factual matter, which, if accepted as true, would 'state a claim to relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). A claim is facially plausible when the court can draw a reasonable inference, based on the facts pled, that the opposing party is liable for the alleged misconduct. Id.; see also Watts v. Fla. Int'l Univ., 495 F.3d 1289, 1295-96 (11th Cir. 2007) ("The Court has instructed us that the rule 'does not impose a probability requirement at the pleading stage,' but instead 'simply calls for enough fact to raise a reasonable expectation that discovery will reveal evidence of' the necessary element." (cleaned up)).
+In reviewing a motion to dismiss, the court must accept all factual allegations as true and view them in a light most favorable to the non-moving party. Id. The court limits its review "to the well-pleaded factual allegations, documents central to or referenced in the complaint, and matters judicially noticed." [*4]  La Grasta v. First Union Sec., Inc., 358 F.3d 840, 845 (11th Cir. 2004).
+
+DISCUSSION
+"Title II of the ADA prohibits public entities from discriminating against individuals with disabilities." Quality of Life, Corp. v. City of Margate, 805 F. App'x 762, 766 (11th Cir. 2020). To state a claim under Title II, a plaintiff must show (1) that he is a qualified individual with a disability; (2) that he was excluded from participation in or denied the benefits of a public entity's services, programs, or activities, or was otherwise discriminated against by the public entity; and (3) that the exclusion, denial of benefit, or discrimination was because of plaintiff's disability. Bricoll v. Miami-Dade Cty., 480 F.3d 1072, 1083 (11th Cir. 2007). A failure to provide a reasonable accommodation is a theory of recovery, and the one Rood picked. See Quality of Life, 805 F. App'x at 767.
+In moving to dismiss the pleading, the Town concedes that Rood is a qualified individual with a disability. But it argues this case cannot stand because Rood never requested a specific ADA accommodation. For support, the Town attaches to its motion Rood's application for special exception and request for re-hearing.3 The Town then argues, even if Rood made a specific request, the walkover is not a reasonable accommodation. The Court disagrees.
+To show that a government entity refuses to provide a reasonable accommodation, "the plaintiff must show that she requested an [*5]  accommodation or that the need for such an accommodation was obvious and the entity refused to provide one." Medina v. City of Cape Coral, Fla., 72 F. Supp. 3d 1274, 1278 (M.D. Fla. 2014). But "the duty to make a reasonable accommodation does not simply spring from the fact that the handicapped person wants such an accommodation." Schwarz v. City of Treasures Island, 544 F.3d 1201, 1219 (11th Cir. 2008). A defendant must be "given an opportunity to make a final decision with respect to [a plaintiff's] request, which necessarily includes the ability to conduct a meaningful review of the requested accommodation to determine if such an accommodation is required by law." Id. (quotation omitted). "Simply put, a plaintiff must actually request an accommodation and be refused[.]" Id.
+At this early stage of litigation, the complaint sufficiently alleges that Rood asked the Town for the walkover as an accommodation for his wheelchair. True, Rood's application for a special exception did not make a specific request to accommodate his disability. But Rood's narrative section coupled with the attached documents informed the Town that he sought an accommodation for his wheelchair. For example, attached to the application was an excerpt from the State of Florida Department of Environmental Protection's final order on his environment permits that [*6]  described the walkover as an accommodation:
+The dune walkover is proposed as a 1,491.50 square-foot . . . piling-supported wooden walkway five feet in width. Its original six-foot width was reduced to five feet, which remains adequate to accommodate the anticipated need for the use of a wheelchair or mobility device by one of the Applicants. The steps at the waterward end of the proposed dune walkover were replaced with ramps, also for use by a wheelchair or similar device.
+(Doc. 40-1 at 38 (emphasis added)). And the order later commented the walkover's footprint was "the minimum necessary to allow access by wheelchair or mobility." (Doc. 40-1 at 42).
+These statements are consistent with the Second Amended Complaint that sufficiently alleges the Town has known for years that Rood pursued the walkover to accommodate his wheelchair. For example, the complaint alleges that Rood testified at the administrative hearing he needed the walkover for his wheelchair and that the walkover would have ramps at both ends to meet his mobility needs. At this stage, these allegations are enough to suggest the Town knew the walkover was necessary to accommodate Rood's disability. (Doc. 36 at 6). Finally, [*7]  the Town cites no case in which a court has dismissed an ADA claim on a motion to dismiss because a plaintiff did not adequately plead that he made a specific demand for a reasonable accommodation.
+The Town's next argument fares no better. It says the walkover is not even a reasonable accommodation. The Supreme Court has defined reasonable accommodation to mean one that provides "meaningful access" to the benefit plaintiff seeks. Alexander v. Choate, 469 U.S. 287, 300-01, 105 S. Ct. 712, 83 L. Ed. 2d 661 (1985). And the reasonable accommodation in Title II ADA cases is a highly fact-specific inquiry. Bircoll v. Miami-Dade County, 480 F.3d 1072, 1085 (11th Cir. 2007) (cleaned up). At this stage, the Court cannot determine whether the walkover qualifies as a reasonable accommodation. That review is narrowly focused on whether Rood states a claim for relief under the statute. To do so, he provides factual allegations establishing what he believes is a reasonable accommodation. The Town's argument is better suited (if at all) for summary judgment after the record is more developed.
+The Town brings one last argument. It asserts Rood's claim for declaratory relief is an insufficient, formulaic recitation of the elements. But the request for declaratory relief is not a cause of action. It is merely a remedy for the alleged ADA violation. [*8]  The Town does not point to any cases, nor could the Court locate any, that support this argument.
+In sum, the Court finds Rood has stated a plausible violation of Title II of the ADA.
+Accordingly, it is now
+ORDERED:
+1. Defendant Town of Fort Myers Beach's Motion to Dismiss Plaintiff Edward Rood's Second Amended Complaint (Doc. 40) is DENIED.
+2. Defendant must answer the Second Amended Complaint on or before May 12, 2021.
+DONE and ORDERED in Fort Myers, Florida on April 28, 2021.
+/s/ Sheri Polster Chappell
+SHERI POLSTER CHAPPELL
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,43 @@
+Braswell v. Vinson Guard Serv.
+United States District Court for the Southern District of Mississippi, Eastern Division
+June 27, 2018, Decided; June 27, 2018, Filed
+CIVIL ACTION NO. 2:17-CV-201-KS-MTP
+
+Reporter
+2018 U.S. Dist. LEXIS 107496 *; 2018 WL 3148118
+BILLY BRASWELL, PLAINTIFF v. VINSON GUARD SERVICE, et al., DEFENDANTS
+Subsequent History: Sanctions allowed by, in part, Motion denied by, in part, Motion granted by, Motion denied by, As moot Braswell v. Vinson Guard Serv., 2019 U.S. Dist. LEXIS 8938 (S.D. Miss., Jan. 18, 2019)
+Sanctions allowed by, in part, Motion granted by, in part, Motion denied by, in part Braswell v. Vinson Guard Serv., 2019 U.S. Dist. LEXIS 29998 (S.D. Miss., Feb. 26, 2019)
+Summary judgment granted by, Motion denied by, As moot, Judgment entered by Braswell v. Vinson Guard Serv., 2019 U.S. Dist. LEXIS 112536 (S.D. Miss., July 8, 2019)
+Counsel:  [*1] Billy Braswell, Plaintiff, Pro se, Jayess, MS.
+For Vinson Guard Service, Defendant: Lindsay Thomas Dowdle, LEAD ATTORNEY, JONES WALKER, LLP - Jackson, Jackson, MS; Sidney F. Lewis - PHV, V, LEAD ATTORNEY, PRO HAC VICE, JONES WALKER, LLP - New Orleans, New Orleans, LA.
+For Hood Industries, Defendant: Martin J. Regimbal, THE KULLMAN FIRM - Columbus, Columbus, MS.
+Judges: KEITH STARRETT, UNITED STATES DISTRICT JUDGE.
+Opinion by: KEITH STARRETT
+Opinion
+
+
+
+Memorandum Opinion and Order
+This is an ADA case. Plaintiff was a "part time security guard and spark watcher" at a sawmill owned by Defendant Hood Industries. Amended Complaint at 2, Braswell v. Vinson Guard Service, No. 2:17-CV-201-KS-MTP (S.D. Miss. Feb. 20, 2018), ECF No. 8. He specifically alleged that Defendant Vinson Guard Service was his employer. Id. Plaintiff contends that Defendants failed to reasonably accommodate his disabilities of "bad back," "diabetic foot pain," "heart condition," and "MRSA staph." Id. Specifically, he contends that they would not allow him to sit on a folding metal chair while he "spark watched" for the sawmill's welders. Id. Hood Industries filed a Motion to Dismiss [20]. For the reasons provided below, the motion is granted.
+
+I. Standard [*2]  of Review
+To survive a motion to dismiss under Rule 12(b)(6), "a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." Great Lakes Dredge & Dock Co. LLC v. La. State, 624 F.3d 201, 210 (5th Cir. 2010) (punctuation omitted). "To be plausible, the complaint's factual allegations must be enough to raise a right to relief above the speculative level." Id. (punctuation omitted). The Court must "accept all well-pleaded facts as true and construe the complaint in the light most favorable to the plaintiff." Id. But the Court will not accept as true "conclusory allegations, unwarranted factual inferences, or legal conclusions." Id. Likewise, "a formulaic recitation of the elements of a cause of action will not do." PSKS, Inc. v. Leegin Creative Leather Prods., Inc., 615 F.3d 412, 417 (5th Cir. 2010) (punctuation omitted). "While legal conclusions can provide the framework of a complaint, they must be supported by factual allegations." Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S. Ct. 1937, 1950, 173 L. Ed. 2d 868 (2009).
+
+II. Discussion
+Hood argues that it can not be liable under the ADA because it was not Plaintiff's employer. Indeed, in his Amended Complaint, Plaintiff specifically alleged that Vinson Guard Service was his employer.
+The ADA prohibits "covered entit[ies]" from "discriminat[ing] against a qualified individual on the basis of disability . . . ." 42 U.S.C. § 12112(a). In this context, discrimination [*3]  includes "not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an . . . employee . . . ." 42 U.S.C. § 12112(b)(5)(A). A "covered entity" is "an employer, employment agency, labor organization, or joint labor-management committee." 42 U.S.C. § 12111(2). "The term 'employer' means a person engaged in an industry affecting commerce who has 15 or more employees . . . and any agent of such person . . . ." 42 U.S.C. § 12111(5)(A). An "employee" is "an individual employed by an employer . . . ." 42 U.S.C. § 12111(4). Therefore, under the statute's plain terms, a plaintiff can only sue a defendant under Title I of the ADA if the plaintiff is an employee of the defendant. Flynn v. Distinctive Home Care, Inc., 812 F.3d 422, 427 (5th Cir. 2016).
+In response to Hood's motion, Plaintiff contends that Hood and Vinson were "joint employers." Response at 1, Braswell v. Vinson Guard Service, No. 2:17-CV-201-KS-MTP (S.D. Miss. Apr. 26, 2018), ECF No. 24. Plaintiff argues that Vinson only acted "in the capacity of a staffing service," and that Hood trained and supervised the spark watchers. Id. However, none of these allegations were in the Amended Complaint. In fact, Plaintiff specifically alleged that Vinson Guard Service was his employer. Amended Complaint [8], at 2. [*4] 
+When considering a Rule 12(b)(6) motion, the Court "generally must limit itself to the contents of the pleadings . . . ." Brand Coupon Network, LLC v. Catalina Marketing Corp., 748 F.3d 631, 635 (5th Cir. 2014). "[N]ew factual allegations presented in a plaintiff's opposition to a motion to dismiss . . . are insufficient to cure deficient allegations in a complaint." Tanner v. Pfizer, Inc., No. 1:15-CV-75-HSO-JCG, 2015 U.S. Dist. LEXIS 141883, 2015 WL 6133207, at *4 (S.D. Miss. Oct. 19, 2015). And while the Court should "freely give leave [to amend a complaint] when justice so requires," FED. R. CIV. P. 15(a)(2), "a party must 'expressly request' leave to amend." Estes v. JP Morgan Chase Bank, Nat'l Ass'n, 613 F. App'x 277, 280 (5th Cir. 2015) (quoting United States ex rel. Willard v. Humana Health Plan of Tex. Inc., 336 F.3d 375, 387 (5th Cir. 2003)).
+In summary, Title I of the ADA only permits plaintiff-employees to sue defendant-employers. Plaintiff specifically alleged in his Amended Complaint that Vinson Guard Services was his employer, rather than Hood Industries. Although Plaintiff now contends that Hood was also his employer, he has not sought leave to file a Second Amended Complaint and correct his earlier allegations. Therefore, the Court must grant Hood's motion and dismiss Plaintiff's ADA claim against it.
+
+III. Conclusion
+For these reasons, the Court grants the Motion to Dismiss [20] filed by Defendant Hood Industries. Plaintiff's claims against Defendant Hood Industries are dismissed without prejudice. See Moawad v. Childs, 673 F.2d 850, 852 (5th Cir. 1982).
+SO ORDERED AND ADJUDGED this 27th day of June, 2018. [*5] 
+/s/ Keith Starrett
+KEITH STARRETT
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,50 @@
+Bennett v. Md. Envtl. Serv.
+United States District Court for the District of Maryland, Southern Division
+March 12, 2019, Decided; March 12, 2019, Filed
+Case No.: GJH-17-1574
+
+Reporter
+2019 U.S. Dist. LEXIS 39436 *; 2019 WL 1126017
+ALVIN NATHANIEL BENNETT, SR., Plaintiff, v. MARYLAND ENVIRONMENTAL SERVICE, Defendant.
+Counsel:  [*1] Alvin Nathaniel Bennett, Sr., Plaintiff, Pro se, Pomfret, MD.
+For Maryland Environmental Service, Defendant: William Joseph Selle, LEAD ATTORNEY, Office of the Attorney General, Maryland Environmental Service, Millersville, MD.
+Judges: GEORGE J. HAZEL, United States District Judge.
+Opinion by: GEORGE J. HAZEL
+Opinion
+
+
+
+MEMORANDUM OPINION
+Plaintiff Alvin Nathaniel Bennett, proceeding pro se, was an employee of Defendant Maryland Environment Service ("MES") from March 2007 until his employment was terminated on May 8, 2015. Plaintiff alleges that MES discriminated against him on the basis of race and sex in violation of Title VII of the Civil Rights Act of 1964, and disability in violation of the Americans with Disabilities Act of 1990, as amended ("ADA"). Defendant has filed a Motion for Summary Judgment. ECF No. 29. No hearing is necessary. See Loc. R. 105.6 (D. Md. 2016). For the following reasons, Defendant's Motion for Summary Judgment is granted.
+
+I. BACKGROUND
+Plaintiff's employment with MES began in March 2007 as an Environmental Systems Supervisor. ECF No. 29-4 at 3.1 In September 2007, he was promoted to Assistant Regional Supervisor for the Southern Region. Id. at 4. He was reprimanded in November 2009 for failing to follow safety protocols [*2]  during a chemical spill, and employees complained about his supervision. ECF Nos. 29-4 at 5, 29-5 at 4. In November 2010, he was demoted back to the position of Environmental Systems Supervisor. Id. At the time of his demotion, he lost his privileges to use a company vehicle. See ECF No. 33-1 at 3. He was replaced by Chris Thompson, a white male. Id. Plaintiff was disciplined again in January 2011 for failing to collect a required sample of wastewater effluent. ECF No. 29-4 at 6. MES continued to receive complaints from employees regarding Plaintiff's supervision, see ECF 29-5 at 3-5, and in July 2014 he began a 90-day Performance Improvement Plan. Id. at 6. Though his performance improved during that 90 days, MES soon began to again receive complaints regarding Plaintiff's supervision. Id; ECF No. 29-6 at 3-4. On May 8, 2015, he was terminated for "negligent behavior and overall poor leadership skills." ECF No. 29-4 at 9.
+In March 2011, Plaintiff had notified MES that he suffered from Obstructive Sleep Apnea. ECF No. 33-1 at 4. On April 28, 2015, less than two weeks before he was terminated, he had requested that he be allowed to "occasionally arrive at work at a later time" due to the Obstructive [*3]  Sleep Apnea. Id.
+
+II. STANDARD OF REVIEW
+Under Fed. R. Civ. P. 56, summary judgment is appropriate only when the Court, viewing the record as a whole and in the light most favorable to the nonmoving party, determines that there exists no genuine issue of material fact and the moving party is entitled to judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317, 322-24, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). The burden is on the moving party to demonstrate that there exists no genuine dispute of material fact. Pulliam Inv. Co. v. Cameo Props., 810 F.2d 1282, 1286 (4th Cir. 1987). To defeat the motion, the nonmoving party must submit evidence showing facts sufficient for a fair-minded jury to reasonably return a verdict for that party. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 252, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986).
+
+III. DISCUSSION
+Plaintiff brings claims for discrimination on the basis of race and sex pursuant to Title VII of the Civil Rights Act of 1964 and on the basis of disability pursuant to the Americans with Disabilities Act of 1990 ("ADA"). As an initial matter, Plaintiff's allegations of race and sex discrimination are barred by the statute of limitations. Plaintiff alleges two specific acts of discrimination: that his demotion in November 2010 was the result of discrimination on the basis of race and sex, and that the revocation of his company vehicle privileges in November 2010 was the result of discrimination [*4]  on the basis of race. See ECF Nos. 33-1 at 5.2 In Maryland, acts occurring more than 300 days prior to the filing of an Equal Employment Opportunity Commission ("EEOC") charge may not be subsequently challenged in a Title VII lawsuit. See, e.g., Holland v. Wash. Homes, Inc., 487 F.3d 208, 219 (4th Cir. 2007). The acts challenged here occurred in 2010, far longer than 300 days before Plaintiff filed his EEOC Charge on February 17, 2016. See ECF No. 29-3. Therefore, Plaintiff's Title VII claims based on these acts of discrimination are time barred.3
+Plaintiff's ADA claim is based on his April 28, 2015 request for an accommodation based on his Obstructive Sleep Apnea. In Maryland, claims pursuant to the ADA are subject to a three-year statute of limitations. See Semenova v. Md. Transit Admin., 845 F.3d 564, 568 (4th Cir. 2017). Plaintiff's ADA claim is thus timely filed.
+The Americans with Disabilities Act of 1990 ("ADA") prohibits discrimination by employers against qualified individuals with a disability. 42 U.S.C. § 12112. The ADA bars both "disparate treatment because of an employee's disability" and "the failure to make 'reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability.'" Shin v. Univ. of Md. Med. Syst. Corp., 369 Fed. Appx. 472, 479 (4th Cir. 2010) (quoting 42 U.S.C. § 12112(b)(5)(A)).
+Plaintiff must establish, as a threshold matter, that he is qualified [*5]  for his job and that he either has an actual disability or is regarded as having one. See 42 U.S.C. § 12112; Coursey v. Univ. of Md. E. Shore, 577 F. App'x 167, 174 (4th Cir. 2014). A disability is defined as "'a physical or mental impairment' that 'substantially limits one or more of the major life activities of an individual,' and that includes a record of such an impairment." Coursey, 577 F. App'x at 174 (quoting Haulbrook v. Michelin N. Am., 252 F.3d 696, 702-03 (4th Cir. 2001)).
+Plaintiff has not introduced sufficient evidence to establish that his claimed disability substantially limits one or more of his major life activities. Specifically, in support of his assertion that he has obstructive sleep apnea he introduced only a form dated March 24, 2011, that states that the "probable duration of [the] condition" was twelve weeks. ECF No. 33-9. This form says little about whether Plaintiff had a qualifying disability at the time of his request for an accommodation on April 28, 2015. Furthermore, Plaintiff has not offered any evidence explaining how his condition affects or limits any of his major life activities. Therefore, Plaintiff has not carried his burden of establishing a genuine dispute of material fact as to whether he has a disability under the ADA and summary judgment will be granted on this claim.4
+
+IV. CONCLUSION
+Defendant's Motion for Summary [*6]  Judgment, ECF No. 29, is granted. A separate Order shall issue.
+Dated: March 12, 2019
+/s/ GEORGE J. HAZEL
+United States District Judge
+
+ORDER
+In accordance with the foregoing Memorandum Opinion, it is hereby ORDERED, by the United States District Court for the District of Maryland, that:
+1. Defendant's Motion for Summary Judgment, ECF No. 29, is granted; and
+2. The Clerk shall close the case.
+Dated: March 12, 2019
+/s/ GEORGE J. HAZEL
+United States District Judge
+
+
+End of Document
+

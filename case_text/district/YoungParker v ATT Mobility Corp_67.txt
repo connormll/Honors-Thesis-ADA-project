@@ -1,0 +1,56 @@
+Young-Parker v. AT&T Mobility Corp.
+United States District Court for the Eastern District of Arkansas, Western Division
+December 9, 2009, Decided; December 10, 2009, Filed
+CASE NO. 4:09CV00202 JMM
+
+Reporter
+2009 U.S. Dist. LEXIS 114997 *; 2009 WL 4884220
+TIFFANY M. YOUNG-PARKER, PLAINTIFF v. AT&T MOBILITY CORPORATION, DEFENDANT
+Prior History: Young-Parker v. AT&T Mobility LLC & Tammy Jordan, 2009 U.S. Dist. LEXIS 40472 (E.D. Ark., Apr. 29, 2009)
+Counsel:  [*1] Tiffany M Young-Parker, Plaintiff, Pro se, Jacksonville, AR.
+For AT&T Mobility Corporation, Defendant: Joann C. Maxey, LEAD ATTORNEY, Clayborne S. Stone, Williams & Anderson, PLC, Little Rock, AR.
+For Tammy Jordan, Defendant: Clayborne S. Stone, Williams & Anderson, PLC, Little Rock, AR.
+Judges: James M. Moody, United States District Judge.
+Opinion by: James M. Moody
+Opinion
+
+
+
+ORDER
+Pending before the Court are defendant's Motion for Summary Judgment. Plaintiff has failed to file a response. For the reasons stated below, defendant's motion is granted (# 29).
+Plaintiff claims that defendant discriminated against her in violation of the American with Disabilities Act of 1990 ("the ADA"), 42 U.S.C. § 12201, and Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e ("Title VII"), by reassigning her to a work shift which requires her to commute from work after dark. 1 Plaintiff's Title VII claims are based upon her race, color and religion, but plaintiff has abandoned those claims.
+Defendant contends that (1) plaintiff has failed to administratively  [*2] exhaust her Title VII race, color, and religion claims; (2) defendant is not required under the ADA to provide plaintiff an accommodation for commuting; and (3) plaintiff's requested accommodation is unreasonable. 2
+
+Facts
+Plaintiff is employed by defendant as a customer service representative (CSR) in the Specialty Department for Technical Support at defendant's call center. Plaintiff began her employment on November 27, 2006. Plaintiff suffers from severe fibromyalgia, degenerative joint condition, bipolar disorder, hypertension, osteoporosis, and a vitamin B-12 deficiency.
+During the two years of employment, plaintiff has made  [*3] several requests for accommodations based upon her disability, e.g., a foot rest, an ergonomic keyboard and mouse, and a shift bid request. Defendant has granted all of plaintiff's requested accommodations with the exception of plaintiff's request to change her work shift.
+Defendant offers different shifts to its unit employees, which would include plaintiff. The first shift starts at 6:00 a.m., and the last shift ends at 8:30 p.m. Shift variations exist with some individuals electing straight eight-nine- or ten-hour shifts and others selecting split shifts.
+As provided in its contract with the Communications Workers of America ("the CWA"), defendant's shift assignments are based on seniority, with employees bidding on the work shift that they want and assignments being made according to seniority. If more than one person has the same seniority date and the same last four digits of the Social Security number, the middle two digits of the Social Security number are used to establish the ranking. The person with the lowest two middle digits will be considered the most senior. Shift bids are done quarterly at a minimum.
+For most of plaintiff's employment she has successfully bid on, and  [*4] received, the 7:30 a.m. to 4:30 p.m. shift. In April 2008, plaintiff was not successful in her shift bid due to her lack of seniority and was assigned to work for a three month period on the 11:30 a.m. to 8:30 p.m. shift, which required her to drive after 5:30 p.m.
+Upon being notified that she was being assigned to work the 11:30 a.m. to 8:30 p.m. shift, plaintiff submitted a letter from her therapist, Patricia Scott, a Licensed Certified Social Worker, stating the following:
+The above mentioned individual is a patient of this office. It is my understanding that a schedule change has been discussed for Ms. Parker to the 11-8 shift. It is my professional opinion that any change in her schedule would be detrimental to her health. She experiences severe anxiety when driving at night, and her medication regime is very scheduled and any change has the potential to cause an emotional relapse.
+I hope that this information is useful to you and respectfully request its consideration.
+Sandra McSorley, defendant's Human Resources Employee Relations Manager, reviewed plaintiff's request for an accommodation and notified her by e-mail on May 16, 2008, that the company could not change her shift because  [*5] scheduling is based on seniority due to the CWA contract and that placing her in a schedule which violated the contract would cause an undue hardship to the company. In this same email, McSorley offered to help plaintiff find co-workers who could swap shifts, and stated that plaintiff could use exchange time or utilize split shifts when possible.
+Plaintiff elected not to pursue these other options, and on May 22, 2008, filed her charge of discrimination with the EEOC alleging discrimination based upon her disability. On February 4, 2009, the EEOC issued plaintiff a right to sue notice and plaintiff filed her pro se complaint on March 13, 2009.
+
+Analysis
+Summary judgment is appropriate when there is no genuine issue of material fact and the dispute may be decided solely on legal grounds. Seymour v. City of Des Moines, 519 F.3d 790, 796 (8th Cir. 2008); Fed. R. Civ. P. 56. The initial inquiry is whether there are genuine factual issues that can be properly resolved only by a finder of fact because they may reasonably be resolved in favor of either party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). Where a motion for summary judgment is properly made and supported an opposing  [*6] party must set forth specific facts showing a genuine issue for trial. See Fed.R.Civ.P. 56(e)(2).
+Under the ADA, failure to make a reasonable accommodation is a separate form of discrimination. 29 C.F.R. § 1630.9(a); Peebles v. Potter, 354 F.3d 761, 766 (8th Cir. 2004).
+The ADA defines 'reasonable accommodation' as:
+[j]ob restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+42 U.S.C. § 12111(9)(B).
+The Eighth Circuit has not addressed whether an accommodation related to an employee's commute is required under the ADA. Other district courts have held that such an accommodation is not required. See Livingston v. Fred Meyer Stores, Inc., 567 F. Supp.2d 1265 (D. Ore. 2008) (employer not required to accommodate employees' commute-related limitations); LaResca v. American Telephone & Telegraph, 161 F. Supp. 2d 323, 334 (D. N. J. 2001) (court analyzing New Jersey Law Against Discrimination found that under  [*7] ADA employer not obligated to accommodate a commuting problem). Nonetheless, assuming that the ADA requires an employer to accommodate an employee's work commute, plaintiff's case fails as her accommodation request is unreasonable.
+In US Airways, Inc. v. Barnett, 535 U.S. 391, 122 S.Ct. 1516, 152 L.Ed.2d 589 (2002), the Supreme Court held that an employer was not required to give a disabled employee higher seniority status to enable that employee to retain a job over another qualified employee with more seniority unless the disabled employee presented evidence of special circumstances that would make an exception to the seniority rule reasonable. Plaintiff has not presented any evidence of special circumstance which would justify defendant disregarding its contract with the CWA regarding seniority and shift bids.
+Moreover, the Eighth Circuit held in Huber v. Wal-Mart Stores, Inc., 486 F.3d 480, 484 (8th Cir. 2007) (citation omitted) that an employer is not required to make accommodations that would subvert other, more qualified applicants for the job. Based upon the reasoning in these two cases, the Court finds that plaintiff's accommodation request is unreasonable.
+
+Conclusion
+Plaintiff  [*8] has failed to present sufficient facts to establish that under the ADA she should have been given preference over other employees who were senior to her in assigning shift changes and plaintiff has abandoned her claims based upon race, color, and religion. 3
+Defendant's Motion for Summary Judgment is granted and plaintiff's complaint is dismissed. Judgment will be entered accordingly.
+IT IS SO ORDERED THIS 9th day of December, 2009.
+/s/ James M. Moody
+James M. Moody
+United States District Judge
+
+
+End of Document
+

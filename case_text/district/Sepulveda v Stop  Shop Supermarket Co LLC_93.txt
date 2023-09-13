@@ -1,0 +1,49 @@
+Sepulveda v. Stop & Shop Supermarket Co LLC
+United States District Court for the District of Connecticut
+June 10, 2016, Decided; June 10, 2016, Filed
+3:14-cv-00191-WWE
+
+Reporter
+2016 U.S. Dist. LEXIS 75612 *
+MARCO SEPULVEDA, Plaintiff, v. STOP & SHOP SUPERMARKET CO LLC, Defendant.
+Prior History: Sepulveda v. Stop & Shop Supermarket Co LLC, 2015 U.S. Dist. LEXIS 131981 (D. Conn., Sept. 30, 2015)
+Counsel:  [*1] For Marco Sepulveda, Plaintiff: Nadim Tarabishy, Hartford Legal Group, Hartford, CT USA.
+For Stop & Shop Supermarket Co Llc, Defendant: Glenn William Dowd, Howard Fetner, Day Pitney LLP-NH, New Haven, CT USA.
+Judges: WARREN W. EGINTON, SENIOR UNITED STATES DISTRICT JUDGE.
+Opinion by: WARREN W. EGINTON
+Opinion
+
+
+
+MEMORANDUM OF DECISION ON PLAINTIFF'S MOTION FOR RECONSIDERATION and MOTION TO AMEND COMPLAINT
+In this action, plaintiff Marco Sepulveda alleges that defendant Stop & Shop Supermarket Company LLC failed to accommodate his disability in violation of the Americans with Disabilities Act ("ADA") and the Connecticut Fair Employment Practices Act ("CFEPA"). The Court granted summary judgment in favor of defendant after finding that plaintiff had not requested accommodation within the limitations windows established by the statutes (300 and 180 days respectively). See 42 U.S.C. § 2000e-5(e)(1); 42 U.S.C. § 12117(a); Conn. Gen. Stat. § 46a-82(f).
+Plaintiff has moved for reconsideration of the Court's grant of summary judgment in favor of defendant, arguing that the Court overlooked requests for accommodation made within the limitations periods. Plaintiff has moved separately to amend his complaint to include new allegations of fact and add two new causes of action. For the following reasons, [*2]  plaintiff's motion for reconsideration will be granted, but plaintiff's motion to amend will be denied.
+
+DISCUSSION
+
+1. Reconsideration of Summary Judgment
+Plaintiff asserts that he "repeated his concerns to management" at almost all of his performance improvement plan meetings, two of which occurred on August 5, 2011, and September 12, 2011. Both dates fall within 300 days of his complaint to the CHRO and the EEOC.1 Plaintiff argues that the Court failed to consider these requests when ruling that plaintiff's claims were barred by the 300-day limitations period.
+Defendant argues that, "mere requests to reconsider cannot extend limitations periods applicable to the ADA." See Krachenfels v. North Shore Long Island Jewish Health System, 2014 U.S. Dist. LEXIS 103474, 2014 WL 3867560, at n.7 (E.D.N.Y.).
+Regardless of any semantic distinction between "requests for reconsideration" on the one hand and "new requests for previously denied accommodation" on the other, an employer's rejection of an employee's proposed accommodation is the sort of discrete act that does not give rise to a continuing violation. See Elmenayer v. ABF Freight System, Inc., 318 F. 3d 130, 134-35 (2d Cir. 2003). "The rejection of a proposed accommodation is a single completed action when taken, quite unlike the 'series of separate acts' that constitute [*3]  a hostile work environment and 'collectively constitute' an unlawful employment practice." Id.
+Nevertheless, in Elmenayer, the Second Circuit did "not decide what the effect would be if the employee renews the request for an accommodation." Id. at 135. Even if plaintiff's requests at his performance meetings amounted to mere pleas for reevaluation, they may act to start a new limitations clock. See Tobin v. Liberty Mut. Ins. Co., 553 F. 3d 121, 133 (1st Cir. 2009) ("[I]n the context of disability discrimination, any other approach would fail to take into account the possibility of changes in either the employee's condition or the workplace environment that could warrant a different response from the employer to renewed requests for accommodation.").
+To demonstrate failure to accommodate under the ADA, a plaintiff must show that, "(1) plaintiff is a person with a disability under the meaning of the ADA; (2) an employer covered by the statute had notice of his disability; (3) with reasonable accommodation, plaintiff could perform the essential functions of the job at issue; and (4) the employer has refused to make such accommodations." See McMillan v. City of New York, 711 F. 3d 120, 125-26 (2d Cir. 2013). An employer cannot refuse to make an accommodation that it was never asked to make. Dooley v. JetBlue Airways Corp., 636 Fed. Appx. 16, 18-19 (2d Cir. 2015). "An employer's duty to accommodate an [*4]  employee's disability is ordinarily activated by a request from the employee, and the request must be sufficiently direct and specific to give the employer notice of the needed accommodation." Id.
+In his reply brief in support of his motion to amend, plaintiff argues that he made requests on August 5, 2011, and September 12, 2011, during his performance improvement plan meetings. The record evidence of such requests is plaintiff's interrogatory answer, which states:
+Later, when my schedule was [] back to full time, I repeated my concerns to management at almost all of my performance improvement plan meetings. I would say that I had a hard time driving home at midnight. My requests were ignored. I requested that they [give] me a fair shot at doing my job — I was never given a fair shot. Def.'s Ex. 25, at 5 [ECF No. 31].
+A party asserting that a fact is genuinely disputed may support the assertion by interrogatory answer. See Fed. R. Civ. P. 56(c)(1)(A). The burden is merely to demonstrate that an admissible form of evidence is anticipated. See Fed. R. Civ. P. 56(c)(2) advisory committee's note to 2010 amendment; Celotex Corp. v. Catrett, 477 U.S. 317, 324, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986) ("We do not mean that the nonmoving party must produce evidence in a form that would be admissible at trial in order to avoid [*5]  summary judgment. Obviously, Rule 56 does not require the nonmoving party to depose her own witnesses.").
+Here, plaintiff may testify in accordance with his interrogatory answers that his direct and specific "requests" to prevent midnight driving were refused. Viewed in the light most favorable to plaintiff, plaintiff has demonstrated a genuine issue for trial as to whether defendant was given notice of plaintiff's need for accommodation within the limitations period. Moreover, whether plaintiff could perform the essential functions of his job with reasonable accommodation and whether defendant refused to make such accommodation are genuinely disputed issues of material fact, thereby precluding summary judgment. The Court will vacate its summary judgment decision.
+
+2. Late-Filed Motion to Amend Complaint
+As the Court is now denying summary judgment on plaintiff's accommodation claims, there is no need to supplement the complaint with allegations of fact concerning the specific dates for requested accommodation.
+The Court will deny plaintiff's motion to add new causes of action to his complaint, as plaintiff has not offered a sufficient explanation for his delay in moving to amend until after judgment [*6]  had entered, especially where the amendment is based upon previous factual allegations and completed discovery. See State Trading Corp. of India, Ltd. v. Assuranceforeningen Skuld, 921 F.2d 409, 418 (2d Cir. 1990) ("When the moving party has had an opportunity to assert the amendment earlier, but has waited until after judgment before requesting leave, a court may exercise its discretion more exactingly.").
+Plaintiff regrets the mistake of failing to plead discriminatory termination in the original complaint, but plaintiff's original complaint contained only the two accommodation claims. Counsel's "relative inexperience" does not justify a do-over. Plaintiffs are "not entitled to an advisory opinion from the Court informing them of the deficiencies in the complaint and then an opportunity to cure those deficiencies." Bellikoff v. Eaton Vance Corp., 481 F. 3d 110, 118 (2d Cir. 2007).
+
+CONCLUSION
+For the foregoing reasons, plaintiff's motion for reconsideration is GRANTED; judgment [ECF No. 38] is VACATED, and the case shall be reopened. Plaintiff's motion to amend is DENIED. The parties shall file a proposed case-management schedule within 21 days.
+Dated this 10th day of June, 2016, at Bridgeport, Connecticut.
+/s/ Warren W. Eginton
+WARREN W. EGINTON
+SENIOR UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

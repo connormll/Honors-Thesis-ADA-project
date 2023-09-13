@@ -1,0 +1,128 @@
+Yelapi v. St. Petersburg Surgery Ctr., Ltd.
+United States District Court for the Middle District of Florida, Tampa Division
+June 7, 2010, Decided; June 7, 2010, Filed
+CASE NO. 8:01 CV-00787-EAJ CLASS ACTION
+
+Reporter
+2010 U.S. Dist. LEXIS 144842 *; 2010 WL 8917018
+MICHAEL YELAPI, KATHY DYER and SHERRI BASTRESS, individuals, Plaintiffs vs. ST. PETERSBURG SURGERY CENTER, LTD., et al., Defendants.
+Subsequent History: Adopted by, Approved by Yelapi v. HealthSouth Corp., 2012 U.S. Dist. LEXIS 121912 (M.D. Fla., Aug. 28, 2012)
+Prior History: Yelapi v. St. Petersburg Surgery Ctr., 2006 U.S. Dist. LEXIS 115702 (M.D. Fla., Sept. 28, 2006)
+Counsel:  [*1] For Robert S. Fine, Special Master: D. Porpoise Evans, LEAD ATTORNEY, Greenberg Traurig, LLP*, Miami, FL; Robert S. Fine, LEAD ATTORNEY, Greenberg Traurig, LLP, Miami, FL.
+For Kathy Dyer, an individual, Plaintiff: Kip P. Roth, LEAD ATTORNEY, Law Office of Kip Roth, P.A., Tampa, FL.
+For Access Now, Inc., a Florida corporation, Edward Resnick, an individual, Plaintiffs: Kip P. Roth, LEAD ATTORNEY, Law Office of Kip Roth, P.A., Tampa, FL; Miguel Manuel de la O, LEAD ATTORNEY, Marko & Magolnick, PA, Miami, FL.
+For Healthsouth Corp., Defendant: M. Jefferson Starling, LEAD ATTORNEY, Balch & Bingham, LLP*, Birmingham, AL.
+For Michael Yelapi, Plaintiff: Kip P. Roth, LEAD ATTORNEY, Law Office of Kip Roth, P.A., Tampa, FL; M. Jefferson Starling, LEAD ATTORNEY, PRO HAC VICE, Balch & Bingham, LLP*, Birmingham, AL.
+Opinion
+
+
+
+REPORT AND RECOMMENDATION OF THE SPECIAL MASTER ON PARTIES' FIRST 21 ACCESSIBILITY COMPLIANCE REPORTS
+This matter was referred to the Special Master by the Court in its Orders dated February 1, 2006 (D.E. 102) and September 18, 2008 (D.E. 115). The Orders direct the Special Master to review the Accessibility Compliance Reports ("ACRs") jointly submitted by the parties, and to issue a report  [*2] and recommendation to the Court regarding the removal of architectural barriers identified in the ACRs. The first Report and Recommendation covering ACRs 1-21 (of 50) follows. 1
+
+I. INTRODUCTION
+This case concerns the obligations that Title III of the Americans with Disabilities Act, 42 U.S.C. § 12181 et seq. (the "ADA"), imposes upon those who construct and operate public accommodations such as hospitals. The foundation of Title III is 42 U.S.C. § 12182(a), which mandates that persons with a disability receive the "full and equal enjoyment of the goods, services, facilities,  [*3] privileges, advantages, or accommodations of any place of public accommodation...."
+Plaintiffs filed this action on April 19, 2001, seeking declaratory and injunctive relief against Defendants for alleged violations of the ADA and section 504 of the Rehabilitation Act ("Rehab Act"), 29 U.S.C. § 701 et seq. Subsequently, three named Plaintiffs moved for class certification pursuant to Federal Rule of Civil Procedure 23 of a class of plaintiffs consisting of all persons in the United States with disabilities, as defined by the ADA and the Rehab Act. On April 8, 2002, the Court granted certification pursuant to Rule 23(b)(2), F. R. Civ. P. (D.E. 25).
+Plaintiffs are a class of similarly situated individuals with disabilities who allege they have been discriminated against by Defendants based on their disabilities. This discrimination, Plaintiffs allege, is, in part, a result of being denied equal access to Defendants' facilities due to the existence of architectural barriers in violation of the ADA and its regulations (codified at 28 C.F.R. part 36), which incorporate the ADA Accessibility Guidelines ("ADAAG"), Appendix A to 28 C.F.R. part 36. Defendants are wholly-owned subsidiaries or  [*4] affiliates of HealthSouth Corporation. Defendants provide healthcare services and, at this time, own or operate 138 medical care buildings and facilities located throughout the United States.
+On December 29, 2005, the Court approved the parties' Procedural Settlement Agreement and Consent Decree (D.E. 95, the "Consent Decree"). The Consent Decree provides for a process by which the 138 facilities that now comprise the holdings of HealthSouth, and which are subject to this action, may be inspected and modified in order to comply with the ADA and the Rehab Act.
+The parties raised the issue of the need for tolerances and/or equivalent facilitation during a December 17, 2005 Status Conference. They argued that such tolerances and/or equivalent facilitation would be necessary for three reasons. First, standard construction industry practices may produce results that are not in strict conformity with the dimensional standards of the ADAAG. Second, the ADAAG's specifications are, in certain instances, too vague or ambiguous to permit a reasonably precise set of results. Third, while the ADAAG allows for alternative designs or technologies that meet or exceed the accessibility provided for in  [*5] the guidelines, it does not provide a methodology for determining them. On February 1, 2006, the Court ordered that any proposed per se tolerances and equivalences be submitted to the Court in the nature of a motion for partial summary judgment (D.E. 102).
+On March 8, 2006, Defendants filed their Unopposed Motion for Partial Summary Judgment (D.E. 105, the "MSJ") requesting the Court enter an order holding that, as a matter of law, certain tolerances from the ADAAG's requirements, and/or certain equivalent facilitation, do not constitute violations of the ADA or the Rehab Act. By Order dated September 28, 2006 (D.E. 112), the Court adopted the Special Master's Amended Report and Recommendation (D.E. 111), granting the MSJ in part, thus finding the following design elements raised in the MSJ 2 do not constitute violations of the ADA or the Rehab Act: width and slope of accessible parking spaces and access aisles; slope of accessible parking spaces and access aisles; accessible parking signage height; water closets and toilet stalls; height of grab bars in accessible toilet stalls; knee clearance under lavatories; height of lavatory mirrors; urinal rim height; height and location of toilet  [*6] paper dispensers; water fountains; location of strobe alarms; height for wall-mounted strobe alarms; and interior signage height.
+On February 1, 2010, the parties filed a corrected second amended and restated first batch of ACRs for approval by the Court (D.E. 129). The Special Master has received and reviewed the first 21 ACRs submitted by the parties, and, pursuant to the standards outlined below, submits this Report and Recommendation thereon.
+
+II. THE FIRST 21 ACRs
+For purposes of evaluating the ACRs, the Special Master has accepted the parties' expert(s) representations and submitted evidence regarding the factual details of existing conditions (e.g., length measurements, slopes, etc.) as correct and has not made an independent evaluation of the actual conditions.
+
+A. Requirements of the ADA and the Rehab Act
+"[I]n its attempt to equalize physical access to public buildings, Congress imposed reasonable architectural standards for new construction and allowed for less costly measures for older facilities. See 28 C.F.R. § 35.151; 28 C.F.R. § 35.150(b)(1)." Association for Disabled Americans, Inc. v. Florida Intern. University, 405 F.3d 954, 959 (11th Cir. 2005).  [*7] The ADA mandates that places of public accommodation and commercial facilities shall be accessible to persons with disabilities. Access Now, Inc. v. Ambulatory Surgery Center Group, Ltd., 146 F. Supp. 2d 1334, 1336 (S.D. Fla. 2001). Places of public accommodation and commercial facilities newly constructed for first occupancy after January 26, 1993, must be accessible to persons with disabilities, and places of public accommodation and commercial facilities that are altered after January 26, 1992, must be made accessible to the maximum extent feasible (these dates are referred to herein as the "Effective Date," as applicable). 28 C.F.R. § 35.151(a) and (b). "Accessible" is generally defined as being in compliance with the ADAAG standards. Independent Living Resources v. Oregon Arena Corp., 982 F. Supp. 698, 746 (D. Or. 1997). The ADA further requires that all places of public accommodation, including, but not limited, to those that predate the effect date of the ADA remove architectural barriers and communication barriers that are structural in nature, when it is readily achievable to do so. 42 U.S.C. §12182(b)(2)(A)(iv); see also Garthright-Dietrich v. Atlanta Landmarks, Inc., 452 F.3d 1269, 1273 (11th Cir. 2006).
+Section 504  [*8] of the Rehab Act prohibits any entity that receives federal financial assistance from discriminating against any disabled individual in any service it offers. 29 U.S.C. § 794. The Rehab Act's implementing regulations adopt the Uniform Federal Accessibility Standards ("UFAS"), 28 C.F.R. § 42.522(b), found in 41 C.F.R. subpart 101-19.6. Section 42.522(b) provides that, "[e]ffective as of March 7, 1988, ... construction[ ] or alteration of buildings" shall comply with the UFAS. While entities covered by the Rehab Act are not required to remove all barriers, they are required to remove barriers where such removal is necessary to make a program accessible. Putnam v. Oakland Unified Sch. Dist., 1995 U.S. Dist. LEXIS 22122, 1995 WL 873734 *9-10 (N.D. Cal. 1995).
+
+B. Applicable Standards
+Title III's provisions are implemented through regulations promulgated by the Department of Justice, which include guidelines for new construction and alterations. See 28 C.F.R. Part 36 and Appendix A. These guidelines, the ADAAG, were drafted and proposed by the U.S. Architectural and Transportation Barriers Compliance Board ("Access Board"). Ambulatory Surgery Center, 146 F. Supp. 2d at 1336. The ADAAG sets forth standards for new construction  [*9] and alterations. 28 C.F.R. § 36.406. In addition to the requirements for new construction and alterations, Title III requires places of accommodation and commercial facilities to remove architectural barriers when it is readily achievable to do so, i.e., easily accomplishable and able to be carried out without much difficulty or expense. 28 C.F.R. § 36.304. The Supreme Court has held that this exception for "difficulty" is not limited to the cost of requested modifications; rather, Title III directs that the "readily achievable" determination take into account "'the impact . . . upon the operation of the facility'." Spector v. Norwegian Cruise Line Ltd., 545 U.S. 119, 135, 125 S. Ct. 2169, 162 L. Ed. 2d 97; 545 U.S. 119, 125 S. Ct. 2169, 2177, 162 L. Ed. 2d 97 (2005)(quoting 42 U.S.C. §12181(9)(B)).
+Applied to existing facilities, this "readily achievable" standard imposes a less rigorous degree of accessibility than for new construction or alterations. 28 C.F.R. part 36, App. B §36.304. The ADAAG further incorporates the concept of construction tolerances in its provision that "[a]ll dimensions are subject to conventional building industry tolerances for field conditions." ADAAG 3.2. In addition to permitting these construction tolerances, ADAAG §2.2  [*10] permits the use of alternative designs or technologies that meet or exceed the ADAAG:
+Departures from particular technical and scoping requirements of this guideline by the use of the designs and technologies are permitted where the alternative designs and technologies used will provide substantially equivalent or greater access to and usability of the facility.
+This court has previously recognized the applicability of tolerances and equivalent facilitation. (D.E. 112, at pp. 5-6.) Accordingly, if Defendants make the modifications contemplated by the Consent Decree within the tolerances or equivalent facilitation approved below (or if existing facilities' conditions are within these tolerances or provide equal facilitation), they will be in compliance with the ADA and/or the Rehab Act.
+
+B. Evaluation of Individual ACRs3
+The ACRs were evaluated in the context of whether the respective facilities were designed and constructed for first occupancy, or altered, prior to, or after, the effective date of the ADA's design and construct regulations and standards. See 28 C.F.R. 36.401-36.402. If the ACR states a year-built date of 1992 or earlier, in the absence of additional information, it is assumed that the facility was constructed prior to the effective date. If the ACR states a year built date of 1993 or later, it is assumed that the facility was constructed after the effective date.
+While the Court previously approved certain tolerances and equivalent facilitations that would be considered to hold for all applicable facilities within this litigation, other tolerances or equivalences were raised in the ACRs. These were evaluated in the particular context in which they occurred. Generally, if an ACR proposed an equivalent facilitation, it was considered  [*12] in the context of whether it complied with the American National Standard Institute: Accessible and Usable Buildings and Facilities A117.1, 1998 and 2003 editions (cited herein as "ICC/ANSI A117.1-1998" and, "ICC/ANSI A117.1-2003"), or the U.S. Access Board's 2004 ADAAG Final Rule, and if not, whether evidence had been presented to indicate that the particular item clearly provided equal or greater accessibility and usability to the particular ADAAG standard that the equivalence was substituting for. If the equivalence complied with either ANSI standard or the 2004 ADAAG Final Rule, it generally was approved without specific mention. However, any equivalence seeking approval without being based on such existing authorities will be noted and its analysis discussed in this, and any future, Report and Recommendation on ACRs.
+During the review of the ACRs for this Report and Recommendation, certain items were noted that were either caused by scrivener's errors, or items (or proposed solutions) which "fell through the cracks." To the extent these are discussed in the comments on each ACR below, they have been agreed upon by the parties and will be incorporated into the ACRs before the ACRs  [*13] are published as part of the notice and fairness hearing process. Three such items repeated themselves on numerous occasions and so will noted here instead of in each ACR's discussion:
+• Regardless of whether an ACR says a non-compliant ramp (due to slope, insufficient landings, or lack of handrails) will be modified to be ADAAG-compliant, such ramp may always be replaced with a sloped path whose slope does exceed 1:20.
+• Where toilet and bathing room mirrors are noted as being higher than allowed and the agreed solution is to provide a full-length mirror, replacing the existing non-compliant mirror with a complaint mirror suffices in lieu of providing the full-length mirror.
+• In toilet and bathing rooms, the general rule is that doors may not swing into the clear floor space of any fixture. However, when the toilet or bathing room is for single-person use only, the exceptions found in ANSI A117.1-1998 and ANSI A117.1-2003, and the 2004 ADAAG Final Rule, all at section 603.2.3, may be utilized. This exception allows the door to swing into the required clear floor space for fixtures so long as there is sufficient room for a person in a wheelchair to enter the room and let the door close  [*14] behind him/her. Once the door is in the closed position, it creates no hindrance to accessibility or usability of the fixtures.
+The ACRs were evaluated based upon the following criteria:
+1. If a facility was noted in the ACR as having been constructed or altered after the Effective Date, then the elements of the facility that have corresponding standards in the ADAAG should comply with the ADAAG, provide an equivalent facilitation, or fall within conventional building industry tolerances for field conditions. If a condition described in the ACR did not comply with these criteria, then the "Agreed Accessibility Modifications" were reviewed to see that the solution would bring that condition to within the required criteria.
+2. If a facility was noted as having been constructed prior to the Effective Date, then each condition was reviewed to see whether, or how close, it complied with the alterations standards in the ADAAG as an accessibility benchmark. See 28 C.F.R. § 36.304(g). The Agreed Accessibility Modifications were then evaluated to see if they brought that condition into compliance with alterations standards in the ADAAG, and if not, whether they do so to the extent readily achievable.  [*15] Note that even if an item had a fairly low construction cost, if the modification necessary to bring the condition into compliance with the corresponding alterations standard had a significant impact on the facilities operations (for example, while it might be relatively inexpensive to remove a wall and combine two undersized patient rooms into one, such a solution would cause the facility to lose the revenue of one room for as long as the facility continues to operate), then the Agreed Accessibility Modifications was evaluated to see if it achieved the greatest accessibility that is readily achievable (even if not achieving the level of accessibility that would be attained by complying with the alterations standards).
+3. If a condition was noted whose remediation was structurally impracticable (fore example, limited by severe slope or terrain conditions), see 28 C.F.R. § 36.401(c), the Agreed Accessibility Modifications was evaluated based upon whether it provides the greatest accessibility possible to the extent not structurally impracticable.
+4. If a condition was noted whose remediation was technically infeasible, then the agreed modification was evaluated based upon whether the  [*16] modification provides accessibility to the maximum extent feasible. See 28 C.F.R. § 36.402(a)(c).
+The below-listed ACRs were evaluated based upon the criteria set forth in D.E. 102 and as described in this Report and Recommendation. Only deviations from the criteria set forth, modifications to the ACRs that were made after they were filed (and with the agreement of the parties), or unusual circumstances and comments related thereto are discussed. Therefore, an ACR with no comments was found to comply with the criteria set forth above for a facility constructed on the date the particular facility was constructed (relative to the Effective Date).
+ACR 090 Filed as DE 136-1 Constructed 1963
+No comments.
+ACR 094 Filed as DE 136-2 Constructed 1998
+Item 001 contains a scrivener's error. The Agreed Accessibility Modification should provide for a 2% slope.
+ACR 095 Filed as DE 136-3 Constructed 1998
+Item 001 contains a scrivener's error. The Agreed Accessibility Modification should provide for a 2% slope
+ACR 101 Filed as DE 136-4 Constructed 1993
+In Items 009, 012 and 015, the Agreed Accessibility Modification should state that the minimum grab bar length to be provided may be no less than 24 inches.
+ACR  [*17] 131 Filed as DE 136-5 Constructed 1988
+In Item 035, the Agreed Accessibility Modification should be modified to state that the top surface should be reconfigured to be no higher than 34 inches above the finished floor.
+ACR 138 Filed as DE 136-6 Constructed 1991
+In Item 001, the Agreed Accessibility Modification should be modified to add "remove and replace the curb ramp in the access aisle with a cut-in curb ramp complying with ADAAG 4.7."
+ACR 139 Filed as DE 136-7 Constructed 1986
+In Item 006, the Agreed Accessibility Modification should be modified to not require any modification. Because the door does not contain both a latch and a closer, there is no deficiency in push-side maneuvering clearance.
+In Item 027, the Agreed Accessibility Modification should be modified to not require any modification. Because the wall encroaching the door maneuvering clearance does not come out more than 8" from the face of the door, there is not deficiency in maneuvering clearance.
+In Items 077 and 081, the Agreed Accessibility Modifications should be modified to not require changing the swing of the door due to the exception in ANSI A117.1-1998/2003 and the 2004 ADAAG Final Rule at section 603.2.3., supra  [*18] at Page 8.
+ACR 143 Filed as DE 136-8 Constructed 1989
+In Item 008, the Agreed Accessibility Modification should be modified to not require the provision of handrails. The element in question is a curb ramp, which does not require handrails. See ADAAG 4.7.
+In Item 067, the Agreed Accessibility Modification should be modified to note that the minimum grab bar length permissible is 24 inches.
+ACR 219 Filed as DE 136-9 Constructed 1992
+No comments.
+ACR 222 Filed as DE 136-10 Constructed Pre-ADA (as noted in ACR)
+In Item 017, the Agreed Accessibility Modification should be modified to clarify that the existing 48-inch wide door should be reduced to a 36" wide door in such a manner as to provide an 18-inch wide pull-side, latch-side clearance at the door.
+ACR 238 Filed as DE 136-11 Constructed 1987
+In Item 002, the Agreed Accessibility Modification should be modified by adding "or provide a 20-foot long by 13-foot wide level (< 2% slope) drop-off surface."
+In Item 073, the Agreed Accessibility Modification should be modified by appending "unless the door configuration meets the requirements of the exception in ANSI A117.1-1998/2003 and the 2004 ADAAG Final Rule, section 603.2.3."
+ACR 311 Filed as DE  [*19] 136-12 Constructed 1991
+In Item 053, the Agreed Accessibility Modification should be modified by appending "by utilizing exterior blocking."
+In Item 071, the Agreed Accessibility Modification should be modified to provide that the minimum grab bar length is 24 inches.
+ACR 321 Filed as DE 136-13 Constructed 1994
+No comments
+ACR 322 Filed as DE 136-14 Constructed 2002
+No comments
+ACR 323 Filed as DE 136-15 Constructed 1987
+In Item 018, it should be noted that if a built-in shower seat is chosen as one of the options in the Agreed Accessibility Modification, then the plumbing controls must be relocated to be within reach of a person using the seat. See ADAAG Figure 35.
+ACR 327 Filed as DE 136-16 Constructed 1993
+In Item 029, there is a scrivener's error. There is no modification required, as the 28-inch high knee clearance at the lavatory exceeds the 27-inch minimum height allowed.
+ACR 330 Filed as DE 136-17 Constructed 1994
+In Item 004, in the Agreed Accessibility Modification, replace the word "better" with "shallower."
+ACR 333 Filed as DE 136-18 Constructed 1986
+No comments
+ACR 335 Filed as DE 136-19 Constructed 2003
+No comments
+ACR 339 Filed as DE 136-20 Constructed Unknown (Expert states pre-1993)
+In  [*20] Items 005 and 006, the Agreed Accessibility Modifications should be modified by appending "or reslope to 1:20 maximum" to the end of the comment.
+In Item 016, the Agreed Accessibility Modification should be modified to append "to provide an accessible route."
+In Items 097 and 102, the Agreed Accessibility Modifications should be modified to require a grab bar of no less than 24 inches.
+In Items 150 and 153, the Agreed Accessibility Modifications should be replaced with "modify side partitions to stall to provide 9" height toe clearance to increase accessibility."
+ACR 348 Filed as DE 136-21 Constructed 2001
+No comments.
+ACR 349 Filed as DE 136-22 Constructed 1950's
+Withdrawn for future submission.
+
+III. CONCLUSION
+Subject to the comments regarding the particular ACRs discussed above (which have been agreed to by the parties), the Special Master finds that the Agreed Accessibility Modification required in these ACRs represent appropriate compliance with the applicable requirements of the ADA, its regulations, and architectural guidelines, and that they are "fair, adequate and reasonable..." See Bennett v. Behring Corp., 737 F. 2d 982, 986 (11th Cir. 1984).
+Dated June 7, 2010
+Respectfully submitted,
+/s/  [*21] Robert S. Fine
+ROBERT S. FINE, ESQ.
+Florida Bar No. 0155586
+Greenberg Traurig, P.A.
+1221 Brickell Ave.
+Miami, FL 33131
+Telephone: (305) 579-0826
+Facsimile: (305) 579-0717
+Email: finer@gtlaw.com
+Special Master
+
+
+End of Document
+

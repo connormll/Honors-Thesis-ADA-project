@@ -1,0 +1,36 @@
+Summers v. Chaffey Joint Union High Sch. Dist.
+United States District Court for the Central District of California
+January 13, 2021, Decided; January 13, 2021, Filed
+5:20-cv-02060-SB-KK
+
+Reporter
+2021 U.S. Dist. LEXIS 51873 *; 2021 WL 922069
+Mary Ruth Summers v. Chaffey Joint Union High School District
+Subsequent History: Later proceeding at Summers v. Chaffey Joint Union High Sch. Dist., 2021 U.S. Dist. LEXIS 30913 (C.D. Cal., Feb. 16, 2021)
+Counsel:  [*1] For Mary Ruth Summers, Plaintiff: John K Buche, Buche and Associates PC, Los Angeles, CA.
+Judges: STANLEY BLUMENFELD, JR., United States District Judge.
+Opinion by: STANLEY BLUMENFELD, JR.
+Opinion
+
+
+CIVIL MINUTES - GENERAL
+
+Proceedings: ORDER DENYING MOTION TO DISMISS
+Defendant Chaffey Joint Union High School District (Defendant) moves to dismiss this action brought under the Americans with Disabilities Act (ADA) pursuant to Fed. R. Civ. P. 12(b)(6). Dkt. No. 17-1 (Motion). Defendant argues that Plaintiff Mary Ruth Summers (Plaintiff) a deaf woman previously employed as a teacher at Defendant's Alta Lorna High School (the School)—withdrew from the required "interactive process" by resigning from her job. Mot. at 6. Plaintiff contends that this is a fact-intensive question, ill-suited for resolution on a motion to dismiss. Dkt. No. 19 (Opposition) at 5. The Court agrees and consequently DENIES Defendant's Motion.
+
+DISCUSSION
+
+A. The Untimely Opposition
+As a preliminary matter, Plaintiff's Opposition was filed several days late. The late filing triggers two potential consequences: the Court has discretion to consider the Motion unopposed, Loc. R. 7-12; and the Court may impose sanctions, Loc. R. 7-13. The Court will accept the late-filed Opposition because it believes that the interests [*2]  of justice, on balance, counsel in favor of doing so here. On the question of sanctions, the Court considered issuing an order to show cause, especially in light of counsel's failure to even acknowledge (much less explain) the rule violation. The Court has opted instead to admonish Plaintiff's counsel that any further rule violation may result in sanctions and the revocation of his pro hac vice status.
+
+B. The Merits of the Motion
+To dismiss a complaint under Rule 12(b)(6), the Court must find that the complaint either fails to allege a "cognizable legal theory or fails to allege sufficient factual support for its legal theor[y]." Caltex Plastics, Inc. v. Lockheed Martin Corp., 824 F.3d 1156, 1159 (9th Cir. 2016). To survive a motion to dismiss, a plaintiff must plead "enough facts to state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). A claim has "facial plausibility" if the plaintiff pleads facts that "allow[] the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009).
+Plaintiff alleges two causes of action: one for violations of Title I of the ADA and another for a violation of Section 504 of the Rehabilitation Act (29 U.S.C. § 794). These laws provide "essentially the same protections," Douglas v. Cal. Dep't of Youth Auth., 285 F.3d 1226, 1229 (9th Cir. 2002); and Section 504 explicitly provides that the standards to determine a violation [*3]  of that section are the same as those applied under Title I. 29 U.S.C. § 794(d).
+Defendant's motion to dismiss is premised on Plaintiff's purportedly "unilaterally withdrawing from the interactive process" to identify and implement reasonable accommodations that would allow her to teach at the School. Mot. at 56 (citing Humphrey v. Memorial Hospitals Ass'n, 239 F.3d 1128, 1137 (9th Cir. 2001)). It is true that the interactive process between employers and employees "requires communication and good-faith exploration of possible accommodations between employers and individual employees, and neither side can delay or obstruct the process." Humphrey, 239 F.3d at 1137. However, whether Plaintiff delayed or obstructed that process is a fact-intensive question better suited for summary judgment. Defendant's cited authority suggests as much: the cases relied upon in the Motion addressed decisions made on summary judgment (or beyond)—not on motions to dismiss.1 In this case, Plaintiff alleges that she began seeking accommodations the day she was hired; that she continued to make requests throughout the Fall semester; and that Defendant did not grant her reasonable accommodations. Dkt. No. 15, First Amended Complaint (FAC) ¶¶ 2324, 35, 37, 41, 46, 51-52. Her claims are thus sufficiently pled pursuant to Rule 12(b)(6).2
+
+CONCLUSION
+Defendant's Motion is DENIED.
+
+
+End of Document
+

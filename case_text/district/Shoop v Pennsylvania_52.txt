@@ -1,0 +1,59 @@
+Shoop v. Pennsylvania
+United States District Court for the Middle District of Pennsylvania
+February 24, 2012, Decided; February 24, 2012, Filed
+CIVIL NO. 1:11-CV-2014
+
+Reporter
+2012 U.S. Dist. LEXIS 23844 *; 26 Am. Disabilities Cas. (BNA) 500; 15 Accom. Disabilities Dec. (CCH) P15-038; 2012 WL 619930
+WENDY SHOOP, Plaintiff v. COMMONWEALTH OF PENNSYLVANIA, DEPARTMENT OF REVENUE, Defendant
+Counsel:  [*1] For Wendy Shoop, Plaintiff: Don A Bailey, Harrisburg, PA.
+For Commonwealth of Pennsylvania, Department of Revenue, Defendant: Timothy P. Keating, Office of Attorney General of Pennsylvania, Harrisburg, PA.
+Judges: William W. Caldwell, United States District Judge.
+Opinion by: William W. Caldwell
+Opinion
+
+
+
+MEMORANDUM
+
+I. Introduction
+We are considering a motion to dismiss filed by defendant, Pennsylvania Department of Revenue ("DOR"). The case involves the termination of plaintiff's employment. Shoop brought claims arising under the Americans with Disabilities Act ("ADA"), 42 U.S.C. §§ 1201, et seq., the Family Medical Leave Act ("FMLA"), 29 U.S.C. § 2615, and the Pennsylvania Human Relations Act ("PHRA"), 43 P.S. §§ 951 et seq.
+
+II. Background
+The following facts are set forth in plaintiff's complaint and are taken as true, as they must be when considering a motion to dismiss. Fowler v. UPMC Shadyside, 578 F.3d 203, 210 (3d Cir. 2009). Plaintiff worked as a tax examiner for the DOR for sixteen years. She was diagnosed with sleep apnea in July 2008 and narcolepsy in October 2009, and informed defendant of her conditions. Plaintiff asserts that both conditions affect the major life activity of sleeping, making them disabilities  [*2] under the ADA and PHRA. Due to these conditions, plaintiff would fall asleep during work approximately three times a year. The period of somnolence would last for up to several minutes.
+Plaintiff was terminated for six alleged instances of somnolence from May 2008 through April 2010. She sought an accommodation of "indulgence," and the possibility of working over breaks and after hours for any lost time or productivity. This request was denied. Plaintiff filed the instant suit on October 28, 2011, alleging defendant did not reasonably accommodate her disabilities as required by the ADA and the PHRA. She also brought a retaliation claim under the FMLA. Defendant moves to dismiss, asserting that plaintiff's requested accommodation is not reasonable.
+
+III. Discussion
+
+A. Standard of Review
+Federal Rule of Civil Procedure 12(b)(6) authorizes dismissal of a complaint for "failure to state a claim upon which relief can be granted." Under Rule 12(b)(6), we must "accept all factual allegations as true, construe the complaint in the light most favorable to the plaintiff, and determine whether, under any reasonable reading of the complaint, the plaintiff may be entitled to relief." Fowler v. UPMC Shadyside, 578 F.3d 203, 210 (3d Cir. 2009)  [*3] (quoting Phillips v. County of Allegheny, 515 F.3d 224, 231 (3d Cir. 2008)). While a complaint need only contain "a short and plain statement of the claim," Fed. R. Civ. P. 8(a)(2), and detailed factual allegations are not required, Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955, 1964, 167 L.Ed.2d. 929 (2007), a complaint must plead "enough facts to state a claim to relief that is plausible on its face." Id. at 570, 127 S. Ct. at 1974. "The plausibility standard is not akin to a 'probability requirement,' but it asks for more than a sheer possibility that a defendant has acted unlawfully." Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009) (quoting Twombly, 550 U.S. at 556, 127 S. Ct. at 1965.) "[L]abels and conclusions" are not enough, Twombly, 550 U.S. at 555, 127 S. Ct. at 1964-65, and a court "'is not bound to accept as true a legal conclusion couched as a factual allegation.'" Id., 127 S. Ct. at 1965 (quoted case omitted).
+In resolving the motion to dismiss, we thus "conduct a two-part analysis." Fowler, supra, 578 F.3d at 210. First, we separate the factual elements from the legal elements and disregard the legal conclusions. Id. at 210-11. Second,  [*4] we "determine whether the facts alleged in the complaint are sufficient to show that the plaintiff has a 'plausible claim for relief.'" Id. at 211 (quoted case omitted).
+
+B. Plaintiff's Prima Facie Case
+Plaintiff brings a claim for failure to provide a reasonable accommodation under the ADA. 1 The ADA prohibits disability discrimination in the hiring and discharge process of otherwise qualified individuals. 42 U.S.C. § 12112(a). The ADA defines a "qualified individual" as "an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C. § 12111(8).
+To establish a prima facie case of disability discrimination, a plaintiff must demonstrate that she is "1) disabled; 2) qualified to perform the essential tasks of the job; and 3) that [she] has suffered an otherwise adverse employment decision as a result of the discrimination." Griffin v. Municipality of Kingston, 453 Fed. Appx. 250, 2011 U.S. App. LEXIS 23847, *6 (3d Cir. 2011).
+Defendant  [*5] seems to argue that plaintiff's sleep apnea and narcolepsy are not viable disabilities under the ADA. Although defendant discusses plaintiff's failure to differentiate between her two medical conditions, it does not discuss how such a failure means that plaintiff does not have a viable disability. Instead, defendant provides a conclusory statement that treating the two medical conditions the same "demonstrate[s] the futility of Plaintiff's case." (doc. 6, at 5). Defendant admits, however, that "if the only alleged disability that Plaintiff had was sleep apnea then a motion to dismiss at this juncture would not be appropriate." (doc. 6, at 5). Without more, defendant does not make a discernable legal argument for us to consider.
+
+C. Reasonable Accommodation under the ADA
+Under the ADA, an employer must provide reasonable accommodations unless such accommodations would impose an undue hardship on the operation of the business. Williams v. Phila. Hous. Auth. Police Dep't, 380 F.3d 751, 761 (3d Cir. 2004); 42 U.S.C. § 12112(b)(5)(A). Reasonable accommodations may include:
+(A) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
+(B)  [*6] job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+42 U.S.C. 12111(9).
+Plaintiff asserts that defendant did not provide a reasonable accommodation for her disability. She sought "indulgence, and the possibility of working over breaks or after hours for any lost time or productivity." (doc. 1, ¶ 11). Defendant filed a motion to dismiss, arguing that allowing plaintiff to sleep on the job is not a reasonable accommodation.
+In response to defendant's motion to dismiss, plaintiff argues only that defendant's brief does not conform to local rules and "There is not a single discernable legal issue in defendants' [sic] entire brief. If there is one, it is not identifiable or described." (doc. 7, at 5). Plaintiff did not respond to the substance of defendant's motion. We disagree that defendant's motion does not contain a discernable legal issue. Defendant's brief states "the problem with the complaint  [*7] and Plaintiff's case is that she does not allege any 'reasonable' accommodation which DOR should have provided her to ameliorate the problem." (doc. 6, at 7). Defendant's motion, however, must be denied. Plaintiff's complaint clearly indicates that she sought the accommodation of working over breaks or after hours to make up for lost time or productivity. In the light most favorable to the plaintiff, such a request amounts to a modified work schedule, which is recognized by the ADA as a reasonable accommodation. See 42 U.S.C. 12111(9)(B). Defendant does not argue that complying with this request would be an undue hardship.
+
+IV. Conclusion
+For the reasons set forth above, defendant's motion to dismiss will be denied. We will issue an appropriate order.
+/s/ William W. Caldwell
+William W. Caldwell
+United States District Judge
+
+ORDER
+AND NOW, this 24th day of February, 2012, upon consideration of defendant's motion to dismiss (Doc. 5), and plaintiff's response thereto, and pursuant to the accompanying Memorandum, it is ordered that said motion is DENIED.
+/s/ William W. Caldwell
+William W. Caldwell
+United States District Judge
+
+
+End of Document
+

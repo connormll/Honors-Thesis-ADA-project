@@ -1,0 +1,163 @@
+Fronczkiewicz v. Magellan Health Servs.
+United States District Court for the District of New Jersey
+July 24, 2014, Decided; July 25, 2014, Filed
+CIV. ACTION NO. 11-cv-7542 (JEI/AMD)
+
+Reporter
+2014 U.S. Dist. LEXIS 101887 *; 2014 WL 3729185
+SUSANNE J. FRONCZKIEWICZ, Plaintiff / Counterclaim Defendant, v. MAGELLAN HEALTH SERVICES, INC., and ICORE HEALTHCARE, LLC, Defendants / Counterclaim Plaintiffs.
+Prior History: Fronczkiewicz v. Magellan Health Servs., Inc., 2012 U.S. Dist. LEXIS 196104 (D.N.J., Jan. 19, 2012)
+Counsel:  [*1] Appearances: Heidi Kopelson Weintraub, Esq., VAN SYOC & WEINTRAUB, LLC, Cherry Hill, New Jersey, Counsel for Plaintiff.
+Catherine T. Barbieri, Esq., FOX ROTHSCHILD LLP, Philadelphia, Pennsylvania, Counsel for Defendants.
+Judges: HONORABLE Joseph E. Irenas, Senior United States District Judge.
+Opinion by: Joseph E. Irenas
+Opinion
+
+
+IRENAS, Senior United States District Judge:
+This is a disability discrimination suit pursuant to the New Jersey Law Against Discrimination, N.J.S.A. 10:5-12 et seq.1 Plaintiff / Counterclaim Defendant (hereafter "Plaintiff") Susanne Fronczkiewicz asserts that her former employer, Defendants / Counterclaim Plaintiffs (hereafter "Defendants") Magellan Health Services, Inc. / ICORE Healthcare, LLC 2, discriminated and retaliated against her on the basis of her disability when they failed to accommodate her request to be transferred to another supervisor, and her subsequent request for extended medical leave.
+Defendants assert  [*2] an unjust enrichment counterclaim against Plaintiff for $2,235.54 in paid time off, which Defendants assert Plaintiff used but had not accrued at the time she left her employment.
+Defendants presently move for summary judgment on Plaintiff's claims and their own counterclaim. For the reasons stated herein, the Motion will be granted in its entirety.
+
+I.
+Plaintiff was employed as a Clinical Liaison with Defendants for more than five years when the relevant events occurred. (Defendants' Statement of Undisputed Facts ("DSUF"), ¶¶ 1, 14) Plaintiff's main responsibility was to travel by car to doctors' offices within her territory to market "certain formulary medications selected by Magellan's client," and "promote changes to [doctors'] prescribing habits." (DSUF ¶ 3)
+It is undisputed that during the relevant time period, Plaintiff was one of only three Clinical Liasons working for Defendants; and all three reported to the only Clinical Liaison Supervisor employed by Defendants, Michael Szwajkos. (DSUF, ¶¶ 14, 18-20)
+In late 2010, Plaintiff began experiencing severe anxiety and exacerbation of her Type I diabetes 3 immediately after her supervisor, Michael Szwajkos, accused her of falsifying  [*3] her mileage reports.4 On December 15, 2010, after previous conversations on the matter, Plaintiff received a Written Warning even though she strongly disputed Defendants' claims. (DSUF, ¶ 49; Defs Ex. H)
+The following day, December 16, 2011 at 5:55 a.m., Plaintiff sent a lengthy email to Marcie Banda, Defendants' Director of Human Resources. (Defs Ex. I) The email states in relevant part:
+Marcie:
+I am writing as a follow up to our conference call yesterday regarding the Written Warning issued by Mike [Szwajkos]. I have a couple concerns that I would like to bring to your attention.
+1. . . . none of Mike's allegations are correct. Mike has not been able to demonstrate  [*4] a failure on my part . . . . However, he has insisted on continuing this campaign of libelous and defamatory accusations. Since it has been permitted to continue, I can only assume that Magellan is complicit in the plan. Will Magellan allow this to stand despite the fact that there is no factual basis for the Written Warning? Kindly advise.
+2. One of the reasons Mike cited for issuing the Written Warning was my failure to meet Q1 and Q2 2010 goals. However, as you know, I never received my 2010 goals so how could I be expected to meet them? . . . .
+3. It has become abundantly clear to me that Mike [and] Magellan's objective is to terminate my employment. . .
+. . .
+5. It is my understanding that Mike and I are to finalize the Personal Improvement Plan portion of the Written Warning. Over the last month, . . . Mike has been quite aggressive, belligerent and hostile in his dealings with me. The least of which not being his libelous and defamatory statement accusing me of criminal and immoral acts (ie falsifying company reports). At this point, I do not feel comfortable working alone with Mike on the Personal Improvement Plan. It is my request that you be involved in any telephonic or email  [*5] communication between Mike and myself . . . . Kindly advise.
+6. In light of my above cited discomfort with Mike, is it possible that I be transferred and/or assigned to another supervisor? Over the last few weeks, this incident has upset me greatly. I have experienced weight loss, loss of control over my type one diabetes, stomach distress, and lack of sleep. I would like assistance in accessing my [mental health] benefits but am unaware how to do so. Kindly advise.
+. . . .
+Thank you,
+Susie Fronczkiewicz
+(Defs Ex. I)
+Banda's responding email, dated December 20, 2010, addressed the issues Plaintiff raised. It states in relevant part,
+Susie—
+. . . I have asked Mike to set a follow up meeting with you, Jim Larweth [ICORE Senior Vice President of Contracting and Managed Care], and myself to address your email. . . .
+Susie, I know that Mike is trying to make things work with you and wants to be clear what expectations are. . . .
+I will continue to work with you and Mike to finalize the performance improvement plan and want it to be fair for everyone. I too want you to be successful and for things to work out well but you also have responsibility for the outcome. I have also asked Mike to refrain  [*6] from behavior that may appear hostile . . . . We can work constructively to get matters resolved and get to a point of clear understandings. As a clinical liaison, you will need to report to Mike. If you find the need to seek [mental health services] for any reason, you may certainly do so by calling 1-866 . . . . [Mental health] services are available at no cost once approved for up to 8 visits.
+Thanks,
+Marcie
+Next, on January 3, 2011, Plaintiff emailed Szwajkos, "I will be taking a [paid time off] day today. My diabetes is not doing well and I need to see my doctor immediately." (Defs Ex. K)
+Plaintiff's doctor diagnosed her with acute anxiety disorder and Type I diabetes, and placed Plaintiff on medical leave at least until January 17, 2011, when she would have a "reevaluation" with her doctor. (Defs Ex. N)
+On January 12, 2011, Banda emailed Plaintiff,
+I have not received a request for reasonable accommodation from you. We need to coordinate what you are requesting asp [sic] especially since you are out of FMLA job protection.5 We need you to complete the attached Workplace Accommodation Evaluation Form by your physician and we can work together to identify if and what accommodations are  [*7] necessary. . . .
+(Defs Ex. P)
+Later that day, Plaintiff responded by email,
+Marcie, after we spoke on Monday, I drafted and sent you . . . an email regarding my request for reasonable accommodation. Interestingly, I cannot find this email in my sent or draft folder, therefore I am sending this again.
+I am requesting a reasonable accommodation pursuant to the Americans with Disability [sic] Act (ADA) and the New Jersey Law Against Discrimination (NJLAD). As you may know, the ADA and NJLAD provide that leave of absence (even after exceeding the 12 weeks created by FMLA) that is necessitated by an employee's disability is a valid reasonable accommodation that employers are required to provide.
+This email serves as a request for reasonable accommodation as necessitated by my diabetes in the form of a leave of absence starting on 1/3/11 until my physician releases me back to work.
+The doctor's note I provided in the original email and attached again here constitutes sufficient information to substantiate that I have disabilities and  [*8] need the reasonable accommodation request [sic]. Therefore, I assume that the form you provided to me this morning, Workplace Accommodation Evaluation Form, is unnecessary because the accommodation that I am requesting at this time is leave of absence and not an alteration of my workplace environment. If my assumption is incorrect, kindly advise immediately. . . .
+(Id.)
+Banda responded the next day with the following email:
+Hi Susie,
+. . . I [did not] receive your email that you are referring to . . . . Regardless, we still need for you to complete the Workplace Accommodation Evaluation Form in full then we can consider accommodations including time off which is a type of accommodation under the ADA. . . . Although I realize that what I am asking for is an extra step, it is needed. If we do not receive it within 15 days, your request for time off/leave of absence may be denied. . . .
+(Defs Ex. Q)
+On the following day, January 14, 2014, Plaintiff emailed Banda,
+Marcie,
+As discussed earlier this week, I am writing to provide you an update regarding my leave as a result of my doctor's visit earlier today.
+Please be advised that my doctor has extended my leave through February 2, 2011 with a follow  [*9] up visit scheduled for that day. He has provided me a note, kindly advise if you need a copy. . . .
+(Defs Ex. R)
+Banda responded the same day:
+Hi Susanne,
+We still need the Accommodation form completed to support any accommodation such as additional time off. Time off can be a form of accommodation that has to be approved and we cannot do so until we review information that is contained in the Accommodation form. Although a doctor's note (was not attached) may be helpful, we still need the information on the Accommodation form I sent you yesterday completed as it addresses other information that your doctor's note may not. Until that is reviewed and received within the timeframe provided, your leave as an accommodation cannot be considered for approval. . . .
+(Id.)
+The following Monday, January 17, 2011, Plaintiff emailed Banda a copy of her doctor's note and nothing else. (Defs Ex. S)
+The next day Banda sent Plaintiff a formal letter on company letterhead via Federal Express. (Defs Ex. T) The letter stated, "we are seeking to work with you to evaluate whether you are eligible [for disability leave]" and reiterated the need for Plaintiff to complete the Workplace Accommodation Evaluation  [*10] Form, which was enclosed with the letter. (Id.) The letter closed by stating, "I have attached another copy of the Workplace Accommodation Evaluation Form for your convenience. If we do not receive the completed form with all of the information requested by January 27, 2011, we may consider your leave unapproved and this would impact your continued employment with the company." (Id.)
+At 6:25 in the morning the following day, January 19, 2011, Plaintiff responded by email:
+Marcie:
+I am writing to follow up on your request for the Workplace Accommodation Evaluation Form (Form) that you provided in response to my request for a reasonable accommodation pursuant to the ADA and NJLAD.
+My doctor advises that he is unable to complete the Form you provided because the referenced job description-essential job functions (see question no 5) was not provided by you with the form. Until he gets this information he is unable to complete the form. Kindly provide ASAP.
+Also, I again want to state my objection to providing the Form because it is unnecessary in that it is duplicative of facts you already have. As you know, an employer may request reasonable medical documentation when an individual requests  [*11] a reasonable accommodation but only if the nature of the disability and/or the need for accommodation is not obvious. The nature of my disability (Type I diabetes) and the functional limits (temporary absence necessitated by the disability) are clear from the note from my Doctor provided previously. . . .
+The ADA (as amended) and NJLAD instruct that the employer is to promptly and in good faith engage in an interactive Process with the employee about the reasonable accommodation request. Here, when I requested the accommodation I was simply given a form for my doctor to complete . . . . This mechanical and bureaucratic response is hardly the 'good faith,' flexible interactive process mandated by the Statutes. . . .
+I presume your insistence on having the Form will be unchanged despite my objections. Therefore, kindly provide the additional information cited above (re; job description and essential job function) ASAP so that I can comply with your request.
+(Defs Ex. U)
+That afternoon Banda responded by email:
+Susie:
+We disagree with what you have written below and believe that having your doctor fill out the form we provided is an appropriate and necessary first step in the process of considering  [*12] you for leave under the ADA. We need to make two determinations; whether you have a disability under the ADA and whether your request for leave is a reasonable accommodation under the ADA. We appreciate you providing the information requested so that we can properly make that assessment, and we certainly can give you your job description to provide to your practitioner. It is attached.
+Thanks,
+Marcie
+(Id.)
+Two days later, on January 21, 2011, Plaintiff's doctor completed the Workplace Accommodation Evaluation Form and faxed it to Defendants. (Defs Ex. V) It states in relevant part, "Patient diagnosed with anxiety disorder which is preventing her from dealing with stressful events and uncontrolled diabetes causing visual problems and neuropathy in hands." (Id.)
+With regard to "workplace restrictions" Plaintiff's doctor indicated that Plaintiff could not lift, sit, stand, walk, bend, reach, squat, "key board," write, or drive. (Id.) In the "additional comments section" Plaintiff's doctor wrote, "patient cannot perform the above activities as they relate to performing job." (Id.)
+The remainder of the Workplace Accommodation Evaluation Form reads as follows:
+5. Does the condition limit the patient's  [*13] ability to perform any of the essential functions of her job (please see attached job description)? If yes, describe each job function at issue and the corresponding limitation(s).
+[Plaintiff's doctor answered:] Patient is a Clinical Liaison requiring driving and overnight travel which she cannot do.
+6. Provide any work-related restrictions currently applicable to the patient. . . .
+[Plaintiff's doctor answered:] No driving to the degree necessary to perform job and no stressful situations.
+7. Provide any workplace accommodations that are being sought in order to perform essential functions of the job. . . .
+[Plaintiff's doctor answered:] No accommodations sought. Patient cannot perform her job within reasonable medical certainty.
+8. With regard to each accommodation listed above, describe why it is necessary and how it will assist the patient in performing the essential functions of his/her job.
+[Plaintiff's doctor answered:] N/A
+9. How long is it anticipated that the accommodation(s) will be necessary?
+[Plaintiff's doctor answered:] N/A
+10. Does the patient's impairment substantially limit one or more major life activities and/or bodily functions? . . . .
+[Plaintiff's doctor answered:] Yes—  [*14] visual problems, neuropathy in hands
+11. If patient is currently on medical leave, when can he or she return to work?
+[Plaintiff's doctor answered:] Indeterminate
+(Defs Ex. V)
+On January 27, 2011, Plaintiff's doctor faxed Defendants a three sentence letter stating that Plaintiff's "anticipated" date to return to work "would be 4/1/11." (Defs Ex. W) No other information was provided.
+During a call on February 9, 2011, Defendants told Plaintiff that her request for additional leave time was denied, and "that [Defendants were] going to begin looking to fill her position due to its business needs." (DSUF ¶ 117)
+Plaintiff never returned to work at Magellan / ICORE. In late February, 2011, she accepted another job. (DSUF ¶¶ 129-31) Plaintiff does not dispute that on January 2, 2011— three days after she began her leave of absence, and over a month before Defendants denied her request for additional leave— she applied for the position for which she was eventually hired. (DSUF ¶ 108) Plaintiff began working at her new job the day after her leave with Defendants expired. (DSUF ¶ 133)
+
+II.
+Federal Rule of Civil Procedure 56(c) provides that summary judgment should be granted if "pleadings, depositions,  [*15] answers to interrogatories, and admissions on file, together with affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law." See also, Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). In deciding a motion for summary judgment, the court must construe all facts and inferences in the light most favorable to the nonmoving party. See Boyle v. County of Allegheny, 139 F.3d 386, 393 (3d Cir. 1998). The moving party bears the burden of establishing that no genuine issue of material fact remains. See Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). A fact is material only if it will affect the outcome of a lawsuit under the applicable law, and a dispute of a material fact is genuine if the evidence is such that a reasonable fact finder could return a verdict for the nonmoving party. See Anderson, 477 U.S. at 252.
+
+III.
+The Court first addresses Plaintiff's claims before turning to Defendants' counterclaim.
+
+A.
+Plaintiff asserts two claims of failure to accommodate and one claim of retaliation, all under NJLAD.
+
+1.
+First, Plaintiff asserts that in her December 16, 2011 email to Banda, Plaintiff  [*16] requested a reasonable accommodation in the form of a new supervisor. According to Plaintiff, Banda dismissed the request out-of-hand and therefore failed to reasonably accommodate Plaintiff.
+This argument fails because the undisputed record shows that Plaintiff was one of only three Clinical Liaisons all of whom reported to the only Clinical Liaison Supervisor, Mike Szwajkos. (DSUF, ¶¶ 14, 18-20) Thus, Banda, in her responding email said, "[a]s a clinical liaison, you will need to report to Mike." (Defs Ex. I) The undisputed record shows that reporting to someone else simply was not a possibility. There was no one else.
+In this regard, this case is factually distinguishable from Tynan v. Vicinage 13 of the Superior Court of New Jersey, 351 N.J. Super. 385, 798 A.2d 648 (App. Div. 2002), upon which Plaintiff extensively relies. In Tynan, the plaintiff, the Hunterdon County Superior Court Jury Manager, was fired by the court after an 11-month medical leave related to stress caused by a poor relationship with her supervisor. 351 N.J. at 389. Plaintiff requested that she be assigned to another supervisor, and the Appellate Division held that factual disputes existed as to whether such a change could  [*17] be reasonably accommodated by the court. Id. at 401.
+Critically, the record in Tynan contained evidence that: a "transfer to another County" might have been possible, a "vacant position in the same vicinage" was posted while Tynan was on leave, and the court itself "stated that if Tynan had requested a transfer to another title, that might have been accommodated." 351 N.J. Super. at 401, 403-04. By contrast, in this case, there are no record facts raising a triable issue as to whether assignment to another supervisor could be reasonably accommodated.
+Plaintiff argues that by responding in such a cursory manner, Banda and Defendants "failed to participate in the interactive process," required by NJLAD. Tynan, 351 N.J. Super. at 400. "To show that an employer failed to participate in the interactive process," however, "a disabled employee must demonstrate . . . . [that] the employee could have been reasonably accommodated." Id. at 401. In this case, there is no record evidence on which to base a finding that reporting to a different supervisor was even possible, much less reasonable. See Boyce v. Lucent Techs., 2007 N.J. Super. Unpub. LEXIS 1680 (App. Div. June 21, 2007) ("unlike Tynan,  [*18] plaintiff has failed to present any facts to establish his burden that the accommodation he requested was possible, let alone reasonable. . . . Thus, even though . . . the employer did not engage in the interactive process imposed on it, plaintiff did not make a facial showing that the accommodation sought by him was reasonable.").6
+Summary judgment will be granted to Defendants on this claim.
+
+2.
+Second, Plaintiff asserts that she requested a reasonable accommodation in the form of an extension of her leave of absence for the period beginning in early February, 2011, to April 1, 2011 7, which Defendants admittedly denied. The issue is whether there is sufficient record evidence from which a factfinder  [*19] could conclude that Plaintiff could perform the essential functions of her job. The Court holds that there is not.
+Under NJLAD, a Plaintiff claiming failure to accommodate / disability discrimination must prove, as an element of her prima facie case, that "she is qualified to perform the essential functions of the job, or was performing those essential functions, either with or without a reasonable accommodation." Victor v. State, 203 N.J. 383, 410, 4 A.3d 126 (2010). Here, all of the record evidence supports exactly the opposite conclusion: there was no accommodation that would allow Plaintiff to perform the essential functions of her job. Plaintiff's own doctor clearly and unequivocally said so on the very form Defendants used to evaluate requests for disability accommodations. (See Defs Ex. V)
+Plaintiff has failed to meet her burden of demonstrating that she could perform the essential functions of her job, even with accommodation. Accordingly, Defendants' motion for summary judgment on this claim will be granted.8
+
+3.
+Plaintiff asserts that her January 19, 2011 email (Defs Ex. U)— wherein she objected to completing the Workplace Accommodation Evaluation Form because she believed it did not comply with Defendants' obligation to engage in a flexible interactive process— was protected activity, and that Defendants retaliated against her for that activity when they denied her request to extend her leave.9
+The issue is whether Plaintiff suffered an adverse employment action. Under NJLAD, a plaintiff asserting a retaliation claim "'must show that a reasonable employee would have found the challenged action materially adverse, which means that it might have dissuaded a reasonable worker from making or supporting a charge of discrimination.'" Swain v. City of Vineland, 457 Fed. Appx. 107, 111 (3d Cir. 2012) (quoting Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S. 53, 68, 126 S. Ct. 2405, 165 L. Ed. 2d 345 (2006), and applying standard to NJLAD retaliation claim).
+Since this Court has held that Plaintiff was not entitled to leave, it logically follows that denying leave cannot be an adverse employment action. Under the circumstances of this case, no reasonable employee could expect her employer to provide her leave to which she had no entitlement. To hold otherwise would be to effectively hold that the anti-retaliation provision of NJLAD imposes an independent, affirmative duty to provide Plaintiff a leave of absence.
+Accordingly, Defendants' Motion for Summary Judgment will be granted as to the retaliation claim.
+
+B.
+Defendants' counterclaim asserts that Plaintiff accrued 60.69 hours of paid  [*22] time off for calendar year 2011, but as of her date of termination she had used 169.60 hours of paid time off— a difference of 108.91 hours with a value of $2,235.54.
+Now, in support of their summary judgment motion, Defendants submit the Affidavit of Banda which states the same facts alleged in their counterclaim. (Banda Aff. ¶¶ 6-10)
+Plaintiff's response to Defendants' Statement of Undisputed Facts admits that Plaintiff "received an overpayment from [Defendants] of [paid time off] in the amount of $2,235.54 to which she was not entitled." (Pl's Response to DUSF ¶ 136)
+Moreover, Plaintiff makes no argument in her opposition brief concerning Defendants' counterclaim.
+Accordingly, summary judgment is warranted on Defendants' counterclaim against Plaintiff. The Court will enter judgment in favor of Defendants and against Plaintiff in the amount of $2,235.54.
+
+IV.
+For the reasons set forth above, Defendants' Motion for Summary Judgment will be granted in its entirety. An appropriate Order and Judgment accompany this Opinion.
+Dated: July 24, 2014
+/s/ Joseph E. Irenas
+Joseph E. Irenas, S.U.S.D.J.
+
+ORDER GRANTING DEFENDANTS' MOTION FOR SUMMARY JUDGMENT
+(Docket #31)
+IRENAS, Senior United States District [*23]  Judge:
+This matter having appeared before the Court upon Defendants' Motion for Summary Judgment on Plaintiff's claims and Defendants' counterclaim (Docket #31), the Court having considered the submissions of the parties, and for the reasons set forth in the accompanying Opinion issued on even date herewith, which findings of fact and conclusions of law are incorporated herein by reference;
+IT IS on this 24th day of July, 2014,
+ORDERED THAT:
+(1) Defendants' / Counterclaim Plaintiffs' Motion for Summary Judgment is hereby GRANTED in its entirety.
+(2) A Judgment in favor of Defendants / Counterclaim Plaintiffs and against Plaintiff / Counterclaim Defendant in the amount of $2,235.54 accompanies this Order.
+(3) The Clerk of Court is hereby directed to CLOSE THISE FILE.
+/s/ Joseph E. Irenas
+Joseph E. Irenas, S.U.S.D.J.
+
+
+End of Document
+

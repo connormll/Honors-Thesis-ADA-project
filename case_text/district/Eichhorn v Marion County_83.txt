@@ -1,0 +1,43 @@
+Eichhorn v. Marion County
+United States District Court for the District of Oregon, Eugene Division
+January 16, 2014, Decided; January 16, 2014, Filed
+6: 12--CV-1866-TC
+
+Reporter
+2014 U.S. Dist. LEXIS 24755 *
+REBECCA L. EICHHORN, an individual, Plaintiff, v. MARION COUNTY, a municipal corporation of the State of Oregon, Defendant.
+Subsequent History: Adopted by, Summary judgment denied by Eichhorn v. Marion County, 2014 U.S. Dist. LEXIS 23823 (D. Or., Feb. 18, 2014)
+Counsel:  [*1] For Rebecca L Eichhorn, an individual, Plaintiff, Counter Defendant: Christopher G. Lundberg, LEAD ATTORNEY, Haglund Kelley LLP, Portland, OR; Matthew E. Malmsheimer, Shenoa L. Payne, Haglund Kelley Horngren Jones & Wilder, LLP, Portland, OR.
+For Marion County Health Department, a municipal corporation of the State of Oregon, Defendant, Counter Claimant: Kirstin E. Lurtz, LEAD ATTORNEY, Marion County Legal Counsel, Salem, Or; Kim E. Hoyt, Garrett Hemann Robertson Jennings Comstock & Trethewy, P.C., Salem, OR.
+Judges: THOMAS M. COFFIN, United States Magistrate Judge.
+Opinion by: THOMAS M. COFFIN
+Opinion
+
+
+FINDINGS AND RECOMMENDATION
+COFFIN, Magistrate Judge:
+This is an ADA action. Plaintiff missed time from work due to her post-traumatic stress disorder and was eventually terminated from her job. She has brought claims for failure to engage in the interactive process and failure to accommodate.
+Presently before the court is defendant's motion (#26) for summary judgment.
+
+Legal Standard
+Federal Rule of Civil Procedure 56 allows the granting of summary judgment:
+if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant  [*2] is entitled to judgment as a matter of law.
+Fed. R. Civ. P. 56(c). There must be no genuine issue of material fact. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247-48, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986).
+The movant has the initial burden of establishing that no genuine issue of material fact exists or that a material fact essential to the nonmovant's claim is missing. Celotex Corp. v. Catrett, 477 U.S. 317, 322-24, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). Once the movant has met its burden, the burden shifts to the nonmovant to produce specific evidence to establish a genuine issue of material fact or to establish the existence of all facts material to the claim. Id.; see also, Bhan v. NME Hosps., Inc.., 929 F.2d 1404, 1409 (9th Cir. 1991); Nissan Fire & Marine Ins. Co., Ltd., v. Fritz Cos., Inc., 210 F.3d 1099, 1105 (9th Cir. 2000). In order to meet this burden, the nonmovant "may not rely merely on allegations or denials in its own pleading," but must instead "set out specific facts showing a genuine issue of fact for trial." Fed. R. Civ. P. 56(e).
+Material facts which preclude entry of summary judgment are those which, under applicable substantive law, may affect the outcome of the case. Anderson, 477 U.S. at 248. Factual disputes are genuine  [*3] if they "properly can be resolved only by a finder of fact because they may reasonably be resolved in favor of either party." Id. On the other hand, if, after the court has drawn all reasonable inferences in favor of the nonmovant, "the evidence is merely colorable, or is not significantly probative," summary judgment may be granted. Id.
+
+Discussion
+Defendant initially moved against both of plaintiff's claims. In its reply, defendant conceded that genuine issues of material fact precluded summary judgment on the failure to accommodate claim, i.e., that it could not be determined as a matter of law in the circumstances of this case that there would not have been a reasonable accommodation available for plaintiff. Defendant then contended at oral argument that if the court granted summary judgment on the failure to engage in the interactive process claim, i.e., that if it was adequately demonstrated that defendant engaged in the interactive process with plaintiff, such would also be dispositive of the failure to accommodate claim and the action could be dismissed. The court asked for supplemental briefing on this issue.
+Plaintiff has demonstrated that defendant's legal position is not necessarily  [*4] correct, p.p. 2-7 of response (#53), and, more importantly, that there are genuine issues of material fact related to whether defendant adequately engaged in the interactive process with plaintiff. As previously stated, plaintiff had to take time away from her job due to her post-traumatic stress disorder. She then submitted a written request for reasonable accommodation under the ADA. She requested accommodation to "work half time for a period of time up to six months" before returning full time. Eichhom Deposition Exh. 10, p. 2. She also submitted a letter from her health care professional which stated she would need a reasonable accommodation of a "part-time work schedule" and that her expected duration of recovery was "3-6 months." Id. at 5. Defendant's ADA Committee met and recommended plaintiff's requested accommodation be denied and found no available alternative accommodations. The decision was communicated to plaintiff in writing and via a telephone conversation. Plaintiff also had a telephone call that led to a meeting regarding the decision. Although defendant did more than merely notify plaintiff of the decision by letter, and did call and meet with plaintiff about the  [*5] decision, once the decision about plaintiff's written request was made, it does not appear there was much interaction regarding any other suggestions or configurations or at least a willingness to continue discussing possible accommodations. See, generally, E.E.O.C. v. Sears Roebuck & Co., 417 F.3d 789, 807 (7th Cir. 2005); Humphrey v. Memorial Hosps. Ass'n, 239 F.3d 1128, 1137 (9th Cir. 2001); Cravens v. Blue Cross & Blue Shield of Kansas City, 214 F.3d 1011, 1021 (8th Cir. 2000); Taylor v. Phoenixville School District, 184 F.3d 296, 317-318 (3rd Cir 1999).
+There are genuine issues of material fact that preclude summary judgment on plaintiff's claims. Even if there were not manifest factual disputes present, it would be better to proceed to a full trial on remaining claims because in the circumstances of this action a fuller record will afford a more substantial basis for decision. See, Anderson v. Liberty Lobby, Inc.., 477 U.S. 242, 255, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986); Anderson v. Hodel, 899 F.2d 766, 770-771 (9th Cir. 1990).
+
+Conclusion
+Defendant's motion (#26) for summary judgment should be denied.
+DATED this 16 day of January, 2014.
+/s/ Thomas M. Coffin
+THOMAS M. COFFIN
+United States Magistrate Judge
+
+
+End of Document
+

@@ -1,0 +1,104 @@
+Burton v. Maximus Fed.
+United States District Court for the Eastern District of Virginia, Richmond Division
+April 1, 2021, Decided; April 1, 2021, Filed
+Civil Action No. 3:20cv955
+
+Reporter
+2021 U.S. Dist. LEXIS 64637 *; 2021 WL 1234588
+ASHLEY LEONA BURTON, Plaintiff, v. MAXIMUS FEDERAL, Defendant.
+Counsel:  [*1] Ashley Leona Burton, Plaintiff, Pro se, Goldsboro, NC.
+For Maximus Federal, Defendant: Crystal Lynn Tyler, LEAD ATTORNEY, Jackson Lewis PC (VA), Richmond, VA; Douglas Paul Holdsworth, Jackson Lewis PC (Richmond), Richmond, VA.
+Judges: John A. Gibney, Jr., United States District Judge.
+Opinion by: John A. Gibney, Jr.
+Opinion
+
+
+Ashley Leona Burton sues her former employer, Maximus Federal ("Maximus"), alleging discrimination based on disability and race. A liberal reading of her amended complaint suggests that Burton asserts claims under the Americans with Disabilities Act ("ADA") for retaliation, failure to accommodate, and harassment; under the Family and Medical Leave Act ("FMLA") for retaliation, interference, and failure to accommodate; and under Kentucky state law.
+Maximus moves to dismiss Burton's complaint. (ECF No. 11.) For the reasons discussed below, the Court will grant Maximus's motion and dismiss Burton's complaint with prejudice.
+
+I. FACTS ALLEGED IN THE AMENDED COMPLAINT1
+Until she quit in May 2020, Ashley Leona Burton, who lives with fibromyalgia, rheumatoid arthritis, and Sjogren's syndrome,2 worked at Maximus. Burton says that, from March 2020 to May 2020, her supervisor, Ahkia Collins, harassed [*2]  her because of her medical conditions. Specifically, Burton says that Collins did not allow her to take her approved FMLA leave, refused to adjust her records to reflect her FMLA,3 and harassed her whenever they discussed her FMLA requests. Further, Collins treated Burton poorly, discouraging colleagues from sitting near her and disregarding her concerns about COVID-19.
+On April 7, 2020, Burton met with Collins and Maximus's HR coordinator, Andrea Jackson, to discuss this conflict. During this meeting, Jackson insinuated that Burton lied about Collins's behavior. Jackson then "cut the meeting short" and told Burton to email a statement about the conflict. (ECF No. 4 ¶ 8.) Burton says Maximus only gave her ten minutes to write this statement. Because it took Burton forty-five minutes to complete the statement, her performance assessment could have suffered.
+After this meeting, Benjamin Mason, Burton's former manager, stopped speaking to Burton.
+In early March 2020, Burton asked to work from home after Maximus began offering that option to its employees. Burton began working from home on April 26, 2020. Collins served as the main instructor on the Zoom call held on Burton's first day working [*3]  from home despite her requests not to have any contact with Collins. Maximus did not assist Burton with the technical issues she experienced while working from home.
+Burton alleges that Maximus never offered her accommodations that would have allowed her to cope with her medical conditions. Burton admits, however, that she never asked for any accommodations.
+At some point in May 2020, Burton emailed a member of Maximus's HR department to notify them that she planned to quit her job. On May 20, 2020, Burton spoke with her manager about her plans to quit.
+In July 2020, Burton filed for unemployment benefits. That same month, she learned that Maximus told the unemployment commission that Burton had not given Maximus notice of her intention to quit her job.
+
+II. LEGAL STANDARD
+A Rule 12(b)(6) motion gauges a complaint's sufficiency without resolving any factual discrepancies or testing claims' merits. Republican Party of N.C. v. Martin, 980 F.2d 943, 952 (4th Cir. 1992). In considering the motion, a court must accept all allegations in the complaint as true and draw all reasonable inferences the plaintiff's favor. Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591 F.3d 250, 253 (4th Cir. 2009). The principle that a court must accept all allegations as true, however, does not apply to legal conclusions. Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). To survive a Rule 12(b)(6) motion to dismiss, a complaint must [*4]  state facts that, when accepted as true, state a claim to relief that is plausible on its face. Id. "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Id.
+A complaint must contain "a short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. 8(a)(2). When the plaintiff appears pro se, as Burton does here, courts do not expect her to frame legal issues with the clarity and precision expected from lawyers. Accordingly, courts construe pro se complaints liberally. See Beaudett v. City of Hampton, 775 F.2d 1274, 1278 (4th Cir. 1985). This principle, however, has limits. Id. Courts do not need to discern the unexpressed intent of the plaintiff or take on "the improper role of an advocate seeking out the strongest arguments and most successful strategies for a party." Id.
+
+III. DISCUSSION
+The Court, construing Burton's complaint liberally, finds that she seeks to allege claims under the ADA for retaliation, failure to accommodate, and harassment; under the FMLA for retaliation, interference, and failure to accommodate; and under Kentucky state law.
+
+A. ADA Claims
+The defendant moves to dismiss Burton's [*5]  ADA claims on three grounds: (1) untimeliness; (2) failure to exhaust administrative remedies; and (3) failure to state a claim.
+
+1. Untimeliness
+Before bringing a civil suit for an ADA violation, the aggrieved party must file a charge with the [Equal Employment Opportunity Commission ("EEOC")]. If the EEOC does not take action within 180 days from the date of filing, the aggrieved party is entitled to notice from the EEOC. Upon notification, i.e. a right to sue letter, the aggrieved party has 90 days to file suit.
+Davis v. Va. Commonwealth Univ., 180 F.3d 626, 628 n.3 (4th Cir. 1999) (internal citations omitted). If the plaintiff files her complaint even one day late, the court can dismiss the suit as untimely. See Harvey v. New Bern Police Dep't, 813 F.2d 652, 653 (4th Cir. 1987) (affirming the district court's dismissal of the plaintiffs complaint because he filed his complaint ninety-one days after he received his right-to-sue letter).
+Burton filed her EEOC charge on June 18, 2020, and received her right-to-sue letter from the EEOC on September 14, 2020.4 Thus, Burton's ninety-day deadline expired on December 13, 2020. Because December 13 fell on a Sunday, however, Burton had until December 14, 2020, to timely file her complaint. See Fed R. Civ. P. 6(a)(1)(A) ("[I]f the last day [to timely file] is a Saturday, Sunday, or legal holiday, the period [*6]  continues to run until the end of the next day that is not a Saturday, Sunday, or legal holiday."). Because the Court received Burton's complaint on December 14, 2020, Burton filed her complaint on time and Maximus's contention that Burton filed her complaint too late fails.
+
+2. Failure to Exhaust Administrative Remedies
+A plaintiff suing for ADA violations "must exhaust [her] administrative remedies by filing a charge with the EEOC before pursuing a suit in federal court." Sydnor v. Fairfax County, 681 F.3d 591, 593 (4th Cir. 2012). "[T]he scope of the plaintiff's right to file a federal lawsuit is determined by the charge's contents." Id. (cleaned up) (quoting Jones v. Calvert Grp., Ltd., 551 F.3d 297, 300 (4th Cir. 2009)). "As such, a charge may limit the scope of litigation, and allegations that fall outside the scope of the EEOC charge will be barred." Sullivan v. Perdue Farms, Inc., 133 F. Supp. 3d 828, 834 (E.D. Va. 2015). "Documents filed by an employee with the EEOC," however, "should be construed, to the extent consistent with permissible rules of interpretation, to protect the employee's rights and statutory remedies." Fed. Express Corp. v. Holowecki, 552 U.S. 389, 406, 128 S. Ct. 1147, 170 L. Ed. 2d 10 (2008).
+In her EEOC charge, Burton specifically invokes the ADA and Title VII and claims she suffered "harassment, intimidation, and mistreatment" by her supervisor in connection with her use of FMLA leave. (ECF [*7]  No. 12-1.) Although Burton's EEOC charge is brief, the Court finds it put Maximus "on notice of harassment allegations in violation of the ADA and Title VII. Miles v. Dell, Inc., 429 F.3d 480, 491 (4th Cir. 2005). The charge does not, however, contain allegations that put Maximus on notice of Burton's ADA claims for retaliation or failure to accommodate.5 Accordingly, although Burton exhausted her administrative remedies as to her ADA harassment claim, she failed to exhaust her administrative remedies as to her ADA retaliation and failure to accommodate claims. Burton, therefore, lacks standing to brings retaliation and failure to accommodate claims under the ADA. Although the Court could dismiss Burton's ADA retaliation and failure to accommodate claims based on this alone, the Court will also discuss why these claims fail on the merits.
+
+3. Failure to State ADA Claims
+
+i. Harassment
+To make a prima facie harassment claim under the ADA, the plaintiff must allege that "(1) [s]he is a qualified individual with a disability; (2) [s]he was subjected to unwelcome harassment; (3) the harassment was based on h[er] disability; (4) the harassment was sufficiently severe or pervasive to alter a term, condition, or privilege of employment; and (5) some [*8]  factual basis exists to impute liability for the harassment to the employer." Fox v. GMC, 247 F.3d 169, 177 (4th Cir. 2001).
+Burton's harassment claim falters for two reasons. First, she fails to allege that she is a "qualified individual with a disability." Id. (citing 42 U.S.C. § 12112(a)). Although she notes her medical conditions in her complaint, she fails to allege that she could "perform the essential functions" of her job at Maximus "with or without reasonable accommodation." Id.
+Second, Burton fails to allege that "the harassment was sufficiently severe or pervasive." Id Plaintiffs "must clear a high bar" to meet the severe or pervasive standard under the ADA. EEOC v. Sunbelt Rentals, Inc., 521 F.3d 306, 315 (4th Cir. 2008). To determine if conduct qualifies as severe or pervasive, courts consider the totality of the circumstances, including the "frequency" and "severity" of the conduct and whether the conduct was "physically threatening or humiliating" (rather than a "mere offensive utterance") or "unreasonably interfere[d] with [the plaintiff's] work performance." Clark Cnty. Sch. Dist. v. Breeden, 532 U.S. 268, 270-71, 121 S. Ct. 1508, 149 L. Ed. 2d 509 (2001). The discriminatory behavior that Burton alleges in the complaint—a one-time threat to discourage her use of FMLA leave, delayed adjustment of Burton's work records to account for FMLA leave, occasional rude comments from her supervisor, [*9]  and general tension with her colleagues—amounts to no more than workplace disagreements and frustrations with management decisions.6 Burton does not clear the "high bar" of the severe or pervasive standard under the ADA.
+Thus, Burton fails to allege two elements of her harassment claim.
+
+ii. Retaliation
+"To establish a prima facie retaliation claim under the ADA, plaintiffs must allege (1) that they engaged in protected conduct, (2) that they suffered an adverse action, and (3) that a causal link exists between the protected conduct and the adverse action." A Soc'y Without a Name v. Virginia, 655 F.3d 342, 350 (4th Cir. 2011). "An adverse action is one that 'constitutes a significant change in employment status, such as hiring, firing, failing to promote, reassignment with significantly different responsibilities, or a decision causing a significant change in benefits.'" Hoyle v. Freightliner, LLC, 650 F.3d 321, 337 (4th Cir. 2011) (quoting Burlington Indus., Inc. v. Ellerth, 524 U.S. 742, 761, 118 S. Ct. 2257, 141 L. Ed. 2d 633 (1998)).
+A generous reading of Burton's amended complaint yields three possible instances of retaliation. First, on March 12, 2020, Collins threatened to send Burton's file to HR for termination if she left the office based on her already-approved FMLA leave. Second, Collins did not correct Burton's time records to account for her approved FMLA [*10]  leave. And third, after her meeting with Collins and Jackson, Maximus "only allowed [Burton] 10 minutes to write a statement that actually took her 45 minutes to write." (ECF No. 12, at 10.)
+Each of these three possible claims fails, however, for lack of an "adverse action." Burton does not allege that Collins actually sent her file to HR for termination, nor does she allege that Maximus failed to ever correct her time records to account for her FMLA leave. And although Maximus "decided as a whole not to correct [Burton's] time missed from the production floor" because of the 45 minutes it took her to write her statement, (ECF No. 4 ¶ 8), Burton does not allege that this affected Maximus's assessment of her performance, only that it could have. Even if Burton had alleged harm, however, none of these instances caused the "significant change in employment status" required to qualify as an "adverse action."
+Burton, therefore, fails to allege a necessary element of a retaliation claim under the ADA. iii. Failure to Accommodate
+"In order for a plaintiff to establish a prima facie case against h[er] employer for failure to accommodate under the ADA, the plaintiff must show: '(1) that [s]he [*11]  was an individual who had a disability within the meaning of the statute; (2) that the [employer] had notice of h[er] disability; (3) that with reasonable accommodation [s]he could perform the essential functions of the position . . . ; and (4) that the [employer] refused to make such accommodations."' Wilson, 717 F.3d at 345 (third and sixth alterations in original) (quoting Rhoads v. Fed. Deposit Ins. Corp., 257 F.3d 373, 387 n.11 (4th Cir. 2001)).
+Burton's amended complaint fails to allege two of these elements. First, Burton does not allege that she could "perform the essential functions" of her job at Maximus with or without accommodation. She, therefore, fails to allege that she is a "qualified individual" under the ADA. Id (citing 42 U.S.C. § 12111(8)). Second, Burton admits that she "never asked" for reasonable accommodations from Maximus.7 (ECF No. 4, at 5.) Burton, therefore, fails to allege a failure to accommodate claim under the ADA.8 See Wilson, 717 F.3d at 347 ("The duty to engage in an interactive process to identify a reasonable accommodation is generally triggered when an employee communicates to his employer his disability and his desire for an accommodation for that disability.").
+
+B. FMLA Claims
+The defendant moves to dismiss Burton's FMLA claims for failure to state a claim.
+
+1. Interference
+To establish an [*12]  interference claim under the FMLA, an employee must "demonstrate that (1) [s]he is entitled to an FMLA benefit; (2) h[er] employer interfered with the provision of that benefit; and (3) that interference caused harm."9 Adams v. Anne Arundel Cnty. Pub. Sch., 789 F.3d 422, 427 (4th Cir. 2015).
+Burton alleges that on March 12, 2020, Collins threatened to send her file to HR if she left the office to take her already-approved FMLA leave. Even assuming this allegation satisfies the first two elements of an FMLA interference claim, Burton fails to allege that this interference caused her any "harm." Burton does not claim that she lost "any compensation or benefits or sustain[ed] any monetary losses" because of Collins' interference with her FMLA leave. Bailey v. Quest Diagnostics, Inc., No 1:17cv625, 2017 U.S. Dist. LEXIS 210730, 2017 WL 6524950, at *10 (E.D. Va. Dec. 19, 2017); cf. Hickey v. Protective Life Corp., 988 F.3d 380, 391 (7th Cir. 2021) (explaining that a plaintiff does not suffer the requisite "harm" for an FMLA interference claim if she does not "come forward with any basis for monetary or equitable relief" under the FMLA). Burton does not even allege that Collins's threat deterred her from taking her FMLA leave. See Downs v. Winchester Med. Ctr., 21 F. Supp. 3d 615, 619 (W.D. Va. 2014) (dismissing an FMLA interference claim because the plaintiff "received the FMLA that she requested" and, therefore, did not suffer any harm from the alleged interference). [*13]  Thus, Burton fails to allege an interference claim under the FMLA.
+
+2. Retaliation
+To plead a prima facie retaliation claim under the FMLA, the plaintiff must show that she "engaged in protected activity, that the employer took adverse action against h[er], and that the adverse action was causally connected to the plaintiff's protected activity." Yashenko v. Harrah 's NC Casino Co., LLC, 446 F.3d 541, 551 (4th Cir. 2006). Even assuming Burton's allegations satisfy the first two elements of an FMLA retaliation claim, for the reasons discussed in Section III.A.3.ii, Burton does not complain of any adverse employment actions. Thus, Burton fails to allege a retaliation claim under the FMLA.
+
+3. Failure to Accommodate
+To the extent Burton raises a failure to accommodate claim under the FMLA, her claim fails because the FMLA does not require an employer to reasonably accommodate an employee's disability. See Boitnott v. Corning Inc., No. 7:06cv330, 2010 U.S. Dist. LEXIS 59269, 2010 WL 2465490, at *5 n.5 (W.D. Va. June 15, 2010) ("The FMLA does not require any [reasonable] accommodation.").
+
+C. Kentucky Law Claim
+Burton alleges that Maximus violated Kentucky law by making a false statement to the unemployment commission. (ECF No. 4, at 6); accord Ky. Rev. Stat. Ann. § 341.990(6)(a) (West 2019). Burton, however, alleges no facts that support her invocation of Kentucky law. Maximus conducts [*14]  business in Virginia, and Burton's amended complaint does not indicate where she resides. The Court, therefore, cannot discern how Burton is entitled to relief under Kentucky law. See Fed. R. Civ. P. 8(a)(2) ("A pleading that states a claim for relief must contain . . . a short and plain statement of the claim showing that the pleader is entitled to relief . . . .").
+Further, the Court finds that Burton's claim regarding her unemployment benefits does not arise from "the same case or controversy" as her FMLA and ADA claims. The Court, therefore, also lacks subject matter jurisdiction over this claim. 28 U.S.C. § 1367(a); accord United Mine Workers of Am. v. Gibbs, 383 U.S. 715, 725, 86 S. Ct. 1130, 16 L. Ed. 2d 218 (1966) ("The state and federal claims must derive from a common nucleus of operative fact.").
+
+IV. CONCLUSION
+For the foregoing reasons, the Court will grant the defendant's motion to dismiss. (ECF No. 11.)
+The Court will issue an appropriate Order.
+Should Burton wish to appeal this Opinion and Order, she must file a written notice of appeal with the Clerk of Court in the U.S. District Court for the Eastern District of Virginia within thirty (30) days of the date of entry hereof. Failure to file a notice of appeal within that period may result in the loss of the right to appeal.
+It is so ORDERED.
+Let the Clerk mail [*15]  a copy via U.S. Mail to Burton.
+Date: 1 April 2021
+Richmond VA
+/s/ John A. Gibney, Jr.
+John A. Gibney, Jr.
+United States District Judge
+
+ORDER
+This matter comes before the Court on the defendant's motion to dismiss. (ECF No. 11.) For the reasons stated in the accompanying Opinion, the Court GRANTS the motion.
+Should Burton wish to appeal this Opinion and Order, she must file a written notice of appeal with the Clerk of Court in the U.S. District Court for the Eastern District of Virginia within thirty (30) days of the date of entry hereof. Failure to file a notice of appeal within that period may result in the loss of the right to appeal.
+It is so ORDERED.
+Let the Clerk send a copy of this Order to the pro se plaintiff.
+Date: 1 April 2021
+Richmond, VA
+/s/ John A. Gibney, Jr.
+United States District Judge
+
+
+End of Document
+

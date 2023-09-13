@@ -1,0 +1,64 @@
+Lazazzaro v. Hotspur Resorts Nevada, LTD
+United States District Court for the District of Nevada
+September 24, 2018, Decided; September 24, 2018, Filed
+Case No. 2:17-CV-657 JCM (NJK)
+
+Reporter
+2018 U.S. Dist. LEXIS 248820 *; 2018 WL 11472096
+IRASARI LAZAZZARO, Plaintiff(s), v. HOTSPUR RESORTS NEVADA, LTD, et al., Defendant(s).
+Counsel:  [*1] For Hotspur Resorts Nevada Ltd., JW Marriott Las Vegas Resort & Spa, Hotspur Resorts Nevada Ltd., doing business as, Defendants: Malani L. Kotchka, LEAD ATTORNEY, Hejmanowski & McCrea LLC, Las Vegas, NV.
+For Irasari Lazazzaro, Plaintiff: Michael P. Balaban, LEAD ATTORNEY, Law Offices of Michael P. Balaban, Las Vegas, NV.
+Judges: James C. Mahan, UNITED STATES DISTRICT JUDGE.
+Opinion by: James C. Mahan
+Opinion
+
+
+ORDER
+Presently before the court is defendant Marriott International, Inc.'s motion to dismiss. (ECF No. 28). Plaintiff Irasari Lazazzaro filed a response (ECF No. 31), to which defendant replied (ECF No. 32).
+
+I. Facts
+This is a civil rights action under the Americans with Disabilities Act ("ADA"). Plaintiff alleges she was employed by defendant beginning in July 2007 as a pantry cook, which required her to constantly walk and stand while performing her duties. (ECF No. 20). As a result from performing her work responsibilities, plaintiff began to experience pain in her foot. (Id.). Plaintiff sought medical attention and discovered that she required bone fusion surgery. (Id.).
+On February 24, 2015, plaintiff requested a leave of absence from work to accommodate her surgery and subsequent recovery. (Id.). Defendant approved the leave of absence through [*2]  the Family Medical Leave Act ("FMLA") on February 24, 2015. (Id.). Plaintiff's doctor, Dr. Scott Hambrecht, completed paperwork as part of her FMLA application. (Id.). He stated that plaintiff's recovery process would require her to wear a walking boot and stay off her feet for three months following her surgery. (Id.). Dr. Hambrecht estimated plaintiff would be unable to work from February 27, 2015, through May 27, 2015. (Id.).
+On February 27, 2015, plaintiff underwent the bone fusion surgery. (Id.). While plaintiff was on leave, she received short term disability insurance payments. (Id.). As a condition to receiving payments, the insurance company (Guardian Life Company) required plaintiff to maintain interaction between defendant's Human Resources department, Dr. Hambrecht's office, and the insurance company. (Id.).
+Plaintiff engaged in numerous activities to maintain interaction, such as calling the Human Resources department every three weeks to discuss her recovery. (Id.). Additionally, Dr. Hambrecht's office sent defendant regular statements of plaintiff's disabilities. (Id.). These documents identified plaintiff's return to work date as May 27, 2015. (Id.).
+On April 16, 2015, Guardian Life Company approved plaintiff's [*3]  short term disability claim in writing for February 27, 2015, through May 27, 2015. (Id.). Defendant was aware of the approval. (Id.).
+Plaintiff believed that defendant expected her to return to work on May 28, 2015, per the paperwork from her doctor's office and the insurance company. (Id.). Additionally, when plaintiff spoke with defendant's Human Resources department every three (3) weeks, no one inquired when she would return to work. (Id.). Plaintiff called defendant approximately seven (7) days before her return to work date to ask about her work schedule. (Id.). During the phone call, defendant informed plaintiff that she had been terminated effective May 18, 2015. (Id.). Defendant told plaintiff that her employment had ended because she did not return to work when her FMLA time expired nor did she inform defendant of her status. (Id.).
+Plaintiff further alleges that she received unemployment benefits through the state of Nevada. (Id.). Defendant formally contested plaintiff's right to receive unemployment compensation. (Id.). Plaintiff alleges that at a formal tribunal defendant admitted knowing that plaintiff was disabled until May 27, 2015, and would have been eligible for [*4]  an additional leave of absence. (Id.). The appeals tribunal held that defendant disingenuously terminated plaintiff. (Id.).
+Plaintiff initiated the current action on March 3, 2017. (EFC No. 1). The amended complaint states a single cause of action for disability discrimination in violation of the ADA. (EFC No. 20). Defendant filed a motion to dismiss. (EFC No. 28).
+
+II. Legal Standard
+A court may dismiss a plaintiff's complaint for "failure to state a claim upon which relief can be granted." Fed. R. Civ. P. 12(b)(6). A properly pled complaint must provide "[a] short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. 8(a)(2); Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007). While Rule 8 does not require detailed factual allegations, it demands "more than labels and conclusions" or a "formulaic recitation of the elements of a cause of action." Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citation omitted).
+"Factual allegations must be enough to rise above the speculative level." Twombly, 550 U.S. at 555. Thus, to survive a motion to dismiss, a complaint must contain sufficient factual matter to "state a claim to relief that is plausible on its face." Iqbal, 556 U.S. at 678 (citation omitted).
+In Iqbal, the Supreme Court clarified the two-step approach district courts are to apply when considering motions to dismiss. First, the court [*5]  must accept as true all well-pled factual allegations in the complaint; however, legal conclusions are not entitled to the assumption of truth. Id. at 678-79. Mere recitals of the elements of a cause of action, supported only by conclusory statements, do not suffice. Id.
+Second, the court must consider whether the factual allegations in the complaint allege a plausible claim for relief. Id. at 679. A claim is facially plausible when plaintiff's complaint alleges facts that allow the court to draw a reasonable inference that defendant is liable for the alleged misconduct. Id. at 678.
+Where the complaint does not permit the court to infer more than the mere possibility of misconduct, the complaint has "alleged — but it has not shown — that the pleader is entitled to relief." Id. at 679. When the allegations in a complaint have not crossed the line from conceivable to plausible, plaintiff's claim must be dismissed. Twombly, 550 U.S. at 570.
+The Ninth Circuit addressed post-Iqbal pleading standards in Starr v. Baca, 652 F.3d 1202, 1216 (9th Cir. 2011). The Starr court held,
+First, to be entitled to the presumption of truth, allegations in a complaint or counterclaim may not simply recite the elements of a cause of action, but must contain sufficient allegations of underlying facts to give fair notice and to enable [*6]  the opposing party to defend itself effectively. Second, the factual allegations that are taken as true must plausibly suggest an entitlement to relief, such that it is not unfair to require the opposing party to be subjected to the expense of discovery and continued litigation.
+Id.
+
+III. Discussion
+The ADA states, "[n]o covered entity shall discriminate against a qualified individual on the basis of disability. . . ." 42 U.S.C. § 12112(a). To state a claim for disability discrimination, a plaintiff must allege: "(1) he is disabled within the meaning of the ADA; (2) he is a qualified individual able to perform the essential functions of the job with reasonable accommodation; and (3) he suffered an adverse employment action because of his disability." Samper v. Providence St. Vincent Med. Ctr., 675 F.3d 1233, 1237 (9th Cir. 2012) (citing Allen v. Pac. Bell, 348 F.3d 1113, 1114 (9th Cir. 2003)).
+
+a. Disabled within the meaning of the law
+To qualify as being disabled within the meaning of the ADA, plaintiff must show that she has a mental or physical impairment that substantially limits one or more major life activities, has record of such impairment, or is regarded as having such impairment. 42 U.S.C. § 12102(1); 29 C.F.R. § 1630.2(g); see also Fraser v. Goodale, 342 F.3d 1032, 1036 (9th Cir. 2003).
+The parties do not dispute that plaintiff's foot surgery prevented her from walking or standing. Under 42 U.S.C. § 12102(2)(a), walking and standing are both major [*7]  life activities. See 42 U.S.C.A. § 12102(2)(A). Accordingly, the court will hold that plaintiff sufficiently alleged that she had a disability within the meaning of the ADA.
+
+b. Qualified individual
+A qualified individual is one who is able to perform the necessary functions of the job with reasonable accommodations. Samper v. Providence St. Vincent Med. Ctr., 675 F.3d at 1237. "[O]nce an employee requests an accommodation or an employer recognizes the employee needs an accommodation. . . . the employer must engage in an interactive process with the employee to determine the appropriate reasonable accommodation." Zivkovic v. S. Cal. Edison Co., 302 F.3d 1080, 1089 (9th Cir. 2002). (citing Barnett v. U.S. Air, Inc., 228 F.3d 1105, 1112 (9th Cir. 2000) (en banc), vacated on other grounds, U.S. Airways, Inc. v. Barnett, 535 U.S. 391 (2002)).
+Here, plaintiff alleges that she worked for defendant for nearly eight (8) years as a pantry cook before becoming disabled. (ECF No. 20). Based on Dr. Hambrecht's evaluation, plaintiff would have been able to perform her job when she returned from medical leave. Plaintiff continues that defendant knew that the initial accommodation, FMLA leave through May 15, 2015, was insufficient because defendant was aware that plaintiff could not return until May 27, 2015. Under the ADA, defendant had an affirmative duty to discuss an alternate accommodation with plaintiff. Had defendant given her an additional eleven (11) [*8]  day leave, which defendant purportedly admitted that she qualified for, plaintiff would have been able to perform her work duties.
+Accordingly, the court will hold that plaintiff sufficiently alleged that she was qualified to perform her job with reasonable accommodations.
+
+c. Adverse employment action
+An adverse employment action is one that "materially affects the compensation, terms, conditions, or privileges of employment." Davis v. Team Elec. Co., 520 F.3d 1080, 1089 (9th Cir. 2008). Termination is an adverse employment action. Snead v. Metropolitan Prop. & Cas. Ins. Co., 237 F.3d 1080, 1089. (9th Cir. 2001).
+Plaintiff alleges that defendant terminated her employment because she did not return to work on May 15, 2015. (ECF No. 20). However, plaintiff's absence was a direct consequence of her disability. Accordingly, court will hold that plaintiff sufficiently alleged that she suffered an adverse employment action because of her disability.
+
+IV. Conclusion
+Accordingly,
+IT IS HEREBY ORDERED, ADJUDGED, and DECREED that defendant's motion to dismiss (ECF No. 28) be, and the same hereby is, DENIED.
+DATED September 24, 2018.
+/s/ James C. Mahan
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

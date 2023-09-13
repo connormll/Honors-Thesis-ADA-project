@@ -1,0 +1,50 @@
+Vazquez-Robles v. CommoLoCo, Inc.
+United States District Court for the District of Puerto Rico
+September 12, 2016, Decided; September 12, 2016, Filed
+Civil No. 12-1600 (FAB)
+
+Reporter
+206 F. Supp. 3d 720 *; 2016 U.S. Dist. LEXIS 124385 **
+MARIBEL VAZQUEZ-ROBLES, Plaintiff, v. COMMOLOCO, INC., Defendant.
+Prior History: Vazquez-Robles v. CommoLoCo, Inc., 932 F. Supp. 2d 259, 2013 U.S. Dist. LEXIS 42543 (D.P.R., Mar. 25, 2013)
+Counsel:  [**1] For Maribel Vazquez-Robles, formerly known as Maribel Velazquez-Robles, Plaintiff: Graciela J. Belaval-Bruno, Martinez Odell & Calabria, San Juan, PR; Alejandro Bellver-Espinosa, Bellver Espinosa Law firm, San Juan, PR.
+For Commoloco, Inc., Defendant: Hector M. Laffitte, Maria Antongiorgi, LEAD ATTORNEYS, Ana Maria Cordero-Varela, Sandra L. Negron-Monge, McConnell Valdes, LLC, San Juan, PR.
+Judges: FRANCISCO A. BESOSA, United States District Judge.
+Opinion by: FRANCISCO A. BESOSA
+Opinion
+
+
+
+ [*721]  MEMORANDUM AND ORDER
+BESOSA, District Judge.
+Maribel Vazquez-Robles ("Vazquez") brought this suit against her former employer, CommoLoCo, Inc. ("CommoLoCo"). (Docket No. 1.) The Court granted summary judgment in favor of CommoLoCo on all claims except Vazquez's failure to provide a reasonable accommodation claims brought pursuant to the Americans with Disabilities Act ("ADA") and Puerto Rico Law 44. (Docket No. 226.) The Court found that this ADA claim was time-barred, but that Vazquez raised a factual dispute as to whether she suffered from a severe mental disability for at least 127 days between August 24, 2010, and October 25, 2011, such that the Court should equitably toll the limitations period. Id.
+To resolve this factual dispute, [**2]  the Court held an evidentiary hearing on August 19, 2016. Vazquez presented four witnesses at the hearing: herself; her son, Freddy Ramirez; her friend, Evelyn Ortiz-Feliciano; and her sister, Socorro Vazquez-Robles. CommoLoCo submitted into evidence Vazquez's records from the Puerto Rico State Insurance Fund Corporation ("SIFC"). After the hearing, the parties submitted proposed findings of fact and conclusions of law. (Docket Nos. 243, 244.)
+As explained below, the Court DECLINES to toll the statute of limitations  [*722]  because Vazquez did not establish that she suffered from a severe mental disability during the relevant period.
+
+I. FACTUAL FINDINGS
+In December 2009, Vazquez severely injured her back. She reported to the SIFC and was placed on rest. She returned to work in February 2010 and continued to receive medical and therapy treatment for her injury.
+On August 27, 2010, Vazquez reported to the SIFC because she was experiencing intolerable pain. The SIFC placed her on rest. On September 1, 2010, Vazquez filed a charge against CommoLoCo with the Puerto Rico Anti-Discrimination Unit ("ADU"). She was able to communicate with the ADU personnel and narrate the alleged discriminatory incidents. [**3]  Vazquez returned to work on September 14, 2010. She worked until September 21, 2010, when she again reported to the SIFC and was placed on rest for one year.
+On September 28, 2010, Vazquez attended a physical therapy evaluation and complained of acute back pain. On September 30, 2010, Vazquez went to the hospital because she was suffering what she describes as an "emotional crisis." She was screaming and hyperventilating. She remained hospitalized for three days.
+Between October 2010 and August 2011, Vazquez's son, sister, and friend helped take care of her. For example, they helped bathe her and dress her. Vazquez testified that she needed this assistance because of both her emotional and physical conditions. They cooked meals for her and drove her places, although Vazquez occasionally drove herself. Vazquez spent most of her time in bed or watching television. On one occasion, Vazquez accompanied her son to the supermarket, but started to cry because of her back pain and needed to return home. Vazquez's friend testified that the only topic Vazquez talked about during this period was CommoLoCo's discrimination against her.
+Between October 2010 and January 2011, Vazquez posted photos [**4]  and messages to family and friends on her Facebook account. For example, she thanked friends for their birthday wishes, commented on the rescue of Chilean miners, and requested help to repair her broken oven.
+Between February and May 2011, Vazquez attended periodic psychiatric appointments. She complained of her back pain during these appointments and expressed that she felt tearful and worried.
+In August 2011, Vazquez decided to dismiss the ADU charge. She understood the orientation she received from the ADU before dismissing the charge. Vazquez testified that by August 2011, she was feeling "well." She returned to work in September 2011.
+
+II. LEGAL CONCLUSIONS
+Courts may equitably toll a statute of limitations based on mental disability "only if the plaintiff show[s] that the mental disability was so severe that the plaintiff was unable to engage in rational thought and deliberate decision making sufficient to pursue [her] claim alone or through counsel." Vazquez Rivera v. Figueroa, 759 F.3d 44, 50 (1st Cir. 2014) (first alteration in original) (quoting Melendez-Arroyo v. Cutler-Hammer de P.R. Co., 273 F.3d 30, 37 (1st Cir. 2001)). This is a high bar, and "merely . . . establish[ing] a diagnosis such as severe depression is not enough." Melendez-Arroyo, 273 F.3d at 38. "The 'heavy burden' of establishing entitlement to equitable tolling rests on the plaintiff." Vazquez Rivera, 759 F.3d at 50 (quoting [**5]  Farris v. Shinseki, 660 F.3d 557, 563 (1st Cir. 2011)).
+ [*723]  In Hernandez Arce v. Bacardi Corp., for example, the court found that the plaintiff did not meet this rigorous equitable tolling threshold because even though the plaintiff "felt no desire to do anything" and was diagnosed with severe depression requiring outpatient hospitalization, she was nonetheless "able to function and comprehend her legal rights and liabilities." 37 F. Supp. 2d 112, 115-16 (D.P.R. 1999) (Dominguez, J.).
+Here, the evidence presented at the hearing demonstrates that Vazquez suffered from severe back pain between August 2010 and August 2011. This injury limited her mobility and therefore her ability to clean herself, dress herself, cook meals, and drive. She also was in a depressive state, spending most of her time in bed or watching television. No evidence suggests, however, that this depressive state was so severe that she could not communicate with others, understand her legal rights, or make rational decisions. To the contrary, she communicated with friends, family members, doctors, and ADU personnel throughout this period.
+In sum, although Vazquez demonstrated that suffered from physical pain and an emotional condition, she did not prove that she was unable to engage in rational thought and deliberate [**6]  decision making for at least 127 days between August 24, 2010, and October 25, 2011. She has therefore not met her burden of establishing entitlement to equitable tolling.
+
+III. CONCLUSION
+In light of the foregoing factual findings and legal conclusions, the Court DECLINES to toll the statute of limitations because plaintiff Vazquez did not establish that she suffered from a severe mental disability during the relevant period. Accordingly, Vazquez's failure to accommodate claim brought pursuant to the ADA is time-barred. The Court GRANTS summary judgment in favor of defendant CommoLoCo as to this claim, and the claim is DISMISSED WITH PREJUDICE.
+Vazquez's sole claim surviving summary judgment is her failure to accommodate claim brought pursuant to Law 44. No later than September 30, 2016, defendant may file a motion for summary judgment on the issues whether plaintiff's Law 44 claim is time-barred based on Law 44's one-year statute of limitations or otherwise time-barred based on an administrative exhaustion requirement. Defendant will also brief the Court as to whether equitable tolling based on mental illness is recognized for Law 44 claims. See Opinion and Order, docket number 226, [**7]  pp. 23-24. Plaintiff may oppose no later than October 17, 2016 and defendant may reply no later than October 24, 2016.
+IT IS SO ORDERED.
+San Juan, Puerto Rico, September 12, 2016.
+/s/ Francisco A. Besosa
+FRANCISCO A. BESOSA
+United States District Judge
+
+
+End of Document
+

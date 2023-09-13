@@ -1,0 +1,30 @@
+French v. Providence Everett Med. Ctr.
+United States District Court for the Western District of Washington
+March 19, 2009, Decided; March 19, 2009, Filed
+Case No. C07-0217RSL
+
+Reporter
+2009 U.S. Dist. LEXIS 138292 *
+JULIE FRENCH, Plaintiff, v. PROVIDENCE EVERETT MEDICAL CENTER, et al., Defendants.
+Prior History: French v. Providence Everett Med. Ctr., 2007 U.S. Dist. LEXIS 67777 (W.D. Wash., Sept. 11, 2007)
+Counsel:  [*1] For Julie French, an individual, Plaintiff: Alexander Joseph Higgins, SEATTLE, WA; Matthew J Bean, BEAN LAW GROUP, SEATTLE, WA.
+For Providence Everett Medical Center, a Washington corporation, Defendant: Boris Gaviria, LEAD ATTORNEY, DAVIS WRIGHT TREMAINE (BELLEVUE), BELLEVUE, WA; Paula L Lehmann, DAVIS WRIGHT TREMAINE (SEA), SEATTLE, WA.
+Judges: Robert S. Lasnik, United States District Judge.
+Opinion by: Robert S. Lasnik
+Opinion
+
+
+ORDER GRANTING PLAINTIFF'S MOTION IN LIMINE
+This matter comes before the Court on plaintiff's motion in limine to exclude evidence and any reference to the fact that plaintiff or her family may have been in a cult when she was a child. Defendant does not object to the exclusion of that evidence, and it is excluded.
+Plaintiff has also moved to exclude opinion testimony from University of Washington law professor Paul Miller about whether defendant engaged in the interactive process in good faith.1 Among other courses, Professor Miller teaches Employment Discrimination, and he is the director of the University of Washington Disability Studies Program. Plaintiff does not dispute that Professor Miller is an expert on various ADA-related issues. Plaintiff argues that the interactive process is irrelevant [*2]  in this case because plaintiff neither needed nor requested an accommodation. However, the Court's prior order noted that it is relevant because after PEMC received the note, it was obligated to engage in the interactive process. Order Granting in Part and Denying in Part Cross Motions for Summary Judgment at p. 8 (explaining that a jury will need to decide whether PEMC's decision to place plaintiff on unpaid leave was discriminatory or the result of plaintiff's failure to engage in the interactive process).
+Plaintiff contends that Professor Miller will offer a legal opinion that will improperly intrude on the province of the jury. Defendant seeks to offer Professor Miller's testimony for several purposes. He "will provide useful background information to the jury on the history and development of ADA regulations, the ADA enforcement guidelines, and related EEOC policy statements." Defendant's Response at p. 2. Defendant has not shown the relevance of those topics. Moreover, the Court will instruct the jury on the applicable law. The instructions will obviate the need for Professor Miller to "testify regarding the obligations of employers and employees to participate in the 'interactive [*3]  process.'" Id. at pp. 2-3. Unlike some of the cases on which defendant relies, this is not a case that involves complicated regulatory schemes like federal securities regulations or the tax code. Rather, the jurors are familiar with employment situations and are capable of understanding the law in this area. The jury instructions in this case will adequately apprise the jurors of the applicable law.
+Defendant also contends that Professor Miller "will provide an opinion based on his review of the facts of the case on whether PEMC and Ms. French engaged in the interactive process." Defendant's Response at p. 3. Courts typically prohibit legal professionals from offering expert opinions applying the law. See, e.g., Aguilar v. Int'l Longshoreman's Union Local #10, 966 F.2d 443, 447 (9th Cir. 1992); Pinal Creek Group v. Newmont Mining Corp., 352 F. Supp. 2d 1037, 1043 (D. Ariz. 2005) ("In addition to prohibiting legal expert testimony which defines the governing law, courts have also prohibited legal expert opinion which applies the law to the facts"). Defendant notes that some courts have permitted expert testimony in ADA cases. The cited cases, however, address expert testimony offered in more specialized medical and workplace issues that were likely beyond the jurors' knowledge. See, e.g., Young v. Nicholson, 2007 U.S. Dist. LEXIS 2756, 2007 WL 128821 at *4 (E.D. Wash. 2007) (allowing expert testimony [*4]  on the nature of plaintiff's disability and the available accommodations that could have been provided to her).2 Unlike in the cited cases, defendant does not contend that Professor Miller will address whether plaintiff posed a direct threat or the reasonableness of any potential accommodations. Professor Miller's opinion on whether defendant engaged in the interactive process in good faith is a legal conclusion that is not an appropriate subject for expert testimony.
+Accordingly, plaintiff's motion in limine (Dkt. #157) is GRANTED. The Court will exclude 1) evidence and any reference to the fact that plaintiff or her family may have been in a cult when she was a child, and 2) opinion testimony from Professor Paul Miller about whether defendant engaged in the interactive process in good faith.3
+DATED this 19th day of March, 2009.
+/s/ Robert S. Lasnik
+Robert S. Lasnik
+United States District Judge
+
+
+End of Document
+

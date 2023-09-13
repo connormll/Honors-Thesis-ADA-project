@@ -1,0 +1,47 @@
+Prado v. Fed. Express Corp.
+United States District Court for the Northern District of California, San Jose Division
+February 11, 2015, Decided; February 11, 2015, Filed
+Case No. 5:12-cv-03945-PSG
+
+Reporter
+2015 U.S. Dist. LEXIS 16957 *; 2015 WL 603194
+JOSE A. PRADO, Plaintiff, v. FEDERAL EXPRESS CORPORATION, Defendant.
+Prior History: Prado v. Fed. Express Corp., 2014 U.S. Dist. LEXIS 186359 (N.D. Cal., July 29, 2014)
+Counsel:  [*1] For Jose A. Prado, Plaintiff: John R Grele, LEAD ATTORNEY, Law Office of John R Grele, Tiburon, CA; Joseph Donald Sutton, LEAD ATTORNEY, Hector R. Martinez Marco A Palau, Stanley Scott Mallison, Mallison & Martinez, Oakland, CA.
+For Federal Express Corporation, Defendant: Charles W. Matheis, Jr., FedEx Express, Irvine, CA; Craig Edward Lindberg, David Sidney Wilson, III, Federal Express Corporation, Irvine, CA; Emily Christin Pera, Federal Express Corporation, Irvine, CA.
+Judges: PAUL S. GREWAL, United States Magistrate Judge.
+Opinion by: PAUL S. GREWAL
+Opinion
+
+
+
+ORDER DENYING MOTION FOR AN AWARD OF RELATED NONTAXABLE COSTS
+(Re: Docket No. 218)
+Following a jury verdict in favor of Defendant Federal Express Corporation and against Plaintiff Jose Prado, FedEx seeks an award of nontaxable costs for deposition-related travel expenses and process server and expert witness fees. Because the court finds that it would be inequitable to impose additional costs on a plaintiff of limited financial means and that such an imposition would unreasonably chill future litigants in the realm of employment and disability disputes, FedEx's motion is DENIED.
+
+I.
+Prado was an employee of FedEx from December 17, 1997 until his termination on April [*2]  14, 2010. His termination followed a series of medical issues associated with a stroke in 2001 and another in 2009. After his first stroke, Prado returned to work after a number of months and performed a wide range of tasks from copying to operating machinery. After his second stroke, Prado returned to work with medical restrictions that severely limited the type of work he could do. Soon after, Prado was terminated for an inability to find work that fit within his medical limitation.
+Prado filed two complaints with the EEOC: the first was during his employment on January 13, 2009, and the second was just after his termination on May 20, 2010. He then brought this suit a little more than two years later.
+After the court granted FedEx's motion for summary judgment only in part,1 a nine-person jury heard the case over two weeks in September 2014. The jury found that FedEx was not liable for any of Prado's seven claims: (1) failure to provide reasonable accommodation in violation of the Americans with Disabilities Act; (2) disability discrimination in violation of the ADA; (3) failure to provide reasonable accommodation in violation of the California Fair Employment & Housing Act; (4) failure [*3]  to engage in the interactive process in violation of FEHA; (5) disability discrimination in violation of FEHA; (6) failure to prevent discrimination in violation of FEHA; and (7) discrimination in violation of public policy.
+FedEx now moves for an award of related non-taxable costs in the amount of $18,997.76, comprised of expenses incurred for travel to attend depositions, private process server fees and expert witness fees.
+
+II.
+This court has jurisdiction under 28 U.S.C. §§ 1331. This court has supplemental jurisdiction over the pendant state law claims under 28 U.S.C. § 1367. The parties further consented to the jurisdiction of the undersigned magistrate judge under 28 U.S.C. § 636(c) and Fed. R. Civ. P. 72(a).
+
+III.
+FedEx bases its demand on provisions of Title VII, the ADA and FEHA that allow for the recovery of additional, nontaxable litigation costs by the prevailing party.2 While FedEx may be correct that at a very fundamental level, nontaxable costs are available under these statutory frameworks, there is no indication that the award of costs is absolutely required. FedEx further claims—and Prado vehemently disputes—that it is entitled to nontaxable costs because "[t]here can be no question but that Prado's claims were frivolous, unreasonable, [*4]  and without foundation."3
+To make a showing that a plaintiff's claims were frivolous, a defendant must show something more than a "routine case in which the plaintiff merely failed to achieve success on [his] claim."4 Rather, the kinds of cases that reach the level of frivolity or vexation are those in which the claims are shown be premised on pure fiction or where a plaintiff's misrepresentations pile up such to harass the defendant.5 There is no indication that any of Prado's allegations were pure fabrications. Indeed, the jury asked several questions that suggest that there were serious questions of fact ripe for the jury's determination. That the verdict was not in Prado's favor does not suggest frivolity.
+But those arguments aside, the court is ultimately persuaded [*5]  by Prado's argument that shifting nontaxable costs to Prado "would have a chilling effect on future plaintiffs seeking redress for violations of their civil rights," especially those plaintiffs of limited means.6 The Ninth Circuit has "approved several factors that would justify a district court's refusal to award costs to a prevailing party: the losing party's limited financial resources,7 misconduct on the part of the prevailing party,8 the importance of the issues,9 the importance and complexity of the issues,10 the merit of the plaintiff's case, even if the plaintiff loses,11 and the chilling effect on future civil rights litigants of imposing high costs."12 Essentially, the Ninth Circuit requires "that a district court give reasons for denying costs . . . [to] explain why a case is not "ordinary" and why, in the circumstances, it would be inappropriate or inequitable to award costs."13
+Here, FedEx seeks almost $19,000—on top of the almost $30,000 in costs taxable under Fed. R. Civ. P. 54(d) that FedEx has already sought14—from a man who earns $994 per month in social security payments and cannot find gainful employment because he is disabled. Prado clearly qualifies [*7]  for relief from these costs based on his severely limited financial means. Equally important, awarding nontaxable costs in a case where a disabled individual brings a claim against his employer runs an undue risk of chilling legitimate litigation by imposing a significant financial burden on would-be plaintiffs in the event they do not prevail.15
+
+IV.
+FedEx's motion for an award of related non-taxable costs is DENIED.
+SO ORDERED.
+Dated: February 11, 2015
+/s/ Paul S. Grewal
+PAUL S. GREWAL
+United States Magistrate Judge
+
+
+End of Document
+

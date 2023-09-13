@@ -1,0 +1,51 @@
+Bowden-Walker v. Wal-Mart Stores, East, L.P.
+United States District Court for the Southern District of Mississippi, Northern Division
+August 18, 2016, Decided; August 18, 2016, Filed
+CAUSE NO. 3:14-CV-917-CWR-FKB
+
+Reporter
+2016 U.S. Dist. LEXIS 109877 *; 2016 WL 4410106
+CHERYL BOWDEN-WALKER, PLAINTIFF v. WAL-MART STORES, EAST, L.P., DEFENDANT
+Prior History: Bowden-Walker v. Wal-Mart Stores East, LP, 2015 U.S. Dist. LEXIS 191957 (S.D. Miss., July 22, 2015)
+Counsel:  [*1] For Cheryl D. Bowden-Walker, Plaintiff: Louis H. Watson, Jr., Robert Nicholas Norris, LEAD ATTORNEYS, WATSON & NORRIS, PLLC, Jackson, MS.
+For Wal-Mart Stores East, L.P., Defendant: Steven R. Cupp, LEAD ATTORNEY, Jaklyn L. Wrigley, FISHER & PHILLIPS, LLP - Gulfport, Gulfport, MS.
+For EEOC, Movant: Harriett F. Johnson, EQUAL EMPLOYMENT OPPORTUNITY COMMISSION - Jackson, Jackson, MS.
+Judges: Carlton W. Reeves, UNITED STATES DISTRICT JUDGE.
+Opinion by: Carlton W. Reeves
+Opinion
+
+
+
+MEMORANDUM OPINION AND ORDER
+Before the Court is defendant Wal-Mart Stores, Inc.'s Motion for Summary Judgment. Docket No. 44. Plaintiff Cheryl Bowden-Walker opposes the motion. Docket No. 52. Wal-Mart has filed a reply. Docket No. 53. After considering the arguments and applicable authorities, the Court rules as follows:
+
+I. Background
+On April 6, 2013, Bowden-Walker was employed by Wal-Mart as an assistant manager.1 She was on FMLA leave from September 14, 2013 through December 18, 2013. On November 12, while still on FMLA leave, Bowden-Walker submitted a request for accommodation to use a motorized scooter at work. Docket No. 44-10. Wal-Mart denied her request and on December 16, she submitted a request for reconsideration. Docket Nos. 44-11 and 44-14. [*2]  On December 17, Wal-Mart granted Bowden-Walker's request authorizing her to use a "Shoprider Start 3 Portable Scooter provided by Wal-Mart." Docket No. 44-15. When she returned to work on December 19, however, the scooter was not available.
+That same day, Bowden-Walker notified her manager, Luke Gleason, that she had been approved for an accommodation. Gleason told that her he was unaware of the accommodation and that she still needed to work that day as it was during the busy holiday season. The next day when Bowden-Walker returned to work, she complained to Gleason that she was in pain. Human Resources Manager Regina Hosey sent her home because the scooter accommodation was not yet in place. Wal-Mart paid her for the entire day. Docket No. 44-1, at 38. On December 23, 2013, Bowden-Walker was terminated as a result of findings from an unrelated sexual harassment investigation.
+On December 27, 2013, Bowden-Walker filed a Charge of Discrimination with the EEOC alleging discrimination [*3]  based on disability. Docket No. 1-1. On October 30, 2014, the EEOC issued its Right to Sue letter. Docket No. 1-2. On November 26, Bowden-Walker filed this suit claiming violations of the Americans with Disabilities Act ("ADA") and the Family and Medical Leave Act ("FMLA"). Docket No. 1. She alleges that Wal-Mart violated the ADA when it failed to provide a reasonable accommodation for her disability. She contends that Wal-Mart's failure to provide a reasonable accommodation in a timely manner caused her to suffer physical pain and loss wages.
+The instant motion followed. In response, Bowden-Walker concedes her FMLA and disability retaliation claims. Docket No. 52. The remaining issue before the Court is Bowden-Walker's ADA failure to accommodate claim.
+
+II. Standard of Review
+Summary judgment is appropriate when "the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). A party seeking to avoid summary judgment must identify admissible evidence in the record showing a fact dispute. Id. at 56(c)(1). "Once a summary judgment motion is made and properly supported, the nonmovant must go beyond the pleadings and designate [*4]  specific facts in the record showing that there is a genuine issue for trial." Wallace v. Texas Tech. Univ., 80 F.3d 1042, 1047 (5th Cir. 1996) (citation omitted). The Court will view the evidence and draw reasonable inferences in the light most favorable to the non-movant. Maddox v. Townsend & Sons, Inc., 639 F.3d 214, 216 (5th Cir. 2011). Conclusory allegations and unsubstantiated assertions, however, are not sufficient summary judgment evidence. Forsyth v. Barr, 19 F.3d 1527, 1537 (5th Cir. 1994). In the absence of proof, the court will not assume that the nonmoving party could or would prove the necessary facts. McCallum Highlands, Ltd. v. Wash. Capital Dus, Inc., 66 F.3d 89, 92 (5th Cir.), as revised on denial of reh'g, 70 F.3d 26 (5th Cir. 1995).
+
+III. Discussion
+The ADA prohibits covered employers from "discrimin[ating] against a qualified individual on the basis of disability." 42 U.S.C. § 12112(a). Discrimination includes failure to make "reasonable accommodations to the known physical, or mental limitations . . . unless such covered entity can demonstrate that the accommodation would impose and undue hardship." Id., at § 12112(b)(5)(A).2
+To prevail on a failure-to-accommodate claim, a plaintiff must prove: (1) that she is a "qualified individual with a disability; (2) that the disability and its consequential limitations were known by the covered employer; and (3) that the employer failed to make reasonable accommodations for such known limitations." Feist v. Louisiana, 730 F.3d 450, 453 (5th Cir. 2013).3 Once the employee presents a request for accommodation, the employer and employee are required to engage in an interactive process to determine what reasonable accommodation, if any, is available. E.E.O.C. v. LHC Group, Inc., 773 F.3d 688, 699 (5th Cir. 2014) (citation omitted); see also Loulseged v. Akzo Nobel, Inc., 178 F.3d 731, 736 (5th Cir. 1999).
+Here, Wal-Mart concedes that Bowden-Walker has established the first two elements of her prima facie case. Docket No. 53. Wal-Mart, however, contends that she is unable to satisfy the third element. First, Wal-Mart participated in the interactive process with Bowden-Walker and determined that a reasonable accommodation existed. Wal-Mart presented summary judgment evidence that shows it requested additional medical information to assist in the review of Bowden-Walker's second accommodation request. Docket No. 44-12. Second, Wal-Mart submitted the sworn declaration of its Human Resources Manager Regina Hosey that the Accommodations Services Center in Bentonville, Arkansas, approved Bowden-Walker's request on December 17, 2013, but failed to inform Hosey until December 20. Docket No. 44-3. Upon notification, Hosey promptly responded by scheduling a meeting with Bowden-Walker to make arrangements for the accommodation. Docket No. 44-16. Third, Wal-Mart submitted evidence that the accommodation was no [*7]  longer needed because on December 23, Bowden-Walker was terminated for violation its Discrimination and Harassment Prevention Policy. Docket Nos. 44-1 and 44-21.
+Wal-Mart has shown that its brief delay in providing a reasonable accommodation for Bowden-Walker's disability was not intentional, motivated by discriminatory intent, or unreasonable. Bowden-Walker failed to present any evidence to refute Wal-Mart's evidence and establish the existence of a genuine dispute as to any material fact. This Court cannot assume that she could or would prove the necessary facts. "Conclusional allegations and denials, speculation, improbable inferences, unsubstantiated assertions, and legalistic argumentation do not adequately substitute for specific facts showing a genuine issue for trial." TIG Ins. Co. v. Sedgwick James of Washington, 276 F.3d 754, 759 (5th Cir. 2002)(citation omitted). Wal-Mart's evidence remains unrefuted, therefore, it is entitled to summary judgment.
+
+IV. Conclusion
+Based on the foregoing, the defendant's Motion for Summary Judgment is granted. A separate final judgment will issue this day.
+SO ORDERED, this the 18th day of August, 2016.
+/s/ Carlton W. Reeves
+UNITED STATES DISTRICT JUDGE
+
+FINAL JUDGMENT
+Pursuant to the Court's Order [Docket No. 55] granting the [*8]  defendant's Motion for Summary Judgment [Docket No. 44], the Court finds that in accordance with the Order issued on this day, this case is closed.
+SO ORDERED, this the 18th day of August, 2016.
+/s/ Carlton W. Reeves
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

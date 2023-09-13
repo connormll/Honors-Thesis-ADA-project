@@ -1,0 +1,52 @@
+McGuire v. Little Caesar's Pizza
+United States District Court for the Eastern District of Arkansas, Central Division
+April 21, 2022, Decided; April 21, 2022, Filed
+CASE NO. 4:20-CV-00819-BSM
+
+Reporter
+2022 U.S. Dist. LEXIS 73353 *; 2022 WL 1186731
+MICHAEL MCGUIRE, PLAINTIFF v. LITTLE CAESAR'S PIZZA OF ARKANSAS, DEFENDANT
+Counsel:  [*1] For Michael McGuire, Plaintiff: Laura Avery, LEAD ATTORNEY, Avery Law Office, Little Rock, AR.
+For Little Caesar's Pizza of Arkansas Inc, Defendant: Mark K. Cameron, LEAD ATTORNEY, Friday, Eldredge & Clark, LLP, Little Rock, AR; Michael S. Moore, LEAD ATTORNEY, Friday, Eldredge & Clark, LLP, Little Rock, AR.
+Judges: Brian S. Miller, UNITED STATES DISTRICT JUDGE.
+Opinion by: Brian S. Miller
+Opinion
+
+
+
+ORDER
+Little Caesar's motion for summary judgment [Doc. No. 18] is granted and this case is dismissed with prejudice. The motion to strike [Doc. No. 26] is denied.
+I. BACKGROUND
+Michael McGuire is suing Little Caesar's Pizza of Arkansas, Inc. ("Little Caesar's") under the Americans with Disabilities Act and Arkansas Civil Rights Act, alleging disability discrimination. McGuire seeks back pay, compensatory damages for mental anguish, future pecuniary losses, emotional pain, suffering, inconvenience, and loss of enjoyment of life.
+McGuire, who is legally blind, applied for a position at a Little Caesar's location in Jacksonville, Arkansas. He received assistance in applying for the job from Building Bridges, an organization that helps individuals with disabilities find employment. Sonya Bush, a Building Bridges case manager, helped [*2]  McGuire complete the employment application by asking McGuire questions from the application, and then filling out the application for him. McGuire has "basically almost zero" vision in his left eye and "everything is blurred." McGuire Dep. at 18-19, Doc. No. 18-2. In his right eye the bottom half of his field of vision is a blur. Id. at 19. He can read, but requires the assistance of glasses or a screen enlarger. Id. at 21.
+McGuire was offered a position at Little Caesar's and attended an orientation for new employees. Fritz Decl. at ¶ 24, Doc. No. 18-1. He was given an employment manual containing Little Caesar's policies regarding accommodations for individuals with disabilities. McGuire Dep. at 39-42. He admits, however, that he did not read the policies. Id.
+When McGuire arrived for his first day of work, he had difficulty seeing the screen to clock in, so he notified his supervisor, Alisha Travis, that he was legally blind. McGuire Dep. at 45. This was the first time that McGuire informed Little Caesar's of his impairment and need for accommodations. Fritz Decl. at ¶ 28; McGuire Dep. at 64. After working 2.5 hours, McGuire was sent home early because business was slow. Fritz Decl. [*3]  at ¶ 26. After McGuire was sent home, Travis then notified her managers that McGuire needed an accommodation for his blindness. Id. at ¶ 27. Travis was instructed to remove McGuire from the schedule until human resources could meet with him to discuss his impairment and possible accommodations. Id. at ¶ 28.
+Little Caesar's Area Supervisor Dennis Mullen called McGuire to schedule a meeting to discuss his impairments and potential accommodations. Fritz Decl. at ¶ 29. Mike Fritz, President of Little Caesar's of Arkansas, met with McGuire and a case worker from Building Bridges on April 10, 2019. Id. at ¶ 34. McGuire informed Fritz that he was blind in one eye and significantly impaired in the other. Id. Fritz informed McGuire that he was still employed by Little Caesars, but that the company needed to determine whether it could reasonably accommodate McGuire's impairment. Id. at ¶¶ 35-36. Fritz told McGuire that he would follow up with him in a couple of days. Id. at ¶ 36.
+Fritz called McGuire two days later to schedule a walk-though at the Jacksonville location to discuss the tasks of the crew member position, identify what tasks he could or could not perform, and "try to identify any [*4]  reasonable accommodations" Little Caesar's could provide. Fritz Decl. at ¶ 37. McGuire returned Fritz's call the next day, and Fritz again offered to meet with McGuire to walk through the store to discuss potential accommodations. Id. at ¶ 38. McGuire refused to meet with Fritz, did not appear for the walk-through on April 16, and did not have any further communication with any Little Caesar's employees or management. Id. When asked in his deposition if he would have gone to a meeting on April 16, McGuire replied "no, I wouldn't have." McGuire Dep. at 83.
+II. LEGAL STANDARD
+Summary judgment is appropriate when there is no genuine dispute as to any material fact, and the moving party is entitled to judgment as a matter of law. See Fed. R. Civ. P. 56(a); Anderson v. Liberty Lobby Inc., 477 U.S. 242, 249-50, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). Once the moving party demonstrates that there is no genuine dispute of material fact, the non-moving party must produce admissible evidence demonstrating a genuine factual dispute requiring a trial. Holden v. Hirner, 663 F.3d 336, 340 (8th Cir. 2011). Id. All reasonable inferences must be drawn in a light most favorable to the non-moving party. Holland v. Sam's Club, 487 F.3d 641, 643 (8th Cir. 2007). The evidence is not weighed, and no credibility determinations are made. Jenkins v. Winter, 540 F.3d 742, 750 (8th Cir. 2008).
+III. DISCUSSION
+A. Motion to Strike
+Little Caesar's motion to strike under Fed. R. Civ. P. 12(f) [Doc. No. 26] [*5]  is denied. McGuire's response to defendant's statement of material facts [Doc No. 21] was filed seven days late, and his response to defendant's motion for summary judgment [Doc No. 23] was filed sixteen days late. Local Rule 7.2(b). McGuire did not file any motion for extension of time or motion for leave to file out of time. The motion to strike is denied, however, because the delay did not prejudice defendant. See Stanbury L. Firm v. I.R.S., 221 F.3d 1059, 1063 (8th Cir. 2000) ("motions to strike under Fed. R. Civ. P. 12(f) are viewed with disfavor and are infrequently granted.")
+B. Motion for Summary Judgment
+Little Caesar's motion for summary judgment is granted because McGuire has not established a prima facie case of disability discrimination. "In the absence of evidence of direct discrimination, ADA claims are evaluated by the burden-shifting framework of McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S.Ct. 1817, 36 L.Ed.2d 668 (1973)." Kratzer v. Rockwell Collins, Inc., 398 F.3d 1040, 1044 (8th Cir. 2005). To establish a prima facie case of discrimination, a plaintiff must show that they have an ADA-qualifying disability, that they are qualified to perform the essential functions of the position with or without a reasonable accommodation, and an adverse action due to their disability. Id. For the reasons stated below, McGuire has not made out a primae facie case of discrimination.
+
+1. McGuire cannot demonstrate that he was [*6]  a qualified individual with a disability
+An employee is considered to be a qualified individual if they meet the "necessary prerequisites for the job—training, education, experience—and can perform the essential functions, with or without reasonable accommodation." Kratzer, 398 F.3d 1040 at 1044-45, citing Cravens v. Blue Cross and Blue Shield of Kansas City, 214 F.3d 1011, 1016 (8th Cir. 2000). McGuire has not provided any evidence that he was qualified to perform or could perform the essential duties of the job. He merely asserts, without providing any evidence, that had he been given the chance he could have performed the required duties. Without providing at least some proof that he was able to perform the duties required of him, he cannot show that he was a qualified individual. Although McGuire worked at a Little Caesar's restaurant in another state approximately twenty years ago, that employment was prior to his vision deteriorating and is not enough to show that he was able to perform the essential duties in his current state. McGuire Dep. at 32-33.
+
+2. McGuire cannot show that Little Caesar's failed to engage in the interactive process
+"An employer impedes the [interactive] process when: the employer knows of the employee's disability; the employee requests accommodations or assistance; the employer [*7]  does not in good faith assist the employee in seeking accommodations; and the employee could have been reasonably accommodated but for the employer's lack of good faith." Kratzer, 398 F.3d 1040 at 1045, citing Ballard v. Rubin, 284 F.3d 957, 960 (8th Cir.2002).
+McGuire argues that Little Caesar's failed to give him a "fair chance to prove his abilities . . . with or without reasonable accommodations." Br. in Supp. of Resp. to Mot. Summ. J. at 10, Doc. No. 24. Any breakdown in the interactive process, however, was due to McGuire's refusals to work with Little Caesar's.
+McGuire has provided no proof that Little Caesar's was unwilling to engage in the interactive process. After learning of McGuire's impairments, Little Caesar's met with him and attempted to schedule a "walk-through" at the Jacksonville location to see how he could be accommodated. McGuire, however, failed to participate in the interactive process with Little Caesar's. An employer cannot be held liable for failing to engage in the interactive process when the process breaks down because of the employee's lack of good faith. Kratzer, 398 F.3d 1040 at 1045. McGuire has not shown that defendants failed to give him an opportunity to prove his abilities as a crew member. It is McGuire, not Little Caesar's, who cut off communications [*8]  and ended any attempts at accommodations.
+
+3. State Claim
+Because the Arkansas Civil Rights Act mirrors the Americans with Disability Act, the analysis above disposes of McGuire's Arkansas Civil Rights Act claim. See Jackson v. City of Hot Springs, 751 F.3d 855, 863 (8th Cir. 2014), citing Duty v. Norton—Alcoa Proppants, 293 F.3d 481, 490 (8th Cir.2002).
+IV. CONCLUSION
+For the forgoing reasons, Little Caesar's motion to strike [Doc. No. 26] is denied and its motion for summary judgment [Doc. No. 18] is granted. McGuire's complaint is dismissed with prejudice.
+IT IS SO ORDERED this 21st day of April, 2022.
+/s/ Brian S. Miller
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,49 @@
+Ness-Holyoak v. Wells Fargo Bank, Nat'l Assn.
+United States District Court for the District of Utah, Central Division
+May 22, 2017, Decided; May 22, 2017, Filed
+Case No. 2:15-CV-544-DB
+
+Reporter
+2017 U.S. Dist. LEXIS 77512 *; 2017 WL 2257339
+NANCY NESS-HOLYOAK, Plaintiff, v. WELLS FARGO BANK, NATIONAL ASSOCIATION, Defendant.
+Counsel:  [*1] For Nancy Ness Holyoak, Plaintiff: David J. Holdsworth, LEAD ATTORNEY, SANDY, UT.
+For Wells Fargo Bank National Association, Defendant: Ethan D. Thomas, Rick D. Roskelley, LEAD ATTORNEYS, LITTLER MENDELSON (LAS VEGAS), LAS VEGAS, NV.
+Judges: Dee Benson, United States District Judge.
+Opinion by: Dee Benson
+Opinion
+
+
+
+MEMORANDUM DECISION AND ORDER
+Before the Court is Defendant, Wells Fargo Bank's ("Wells Fargo"), motion for summary judgment. [Dkt. 20]. A hearing was held on May 8, 2017 at which Plaintiff, Ms. Nancy Ness-Holyoak ("Ms. Ness-Holyoak") was present and represented by Mr. David J. Holdsworth. Wells Fargo was represented by Mr. Rick Roskelley. Based on the parties' written and oral arguments and the relevant facts and the law, the Court hereby enters the following Order.
+
+BACKGROUND
+Plaintiff worked for Wells Fargo as a customer service representative in its Salt Lake City call center from 2008 to 2014. Her job duties included answering telephone calls from customers and resolving their questions and complaints.1
+During her six years of employment, Wells Fargo accommodated numerous requests by Ms. Ness-Holyoak for leave and for a reduced work schedule. Ms. Ness-Holyoak followed the appropriate procedures as outlined [*2]  in the employee handbook when making these requests. In July, 2012, she took a leave of absence and periodic intermittent leave throughout the Spring of 2014 to undergo breast cancer surgery, treatment and care. In the Fall of 2013, Wells Fargo approved a leave of absence and intermittent leave Ms. Ness-Holyoak requested as a result of her diagnosis with an acute stress reaction and depression. Later, she requested that she be allowed to work a reduced schedule of six hours per day as an accommodation for her disability, which was granted.
+At times throughout her employment, Ms. Ness-Holyoak commented to her supervisors that she believed she received more difficult ("escalated") calls and a greater number of calls than her coworkers. According to her supervisors, the concern she expressed was never tied to her disability. Her supervisors repeatedly assured her that all calls are distributed randomly. They explained that there was no way to decrease the number of escalated calls that any one team member answered because it was impossible to know which customer was upset or angry prior to the call being answered by the customer service representative to whom the call was randomly assigned. [*3]  She was reminded, however, that if a caller was upset or inappropriate, she could always forward that call to her supervisor. In an effort to work with her, one of her supervisors asked her to keep a record of calls she believed were escalated so they could review them together, but Ms. Ness-Holyoak never did so. Her employment was ultimately terminated in November, 2014 after she failed to report to work for three months without approval.
+Ms. Ness-Holyoak's suit against Wells Fargo alleges that the bank violated the Americans with Disabilities Act ("ADA") by failing to accommodate her stress and depression disability. The accommodation she wanted was for her supervisors to ensure that her coworkers answered their fair share of escalated calls. If they did, Ms. Ness-Holyoak asserts, her number of escalated calls would have decreased.2
+Wells Fargo moves for summary judgment on the grounds that: (1) Ms. Ness-Holyoak did not sufficiently request an accommodation for her disability pertaining to the distribution of escalated calls; and (2) even if she had, the request was unreasonable.
+
+FAILURE TO ACCOMMODATE CLAIM
+To establish a prima facie case of failure to accommodate in accordance with [*4]  the ADA, a plaintiff must show that: (1) she is a qualified individual with a disability; (2) the employer was aware of her disability; and (3) the employer failed to reasonably accommodate the disability. Allen v. SouthCrest Hosp., 455 F.App'x 827, 834 (10th Cir. 2011). See also, Anderson v. Coors Brewing Co., 181 F.3d 1171, 1175 (10th Cir. 1999). The plaintiff also has the burden of showing that she "sufficiently requested the accommodation in question." Freadman v. Metro. Prop. & Cas. Ins. Co., 484 F.3d 91, 102-03 (1st Cir. 2007)(citations omitted). The request must be sufficiently direct and specific, and explain how the accommodation requested is linked to a disability. Id. at 102-03. Plaintiff must show that the proposed accommodation is reasonable - that it will 'enable her to perform the essential function of her job' and that 'at least on the face of things, it is feasible for the employer under the circumstances.'" Id. (quotations and citations omitted). "It is axiomatic, however, that an employer is not required to relieve an employee of an essential job function." EEOC v. Picture People, Inc., 684 F.3d 981, 987 (10th Cir. 2012).
+
+A. Request For Accommodation
+Wells Fargo's employee handbook prescribes the procedure an employee must follow to request an accommodation due to a disability. The procedure requires an employee to discuss her needs and make her request to her supervisor and the Wells Fargo Accommodations Management Department.
+While she admits [*5]  that she knew of the required procedure, and that she had previously followed the procedure to obtain a reduced work schedule as an accommodation for her disability, it is undisputed that Ms. Ness-Holyoak never made a request to the Accommodations Management Department regarding the distribution of escalated calls. While she did complain to her supervisors, both before and after her diagnosis, about the number of escalated calls she received, she did not relate her complaints to her disability or state in any way that she was seeking an accommodation for a disability. It was Ms. Ness-Holyoak's responsibility to follow the procedure for requesting an accommodation under the ADA.
+
+B. Reasonable Accommodation
+Even if Ms. Ness-Holyoak's complaints to her supervisors could be construed as a request for accommodation, such a request was unreasonable. It is undisputed that answering complex and escalated calls is an essential function of the customer service representative position. The ADA does not require employers to eliminate or modify an essential job function. Mason v. Avaya Communs., Inc., 357 F3.d 1114, 1123 (10th Cir. 2004)("the ADA does not . . . require an employer to modify an essential [*6]  function of an existing position in order to accommodate a disabled employee"); Picture People, Inc., 684 F.3d at 987-88.
+Additionally, Ms. Ness-Holyoak has presented no evidence that she received an unequal share of escalated calls. She points to no independent or objective admissible evidence to support her position. The record establishes that incoming calls to the call center are handled on a first-come first-served basis and are assigned to the various customer service representatives randomly. There is no specific telephone line or queue that exists for angry or upset customers. There is no way to determine the nature of a customer's call without a customer service representative first answering the call. If an employee receives a call from an extremely upset customer, the representative has the option of forwarding the call to a supervisor. Ms. Ness-Holyoak admitted that she knew she could have forwarded escalated calls to her supervisors.
+Based on the undisputed facts in the record, the Court finds that Ms. Ness-Holyoak did not follow the required procedure or otherwise request an accommodation for her disability pertaining to the distribution of escalated calls. Additionally, even if she had, her request was unreasonable [*7]  because Wells Fargo has no way to determine which customers are angry without customer service representatives first answering the randomly distributed calls. Answering customers' calls is an essential function of the position Ms. Ness-Holyoak held.
+
+CONCLUSION
+Defendant's Motion for Summary Judgment on all causes of action is hereby GRANTED. The Court hereby directs the Clerk of the Court to DISMISS this action with prejudice.
+IT IS SO ORDERED
+DATED this 22 day of May, 2017.
+/s/ Dee Benson
+Dee Benson
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,42 @@
+Reese v. Krones, Inc.
+United States District Court for the Eastern District of Wisconsin
+June 6, 2019, Decided; June 6, 2019, Filed
+Case No. 18-CV-1041
+
+Reporter
+2019 U.S. Dist. LEXIS 94765 *; 2019 WL 2396546
+MICHAEL F. REESE, SR., Plaintiff, v. KRONES, INC., Defendant.
+Prior History: Reese v. Doolittle, 2018 U.S. Dist. LEXIS 115812 (E.D. Wis., July 11, 2018)
+Counsel:  [*1] Michael F Reese, Sr, Plaintiff, Pro se, Milwaukee, WI.
+Judges: WILLIAM E. DUFFIN, United States Magistrate Judge.
+Opinion by: WILLIAM E. DUFFIN
+Opinion
+
+
+
+DECISION AND ORDER
+
+INTRODCUTION
+Now before the court is plaintiff Michael F. Reese Sr.'s "motion [for] the court to freely give leave to amendment of original pleadings." (ECF No. 46.) He seeks to amend his amended complaint to add claims and defendants. (ECF No. 46-6.) Reese's motion has been fully briefed and is ready for resolution.
+
+PRODCEDURAL HISTORY
+On July 9, 2018, Reese, appearing pro se, filed this action against defendants Mark Doolittle, John Barker, and Krones, Inc., alleging that they failed to make "reasonable accommodations" for his known physical limitations in violation of the Americans with Disabilities Act of 1990. (ECF No. 1.) On October 5, 2018, Barker and Doolittle filed a motion to dismiss Reese's claims against them (ECF No. 21), which the court granted on November 6, 2018. (ECF No. 26). Krones answered Reese's complaint on November 9, 2018. (ECF No. 27.) On December 10, 2018, the court issued a scheduling order, setting forth, among other deadlines, January 15, 2019, as the deadline to amend pleadings. (ECF No. 37.)
+On December 13, 2018, Reese [*2]  filed an amended complaint, alleging violations of the Americans with Disabilities Act of 1990, "28 § 1330(a)," "28 § 1603(a)," "28 § 1605(a)(5)," "EEOC Notice 915.002 Oct. 20th, 1993," and "EEOC Notice 915.002 Oct. 17, 2002." (ECF No. 39.) Krones answered Reese's amended complaint on January 1, 2019.
+On March 28, 2019, Reese filed a letter with the court titled, "PROCEDURAL QUESTIONS FOR JUDGE WILLIAM DUFFIN" (ECF No. 44), which the court construed as a motion to further amend his complaint (ECF No. 45). Since the deadline to amend pleadings had passed and Reese had not obtained Krones' written consent or the court's leave, the court denied Reese's motion to amend his complaint. (ECF No. 45 at 2.) In denying Reese's motion, the court noted that "the facts set forth in [Reese's] letter do not support additional claims but rather appear to supplement his already existing claim that Krones allegedly failed to accommodate his disability." (Id.) (Emphasis in original.)
+On April 25, 2019, five days before the discovery deadline, Reese filed the motion now before the court, once again seeking permission to further amend his complaint. (ECF No. 46.) Although it's unclear, he appears to be seeking to amend his amended complaint to allege claims [*3]  of "Failure to Reasonably Accommodate ADA Actual Injury," "Unsafe Workplace w/malice," "Intentional Discrimination of ADA Disability w/malice," "Defamation of Professional Character w/malice," "Conspiracy to Punish and Terminate Me w/malice," "Filing Blatantly, False Statement w/malice, into my Personnel File," "Unequal Treatment w/malice," "Gross Negligence," and "Hate Crime" against Krones, Doolittle, and Barker, and a claim of "Bad Faith w/malice" against "Krones and their Workers Compensation Insurer, Gallagher Bassett." (ECF No. 46-6.)
+
+ANALYSIS
+Federal Rule of Civil Procedure 15(a) allows a party to amend its pleading "only with the opposing party's written consent or the court's leave," and notes that "[t]he court should freely give leave when justice so requires." Fed. R. Civ. P. 15(a)(2). Under the local rules of this district, "[a]ny amendment to a pleading, whether filed as a matter of course or upon a motion to amend, must reproduce the entire pleading as amended, and may not incorporate any prior pleading by reference." Civ. L.R. 15(a).
+Krones argues that Reese's motion "must be denied because Mr. Reese's filing violates Civil L.R. 15(a), by attempting to incorporate by reference some or all of the pleadings that he previously filed with the Court ..., [*4]  instead of filing a single proposed amended pleading as required." (ECF No. 47 at 2.) To comply with Civil Local Rule 15(a), Reese was required to reproduce his entire complaint (see, e.g., ECF No. 39) as amended.
+Reese attached six documents to his motion: (1) "Relation Back of Amendment" dated April 9, 2019 (ECF No. 46-1); (2) "Statement of Claim" dated December 7, 2018, with added handwritten annotations (ECF No. 46-2); (3) a letter to the EEOC dated May 16, 2018, with added handwritten annotations (ECF No. 46-3); (4) "Prima Facie for Failure to Accommodate a Disability" dated June 22, 2018, with added handwritten annotations (ECF No. 46-4); (5) "Relief — Comprehensive / Punitive Damages. Investigation of Conduct w/ ADA Guidelines" dated December 7, 2018, with added handwritten annotations (ECF No. 46-5); and (6) "'Pleadings as Amended'" dated April 13, 2019 (ECF No. 46-6). However, none of those documents include a reproduction of Reese's complaint with the proposed changes he wishes to make by amendment. Since Reese has failed to comply with Civil Local Rule 15(a), the court will deny his motion.
+Even if Reese had complied with Civil Local Rule 15, the court would still deny his motion to file a second amended complaint. "[A] party seeking an amendment [*5]  carries the burden of proof in showing that no prejudice will result to the non-moving party." King v. Cooke, 26 F.3d 720, 724 (7th Cir. 1994). Factors that can influence the interest-of-justice inquiry include "undue delay, bad faith, dilatory motive, repeated failure to cure deficiencies, undue prejudice to the defendants, or where the amendment would be futile." Arreola v. Godinez, 546 F.3d 788, 796 (7th Cir. 2008) (citing Foman v. Davis, 371 U.S. 178, 182, 83 S. Ct. 227, 9 L. Ed. 2d 222 (1962); Thompson v. Ill. Dep't of Prof'l Regulation, 300 F.3d 750, 759 (7th Cir. 2002)). "[T]he decision to grant or deny a motion to file an amended pleading is a matter purely within the sound discretion of the district court." Brunt v. SEIU, 284 F.3d 715, 720 (7th Cir. 2002) (citing J.D. Marshall Int'l Inc. v. Redstart, Inc., 935 F.2d 815, 819 (7th Cir. 1991)).
+The court finds that any party in the defendant's position would be prejudiced by Reese's proposed amendments at this stage of the litigation. Reese filed his motion four months after the deadline for amending pleadings and five days before the discovery deadline. He seeks to add several new claims as well as a new defendant, Ghallagher Bassett, allegedly Krones's workers compensation insurer. His proposed amendments would completely change the nature of his claim and substantially delay the resolution of this action. It also appears that many of Reese's proposed amendments fall outside the scope of his administrative charge with the EEOC. Therefore, even if Reese had complied with Civil Local Rule 15, the court would [*6]  exercise its discretion and deny his motion to file a second amended complaint.
+IT IS THEREFORE ORDERED that Reese's "motion [for] the court to freely give leave to amendment of original pleadings" (ECF No. 46) is denied.
+Dated at Milwaukee, Wisconsin this 6th day of June, 2019.
+/s/ William E. Duffin
+WILLIAM E. DUFFIN
+U.S. Magistrate Judg
+
+
+End of Document
+

@@ -1,0 +1,56 @@
+Slaughter v. Magellan Health, Inc.
+United States District Court for the Southern District of Texas
+May 24, 2022, Decided; May 24, 2022, Filed
+Civil Action H-20-887
+
+Reporter
+2022 U.S. Dist. LEXIS 102701 *; 2022 WL 2068585
+Leslie Slaughter, Plaintiff, v. Magellan Health, Inc., Defendant.
+Subsequent History: Adopted by, Objection overruled by, Judgment entered by, Dismissed by Slaughter v. Magellan Health, Inc., 2022 U.S. Dist. LEXIS 102748 (S.D. Tex., June 8, 2022)
+Counsel:  [*1] For Leslie Slaughter, Plaintiff: Stephen Lewis Townsend, LEAD ATTORNEY, Bradley Law Firm, Port Neches, TX.
+For Magellan Health, Inc., Mark D Temple, LEAD ATTORNEY, Baker Hostetler LLP, Houston, TX; Joseph Richard Buller, III, Littler Mendelson PC, Houston, TX; Paul M. Knettel, Baker Hostetler LLP, Houston, TX.
+Judges: Peter Bray, United States Magistrate Judge.
+Opinion by: Peter Bray
+Opinion
+
+
+Report and Recommendation on Second Motion for Summary Judgment
+On March 28, 2022, the district judge adopted the undersigned's recommendation that Magellan Health, Inc.'s motion for summary judgment be granted. ECF No. 32. Because the first summary judgment motion did not address Slaughter's claim for disability-based harassment, the court permitted Magellan to file a second motion for summary judgment. The court recommends that the second motion for summary judgment be granted and that this case be dismissed with prejudice.
+
+1. Facts
+The court recited in detail the facts of this case in its Report and Recommendation, ECF No. 27, and does not repeat them here. Slaughter claims that he was harassed by Magellan's management and human resources department, in particular by his supervisor, Julie Bueno. The court has studied Slaughter's [*2]  complaints of harassment and has scoured the summary judgment record on its own in search of any facts that might conceivably constitute harassment.
+Here are the results of the court's efforts:
+• In response to the second summary judgment motion, Slaughter argues that Julie Bueno would not allow him to use the non-production auxiliary codes to the extent other employees were allowed to use them. ECF No. 35 at 7-8.
+• Slaughter cites his deposition, during which he testified that the harassment was verbal and that Julie Bueno told him that he was using a particular AUX code too often. He testified, "[L]et's call it like somebody was hovering over you, watching every move you made like: why are you in AUX5? I need you on the phones. You're the only one present that can work all five clients." ECF No. 24-23 at 23. He further testified that Bueno pressured him to get out of the AUX5 code and told him to hurry up. Id. at 23-24.
+• Also in his response, Slaughter states that "Magellan continued to show hostility towards Slaughter and deny him the use of a reasonable accommodation." ECF No. 35 at 11.
+• In an email to Magellan's human resources department, Slaughter stated, "I feel that Magellan [*3]  has taken an extremely hostile attitude towards me." ECF No. 35-3 at 2. He continued, "I appreciate and respect Magellan and am convinced that there is a better way to handle this situation than the blatant hostility and disregard I feel I have been shown." Id. at 3.
+• Slaughter argues, as he did in his first motion for summary judgment, that he was denied more frequent breaks, that he was denied a representative to assist him in the interactive process, and that he was denied the accommodation to work with fewer clients. ECF No. 35 at 11.
+• He argues that Magellan disregarded Dr. Bricken's recommendation with respect to reasonable accommodations. ECF No. 35 at 15.
+• Slaughter argues that he "was caught in a vicious cycle of being reprimanded for low productivity and then reprimanded for the steps he was taking to increase his productivity." ECF No. 35 at 15.
+• Finally, he summarizes that "Magellan harassed Slaughter by continuously refusing to accept any of the suggested reasonable accommodations that Slaughter, his doctors, the [Texas Workforce Commission], or its own policies presented to Magellan." ECF No. 35 at 16.
+As discussed below, none of this constitutes disability-based harassment [*4]  under the Americans with Disabilities Act (ADA) or the TCHRA.
+
+2. Summary Judgment Standard of Review
+"Summary judgment is appropriate only if, viewing the evidence in the light most favorable to the nonmovant, 'the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.'" Davenport v. Edward D. Jones & Co., 891 F.3d 162, 167 (5th Cir. 2018) (quoting Fed. R. Civ. P. 56(a)). No genuine issue of material fact exists if a rational jury could not find for the nonmoving party based on the complete record. McMichael v. Transocean Offshore Deepwater Drilling, Inc., 934 F.3d 447, 455 (5th Cir. 2019) (quoting Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986)).
+"The movant bears the burden of identifying those portions of the record it believes demonstrate the absence of a genuine issue of material fact." Lincoln Gen. Ins. Co. v. Reyna, 401 F.3d 347, 349 (5th Cir. 2005) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 322-25, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986)). If this burden is met, the nonmovant must then "set forth specific facts showing that there is a genuine issue for trial." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). The nonmovant must "go beyond the pleadings," using competent summary judgment evidence to cite to "specific facts" showing a genuine issue for trial. Bustos v. Martini Club, Inc., 599 F.3d 458, 468 (5th Cir. 2010) (quoting Celotex Corp., 477 U.S. at 324).
+The court reviews all evidence and reasonable inferences in the light most favorable to the nonmoving party. Lincoln Gen. Ins. Co., 401 F.3d at 350. "[C]onclusory allegations, unsubstantiated assertions, or 'only a scintilla of evidence[]'" are not enough to defeat a properly supported motion for summary judgment. Turner v. Baylor Richardson Med. Ctr., 476 F.3d 337, 343 (5th Cir. 2007) (quoting Little v. Liquid Air Corp., 37 F.3d 1069, 1075 (5th Cir. 1994)). The [*5]  nonmovant must "articulate the precise manner in which the submitted or identified evidence supports his or her claim." CQ, Inc. v. TXU Mining Co., 565 F.3d 268, 273 (5th Cir. 2009) (quoting Smith ex rel. Estate of Smith v. United States, 391 F.3d 621, 625 (5th Cir. 2004)). The court is not required to search the entire record to ensure that the record is "bereft of genuine issue of material fact." Topalian v. Ehrman, 954 F.2d 1125, 1137 n.30 (5th Cir. 1992).
+
+3. Disability-Based Harassment Discrimination under the ADA and the TCHRA
+In Flowers v. S. Reg'l Physician Servs., Inc., 247 F.3d 229, 235 (5th Cir. 2001), the Fifth Circuit recognized a cause of action for disability-based harassment under the ADA, which is modeled after the similar claim under Title VII. The elements of such a claim are: (1) that the plaintiff belongs to a protected group; (2) that the plaintiff was subjected to unwelcome harassment; (3) that the harassment was based on the plaintiffs disability; (4) that the harassment affected a term, condition, or privilege of employment; and (5) that the employer knew or should have known of the harassment and failed to take prompt, remedial action. Id. at 235-36.
+The fact that an employee does not like how they are being treated by their employer does not mean that the employee is being subjected to actionable harassment. Disagreements with an employer about company policy, terms of employment, or whether an accommodation is reasonable are not harassment. Clark v. Champion Nat'l Sec., Inc., 952 F.3d 570, 585 (5th Cir. 2020). Criticism [*6]  of an employee's work performance and even threats to terminate an employee are not harassment. Credeur v. Louisiana, 86o F.3d 785, 796 (2017).
+
+4. Analysis
+Slaughter is attempting to recast his claims based on Magellan's failure to accommodate his disability, which the court has already rejected, as harassment. The facts Slaughter cites in his summary judgment response do not rise to the level of harassment. Bueno was supervising Slaughter with a heavy hand but was not doing anything that could be construed as harassment. The human resources department did not agree with Slaughter's proposed accommodations but did not harass Slaughter. Certainly, there were no ad hominem attacks, teasing, physical or verbal threats, or inappropriate language, which the Fifth Circuit has found to constitute actionable harassment. See Clark, 952 F.3d at 585-86.
+Because Slaughter has not presented any evidence of any actionable harassment, the court will not address the parties' other arguments.
+
+5. Conclusion
+Because Slaughter fails to produce evidence demonstrating a genuine dispute of material fact on harassment, the court recommends that Magellan's motion for summary judgment be granted.
+The parties have fourteen days from service of this memorandum and recommendation to file [*7]  written objections. See 28 U.S.C. § 636(b); Fed. R. Civ. P. 72. Failure to timely file objections will preclude appellate review of factual findings or legal conclusions, except for plain error. See Thomas v. Arn, 474 U.S. 140, 147-49, 106 S. Ct. 466, 88 L. Ed. 2d 435 (1985); Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir. 1988).
+Signed at Houston, Texas, on May 24, 2022.
+/s/ Peter Bray
+Peter Bray
+United States Magistrate Judge
+
+
+End of Document
+

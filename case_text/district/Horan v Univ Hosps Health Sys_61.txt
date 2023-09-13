@@ -1,0 +1,59 @@
+Horan v. Univ. Hosps. Health Sys.
+United States District Court for the Northern District of Ohio, Eastern Division
+April 22, 2019, Decided; April 22, 2019, Filed
+CASE NO.1:18CV2054
+
+Reporter
+2019 U.S. Dist. LEXIS 67894 *; 2019 WL 1767063
+JOHN HORAN, ET AL., Plaintiff, Vs. UNIVERSITY HOSPITALS HEALTH SYSTEM, INC., ET AL., Defendant.
+Counsel:  [*1] Daniel Harris, Plaintiff, Pro se, IMPERIAL, CA.
+Judges: CHRISTOPHER A. BOYKO, United States District Judge.
+Opinion by: CHRISTOPHER A. BOYKO
+Opinion
+
+
+
+OPINION AND ORDER
+
+CHRISTOPHER A. BOYKO, J:
+This matter is before the Court on Defendants' Motion to Dismiss Counts II, V, VIII, XI, XIV, XVII and XX of Plaintiffs' Complaint. (ECF # 16). For the following reasons, the Court denies Defendants' Motion.
+According to Plaintiffs' Complaint, Plaintiffs are deaf or hard of hearing patients or their family members who sought treatment at Defendant University Hospital facilities and were denied adequate communication methods by use of American Sign Language ("ASL") interpreters and/or Video Remote Interpreting ("VRI") technology in violation of federal statutes, including Title III of the Americans with Disabilities Act. ("ADA"). Defendants move to dismiss Plaintiffs' Title III claims, contending that the ADA requires Plaintiffs first file an administrative action before filing suit. Because Plaintiffs' Complaint fails to allege they exhausted their administrative remedies, Defendants contend dismissal is proper.
+Plaintiffs argue that the overwhelming weight of authority on the issue, including decisions by Ohio district courts, [*2]  demonstrate that Title III does not require exhaustion of administrative remedies prior to filing suit.
+
+LAW AND ANALYSIS
+
+Standard of Review
+Fed R. Civ. P. 12(b)(6) authorizes dismissal of claims when the claimant fails "to state a claim upon which relief may be granted." Factual allegations contained in a complaint must "raise a right to relief above the speculative level." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 127 S. Ct. 1955, 167 L. Ed. 2d 929, (2007). Twombly does not "require heightened fact pleading of specifics, but only enough facts to state a claim to relief that is plausible on its face." Id. at 570. "In reviewing a motion to dismiss, we construe the complaint in the light most favorable to the plaintiff, accept its allegations as true, and draw all reasonable inferences in favor of the plaintiff." Directv, Inc. v. Treesh, 487 F.3d 471, 476 (6th Cir. 2007). Dismissal is warranted if the complaint lacks an allegation as to a necessary element of the claim raised. Craighead v. E.F. Hutton & Co., 899 F.2d 485 (6th Cir. 1990). The United States Supreme Court, in Ashcroft v. Iqbal, 556 U.S. 662, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009), discussed Twombly and provided additional analysis of the motion to dismiss standard:
+In keeping with these principles a court considering a motion to dismiss can choose to begin by identifying pleadings that, because they are no more than conclusion, are not entitled to the assumption of truth. While legal conclusions can provide the framework of [*3]  a complaint, they must be supported by factual allegations. When there are well-plead factual allegations a court should assume their veracity and then determine whether they plausibly give rise to an entitlement to relief.
+Id. at 1950.
+When a court is presented with a Rule 12(b)(6) motion, it may consider the complaint and any exhibits attached thereto, public records, items appearing in the record of the case and exhibits attached to defendant's motion to dismiss so long as they are referred to in the complaint and are central to the claims contained therein. See Amini v. Oberlin Coll., 259 F.3d 493, 502 (6th Cir.2001).
+
+Title III and Exhaustion
+Title III of the Americans with Disabilities Act ("ADA") prohibits discrimination on the basis of a disability by any person who owns, operates or leases a place of public accommodation. 42 U.S.C.A. § 12182. Title III incorporates the remedies and procedures of 42 U.S.C. 2000a-3(a) wherein it reads:
+The remedies and procedures set forth in section 2000a-3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation of this subchapter or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing [*4]  in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.
+42 U.S.C.A. § 12188 (West).
+42 U.S.C. 2000a-3(a) reads:
+(a) Persons aggrieved; intervention by Attorney General; legal representation; commencement of action without payment of fees, costs, or security
+
+Whenever any person has engaged or there are reasonable grounds to believe that any person is about to engage in any act or practice prohibited by section 2000a-2 of this title, a civil action for preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order, may be instituted by the person aggrieved and, upon timely application, the court may, in its discretion, permit the Attorney General to intervene in such civil action if he certifies that the case is of general public importance. Upon application by the complainant and in such circumstances as the court may deem just, the court may appoint an attorney for such complainant and may authorize the commencement of the civil action without the payment of fees, costs, or security.
+42 U.S.C.A. § 2000a-3.
+The dispute here involves whether subsection 2000a-3(c) [*5]  is also incorporated in title III. 2000a-3(c) imposes the pre-suit requirement that a victim of an alleged ADA violating practice first file an action administratively. 2000a-3(c) reads:
+
+(c) State or local enforcement proceedings; notification of State or local authority; stay of Federal proceedings
+
+In the case of an alleged act or practice prohibited by this subchapter which occurs in a State, or political subdivision of a State, which has a State or local law prohibiting such act or practice and establishing or authorizing a State or local authority to grant or seek relief from such practice or to institute criminal proceedings with respect thereto upon receiving notice thereof, no civil action may be brought under subsection (a) before the expiration of thirty days after written notice of such alleged act or practice has been given to the appropriate State or local authority by registered mail or in person, provided that the court may stay proceedings in such civil action pending the termination of State or local enforcement proceedings. (Emphasis added).
+Courts are split on the issue of Title III exhaustion. Defendants cite to Lillard v. Sunflower Farmers Mkt., Inc., No. 12-CV-1497, 2012 U.S. Dist. LEXIS 168083 (D. Colo. Nov. 27, 2012); Howard v. Cherry Hills Cutters, Inc., 979 F. Supp. 1307, 1308-09 (D. Colo. 1997); Daigle v. Friendly Ice Cream Corp., 957 F. Supp. 8, 9 (D.N.H. 1997); all holding that Title III requires exhaustion of administrative [*6]  remedies prior to filing suit.
+Plaintiffs offer in opposition the following cases: McInerney v. Rensselaer Polytechnic Institute, 505 F.3d 135, 138 (2nd Cir. 2007), Burkhart v. Widener University, Inc., 70 Fed.Appx. 52, 53 (3rd Cir. 2003) Thomas v. The Salvation Army Southern Territory, 841 F.3d 632, 638 (4th Cir. 2016) and Botosan v. Paul McNally Realty, 216 F.3d 827, 832 (9th Cir. 2000); all holding that exhaustion is not required prior to filing suit under Title III.
+While the Sixth Circuit has not yet spoken on the issue, district courts within the Sixth Circuit have concluded that Title III does not require exhaustion. See Jones v. Natural Essentials, Inc., Case No. 5:16CV93, 2017 U.S. Dist. LEXIS 44342, 2017 WL 1133945 (N.D. Ohio March 27, 2017) see also Walker v. Asmar Center, LLC., Case No. 11-11745, 2011 U.S. Dist. LEXIS 131604, 2011 WL 5822394 (E.D. Mich. Nov. 15, 2011) and Guzman v. Denny's, Inc., 40 F. Supp.2d 930 (S.D. Ohio 1999).
+Upon review of the Motion, Opposition, Reply and supporting authority, the Court holds that Title III does not require exhaustion of remedies prior to filing suit and denies Defendants' Motion. The Court agrees with those courts within the Sixth Circuit and every circuit court that has considered the issue and held that exhaustion is not required. The Court is persuaded by the fact that the plain language of the ADA at § 12188 indicates that only 2000a-3(a) was incorporated; "the remedies and procedures set forth in section 2000a-3(a) of this title are the remedies and procedures this subchapter provides..." There is nothing in the plain language of the statute incorporating Section 2000a-3(c). As the court in Guzman held, traditional canons of statutory construction require the court consider the plain language of the statute [*7]  and if it is not ambiguous and does not lead to an absurd result the court need look no further. Here, the plain language incorporates only 2000a-3(a), which does not require exhaustion. Nowhere does the language of the statue incorporate 2000a-3(c). The Guzman court applied the statutory construction rule -expressio unius est exclusio alterius- which means that when a statute discusses specific subjects those subjects not discussed are presumed excluded. The United States Supreme Court echoed this principle in Barnhart v. Sigmon Coal Co., 534 U.S. 438, 452, 122 S.Ct. 941, 151 L.Ed.2d 908 (2002) wherein it held, "[I]t is a general principle of statutory construction that when Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is ... presumed that Congress acts intentionally and purposely ...." This Court agrees that the plain, unambiguous language of Title III does not incorporate 2000a-3(c)'s exhaustion requirement.
+Furthermore, the Court is also persuaded by the reasoning of the Second Circuit in McInerney wherein the court determined "it would make little sense to require a plaintiff challenging discrimination in public accommodations to file a charge with the EEOC, an agency with responsibility for [*8]  and expertise in matters of employment discrimination." 505 F.3d at at 138.
+For these reasons, the Court follows the majority viewpoint that Title III does not require exhaustion of remedies prior to bringing suit. Therefore, the Court denies Defendants' Motion to Dismiss.
+IT IS SO ORDERED.
+/s/ Christopher A. Boyko
+CHRISTOPHER A. BOYKO
+United States District Judge
+Dated: April 22, 2019
+
+
+End of Document
+

@@ -1,0 +1,55 @@
+Levesque v. CVPH Med. Ctr.
+United States District Court for the Northern District of New York
+March 23, 2015, Decided; March 23, 2015, Filed
+No. 12-CV-960 (DNH/CFH)
+
+Reporter
+2015 U.S. Dist. LEXIS 46878 *
+ANDRE R. LEVESQUE, Plaintiff, v. CVPH MEDICAL CENTER, Defendant.
+Subsequent History: Adopted by, Summary judgment granted by, Dismissed by Levesque v. CVPH Med. Ctr., 2015 U.S. Dist. LEXIS 46796 (N.D.N.Y, Apr. 10, 2015)
+Prior History: Levesque v. CVPH Med. Ctr., 2012 U.S. Dist. LEXIS 188543 (N.D.N.Y, Oct. 9, 2012)
+Counsel:  [*1] ANDRE R. LEVESQUE, Plaintiff, Pro Se, Springfield, Missouri.
+JACQUELINE M. KELLEHER, Stafford, Piller Law Firm, Plattsburgh, New York.
+Judges: Christian F. Hummel, United States Magistrate Judge.
+Opinion by: Christian F. Hummel
+Opinion
+
+
+
+REPORT-RECOMMENDATION AND ORDER1
+Plaintiff pro se Andre Levesque brings this action against Champlain Valley Physicians Hospital Medical Center ("CVPH") pursuant to Title III of the Americans with Disabilities Act ("ADA"), 42 U.S.C. §§ 12101, et seq, alleging that CVPH failed to provide him with a reasonable accommodation for his disability. Am. Compl. (Dkt. No. 19).2 Presently pending is defendant's motion for summary judgment pursuant to Federal Rule of Civil Procedure ("Fed. R. Civ. P.") 56 based on mootness. Dkt. Nos. 145-1, 145-3. Levesque opposed the motion (Dkt. No. 150), and defendant replied (Dkt. No. 152). For the following reasons, it is recommended that defendant's motion for summary judgment be granted.
+I. Background3
+The facts are related herein in the light most favorable to Levesque as the non-moving party. See subsection II(A) infra.
+Levesque suffers from a genetic condition called Epidemolysis Bullosa Simplex Weber-Cockayne [*3]  Type (EBSWC), a rare medical condition that results in pain, discomfort, skin blistering, impaired healing ability, and other similar harm. Am. Compl. ¶ ¶ 13, 44, 55. EBSWC is aggravated by coarse fabrics as they cause the skin to blister. Id. ¶ 24.
+In March 2012, it appears that Levesque was brought to CVPH for treatment.4 Am. Compl. ¶ 20. Although unclear from the complaint, it appears that Levesque had informed staff members at CVPH about his disability. See Supp. Am. Compl. ¶ 1000. Levesque's request for a clothing accommodation was denied, causing him sores and extreme pain. Am. Compl. ¶¶ 24, 29, 44, 54.
+The only claim that currently remains is CVPH's failure to provide a reasonable accommodation under Title III of [*4]  the ADA. Dkt. No. 74. CVPH moved to dismiss this remaining claim under Fed. R. Civ. P. 12(b)(6) based on (1) failure to plead facts sufficient to make a prima facie Title III claim; and (2) mootness. Dkt. No. 87. In a Report-Recommendation and Order, the undersigned recommended that CVPH's motion be denied; the Order was adopted by Judge Hurd on March 26, 2014.5 Dkt. No. 104; see also Levesque v. CVPH Medical Center, No. 12-CV-960 (DNH/CFH), 2014 U.S. Dist. LEXIS 39893, 2014 WL 1269383 (N.D.N.Y. Mar. 26, 2014).6
+According to CVPH, in April 2014, Levesque's doctor sent a letter to CVPH. Dkt. No. 145-4. While the letter did not directly state that Levesque needed specific clothing to prevent irritation of his skin, it does confirm that EBSWC causes the skin to blister easily. Dkt. No. 145-4 ¶ 5, Ex. 3. In response to this letter, CVPH created a Specialized Care [*5]  Plan7 for Levesque, so that in the event he returns to the facility, all he would need to do is inform the staff of his condition and Specialized Care Plan and he would be provided with special clothing and/or footwear. Dkt. No. 145-5. Levesque seeks compensatory damages. Am. Compl. ¶ 999.
+II. Discussion8
+Levesque contends that defendant CVPH violated his rights under Title III of the ADA when the facility failed to reasonably accommodate his disability which resulted in injury. CVPH moves for summary judgment, arguing that the Court does not have subject matter jurisdiction over the action because the case is moot.
+A. Legal Standard
+Under Fed. R. Civ. P. 56, a court must "grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled [*6]  to judgment as a matter of law." Fed. R. Civ. P. 56(a). The party moving for summary judgment bears the initial burden of demonstrating the absence of a genuine issue of material fact. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). "[M]ere existence of some alleged factual dispute between the parties will not defeat an otherwise properly supported motion for summary judgment; the requirement is that there be no genuine issue of material fact." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247-48, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). It is not within the judge's function to weigh the evidence and determine the truth of the matter; the judge's sole function is to "determine whether there is a genuine issue for trial." Id. at 249. Additionally, there is no requirement within Rule 56 that the moving party offer affidavits or other material negating the opponent's claim. Id. at 323.
+When, as here, a party seeks judgment against a pro se litigant, a court must afford the non-movant special solicitude. See Triestman v. Fed. Bureau of Prisons, 470 F.3d 471, 477 (2d Cir. 2006). As the Second Circuit has stated,
+[t]here are many cases in which we have said that a pro se litigant is entitled to special solicitude, . . . that a pro se litigant's submissions must be construed liberally, . . . and that such submissions must be read to raise the strongest arguments that they suggest At the same time, our cases have also indicated that we cannot read into [*7]  pro se submissions claims that are not consistent with the pro se litigant's allegations, . . . or arguments that the submissions themselves do not suggest, . . . that we should not excuse frivolous or vexatious filings by pro se litigants . . . and that pro se status does not exempt a party from compliance with relevant rules of procedural and substantive law
+....
+Id. (citations and footnote omitted) (internal quotations omitted); see also Sealed Plaintiff v. Sealed Defendant #1, 537 F.3d 185, 191-92 (2d Cir. 2008) ("On occasions too num erous to count, we have reminded district courts that 'when [a] plaintiff proceeds pro se, . . . a court is obliged to construe his pleadings liberally.'" (citations omitted)).
+B. Analysis
+1. Mootness
+"Mootness is a doctrinal restriction stemming from the Article III requirement that federal courts decide only live cases or controversies; a case is moot if 'the parties lack a legally cognizable interest in the outcome' of the case." In re Zarnel, 619 F.3d 156, 162 (2d Cir. 2010) (quoting Fox v. Bd. of Trustees of State Univ. of N.Y., 42 F.3d 135, 140 (2d Cir. 1994)). When the plaintiff has been provided with some type of interim relief, an event occurs that eliminates the effect of defendant's actions, or there is no reasonable expectation that the alleged offense will occur again, the plaintiff lacks a legally [*8]  cognizable interest in the outcome. In re Zarnel, 619 F.3d at 162 (quoting Irish Lesbian & Gay Org. v. Giuliani, 143 F.3d 638, 647 (2d Cir.1998)). In order "[t]o sustain . . . jurisdiction in the present case, it is not enough that a dispute [be] very much alive when suit was filed, or when review was obtained . . . ." Lewis v. Continental Bank Corp., 494 U.S. 472, 477, 110 S. Ct. 1249, 108 L. Ed. 2d 400 (1990).
+Insofar as Levesque's amended complaint raises a claim under the ADA (Am. Compl. ¶¶ 24, 29, 44, 54), Title III does not permit an award of monetary relief; the only available remedy is injunctive relief. See 42 U.S.C. § 12188 (a)(1); Powell v. Nat'l Bd. of Med. Examiners, 364 F.3d 79, 86 (2d Cir. 2004) opinion corrected, 511 F.3d 238 (2d Cir. 2004) ("A private individual may only obtain injunctive relief for violations of a right granted under Title III; he cannot recover damages."). The Specialized Care Plan set up by CVPH details that, upon return to the facility, Levesque would simply need to alert the staff members (1) of his disability; and (2) that he had a Specialized Care Plan, and he would be provided with his accommodation. Dkt. No. 145-5.
+With Levesque's ability to obtain the required clothing to ease the pain of his disability, there is a reasonable expectation that the alleged offense will not occur again, thereby rendering his claim moot. See In re Zarnel, 619 F.3d at 162; see also Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc., 528 U.S. 167, 189, 120 S. Ct. 693, 145 L. Ed. 2d 610 (2000) (quoting United States v. Concentrated Phosphate Export Assn., 393 U.S. 199, 203, 89 S. Ct. 361, 21 L. Ed. 2d 344 (1968) ("[T]he standard we have announced for determining whether a case has been mooted by the defendant's voluntary conduct [*9]  is stringent: 'A case might become moot if subsequent events made it absolutely clear that the allegedly wrongful behavior could not reasonably be expected to recur.'"). Therefore, there is no live controversy and the Court no longer has jurisdiction over this claim for relief.
+Accordingly, it is recommended that defendant's motion on this ground be granted.
+III. Conclusion
+For the reasons stated above, it is hereby
+1. RECOMMENDED that defendant's motion for summary judgment (Dkt. Nos.
+145-1, 145-3) be GRANTED and that plaintiff's complaint be dismissed in its entirety.
+2. ORDERED, that copies of this Report-Recommendation and Order be served on the parties in accordance with the Local Rules.
+Pursuant to 28 U.S.C. § 636(b)(1), the parties may lodge written objections to the foregoing report. Such objections shall be filed with the Clerk of the Court. FAILURE TO OBJECT TO THIS REPORT WITHIN FOURTEEN (14) DAYS WILL PRECLUDE APPELLATE REVIEW. Roldan v. Racette, 984 F.2d 85, 89 (2d Cir. 1993); Small v. Sec'y of HHS, 892 F.2d 15 (2d Cir. 1989); 28 U.S.C. § 636(b)(1); Fed. R. Civ. P. 72, 6(a), 6(e).
+Dated: March 23, 2015
+Albany, New York
+/s/ Christian F. Hummel
+Christian F. Hummel
+U.S. Magistrate Judge
+
+
+End of Document
+

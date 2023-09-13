@@ -1,0 +1,59 @@
+Healy v. DJO, LLC
+United States District Court for the Southern District of California
+February 14, 2012, Decided; February 14, 2012, Filed
+CASE NO. 11cv673 - IEG (JMA)
+
+Reporter
+2012 U.S. Dist. LEXIS 17940 *; 2012 WL 474482
+SARA HEALY, Plaintiff, vs. DJO, LLC, a limited liability corporation; and DOES 1-100, inclusive, Defendants.
+Prior History: Healy v. DJO, LLC, 2011 U.S. Dist. LEXIS 146737 (S.D. Cal., Dec. 21, 2011)
+Counsel:  [*1] For Sara Healy, Carlsbad, CA, Plaintiff: Suzy C. Moore, LEAD ATTORNEY, Law Offices of Suzy Moore, La Mesa, CA; Lindsey M. Stevens, Littler Mendelson, San Diego, CA.
+For DJO, LLC, a limited liability corporation, Defendant: Stacey E James, LEAD ATTORNEY, Jacqueline A. Gruber, Lindsey M. Stevens, Littler Mendelson, San Diego, CA.
+Judges: IRMA E. GONZALEZ, United States District Judge.
+Opinion by: IRMA E. GONZALEZ
+Opinion
+
+
+
+ORDER GRANTING MOTION FOR LEAVE TO FILE AN AMENDED ANSWER AND COUNTERCLAIMS
+[Doc. No. 14]
+Presently before the Court is Defendant DJO, LLC ("Defendant")'s motion for leave to amend its answer and add counterclaims. [Doc. No. 14.] For the reasons below, the Court GRANTS the motion.
+
+BACKGROUND
+Plaintiff Sara Healy ("Plaintiff") worked for Defendant as a paralegal for a period of nine months. [Doc. No. 1, Compl. ¶¶ 10, 26.] Plaintiff suffers from a hearing disability and has to wear hearing aids in both ears. [Id. ¶¶ 9, 15, 32.] Plaintiff alleges that she was forced to resign from her position due to Defendant's failure to accommodate her disability by moving her workspace to a cubicle that was not next to a copy machine despite her many requests to be moved. [Id. ¶¶ 11-27.]
+On April 5, 2011, Plaintiff filed  [*2] a complaint against Defendant alleging five causes of action for: (1) disability discrimination in violation of the American with Disabilities Act ("ADA"), 42 U.S.C. §§ 1981a, 12101 et seq.; (2) failure to provide a reasonable accommodation in violation of California Government Code § 12940(m); (3) failure to engage in the interactive process in violation of California Government Code § 12940(n); (4) constructive wrongful termination in violation of public policy; and (5) slander per se in violation of California Civil Code § 46. [Compl.] On June 10, 2011, Defendant filed an answer to the complaint. [Doc. No. 4.]
+By the present motion, Defendant seeks to file an amended answer adding counterclaims for (1) attempted extortion, (2) breach of contract, and (3) breach of the implied covenant of good faith and fair dealing. [Doc. No. 14-1, Def.'s Mot. at 1.] In its proposed amended answer and counterclaims, Defendant alleges that Plaintiff has breached certain confidentiality agreements which she signed during her employment with Defendant. [Doc. No. 14-4.] Specifically, Defendant alleges (1) Plaintiff, by and through her former attorney Patrick O'Keeffe, threatened to reveal Defendant's  [*3] confidential information to the plaintiffs in approximately 147 pending products liability actions against Defendant, and testify in those cases to the detriment of Defendant, if Defendant did not enter into a settlement in this present case; and (2) Plaintiff and/or her former attorney Mr. O'Keeffe in fact contacted attorney John Gomez, who is co-counsel for the plaintiffs in one pending state court action against Defendant, In re: Cold Therapy Cases, offering to disclose Defendant's confidential information. [Id. ¶¶ 8-15.]
+
+DISCUSSION
+
+I. Legal Standards
+Federal Rule of Civil Procedure 13(e) provides, in pertinent part: "[a] claim which either matured or was acquired by the pleader after serving a pleading may, with the permission of the court, be presented as a counterclaim by supplemental pleading." Fed. R. Civ. P. 13(e). In determining whether a party should be allowed to amend its pleadings pursuant to Rule 13, courts use Federal Rule of Civil Procedure Rule 15's standard for granting leave to amend. See Han v. Futurewei Techs., Inc., 2011 U.S. Dist. LEXIS 125202, at *4 (S.D. Cal. Oct. 28, 2011); Saes Getters S.P.A. v. Aeronex, Inc., 219 F. Supp. 2d 1081, 1085 (S.D. Cal. 2002).
+Under  [*4] Rule 15(a), "[t]he court should freely give leave when justice so requires." Fed. R. Civ. P. 15(a). The Ninth Circuit has instructed that this policy is "'to be applied with extreme liberality.'" Owens v. Kaiser Foundation Health Plan, Inc., 244 F.3d 708, 712 (9th Cir. 2001). In determining whether to grant leave to amend, the court considers "the presence of any of four factors: bad faith, undue delay, prejudice to the opposing party, and/or futility." Owens, 244 F.3d at 712. Because federal policy strongly favors determination of cases on their merits, there is a presumption that leave to amend should be given in the absence of prejudice or a strong showing of one of the other factors. Eminence Capital, LLC v. Aspeon, Inc., 316 F.3d 1048, 1052 (9th Cir. 2003).
+
+II. Analysis
+
+A. Bad Faith
+Plaintiff does not argue that Defendant's motion was brought in bad faith, and there is no evidence that it was brought in bad faith.
+
+B. Undue Delay
+Defendant filed its motion on November 14, 2011, only a couple weeks after it learned of Plaintiff's and/or her former attorney's alleged offer to disclose Defendant's confidential information to Mr. Gomez. [Def.'s Mot. at 2-3.] In addition, the Court set the  [*5] deadline for filing any motion for leave to amend the pleadings by November 14, 2011. [Doc. No 13.] Accordingly, Defendant's motion is timely and there has been no undue delay in bringing the motion.
+
+C. Prejudice
+Defendant brought the present motion within the Court's schedule for filing motions to amend the pleadings. [Doc. No. 13.] Discovery is still in its initial stages, and the pre-trial conference is almost a year away. [Doc. No. 42.] Plaintiff does not argue that she would be prejudiced by Defendant's amendment.
+
+D. Futility
+"Futility of amendment can, by itself, justify the denial of a motion for leave to amend." Bonin v. Calderon, 59 F.3d 815, 845 (9th Cir. 1995). However, denial of leave to amend due to futility is rare. Jeske v. Persolve, LLC, 2011 U.S. Dist. LEXIS 53205, at *7 (S.D. Cal. May 18, 2011). Ordinarily, courts will generally defer consideration of challenges to the merits of a proposed amended pleading until after leave to amend is granted and the amended pleading is filed. Id.; Netbula v. Distinct Corp., 212 F.R.D. 534, 539 (N.D. Cal. 2003).
+In assessing the futility of an amendment, "a court typically applies the same standard of legal sufficiency as applies under  [*6] Federal Rule of Civil Procedure 12(b)(6)." Stonebrae, L.P. v. Toll Bros., Inc., 2010 U.S. Dist. LEXIS 1199, at *3 (N.D. Cal. Jan. 7, 2010). To survive a 12(b)(6) dismissal motion, "a complaint must contain sufficient factual matter, accepted as true, 'to state a claim to relief that is plausible on its face.'" Ashcroft v. Iqbal, 556 U.S. 662, 129 S. Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009) (internal citations omitted); Fed. R. Civ. P. 8(a).
+Plaintiff argues that Defendant's counterclaims would be futile because all of the alleged improper conduct was performed by Plaintiff's counsel, Mr. Keeffe, and Plaintiff was not involved in the alleged misconduct nor did she authorize her attorney's actions. [Doc. No. 43, Pl.'s Opp'n. at 4-8.] In support, Plaintiff has submitted a declaration stating that she did not authorize her attorney's actions and that she has not disclosed any confidential information to anyone except to her counsel in connection with her discrimination lawsuit. [Doc. No. 43-1, Declaration of Sara Healy ("Healy Decl.") ¶¶ 2-7, 9.] However, Plaintiff's argument fails to recognize the standard the Court must use in evaluating Defendant's motion–the standard used in considering a motion to dismiss  [*7] under Rule 12(b)(6). See Stonebrae, 2010 U.S. Dist. LEXIS 1199, at *3. In considering a motion to dismiss, the Court's review is limited to the allegations in the complaint, and the Court may not consider a declaration submitted by the other party. See Fed. R. Civ. P. 12(b)(6); Lee v. City of Los Angeles, 250 F.3d 668, 688 (9th Cir. 2001). Moreover, in considering a motion to dismiss, the Court must accept the factual allegations in the complaint as true. See Cahill v. Liberty Mutual Ins. Co., 80 F.3d 336, 337-38 (9th Cir. 1996). Therefore, Plaintiff has failed to show that amendment would be futile because if Defendant alleges that Plaintiff authorized or was involved in her attorney's actions,1 the Court must accept these allegations as true at this stage and cannot consider Plaintiff's declaration. Accordingly, amendment would not be futile.2
+
+CONCLUSION
+For the reasons above, the Court GRANTS Defendant's motion for leave to file an amended answer and add counterclaims. Defendant may file its amended answer and counterclaims within twenty-one (21) days from the date of this Order.
+IT IS SO ORDERED.
+DATED: February 14, 2012
+/s/ Irma E. Gonzalez
+IRMA E. GONZALEZ
+United States District Judge
+
+
+End of Document
+

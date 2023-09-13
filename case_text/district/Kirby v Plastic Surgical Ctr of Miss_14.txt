@@ -1,0 +1,58 @@
+Kirby v. Plastic Surgical Ctr. of Miss.
+United States District Court for the Southern District of Mississippi, Northern Division
+August 18, 2022, Decided; August 18, 2022, Filed
+CAUSE NO. 3:21-CV-540-CWR-LGI
+
+Reporter
+2022 U.S. Dist. LEXIS 147918 *; 2022 WL 3570340
+ADAM KIRBY, PLAINTIFF v. THE PLASTIC SURGICAL CENTER OF MISSISSIPPI, LLC, DEFENDANT
+Counsel:  [*1] For Adam Kirby, Plaintiff: Warren L. Martin, Jr., LEAD ATTORNEY, Robert Earl Thompson, II, WARREN L. MARTIN, JR., PA, Jackson, MS.
+For The Plastic Surgical Center of Mississippi, LLC, Defendant: S. Craig Panter, PANTER LAW FIRM, PLLC, Madison, MS.
+Judges: Carlton W. Reeves, UNITED STATES DISTRICT JUDGE.
+Opinion by: Carlton W. Reeves
+Opinion
+
+
+
+ORDER
+Before the Court is the defendant's motion for summary judgment. On review, the motion will be granted.
+
+I. Factual and Procedural History
+Adam Kirby worked at the Plastic Surgical Center of Mississippi (PSC) from 2011 to 2020. He was most recently employed as a Purchasing Manager.
+As a result of the COVID-19 pandemic, PSC furloughed many of its employees in spring 2020. In late April 2020, though, the company notified Kirby that his return-to-work date would be Monday, May 4. The email advised, "if there is any reason you believe you will not be here on Monday, you will need to call [the Administrator] before the end of the week." The notifications warned Kirby that failure to communicate and be present may result in termination.
+Around this same time, Kirby was experiencing increasingly severe back pain. On April 29, he scheduled back surgery for May 14. On May 1, his pain became [*2]  extreme, and he asked the doctor if he could move the surgery up. And on May 3, Kirby contacted PSC Administrator Tammy Burnett to say that he would not be coming into work the next day.
+The parties draw different interpretations from this timeline. To PSC, Kirby knew of a health condition and didn't share his impending surgery with PSC until it was too late, much less ask for a reasonable accommodation. To Kirby, however, he was taking a practical wait-and-see approach to his pain and communicated reasonably early enough that he should not have been fired.
+Regardless of its characterization, Kirby was terminated on May 4 for failing to return to work. The termination letter back-dated his effective firing date to May 1, 2020.
+This suit followed. In it, Kirby alleges that PSC violated the Americans with Disabilities Act (ADA), the Family Medical Leave Act (FMLA), and Mississippi law. After discovery, PSC filed the present motion for summary judgment.
+
+II. Legal Standard
+Summary judgment is appropriate when "the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). A party seeking to avoid summary judgment must identify admissible evidence in the record showing a fact dispute.  [*3] Id. at 56(c)(1). "Once a summary judgment motion is made and properly supported, the nonmovant must go beyond the pleadings and designate specific facts in the record showing that there is a genuine issue for trial. Neither 'conclusory allegations' nor 'unsubstantiated assertions' will satisfy the nonmovant's burden." Wallace v. Tex. Tech Univ., 80 F.3d 1042, 1047 (5th Cir. 1996) (quotation marks and citations omitted).
+
+III. Discussion
+The first issue is whether Kirby has evidence to proceed to trial on his ADA claim. The law is well-established:
+The ADA prohibits covered employers from discriminating against a qualified individual on the basis of disability. Discrimination includes not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability . . . unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity. Thus, a plaintiff must prove the following statutory elements to prevail in a failure-to-accommodate claim: (1) the plaintiff is a qualified individual with a disability; (2) the disability and its consequential limitations were known by the covered employer; and (3) the employer failed [*4]  to make reasonable accommodations for such known limitations.
+Amedee v. Shell Chem., L.P., 953 F.3d 831, 837 (5th Cir. 2020) (cleaned up).
+"An employee who needs an accommodation because of a disability has the responsibility of informing her employer." E.E.O.C. v. Chevron Phillips Chem. Co., LP, 570 F.3d 606, 621 (5th Cir. 2009) (citation omitted). "The employee must explain that the adjustment in working conditions or duties she is seeking is for a medical condition-related reason, but the employee does not have to mention the ADA or use the phrase 'reasonable accommodation.' Plain English will suffice." Id.
+On review, Kirby has not met this standard. When confronted during his deposition, he did not affirmatively state that he had ever requested a reasonable accommodation. Instead, he said that he could not recall. But that is not competent summary-judgment evidence showing a genuine issue of material fact.
+Kirby's FMLA claim fails for similar reasons. PSC's policy and federal law require employees seeking unanticipated family or medical leave to request it from the employer "as soon as practicable."
+As soon as practicable means as soon as both possible and practical, taking into account all of the facts and circumstances in the individual case. When an employee becomes aware of a need for FMLA leave less than 30 days in [*5]  advance, it should be practicable for the employee to provide notice of the need for leave either the same day or the next business day.
+29 C.F.R. § 825.302(b). "An employee shall provide at least verbal notice sufficient to make the employer aware that the employee needs FMLA-qualifying leave, and the anticipated timing and duration of the leave. Id. § 825.302(c).
+Kirby did not meet either of these standards. PSC policy and federal law expected him to make his request of unanticipated leave on April 29, the day he scheduled his surgery, or April 30, the next business day. Instead, he waited until May 3 to make first contact, and then did not request FMLA leave. Without requesting FMLA leave, he cannot avail himself of the FMLA's protections.
+What remains are Kirby's state law claims. But in this Circuit, the "general rule" holds that "courts should decline supplemental jurisdiction [over state law claims] when all federal claims are dismissed or otherwise eliminated from a case." Certain Underwriters at Lloyd's, London v. Warrantech Corp., 461 F.3d 568, 578 (5th Cir. 2006). That rule applies here, where the federal claims are being dismissed before trial. See id.
+
+IV. Conclusion
+The motion for summary judgment is granted. A separate Final Judgment shall issue.
+SO ORDERED, this the 18th day of August, 2022.
+/s/ Carlton [*6]  W. Reeves
+UNITED STATES DISTRICT JUDGE
+
+FINAL JUDGMENT
+For the reasons stated in the Order issued this day by this Court, see Docket No. 36, judgment on the plaintiff's federal claims should be entered in favor of the defendant and this case should be closed. Accordingly,
+IT IS HEREBY ORDERED AND ADJUDGED that the plaintiff's federal claims are dismissed with prejudice, and that his state-law claims are dismissed without prejudice to their timely refiling in a court of competent jurisdiction.
+SO ORDERED, this the 18th day of August, 2022.
+/s/ Carlton W. Reeves
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

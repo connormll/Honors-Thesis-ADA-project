@@ -1,0 +1,38 @@
+Walker v. Menards, Inc.
+United States District Court for the Eastern District of Michigan, Southern Division
+August 27, 2019, Decided; August 27, 2019, Filed
+Case No. 18-10298
+
+Reporter
+2019 U.S. Dist. LEXIS 145257 *; 2019 WL 4040078
+ROBERT WALKER, Plaintiff, v. MENARDS, INC., and JEREMY STOKES, Defendants.
+Prior History: Walker v. Menards, Inc., 2019 U.S. Dist. LEXIS 31700 ( E.D. Mich., Feb. 28, 2019)
+Counsel:  [*1] Robert Walker, Plaintiff, Pro se, Warren, MI.
+For Menards Inc., Jeremy Stokes, Defendants: Gary Kenneth Roehm, Menard, Inc., Eu Claire, WI.
+Judges: Honorable LAURIE J. MICHELSON, UNITED STATES DISTRICT JUDGE. Magistrate Judge R. Steven Whalen.
+Opinion by: LAURIE J. MICHELSON
+Opinion
+
+
+
+ORDER OVERRULING PLAINTIFF'S OBJECTIONS AND DISMISSING AS MOOT PLAINTIFF'S MOTION FOR REHEARING [38]
+Robert Walker worked at a Michigan Menards. Walker was fired. Walker believed racial prejudice motivated his termination. So Walker sued his supervisor, Jeremy Stokes, and Menards, Inc. Walker's complaint raised a single Title VII claim. His case was referred to the Magistrate Judge for all pretrial matters.
+In time, Stokes and Menards moved to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(1) and the Federal Arbitration Act, 9 U.S.C. § 1, et seq. (ECF No. 23.) In a thoughtful and well-reasoned opinion, Executive Magistrate Judge R. Steven Whalen issued a report recommending the Court grant Defendants' motion, dismiss Walker's complaint, and issue an order compelling arbitration. (ECF No. 31, PageID.143.) Walker asked for more time to file objections to the report (ECF No.33), extra time was granted, but Walker did not docket his objections within the extra time allowed. So the Court entered [*2]  an order adopting the report and dismissing Walker's complaint and issued an order compelling arbitration. (ECF No. 35.)
+Days after the Court entered judgment, Walker's objections appeared on the docket. To be sure, Walker's objections were late, and he was given notice that failure to timely object would amount to a waiver. (ECF No. 31, PageID. 143-145.) However, the date on Walker's objections indicates they may have been timely had Walker been able to electronically file them. That, combined with the fact that Walker is pro se and his objections do not change the result, prompt the Court to consider Walker's late objections.
+"A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate judge." 28 U.S.C. § 636(b).
+Walker mounts two objections. And they require some context. While working for Menards, Walker signed two Employer/Employee agreements. (See ECF No. 23-2.) The first was in October 2015 and the second in July 2016. (Id.) Both contained the same arbitration clause. [*3]  (Id.) So Walker says the Employer/Employee agreements violate the Constitution and Menards' handling of the agreements, in Walker's case, violates the Americans With Disabilities Act.
+Start with Walker's ADA objection. Walker says Menards and Stokes each knew about his learning disability. And each knew Walker's learning disability impacted his reading comprehension skills. So Walker never comprehended the Employee/Employer agreements because neither Menards nor Stokes provided a reasonable accommodation when Walker signed the agreements. And as a result, Walker never understood the contract which contained the arbitration clause.
+At bottom, Walker's objection amounts to a new cause of action. And neither law nor procedure allow litigants to make one case before the magistrate judge only to turn around and mount a different case before the district judge. See 28 U.S.C. § 636(b)(1)(C) (requiring litigants to direct objections to specific portions of the report and recommendation); Fed. R. Civ. P. 72(b) (providing an opportunity for litigants to make "specific objections" to "proposed findings and recommendations"). So Walker's objection is overruled on that basis alone.
+Moreover, even on its merits, Walker's ADA argument does not [*4]  alter the result. To be sure, where the parties spar over whether a contract requires the parties to litigate in federal court or go before an arbitrator, a dispute over contract formation is an issue the federal court can referee. See Local 1982, Int'l Longshoremen's Ass'n v. Midwest Terminals of Toledo, Int'l, Inc., 560 F. App'x 529, 538-39 (6th Cir. 2014). And it appears Walker argues he lacked the reading comprehension skills to understand the Employer/Employee agreement. So he never entered into a contract with Menards. However, the report and recommendation thoroughly, and correctly, analyzed Walker's reading comprehension skills. (See ECF No. 31, PageID.137-139.) And the Court adopts that reasoning. So to the extent Walker's objections challenge contract formation, they are overruled.
+The same goes for Walker's second objection. Walker says Menards' Employee/Employer agreements violate state and federal law for a number of reasons. (ECF No. 37, PageID.169-172.) Because the agreements violate state and federal law, Walker says the Court should void the agreements containing the arbitration clause and allow his case to proceed in federal court.
+Although Walker's argument is involved, the Court need not linger on it. As Magistrate Judge Whalen noted, any concern about the "validity" of the contract containing [*5]  the arbitration clause is an issue to be first addressed by an arbitrator. Local 1982, Int'l Longshoremen's Ass'n, 560 F. App'x at 538 & n.4 (citing Nitro-Lift Techs., L.L.C. v. Howard, 568 U.S. 17, 20-21, 133 S. Ct. 500, 184 L. Ed. 2d 328 (2012)) (distinguishing the issue of a contract's validity from the issue of whether the parties ever formed a contract in the first place). So to the extent Walker takes issue with the validity of the agreements but fails to identity any error in the Magistrate Judge's ruling, Walker's objections are overruled.
+For all the reasons above, Walker's objections do not offer any reason to upset the Court's earlier decision to adopt the magistrate judge's report and recommendation. So Walker's objections are overruled and Walker's motion for rehearing (ECF No. 38) is denied as moot.
+SO ORDERED.
+/s/ Laurie J. Michelson
+LAURIE J. MICHELSON
+UNITED STATES DISTRICT JUDGE
+Date: August 27, 2019
+
+
+End of Document
+

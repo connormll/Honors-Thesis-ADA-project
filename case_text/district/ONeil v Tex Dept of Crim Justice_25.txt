@@ -1,0 +1,85 @@
+O'Neil v. Tex. Dep't of Crim. Justice
+United States District Court for the Northern District of Texas, Amarillo Division
+April 7, 2011, Decided; April 7, 2011, Filed
+NO. 2:10-CV-3-J
+
+Reporter
+804 F. Supp. 2d 532 *; 2011 U.S. Dist. LEXIS 37885 **
+GAIL O'NEIL, as next friend to the minor C.P., Plaintiff, v. TEXAS DEPARTMENT OF CRIMINAL JUSTICE, et al., Defendants.
+Prior History: O'Neil v. Tex. Dep't of Crim. Justice, 2010 U.S. Dist. LEXIS 161237 (N.D. Tex., Aug. 20, 2010)
+Counsel:  [**1] For Gail O'Neil, as next friend to the minor C.P., Plaintiff: Wayne Krause, LEAD ATTORNEY, Abigail Hill Frank, James C Harrington, Texas Civil Rights Project, Austin, TX; Brian Rolland McGiverin, PRO HAC VICE, Texas Civil Rights Project, Austin, TX; Jeff Blackburn, Law Office of Jeff Blackburn, Amarillo, TX.
+For Texas Department of Criminal Justice, Officer John Heuerman, Jr, Defendants: Bruce R Garcia, LEAD ATTORNEY, Office of the Texas Attorney General, Austin, TX; Christopher Lee Lindsey, Office of the Texas Attorney General - Law Enforcement, Austin, TX; Kim Coogan, Office of Attorney General, Criminal Law Enforcement Division, Austin, TX.
+For TTUHSC, Defendant: Kim Coogan, LEAD ATTORNEY, Office of Attorney General, Criminal Law Enforcement Division, Austin, TX.
+Judges: MARY LOU ROBINSON, UNITED STATES DISTRICT JUDGE.
+Opinion by: MARY LOU ROBINSON
+Opinion
+
+
+
+ [*535]  MEMORANDUM OPINION AND ORDER
+Before the Court are Defendants Dr. Dhirajlal Patel and Texas Tech Health Science Center's Motion for Summary Judgment and Defendants' John Heuerman, Jr. and the Texas Department of Criminal Justice's Motion for Summary Judgment.
+This action arises from the death of Shermaine Peterson, an asthmatic inmate in the Texas Department of  [**2] Criminal Justice's Jordan Unit at the time of his death in 2008. Plaintiff O'Neil brings this suit as next friend to Peterson's minor daughter.
+O'Neil brings causes of action against Patel and Heuerman under § 1983 based on alleged violations of the Eighth Amendment.
+O'Neil brings causes of action against the Texas Department of Criminal Justice (TDCJ) and Texas Tech Health Science Center (TTHSC) under the Americans with Disabilities Act (ADA) and the Rehabilitation Act (RA).
+
+STANDARD
+This Court may grant summary judgment on a claim if the record shows that there is no genuine dispute of any material fact and that the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(c). A party who moves for summary judgment has the burden of identifying the parts of the pleadings and discovery on file that, together with any affidavits, show the absence of a genuine issue of material fact. See Celotex Corp. v. Catrett, 477 U.S. 317, 324, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). If the movant  [*536]  carries this burden, then the burden shifts to the nonmovant to show that the Court should not grant summary judgment. Id. at 324-325. The nonmovant must set forth specific facts that show a genuine issue for trial. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986).  [**3] The nonmovant cannot rely on conclusory allegations, improbable inferences, and unsupported speculation. Krim v. BancTexas Group, Inc., 989 F.2d 1435, 1449 (5th Cir. 1993). The Court must review the facts and draw all inferences most favorable to the nonmovant. Reid v. State Farm Mut. Auto. Ins. Co., 784 F.2d 577, 578 (5th Cir. 1986).
+
+DISCUSSION
+
+I. Dr. Dhirajlal Patel and John Heuerman, Jr.
+A prison official's deliberate indifference to the serious medical needs of an inmate violates the Eighth Amendment. Estelle v. Gamble, 429 U.S. 97, 97 S. Ct. 285, 50 L. Ed. 2d 251 (1976). This is true, among other things, when the indifference is manifested by a prison doctor in response to a prisoner's medical needs. Id. at 104. The plaintiff must show objectively that the prisoner was exposed to a substantial risk of serious harm and that the official acted or failed to act with deliberate indifference to that harm. Lawson v. Dallas County, 286 F.3d 257, 262 (5th Cir. 2002). The plaintiff must prove that the official was actually aware of the risk and consciously disregarded it. Id. Negligent medical care does not violate the Eighth Amendment. Mendoza v. Lynaugh, 989 F.2d 191 (5th Cir. 1993).
+Deliberate indifference is interpreted  [**4] by a strict standard; the plaintiff must show that the prison official refused to treat him, ignored his complaint, intentionally treated him incorrectly, or otherwise showed a wanton disregard for his serious medical needs. Domino v. Tex. Dept. of Crim. Justice, 239 F.3d 752, 756 (5th Cir. 2001) (citation omitted).
+Dr. Patel argues that there is no evidence indicating a deliberate indifference to Peterson's asthma.
+Dr. Patel is employed by TTHSC. He examined Peterson on September 11, 2007. O'Neil submits evidence that Patel did not review Peterson's medical history at that examination. O'Neil submits evidence that Patel did not schedule a follow-up appointment with Peterson.
+O'Neil has submitted evidence which indicates Patel was negligent in not reviewing Peterson's medical history or scheduling a follow-up appointment. However, she has not pointed to evidence which shows Patel did so in an effort to intentionally treat him incorrectly or otherwise showed a wanton disregard for his condition.
+Additionally, O'Neil submits evidence that Peterson did not have medication at the time of his death. O'Neil does not submit evidence, however, that Patel intentionally failed to provide Peterson  [**5] with medication. In fact, O'Neil asserts that "while [Patel] made out a prescription, it was not one sufficient to treat Mr. Peterson's life-threatening condition." Pl.'s Br. at 13.
+The decision to provide additional treatment is a matter of medical judgment. Domino v. Tex. Dept. of Crim. Justice, 239 F.3d 752, 756 (5th Cir. 2001) (citation omitted). An incorrect diagnosis does not amount to deliberate indifference. Id.
+O'Neil's evidence against Patel supports only a finding of negligence. Negligence does not constitute an Eighth Amendment violation.
+O'Neil has not submitted sufficient evidence to support a finding that Patel acted with deliberate indifference by inflicting  [*537]  "'unnecessary and wanton' infliction of pain" on Peterson. Johnson v. Treen, 759 F.2d 1236, 1238 (5th Cir. 1985) (citing Estelle v. Gamble, 429 U.S. 97, 97 S. Ct. 285, 50 L. Ed. 2d 251 (1976)). See also, Estelle, 429 U.S. at 106 ("Medical malpractice does not become a constitutional violation merely because the victim is a prisoner. In order to state a cognizable claim, a prisoner must allege acts or omissions sufficiently harmful to evidence deliberate indifference to serious medical needs.").
+Summary judgment is therefore granted as to Defendant  [**6] Patel.
+Defendant Heuerman was a picket officer working in the Jordan Unit on the date of Peterson's death. Heuerman argues that O'Neil's version of events is wholly unsupported by the record. Additionally, Heuerman argues that he is entitled to qualified immunity because he acted as a competent correctional officer would have acted.
+O'Neil alleges that Heuerman did not respond to the inmate emergency call button when Peterson's cellmate Frederick Parker attempted to obtain help for Peterson during Peterson's asthma attack.
+O'Neil submits a sworn declaration made by Parker asserting that Heuerman did not answer the emergency call button or respond to verbal calls for help. O'Neil also submits sworn declarations from Arthur Hines, Dewon Adams, and Guadelupe Roque, other prisoners in the Jordan Unit, asserting that Heuerman did not answer the emergency call button and walked past Parker as he was verbally calling for help from inside the cell.
+O'Neil has produced sufficient evidence to create a genuine issue of material fact; namely, whether or not Heuerman knew of a substantial risk of serious harm to Peterson and failed to act.
+A defense of qualified immunity "alters the usual summary judgment  [**7] burden of proof. . . Once an official pleads the defense, the burden then shifts to the plaintiff, who must rebut the defense by establishing a genuine fact issue as to whether the official's allegedly wrongful conduct violated clearly established law." Bishop v. Karney, 408 Fed. Appx. 846, 2011 U.S. App. LEXIS 1001, 2001 WL 165448 (5th Cir. 2011). The determination involves two questions: whether the officer's alleged conduct violated a constitutional right, and whether that right was clearly established at the time of the conduct. Lytle v. Bexar County Tex., 560 F.3d 404, 409-410 (5th Cir.). The second question involves determining whether it would be clear to a reasonable officer in the same situation that his conduct violated the law. Id.
+O'Neil has alleged, among other things, that Heuerman failed to respond to an inmate's calls for medical assistance. Deliberate indifference to an inmate's serious medical needs violates a clearly established right under the Eighth Amendment. Estelle v. Gamble, 429 U.S. 97, 97 S. Ct. 285, 50 L. Ed. 2d 251 (1976) ("deliberate indifference to serious medical needs of prisoners constitutes the 'unnecessary and wanton infliction of pain'"); Clemons v. King, 398 Fed.Appx. 41, 43 (5th Cir. 2010).
+O'Neil's allegations against Heuerman  [**8] are sufficient to allege that Heuerman actually violated Peterson's constitutional rights and that his conduct was objectively unreasonable. See McCoy v. Tex. Dept. of Criminal Justice, 2006 U.S. Dist. LEXIS 31649, 2006 WL 1407013 at *4 (S.D.Tex. 2006) ("a reasonable prison official would know that . . . refusing to treat a prisoner who is suffering and exhibiting symptoms of a serious medical condition violates the Eighth Amendment"). Thus, Heuerman is not entitled to qualified immunity.
+Summary judgment is therefore denied as to Defendant Heuerman.
+
+ [*538]  III. TTHSC and the TDCJ
+The ADA provides that "no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any such entity." 42 U.S.C. § 12132.
+To establish a cause of action, the plaintiff must show that he is qualified individual with a disability under the ADA, that he was excluded from participation in, or denied the benefits of, an available service, program, or activity, and that such exclusion or denial was by reason of his disability. Pena v. Bexar County, Tex., 726 F.Supp.2d 675, 683 (W.D.Tex. 2010).
+The  [**9] Rehabilitation Act states:
+No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance . . .
+29 U.S.C. § 794.
+The discrimination prohibited by both statutes includes the failure to make reasonable accommodations for a disability. McCoy v. Tex. Dept. of Crim. Justice, 2006 U.S. Dist. LEXIS 55403, 2006 WL 2331055 (S.D.Tex. 2006); 42 U.S.C. § 12112(b)(5)(A).
+The causation requirements for the ADA and the RA differ in that the ADA proscribes discrimination by reason of disability, whereas the RA premises liability only on discrimination that was solely by reason of a person's disability. See Soledad v. U.S. Dept. of Treasury, 304 F.3d 500 (5th Cir. 2002); Bennett-Nelson, 431 F.3d 448 (5th Cir. 2005).
+Other than the causation requirements, however, the "rights and remedies afforded plaintiffs under Title II of the ADA are almost entirely duplicative of those provided under § 504 of the Rehabilitation Act." Bennett-Nelson, 431 F.3d at 454 (footnote  [**10] omitted).
+There is no dispute that Peterson was disabled under the terms of the ADA or the RA.
+Defendants were not required to "guess" Peterson's need for reasonable accommodations. See, e.g., McCoy v. Tex. Dept. of Crim. Justice, 2006 U.S. Dist. LEXIS 55403, 2006 WL 2331055 (S.D.Tex. 2006). However, Peterson need not have expressly requested a certain accommodation where Defendants had actual knowledge of his disability and limitations but took no action. Id. See also, Taylor v. Principal Financial Group, Inc., 93 F.3d 155 (5th Cir. 1996).
+TTHSC argues that there is no evidence of any intentional discrimination by any TTHSC employee related to Peterson's death.
+O'Neil submits evidence that Dr. Patel, a TTHSC employee, did not put Peterson on job restriction from temperature extremes or humidity extremes. O'Neil submits evidence that Peterson did not have access to his medication as evidenced by the Inventory of his cell on the day he died. O'Neil submits evidence that TTHSC did not provide Peterson with periodic physician follow-up appointments. O'Neil submits evidence that when Peterson complained about his medication, he was seen only by a TTHSC nurse and not a doctor.
+O'Neil has submitted sufficient evidence to  [**11] create a genuine issue of material fact as to whether TTHSC failed to accommodate Peterson's disability under the ADA and the RA.
+ [*539]  Summary judgment is therefore denied as to Defendant TTHSC.
+TDCJ argues that all of its duties to Peterson were satisfied and that it was not required to provide accommodations that were never requested.
+O'Neil alleges that Peterson's need for accommodation was obvious. O'Neil submits evidence that Parker made several calls for help on Peterson's behalf on the day of Peterson's death and that Peterson was not accommodated with prompt medical attention. O'Neil also submits evidence that Peterson himself made frequent complaints to medical staff.
+O'Neil has thus shown a genuine issue of material fact regarding whether TDCJ failed to accommodate Peterson's disability under the ADA and the RA.
+TDCJ further argues that O'Neil's claims must be dismissed because Congress has not validly abrogated Texas' sovereign immunity under Title II of the ADA.
+Public entities that receive federal funds expressly waive Eleventh Amendment immunity for claims under § 504 of the Rehabilitation Act. 42 U.S.C. § 2000d-7(a)(1); Pace v. Bogalusa City School Bd., 403 F.3d 272 (5th Cir. 2005)  [**12] (en banc); Bennett-Nelson, 431 F.3d 448 (5th Cir. 2005); Durrenberger v. Tex. Dept. of Crim. Justice, 757 F. Supp. 2d 640, 2010 U.S. Dist. LEXIS 127417, 2010 WL 5014338 (S.D.Tex. 2010).
+TDCJ receives federal funding. Pl.'s App. at 130-131 ("TDCJ's Responses to Plaintiff's First Request for Admissions"). TDCJ has thus waived immunity for claims under § 504 of the RA.
+The "rights and remedies afforded plaintiffs under Title II of the ADA are almost entirely duplicative of those provided under § 504 of the Rehabilitation Act." Bennett-Nelson, 431 F.3d 448, 454 (5th Cir. 2005) (footnote omitted).
+Because TDCJ has waived its sovereign immunity under the Rehabilitation Act, it is likewise not immune from a similar claim under the ADA. Bennett-Nelson, 431 F.3d 448, 455 (5th Cir. 2005). Therefore, the question of immunity under the ADA is moot. See McCoy v. Tex. Dept. of Crim. Justice, 2006 U.S. Dist. LEXIS 55403, 2006 WL 2331055 at *5 (S.D.Tex. 2006).
+Summary judgment is therefore denied as to the Texas Department of Criminal Justice.
+
+V. Conclusion
+Summary judgment is hereby GRANTED as to Defendant Patel. Summary judgment is DENIED as to Defendants Heuerman, TDCJ, and TTHSC.
+IT IS SO ORDERED.
+Signed this 7th day of April, 2011.
+/s/ Mary Lou Robinson
+MARY LOU ROBINSON [**13] 
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

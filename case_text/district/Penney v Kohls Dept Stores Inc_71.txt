@@ -1,0 +1,46 @@
+Penney v. Kohl's Dep't Stores, Inc.
+United States District Court for the Central District of California
+September 23, 2014, Decided; September 23, 2014, Filed
+Case No. SACV 14-01100-CJC(DFMx)
+
+Reporter
+2014 U.S. Dist. LEXIS 197425 *
+LEE PENNEY v. KOHL'S DEP'T STORES, INC., ET AL.
+Counsel:  [*1] ATTORNEYS FOR PLAINTIFF: Not Present.
+ATTORNEYS FOR DEFENDANT: Not Present.
+Judges: HONORABLE CORMAC J. CARNEY, UNITED STATES DISTRICT JUDGE.
+Opinion by: CORMAC J. CARNEY
+Opinion
+
+
+
+CIVIL MINUTES — GENERAL
+
+PROCEEDINGS: (IN CHAMBERS) ORDER DENYING DEFENDANTS' MOTION TO DISMISS [filed 8/27/14]
+Having read and considered the papers presented by the parties, the Court finds this matter appropriate for disposition without a hearing. See Fed. R. Civ. P. 78; Local Rule 7-15. Accordingly, the hearing set for October 6, 2014 at 1:30 p.m. is hereby vacated and off calendar.
+
+INTRODUCTION AND BACKGROUND
+Plaintiff Lee Penney brought this action against Kohl's Department Stores, Inc. and Kohl's Corporation (together, "Defendants") for alleged violations of Title III of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12181 et seq., and the Unruh Civil Rights Act ("Unruh Act"), Cal. Civ. Code § 51 et seq., in connection with the Kohls.com website. (Dkt. No. 1 Exh. A ["Compl."].) Specifically, Mr. Penney alleges that Kohls.com contains a number of accessibility barriers that deny him and other visually-impaired individuals equal access to the goods and services offered by Kohl's stores. (Compl. ¶ 8.)
+Before the Court is Defendants' motion for judgment on the pleadings. (Dkt. No. 8 ["Defs.' Mot."].) In addition to [*2]  seeking dismissal for failure to state a claim under the ADA and Unruh Act, Defendants move to dismiss for lack of Article III standing. Defendants' motion is DENIED.
+
+DISCUSSION
+A court may grant a motion for judgment on the pleadings pursuant to Federal Rule of Civil Procedure 12(c), which provides that "after the pleadings are closed—but early enough not to delay trial—a party may move for judgment on the pleadings." A motion for judgment on the pleadings is substantially identical to a motion to dismiss for failure to state a claim under Federal Rule of Civil Procedure 12(b)(6) because both permit challenges to the legal sufficiency of the opposing party's pleadings. Qwest Commc'ns Corp. v. City of Berkeley, 208 F.R.D. 288, 291 (N.D. Cal. 2002). The main difference between the two motions is timing: a 12(b)(6) motion is brought before filing an answer, whereas a motion for judgment on the pleadings is brought after the pleadings are closed. Schwarzer, et al., Rutter Group Practice Guide: Federal Civil Procedure Before Trial, § 9:199, at 9-50 (2007). Judgment on the pleadings is appropriate when, accepting as true all material allegations contained in the nonmoving party's pleadings, the moving party is entitled to judgment as a matter of law. Torbet v. United Airlines, Inc., 298 F.3d 1087, 1089 (9th Cir. 2002).
+
+A. Standing
+Article III standing requires a showing (1) that the plaintiff sustained an injury in [*3]  fact; (2) that the injury is traceable to the defendant's actions; and (3) that the injury likely can be redressed by a favorable judicial decision. Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61, 112 S. Ct. 2130, 119 L. Ed. 2d 351 (1992). Here, the second and third elements are not at issue; the only question is whether Mr. Penney has shown an injury in fact. See Pickern v. Holiday Quality Foods Inc., 293 F.3d 1133, 1137 (9th Cir. 2002). To demonstrate an injury in fact, a plaintiff must suffer "an invasion of a legally protected interest which is (a) concrete and particularized and (b) actual or imminent, not conjectural or hypothetical." Lujan, 504 U.S. at 560 (internal quotation marks and citations omitted).
+The Complaint alleges that Mr. Penney "suffers from visual impairment . . . and has been denied the full use and enjoyment of the facilities, goods, and services of Kohls.com, as a result of accessibility barriers," including, inter alia, the lack of Alternative Text, contrast errors, and empty links which prevent individuals using assistive technology the ability to access the intended links. (Compl. ¶¶ 3, 13.) Taken as true, Mr. Penney has alleged facts that he sustained a legally cognizable injury sufficient to establish Article III standing.
+
+B. Relief under the ADA
+The ADA provides that "[n]o individual shall be discriminated against on the basis of [*4]  disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation . . . ." 42 U.S.C. § 12182(a). The Ninth Circuit has held that, although a place of public accommodation must be an actual, physical place, services with "some connection . . . [to] an actual physical place" fall within the ambit of the ADA's protection. Weyer v. Twentieth Century Fox Film Corp., 198 F.3d 1104, 1114 (9th Cir. 2000).
+The parties dispute whether the ADA covers the Kohls.com website. The Complaint sufficiently alleges that the physical Kohl's stores are places of public accommodation and that Kohls.com is a heavily integrated "service, privilege, or advantage" of the brick-and-mortar Kohl's stores. (Compl. ¶ 18.) The purported barriers contained by Kohls.com denies equal access to Kohl's stores, in that the visually-impaired cannot "look for Kohl's locations" or "independently investigate products and services and make purchases via the Internet as sighted individuals can and do." (Compl. ¶¶ 13-14.) Thus, the Complaint states plausible facts that establish the requisite nexus between the challenged service and the place of public accommodation.
+
+C. Relief under the Unruh Act
+The Unruh Act guarantees equal access [*5]  "to the full and equal accommodations, advantages, facilities, privileges, or services in all business establishments of every kind whatsoever." Cal. Civ. Code § 51(a). The Unruh Act additionally provides that, "[a] violation of the right of any individual under the federal Americans with Disabilities Act . . . shall also constitute a violation of this section." Id. § 51(f). While a claim for relief that is not predicated on a coextensive violation of the ADA requires a showing of intentional discrimination, no such showing is required for claims under California Civil Code § 51(f). Munson v. Del Taco, Inc., 46 Cal. 4th 661, 664-65, 94 Cal. Rptr. 3d 685, 208 P.3d 623 (2009).
+As described above, the Complaint sufficiently alleges facts that, taken as true, constitute a violation of the ADA. (See Compl. ¶ 28.) Because the Complaint alleges a theory for relief under the Unruh Act via the ADA, Defendants' motion to dismiss fails.
+
+CONCLUSION
+For the foregoing reasons, Defendants' motion to dismiss the Complaint is DENIED.
+
+
+End of Document
+

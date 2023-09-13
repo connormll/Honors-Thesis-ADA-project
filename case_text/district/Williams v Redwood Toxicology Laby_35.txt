@@ -1,0 +1,110 @@
+Williams v. Redwood Toxicology Lab’y
+United States District Court for the Northern District of California
+January 21, 2023, Decided; January 21, 2023, Filed
+Case No. 21-cv-04501-HSG
+
+Reporter
+2023 U.S. Dist. LEXIS 10640 *; 2023 WL 350548
+EVERLINE WILLIAMS, Plaintiff, v. REDWOOD TOXICOLOGY LABORATORY, Defendant.
+Subsequent History: Appeal filed, 02/23/2023
+Prior History: Williams v. Redwood Toxicology Lab., 2022 U.S. Dist. LEXIS 24225, 2022 WL 410937 (N.D. Cal., Feb. 10, 2022)
+Counsel:  [*1] For Everline Williams, Plaintiff: Tiega Noel Varlack, LEAD ATTORNEY, Varlack Legal Services, Hayward, CA.
+For Redwood Toxicology Laboratory, doing business as, Abbott Laboratories, Defendant: Eric Michael Lloyd, Seyfarth Shaw LLP, San Francisco, CA; Kara Danelle Keister, Seyfarth Shaw LLP, Sacramento, CA.
+Judges: HAYWOOD S. GILLIAM, JR., United States District Judge.
+Opinion by: HAYWOOD S. GILLIAM, JR.
+Opinion
+
+
+
+ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT
+Re: Dkt. No. 91
+Pending before the Court is Defendant's motion for summary judgment. Dkt. No. 91 ("Mot."). The motion is fully briefed and the Court held a hearing on the motion on November 10, 2022. See Dkt. Nos. 91, 101, 107, 115, 116, 119, 120. For the reasons set forth below, the Court GRANTS the motion.
+
+I. PROCEDURAL HISTORY
+Defendant filed the motion on September 22, 2022. Dkt. No. 91. Plaintiff's opposition was due on October 6, 2022, but Plaintiff failed to file an opposition by that date. On October 13, 2022, Defendant filed a reply, asking the Court to grant the motion due to Plaintiff's failure to oppose. Dkt. No. 101. On October 18, 2022, the Court ordered Plaintiff to show cause why Defendant's motion should not be granted for failure to respond. [*2]  Dkt. No. 105. The order required Plaintiff to file either an opposition or a short statement responding to the order by November 1, 2022. Id. On October 19, 2022, Plaintiff filed an opposition that did not engage with the merits of the motion. Dkt. No. 106. At a case management conference on October 25, 2022, the Court advised Plaintiff that she had until November 1, 2022 to file a substantive opposition to the motion. See Dkt. No. 114. Plaintiff filed an opposition to the motion on November 1, 2022 which included a number of assertions without any specific citations to the record. See Dkt. No. 116 ("Oppo.").1 Defendant then filed a reply on November 8, 2022. Dkt. No. 119. The Court held a hearing on the motion on November 10, 2022. Dkt. No. 120.
+
+II. LEGAL STANDARD
+Summary judgment is proper when a "movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). "A party opposing a properly supported motion for summary judgment may not rest upon the mere allegations or denials of [her] pleading, but . . . must set forth specific facts showing that there is a genuine issue for trial." Willems v. City of N. Las Vegas, 267 F. App'x 619, 620 (9th Cir. 2008) (quotation omitted).2 A fact [*3]  is "material" if it "might affect the outcome of the suit under the governing law." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). And a dispute is "genuine" if there is evidence in the record sufficient for a reasonable trier of fact to decide in favor of the nonmoving party. Id. In deciding if a dispute is genuine, the court must view the inferences reasonably drawn from the materials in the record in the light most favorable to the nonmoving party, Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587-88, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986), and "may not weigh the evidence or make credibility determinations," Freeman v. Arpaio, 125 F.3d 732, 735 (9th Cir. 1997), overruled on other grounds by Shakur v. Schriro, 514 F.3d 878, 884-85 (9th Cir. 2008).
+Once the moving party has identified the "parts of the record that indicate the absence of a genuine issue of material fact . . . the nonmoving party must designate specific facts showing that there is a genuine issue for trial." Brinson v. Linda Rose Joint Venture, 53 F.3d 1044, 1049 (9th Cir. 1995) (quotations omitted). In so doing, the nonmoving party "must do more than simply show that there is some metaphysical doubt as to the material facts." Id. The non-moving party must support its assertions with cites "to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations [], admissions, interrogatory answers, or other materials...." Fed. R. Civ. P. 56(c)(1)(A); see also Civil L.R. 7-5 ("Factual [*4]  contentions made in support of or in opposition to any motion must be supported by an affidavit or declaration and by appropriate references to the record....evidentiary matters must be appropriately authenticated by an affidavit or declaration.").
+In ruling on a summary judgment motion, the Court "need only consider the cited materials." Fed. R. Civ. P. 56(c)(3). A "district court need not examine the entire file for evidence establishing a genuine issue of fact, where the evidence is not set forth in the opposing papers with adequate references so that it could conveniently be found." Carmen v. San Francisco Unified Sch. Dist., 237 F.3d 1026, 1031 (9th Cir. 2001). In other words, "whatever establishes a genuine issue of fact must both be in the district court file and set forth in the response." Id. at 1029 (emphasis in original); see also Keenan v. Allan, 91 F.3d 1275, 1279 (9th Cir. 1996) ("[I]t is not our task, or that of the district court, to scour the record in search of a genuine issue of triable fact." (quotation omitted)).
+
+III. DISCUSSION
+The record reflects the following core facts, which Plaintiff does not refute with any evidence. See Fed. R. Civ. P. 56(e) (stating that "[i]f a party fails to properly support an assertion of fact or fails to properly address another party's assertion of fact as required by Rule 56(c), the court may . . . consider the fact undisputed [*5]  for purposes of the motion").3
+• Plaintiff was hired as a Clinical Laboratory Scientist by Defendant, Redwood Toxicology Laboratory, with a start date of January 8, 2018. See Dkt. No. 91-7, Keister Decl., Ex. A ("Williams Depo."), Ex. 2.
+• Plaintiff alleges that a co-worker made one sexual remark to her during her term of employment. Williams Depo. 79:18-25, 80:8-18.
+• Plaintiff resigned in May 2018, alleging that she was being bullied by her co-workers. See Williams Depo. Ex. 10 (an email thread between Ms. Willaims and her supervisor titled "Bullied." What appears to be a handwritten note covers part of the thread. The note states "discussed on Fri 5/25 upon her return" and "retracted resignation."). After discussing her concerns with her supervisor, Plaintiff retracted her resignation. Id.
+• In July 2018, Plaintiff notified her supervisor that she was "having back pains," that her shoulder hurt, and that she had "sprained [her] ankle in the lab." Williams Depo, Ex. 12. Plaintiff's physician restricted her activity, Williams Depo. Ex. 6, and Redwood accommodated these restrictions. Macharia Decl. ¶ 5; see also Williams Depo. 56:2-5.
+• Redwood denied Plaintiff's request for an additional [*6]  30 days of leave, which had not been requested by her physician. Williams Depo. Ex. 9, Ex. 15 (email messages between Ms. Williams and a supervisor in which 1) Ms. Williams requests the 30 days of leave and implies that she does not have a note from a doctor because the "workmen comp doctor is limited in what she can do," and 2) her supervisor responds that "[u]nless the doctor is taking you off work a leave of absence is not available"); see also Williams Depo. 56:2-5. Ms. Williams also alleges that she requested a printer at her desk but Redwood does not have a record of this request. See Williams Depo. 56:6-15; Macharia Decl. ¶ 5.
+• Plaintiff alleges that two coworkers called her "old" several times. Williams Depo. 121:11-25; 123:21-124:1.
+• During her term of employment, Plaintiff was issued both verbal and written warnings citing several instances of inappropriate conduct or performance issues. See Williams Depo. Ex. 9, Ex. 15; Macharia Decl. ¶¶ 6-7, Exs. A, B.
+• Plaintiff resigned from her job on September 27, 2018 and Redwood accepted her resignation. Williams Depo., Exs. 17, 19. Two days later, Plaintiff tried to rescind her resignation. Williams Depo., Ex. 19.
+• Redwood refused [*7]  to allow Plaintiff to retract her resignation a second time. Williams Depo., Ex. 19.
+Plaintiff's First Amended Complaint brings the following claims against Defendant: 1) Discrimination and Harassment Based Upon a Disability in Violation of the Fair Employment and Housing Act ("FEHA"), 2) Failure to Accommodate Disability in Violation of the Fair Employment and Housing Act, 3) Failure to Engage in the Interactive Process, 4) Retaliation, 5) Wrongful Termination in Violation of Public Policy, 6) Breach of Contract, and 7) Unfair Business Practices. See generally Dkt. No. 37.
+The Court finds that Plaintiff has not demonstrated any triable issue of fact that would allow her to prevail as to any of these claims.
+
+A. Claim 1
+
+i. Disability Discrimination in Violation of FEHA and Title VII
+Plaintiff's first cause of action alleges disability discrimination under FEHA and Title VII. This claim is subject to the McDonnell Douglas burden shifting framework. See Moore v. Regents of Univ. of California, 248 Cal. App. 4th 216, 234, 206 Cal. Rptr. 3d 841 (2016) (explaining that California adopts "the three-stage burden shifting test for discrimination claims set forth" in McDonnell Douglas); see generally, McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). Under the McDonnell Douglas three-stage burden shifting framework, Plaintiff must first establish a prima facie case of discrimination [*8]  by showing that:
+(1) [she] was a member of a protected class, (2) [she] was qualified for the position [she] sought or was performing competently in the position [she] held, (3) [she] suffered an adverse employment action, such as termination, demotion, or denial of an available job, and (4) some other circumstance suggests discriminatory motive.
+Guz v. Bechtel Nat. Inc., 24 Cal. 4th 317, 100 Cal. Rptr. 2d 352, 8 P.3d 1089, 1113 (Cal. 2000).
+"If . . . the plaintiff establishes a prima facie case, a presumption of discrimination arises." Id. The burden then "shifts to the employer to rebut the presumption by producing admissible evidence, sufficient to raise a genuine issue of fact and to justify a judgment for the that its action was taken for a legitimate, nondiscriminatory reason." Id. (quotations omitted and cleaned up). "If the employer sustains this burden, the presumption of discrimination disappears" and the "plaintiff must then have the opportunity to attack the employer's proffered reasons as pretexts for discrimination, or to offer any other evidence of discriminatory motive." Id; see also McDonnell Douglas, 411 U.S. at 802-04 (explaining the burden shifting framework in the context of a Title VII case).
+The Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable [*9]  issue of fact as to whether: 1) she was disabled, 2) she was performing competently in the position she held, 3) she suffered an adverse employment action, or 4) any circumstance suggests discriminatory motive.
+Even if Plaintiff had met her prima facie burden, the Court finds that Defendant has produced substantial evidence that it refused to allow Plaintiff to rescind her resignation for a legitimate, nondiscriminatory reason. See Macharia Decl. ¶ 8 ("Redwood declined to retract [Plaintiff's resignation] given Ms. William's recent performance deficiencies and the disruptive way in which Ms. Williams submitted her resignation twice after she received discipline from Redwood regarding her work quality and interactions with her coworkers."). The Court further finds that Plaintiff has failed to point to anything in the record sufficient to create a triable issue of fact as to whether these proffered reasons for any actions taken by Defendant were pretextual.
+
+ii. Harassment Claim Under FEHA and Title VII
+Williams's first cause of action also alleges a hostile environment harassment claim under FEHA and Title VII. To prevail on a hostile work environment harassment under FEHA, Williams must [*10]  prove that (1) she belongs to a protected group; (2) she was subjected to unwelcome harassment; (3) the harassment complained of was based on a protected characteristic and (4) the harassment complained of was sufficiently pervasive so as to alter the conditions of employment and create an abusive working environment. See Fisher v. San Pedro Peninsula Hospital, 214 Cal. App. 3d 590, 608, 262 Cal. Rptr. 842 (1989).
+To prevail on a Title VII hostile work environment claim, Plaintiff "must show that her workplace [was] permeated with discriminatory intimidation ... that [was] sufficiently severe or pervasive to alter the conditions of [her] employment and create an abusive working environment." Brooks v. City of San Mateo, 229 F.3d 917, 923 (9th Cir. 2000) (quotations omitted). "The working environment must both subjectively and objectively be perceived as abusive." Id. (quotations omitted).
+The Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to whether: 1) she was subjected to unwelcome harassment, 2) the harassment complained of was based on a protected characteristic, or 3) the harassment complained of was sufficiently pervasive so as to alter the conditions of employment and create an abusive working environment.
+The Court finds that Defendant is entitled to judgment [*11]  as a matter of law as to Claim 1.
+
+B. Claim 2: Failure to Accommodate Disability in Violation of FEHA
+The elements of a failure to provide a reasonable accommodation claim under FEHA are: (1) the employee is disabled, (2) the employee "is qualified to perform the essential functions of the position," and (3) "the employer failed to reasonably accommodate the [plaintiff]'s disability." Scotch v. Art Inst. of California, 173 Cal. App. 4th 986, 1010, 93 Cal. Rptr. 3d 338, 358 (2009).
+The Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to whether: 1) Plaintiff was disabled, 2) Plaintiff was qualified to perform the essential functions of the position, or 3) Defendant failed to reasonably accommodate Plaintiff's disability.
+The Court finds that Defendant is entitled to judgment as a matter of law as to Claim 2.
+
+C. Claim 3: Failure to Engage in the Interactive Process
+FEHA requires that an employer engage in a "timely, good faith interactive process . . . in response to a request for reasonable accommodation by a disabled employee." Gov. Code § 12940(n). "Under FEHA, an employer must engage in a good faith interactive process with the disabled employee to explore the alternatives to accommodate the disability." Nealy v. City of Santa Monica, 234 Cal. App. 4th 359, 379, 184 Cal. Rptr. 3d 9 (2015).
+The Court finds that Plaintiff [*12]  has failed to identify anything in the record sufficient to create a triable issue of fact as to whether Redwood failed to engage in a timely, good faith interactive process.
+The Court finds that Defendant is entitled to judgment as a matter of law as to Claim 3.
+
+D. Claim 4: Retaliation
+
+i. Retaliation under FEHA
+"[T]o establish a prima facie case of retaliation under FEHA, a plaintiff must show (1) he or she engaged in a protected activity, (2) the employer subjected the employee to an adverse employment action, and (3) a causal link existed between the protected activity and the employer's action." Yanowitz v. L'Oreal USA, Inc., 36 Cal. 4th 1028, 32 Cal. Rptr. 3d 436, 116 P.3d 1123, 1130 (Cal. 2005) (quotations omitted).
+"If the employee establishes a prima facie case, the employer is required to offer a legitimate, nondiscriminatory reason for the adverse employment action." Id. (citing Morgan v. Regents of Univ. of Cal., 88 Cal. App. 4th 52, 105 Cal. Rptr. 2d 652, 665 (2000)). "If the employer produces substantial evidence of a legitimate, nondiscriminatory reason for the adverse employment action, the presumption of discrimination created by the prima facie case simply drops out of the picture . . . and the burden shifts back to the employee to prove intentional discrimination." Id. (citing Morgan, 105 Cal. Rptr. 2d at 665).
+The Court finds that Plaintiff has failed to identify anything in the record sufficient [*13]  to create a triable issue of fact as to whether: 1) Plaintiff engaged in a protected activity, 2) Defendant subjected Plaintiff to an adverse employment action, or 3) a causal link existed between any protected activity by Plaintiff and an adverse employment action.
+Even if Plaintiff had met her burden, as explained above, the Court finds that Defendant has produced substantial evidence that it refused to allow Plaintiff to rescind her resignation for a legitimate, nondiscriminatory reason. The Court further finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to whether any action taken by Defendant amounted to intentional discrimination or retaliation.
+
+ii. Retaliation under Labor Code § 1102.5(b)
+To prevail on a retaliation claim under Labor Code § 1102.5(b), California's whistleblower statute, Plaintiff has the burden of first showing, by a preponderance of the evidence, that "the employee's protected whistleblowing was a 'contributing factor' to an adverse employment action." Lawson v. PPG Architectural Finishes, Inc., 12 Cal. 5th 703, 289 Cal. Rptr. 3d 572, 503 P.3d 659, 663 (Cal. 2022). If the employee makes the "necessary threshold showing, the employer [then] bears the burden of proof to demonstrate by clear and convincing evidence that the alleged adverse employment action [*14]  would have occurred for legitimate, independent reasons even if the employee had not engaged in protected whistleblowing activities." Id. (quotations omitted).
+The Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to whether 1) Plaintiff engaged in whistleblowing, 2) Plaintiff experienced any adverse employment action, or 3) protected whistleblowing was a contributing factor to any adverse employment action.
+Even had Plaintiff had met her burden, as explained above, the Court finds that Defendant has shown by clear and convincing evidence that it refused to rescind Plaintiff's resignation for legitimate, independent reasons, such that there is no triable issue of fact on this retaliation theory as to any action taken by Defendant.
+The Court finds that Defendant is entitled to judgment as a matter of law as to Claim 4.
+
+E. Claim 5: Wrongful Termination in Violation of Public Policy and Title VII
+Defendant argues that Plaintiff's "claim for wrongful termination in violation of public policy and Title VII is derivative of her doomed disability discrimination claim and fails for the same reasons." Mot. at 8.
+The Court agrees [*15]  with Defendant that Plaintiff's claim for wrongful termination is derivative of her disability discrimination claim and fails for the same reasons. Even if this were not the case, as with the other claims, the Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to this claim.
+The Court finds that Defendant is entitled to judgment as a matter of law as to Claim 5.
+
+F. Claim 6: Breach of Contract
+The elements of a breach of contract action are as follows: (1) "the existence of the contract," (2) "performance by the plaintiff or excuse for nonperformance," (3) "breach by the defendant," and (4) "damages." First Commercial Mortgage Co.v. Reece, 89 Cal. App. 4th 731, 745, 108 Cal. Rptr. 2d 23 (2001).
+The Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to whether: 1) the claimed contract existed, 2) Plaintiff performed under the contract or had an excuse for nonperformance, 3) Defendant breached the contract, or 4) Plaintiff sustained any damages.
+The Court finds that Defendant is entitled to judgment as a matter of law as to Claim 6.
+
+G. Claim 7: Unfair Business Practices.
+California's Unfair Competition Law ("UCL") defines "unfair competition" as "any unlawful, unfair or fraudulent business [*16]  act or practice and unfair, deceptive, untrue or misleading advertising and any act prohibited by Chapter 1 (commencing with Section 17500) of Part 3 of Division 7 of the Business and Professions Code." Cal. Bus. & Prof. Code § 17200.
+The Court finds that Plaintiff has failed to identify anything in the record sufficient to create a triable issue of fact as to whether Redwood committed any action that would fall under the UCL's definition of "unfair competition."
+The Court finds that Defendant is entitled to judgment as a matter of law as to Claim 7.
+
+IV. CONCLUSION
+Plaintiff has not met her burden of showing, based on the evidentiary record, that there is any triable issue of material fact as to any of the claims in the First Amended Complaint. The Court GRANTS summary judgment in Defendant's favor because "the motion and supporting materials—including the facts considered undisputed—show that the movant is entitled to it." Fed. R. Civ. P. 56(e). The clerk shall vacate all further proceedings, enter judgment in favor of Defendant, and close the file. All of the following pending motions are TERMINATED: Dkt. Nos. 42, 95, 96, 97, 99, 108, 113, 127, 128, 129, 130, 131, 150, 153.
+IT IS SO ORDERED.
+Dated: January 21, 2023
+/s/ Haywood S. Gilliam, Jr.
+HAYWOOD S. GILLIAM, JR.
+United States District Judge
+
+
+End of Document
+

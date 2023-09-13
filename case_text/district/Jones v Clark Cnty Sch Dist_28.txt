@@ -1,0 +1,51 @@
+Jones v. Clark Cnty. Sch. Dist.
+United States District Court for the District of Nevada
+March 17, 2017, Decided; March 17, 2017, Filed
+Case No. 2:15-cv-00010-APG-GWF
+
+Reporter
+2017 U.S. Dist. LEXIS 39029 *
+RANDY JONES, Plaintiff, v. CLARK COUNTY SCHOOL DISTRICT, a political subdivision of the State of Nevada, Defendant.
+Prior History: Jones v. Clark Cnty. Sch. Dist., 2016 U.S. Dist. LEXIS 43515 (D. Nev., Mar. 31, 2016)
+Counsel:  [*1] For Randy Jones, Plaintiff: Michael P. Balaban, Law Offices of Michael P. Balaban, Las Vegas, NV.
+For Clark County School District, Defendant: S. Scott Greenberg, LEAD ATTORNEY, Clark County School District, Las Vegas, NV.
+Judges: ANDREW P. GORDON, UNITED STATES DISTRICT JUDGE.
+Opinion by: ANDREW P. GORDON
+Opinion
+
+
+
+ORDER DENYING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT
+(ECF No. 35)
+After driving a school bus for defendant Clark County School District (CCSD) for over a decade, plaintiff Randy Jones developed a psychological condition that prevented him from driving anymore. When Jones notified CCSD of his condition, it did not transfer him to a nondriving position or otherwise attempt to accommodate him. So Jones brought this case alleging that CCSD discriminated against him under the American with Disabilities Act (ADA) for failure to accommodate his mental disability.
+CCSD moves for summary judgment, arguing that Jones never asked for an accommodation, and that even if he did he has not shown that a reasonable accommodation existed. I disagree. A reasonable jury could find both that Jones asked CCSD for an accommodation and that his disability could have been accommodated by transferring him to another position that did [*2]  not require him to drive. I therefore deny CCSD's motion.
+
+I. BACKGROUND
+Jones worked for CCSD for over a decade, driving special needs children to and from school.1 In 2011, he began suffering from depression and other conditions, which he alleged stemmed from anxiety caused by having to drive children around.2
+Initially Jones asked CCSD for sick leave, providing the district with documentation from his doctor showing that he was suffering from depression and other mental issues.3 CCSD gave Jones time off, but eventually it became clear to him that he could no longer safely transport children.4 So he asked his supervisor if he could be transferred to a different position or given some light duty assignment where he would not have to drive.5 This administrator told Jones that he should speak with CCSD's ADA Coordinator about a "potential placement as an accommodation since he had indicated that he might not return to driving duties."6
+The next day, Jones faxed to the ADA Coordinator a letter that provided details about his medical condition and stated that his "doctor ha[d] advised [him] to retire from driving due to the serious health condition described above."7 Jones stated in the letter [*3]  that he felt "it would be irresponsible ... to drive [] special needs students while on medication and suffering from other symptoms described above."8
+Although Jones had asked his supervisor for a new position, the ADA Coordinator treated Jones's letter as a resignation.9 When CCSD never contacted Jones about a new position, he filed a discrimination charge with the Equal Employment Opportunity Commission.10
+
+II. ANALYSIS
+
+A. Summary Judgment Standard
+Summary judgment is appropriate when the pleadings, discovery responses, and other offered evidence show "there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law."11 When considering summary judgment, I view all facts and draw all inferences in the light most favorable to the non-moving party.12
+If the moving party demonstrates the absence of any genuine issue of material fact, the burden shifts to the non-moving party to "set forth specific facts showing that there is a genuine issue for trial."13 The non-moving party "must do more than simply show that there is some metaphysical doubt as to the material facts."14 He "must produce specific evidence, through affidavits or admissible discovery [*4]  material, to show" a sufficient evidentiary basis on which a reasonable fact finder could find in his favor.15
+
+B. There are triable issues as to whether CCSD violated the ADA by discriminating against Jones based on his disability.
+All that remains of Jones's case is a single ADA discrimination claim based on CCSD failing to accommodate Jones's psychological conditions. ADA discrimination includes "not making reasonable accommodations to the known . . . mental limitations of an otherwise qualified individual with a disability."16 Once an employer like CCSD is made aware of an employee's mental disability, it has "an affirmative obligation to engage in an interactive process in order to identify, if possible, a reasonable accommodation."17 A reasonable accommodation can include finding a different position for the employee, assuming they are qualified for it.18 Before an employer will be held liable for failing to accommodate, however, the employee must prove both that he asked for an accommodation and that a reasonable accommodation in fact existed.19
+CCSD argues that Jones has not created a triable issue about either (1) whether he actually requested an accommodation or (2) whether a [*5]  reasonable accommodation existed. First, a reasonable jury could find that Jones asked for an accommodation. Jones asked his supervisor if he could transfer jobs because he could no longer drive. CCSD counters that Jones did not also ask the ADA Coordinator for a new job. But the fact that one of CCSD's administrators did not communicate Jones's request to another administrator is not Jones' fault. Jones needed to inform CCSD about the details of his condition and the reasonable accommodations he requested, and he did that.
+CCSD also argues that its obligation to accommodate Jones ended because he quit his job. But again, a reasonable jury could view the evidence differently. Although Jones used the word "retire" in his letter to the ADA Coordinator, what he said is that he needed "to retire from driving" and that he could no longer drive special needs children. Nothing in this sentence, or the letter otherwise, stated that Jones intended to retire from CCSD altogether. An equally plausible reading is that Jones believed he could not continue driving children and so needed a different job. This reading is consistent with the fact that, the day before, Jones had told his supervisor that [*6]  he wanted to transfer to a new position.20
+As to whether Jones can show a reasonable accommodation existed, CCSD concedes it never engaged in the interactive process to identify alternative jobs for Jones. Thus, CCSD now must show that "a reasonable finder of fact must conclude that there would in any event have been no reasonable accommodation available."21
+CCSD argues that Jones has not identified specific jobs he could have performed with his limitation (the inability to drive). But a reasonable jury could disagree. CCSD's ADA Coordinator testified that jobs were available after Jones left the district and that his department had reassigned other employees to new jobs to accommodate their disabilities.22 This coordinator testified that it was "likely" that other positions would have been open for Jones when he left CCSD,23 and that there were "thousands" of open positions in the district at any given time.24 A reasonable jury could find that other positions existed for Jones (and thus that a reasonable accommodation existed for him).25
+
+III. CONCLUSION
+IT IS THEREFORE ORDERED that the CCSD's motion for summary judgment (ECF No. 35) is DENIED.
+DATED this 17th day of March, 2017.
+/s/ [*7]  Andrew P. Gordon
+ANDREW P. GORDON
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

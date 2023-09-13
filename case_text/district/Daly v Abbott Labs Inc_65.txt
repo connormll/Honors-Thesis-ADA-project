@@ -1,0 +1,55 @@
+Daly v. Abbott Labs., Inc.
+United States District Court for the District of Massachusetts
+September 23, 2013, Decided; September 23, 2013, Filed
+CIVIL ACTION NO. 11-12247-GAO
+
+Reporter
+2013 U.S. Dist. LEXIS 135694 *; 28 Am. Disabilities Cas. (BNA) 1450; 2013 WL 5328898
+JOHN T. DALY, Plaintiff, v. ABBOTT LABORATORIES, INC., Defendant.
+Counsel:  [*1] For John T Daly, Plaintiff: Paul F Cavanaugh, LEAD ATTORNEY, Daly Cavanaugh LLP, Wellesley, MA.
+For Abbott Laboratories, Inc., Defendant: Beata G. Brewster, David E. Morrison, LEAD ATTORNEYS, PRO HAC VICE, Goldberg Kohn Ltd., Chicago, IL; Jonathan E. Small, Goulston & Storrs, Boston, MA.
+Judges: George A. O'Toole, Jr., United States District Judge.
+Opinion by: George A. O'Toole, Jr.
+Opinion
+
+
+
+ORDER
+O'TOOLE, D.J.
+The plaintiff was terminated as an employee of the defendant after twice failing a required product certification exam. He alleges his termination violated the Americans with Disabilities Act, 42 U.S.C. §§ 12111 et seq., and Massachusetts General Laws chapter 151B. The defendant has moved for summary judgment.
+
+I. Background
+According to the parties' submissions, the following facts are not subject to genuine dispute:
+Daly was hired by Abbott in 2006 as a Primary Care Sales Representative. His job responsibilities included increasing sales for pharmaceutical products that Abbott assigned to him. Abbott requires its sales personnel to complete training programs for each product and pass certification exams within two attempts. The exams are designed to measure whether sales personnel hold acceptable levels of knowledge  [*2] about the product so that they may accurately and effectively market them to health care professionals. The passing score for each product exam is 90%. It is the company's policy that a failure to pass an exam within two attempts may subject the employee to termination. The policy is documented and communicated to employees during training sessions.
+During 2007, Daly was taking anti-depressant and anti-anxiety medication and also was abusing alcohol. On June 28, 2007, plaintiff received a letter from his manager outlining some concerns about his performance. In particular, the letter noted that he was not meeting expectations as to the number of sample calls he was making. Beginning on July 17, 2007, plaintiff took a leave of absence. He did not inform his supervisors about any of his medical problems, nor did he request any accommodation at this time. The details surrounding the medical leave were handled by the short term disability insurance carrier. Before taking his medical leave, the plaintiff was required to review forms relating to the short term disability leave. The form explained that upon his return, he could request job modifications or work schedule changes.
+Daly remained  [*3] on leave through early 2008, during which time he was undergoing treatment and counseling for his medical issues. Eventually a doctor cleared him to return to work without restrictions, and he did so on March 21, 2008. He did not request any accommodations. When he returned, he had stopped taking medication for anxiety and was no longer using alcohol.
+Between April and September 2008, plaintiff took six different product certification exams and passed each exam on his first attempt. He never requested to take any exam on an untimed or extended time basis. In July 2008, plaintiff received a generally positive performance review from his manager.
+Daly took an exam for Abbott's Crestor product on October 24, 2008. He was allowed 55 minutes to take the Crestor exam. He spent 40 minutes and 41 seconds on the exam. He received a failing score of 87% on this attempt. After failing this exam, he reviewed the training provided relative to the drug.
+He took the Crestor exam a second time on November 3, 2008. The questions presented in this exam were the same questions presented in the first exam, but presented in a different order. Again, Daly was allotted 55 minutes to take the exam, and he used  [*4] the full time. He received a failing score of 84%.
+Pursuant to established company policy, Daly's supervisors decided to terminate his employment when he failed the Crestor exam for the second time. Daly was informed of his termination on November 19, 2008, at a meeting with his manager. In response to the news that he would be terminated, Daly said that he had suffered panic attacks during both exams and asked if he could take the exam for a third time, without time restriction.
+Daly sought to appeal his termination through the company's human resources office. He wrote a detailed email explaining his history and his medical leave. Abbott ultimately declined to alter the termination decision.
+In his complaint, Daly appears to posit two theories of recovery — first, that Abbott failed to accommodate his disability by allowing him to take the Crestor exam a third time, and second, that Abbott discriminated against him by terminating him because of his disability.
+
+II. Discussion
+
+A. Failure to Accommodate
+In order to survive a summary judgment motion, the plaintiff must "produce enough evidence for a reasonable jury to find that (1) he is disabled within the meaning of the ADA, (2) he was able  [*5] to perform the essential functions of the job with or without reasonable accommodation, and (3) despite knowing of the disability, [the defendant] did not reasonably accommodate it." Rocafort v. IBM Corp., 334 F.3d 115, 119 (1st Cir. 2003). Abbott first argues that the plaintiff is not disabled within the meaning of the ADA. It is not an insubstantial argument, but I do not think that it is clear that a jury's conclusion that he was disabled would be unreasonable as a matter of law on the summary judgment record, viewed favorably to the plaintiff. Nonetheless, I am satisfied that the plaintiff's claim fails because the record demonstrates that he did not make a timely request for accommodation, the need for which was not otherwise known to the defendant.
+The ADA imposes liability where an employer fails to accommodate "known physical or mental limitations" of an employee. 42 U.S.C. § 12112(b)(5)(A). Generally, the duty to accommodate is triggered by an employee's request. Reed v. LePage Bakeries, Inc., 244 F.3d 254, 261 (1st Cir. 2001). Thus, the plaintiff bears the burden of showing that he "sufficiently requested the accommodation in question." Id. at 260. This request must be direct  [*6] and specific and must "explain how the accommodation request is linked to some disability." Id. at 261; see also Estades-Negroni v. Assocs. Corp. of N.A., 377 F.3d 58, 64 (1st Cir. 2004) (a request for an accommodation under the ADA must be "express and must be linked to a disability"). Employers are not required to "divine" the need for special accommodations. Reed, 244 F.3d at 261.
+After Daly failed the Crestor exam for the second time, he did not make any mention of a disability or a need for accommodation until November 19, when he was confronted with termination. He then explained that he had suffered panic attacks during the exams and requested to take the exam a third time. He had had opportunities to request accommodation for medical conditions before then. He could have done so when he returned from leave in March 2008, or he could have requested accommodation after failing the first Crestor exam. Certainly, if he thought that his failure on the first exam was attributable to his panic attack, he could have tried to mitigate the impact of a similar attack as he faced a second exam. In fact, Daly asserts he should have been allowed to take the exams untimed. However, Daly admits  [*7] that he never requested to take exams on an untimed basis and, as of September 2008, felt that "[m]y disability hadn't risen to the level where I thought I needed to ask for any accommodation at that point." (Brewster Decl. Ex. 2 at 180 (dkt. no. 14-2).) Articulating a need for an accommodation only after he has been told of an adverse employment action is insufficient. See Jones v. Nationwide Life Ins. Co., 696 F.3d 78, 89 (1st Cir. 2012).
+Nor is there a factual basis in the record for concluding that Abbott should have recognized on its own Daly's need for a test-taking accommodation. To the contrary, earlier in 2008, Daly had taken and passed half a dozen other timed exams on his first try. That history would give an employer no reason to think that a test-taking accommodation was necessary. Similarly, the record does not support a conclusion that the company, thus unaware of Daly's asserted need for accommodation, failed in its duty to initiate an interactive process.
+In sum, the record does not support a finding that Daly ever put Abbott on notice of his need for an accommodation, and in that circumstance his failure to accommodate claim cannot succeed.
+
+B. Discriminatory Discharge
+The  [*8] complaint also alleges that Abbott discriminated against Daly by terminating him because of his actual or perceived disability. This claim is assessed using the familiar burden shifting framework articulated in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). A plaintiff must first make a prima facie case by demonstrating that he suffers from a disability as defined by the ADA, that he was able to perform the essential functions of the job with or without reasonable accommodation, and that the defendant took an adverse employment action against him at least in part because of his disability. Freadman v. Metro. Prop. & Cas. Ins. Co., 484 F.3d 91, 99 n. 7 (1st Cir. 2007). If a prima facie case is alleged, the burden shifts to the defendant to articulate a legitimate, non-discriminatory reason for the employment decision. If such a reason is put forth, the burden shifts back to the plaintiff to proffer evidence that the articulated reason was only a pretext for discrimination. Id. at 99.
+Here, the plaintiff has not shown he can make out a prima facie case of discrimination, because the record does not support the conclusion that the plaintiff's termination was at least in part because  [*9] of his disability. As recounted above, the record indicates that the plaintiff's discharge was the result of his failing the Crestor exam for the second time, and there is an absence of record evidence that Abbot employees had any idea Daly suffered from a disability or took considerations such as his having taken medical leave into account.
+Moreover, the company clearly had a legitimate interest in enforcing its general policy that sales representatives pass product exams, cf. Jones, 696 F.3d at 88-89, and there is nothing in the record to support the notion that the exams were a pretext for discrimination against Daly.
+
+III. Conclusion
+For the foregoing reasons, the defendant's Motion for Summary Judgment (dkt. no. 11) is GRANTED. Judgment shall enter for the defendant.
+It is SO ORDERED.
+/s/ George A. O'Toole, Jr.
+United States District Judge
+
+
+End of Document
+

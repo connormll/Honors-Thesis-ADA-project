@@ -1,0 +1,75 @@
+Berenguer v. Univ. Legal Servs.
+United States District Court for the District of Columbia
+May 26, 2022, Decided; May 26, 2022, Filed
+Civil Action No. 19-cv-3591 (TSC)
+
+Reporter
+2022 U.S. Dist. LEXIS 94913 *; 2022 WL 1684942
+WALDEMAR BERENGUER, Plaintiff, v. UNIVERSITY LEGAL SERVICES, INC., Defendant.
+Counsel:  [*1] For WALDEMAR BERENGUER, Plaintiff: Denise Marie Clark, LEAD ATTORNEY, CLARK LAW GROUP, PLLC, Washington, DC.
+For UNIVERSITY LEGAL SERVICES, INC., Defendant: Amy L. Bess, LEAD ATTORNEY, VEDDER PRICE P.C., Washington, DC.
+Judges: TANYA S. CHUTKAN, United States District Judge.
+Opinion by: TANYA S. CHUTKAN
+Opinion
+
+
+
+MEMORANDUM OPINION
+Plaintiff Waldemar Berenguer has sued his former employer, University Legal Services, Inc. ("ULS"), alleging violations of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et seq., and the D.C. Human Rights Act ("DCHRA"), D.C. Code § 2-1401.01 et seq. He also alleges violations of the Employee Retirement Income Security Act of 1974 ("ERISA"), §§ 502(a)(3), 510; 29 U.S.C. §§ 1132(a)(3), 1140. Specifically, in his Amended Complaint, Plaintiff brings the following counts:
+Count I: Hostile Work Environment
+Count II: Failure to Increase Salary
+Count III: Restrictions on Use of Comp Time
+Count IV: Retaliatory Failure to Pay Healthcare Deductible
+Count V: ERISA Interference
+Count VI: ERISA Discrimination
+Defendant moved to dismiss all counts, except Count IV. ECF No. 8, Mot. to Dismiss. Plaintiff subsequently dismissed both ERISA Counts (V and VI), see ECF Nos. 9, 11, leaving the hostile work environment, salary increase, and comp time claims in dispute.
+For the reasons set forth below, the court will DENY Defendant's motion to dismiss.
+
+I. BACKGROUND
+Plaintiff began working [*2]  as the Chief Financial Officer at ULS in or around 1997. ECF No. 6, Am. Compl. ¶ 16. For some portion of that time Plaintiff's supervisor was Executive Director Jane Brown. Id. ¶ 18. In April 2016, Plaintiff disclosed to Brown that he suffered from chronic diverticulitis. Id. ¶ 19. Sometime between April and June, Plaintiff also told Brown that he had other medical conditions, including diabetes, major depression, and generalized anxiety disorder. Id. ¶ 22.
+Plaintiff was a salaried employee who was not required to record his time in the office, but in June 2016 he met with Brown to discuss why his disabilities were causing him to arrive late to work. Id. ¶¶ 27-28. To make up for his tardiness, Plaintiff worked late and/or on the weekends, but did not formally request an accommodation. Id. He also told Brown that he believed his health was improving and that he would be late less often. Id. ¶ 29.
+Plaintiff claims that Brown began to subject him to "hostility, increased scrutiny of his work, and increased scrutiny of whenever he was absent or requested leave." Id. ¶ 30. He also claims he did not receive a salary increase after disclosing his disabilities. Id. ¶¶ 19, 33. Non-disabled employees [*3]  were not treated with hostility or scrutiny and received salary increases. Id. ¶¶ 31, 34.
+Plaintiff alleges that when he took medical leave, Brown "repeatedly pressured" him to return to work. Id. ¶ 40. For example, in January 2017 when he was hospitalized, Brown "demanded that he return to work" and told him "he needed to be in the office" unless he "was on his deathbed." Id. ¶ 41-42. On another occasion, Plaintiff informed Brown he was leaving work early because he was ill and needed to see a doctor. Id. ¶ 43. Brown responded by throwing one of her prescription bottles at him and telling him to take her medication instead. Id. ¶¶ 43-44. Plaintiff was also required to report to Brown every time he needed to attend a therapy appointment, while other salaried employees did not have to do so. Id. ¶¶ 45-46. He alleges that despite his absences, he did not use all his allotted sick leave. Id. ¶ 42.
+Plaintiff claims that between April 2017 and October 2018, Brown reprimanded him for using bereavement leave to attend a funeral, withdrew his name from a company raffle after announcing he had won an iPad, claimed he used an unprofessional tone in an email, and required him to adhere to the company's [*4]  "comp time" limit of seven hours per month, despite the fact that other employees were not required to do so. Id. ¶¶ 35-39.
+In December 2018, Plaintiff filed an EEOC charge, and the harassment "worsened." Id. ¶¶ 47, 49. Brown began to require a note every time Plaintiff had a doctor's appointment, even though no other employees had to produce a note. Id. ¶ 50. She also "repeatedly threaten[ed]" to lower Plaintiff's salary. Id. ¶ 51.
+In the summer of 2019, Defendant approved Plaintiff's request for leave pursuant to the D.C. Family and Medical Leave Act. Id. ¶ 52. Near the end of his leave, Plaintiff asked Brown if they could discuss his need for future accommodations, "including intermittent leave and time off work for appointments related to his disabilities." Id. ¶¶ 54-55. Brown refused to engage in any discussions unless Plaintiff agreed to execute a release of claims against the company. Id. ¶ 55. Plaintiff asserts that Defendant further retaliated against him by failing to pay his healthcare deductible after he brought this action, and eventually fired him. Id. ¶¶ 60-61, 66-67, 69-71.
+
+II. LEGAL STANDARD
+A motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6) challenges the adequacy of a complaint, testing whether the plaintiff has properly [*5]  stated a claim. The complaint must state a claim that is plausible on its face by alleging facts that, if assumed to be true, would allow the court to draw "reasonable inference[s] that the defendant is liable for the misconduct alleged." Ashcroft v. Iqbal, 556 US 662, 677-78, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). The court presumes the truth of a plaintiff's factual allegations, see Iqbal, 556 U.S. at 679, and construes the complaint "in favor of the plaintiff, who must be granted the benefit of all inferences that can be derived from the facts alleged." Hettinga v. United States, 677 F.3d 471, 476, 400 U.S. App. D.C. 218 (D.C. Cir. 2012) (quoting Schuler v. United States, 617 F.2d 605, 608, 199 U.S. App. D.C. 23 (D.C. Cir. 1979)). A plaintiff's factual allegations need not establish all elements of a prima facie case, see Swierkiewicz v. Sorema N.A., 534 U.S. 506, 511-14, 122 S. Ct. 992, 152 L. Ed. 2d 1 (2002); Bryant v. Pepco, 730 F. Supp. 2d 25, 28-29 (D.D.C. 2010), but they "must be enough to raise a right to relief above the speculative level, on the assumption that all the allegations in the complaint are true (even if doubtful in fact)." Bell Atl. Corp., 550 U.S. at 555-56, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (citation omitted).
+
+III. ANALYSIS
+
+A. Hostile Work Environment Claim
+Defendant argues that Plaintiff's hostile work environment claim should be dismissed because he has not shown that he was subjected to severe or pervasive conduct. See Ayissi-Etoh v. Fannie Mae, 712 F.3d 572, 577, 404 U.S. App. D.C. 291 (D.C. Cir. 2013) (noting that "to prevail on a hostile work environment claim, a plaintiff must first show that he or she was subjected to [conduct] that is sufficiently severe or pervasive to alter the conditions of the victim's [*6]  employment . . ."). Defendant contends that a "handful of stray remarks, made over the course of three years" are not sufficiently severe or pervasive enough to sustain a hostile work environment claim and that Plaintiff does not allege how frequently any such comments were made. Mot. to Dismiss at 5-6.
+The court is not persuaded by ULS' argument. A reasonable fact finder could conclude that conditions were "severe" or "pervasive" where over the course of three years a supervisor imposed numerous work restrictions on a salaried employee, but failed to impose those same restrictions on other salaried employees, "repeatedly" pressured an employee with a disability to return to work, "repeatedly" complained about the employee's absences, "repeatedly" threatened to lower the employee's salary, reprimanded the employee for using bereavement leave, threw a medication bottle at the employee because he needed to see a doctor, and told the hospitalized employee that he must return to work unless he was on his "death bed." Accordingly, the court will deny Defendant's motion to dismiss the hostile work environment claim.
+
+B. Salary Increase and "Comp" Time Retaliation Claims
+Next, Defendant asserts [*7]  that Plaintiff cannot establish causation on his retaliation claims. Defendant argues that Plaintiff did not engage in protected activity until December 2018, when he filed his EEOC charge, and in the summer of 2019, when he requested leave for medical appointments, yet he contends Defendant retaliated against him by failing to increase his pay in 2016 and imposing comp time restrictions in 2018.
+Defendant's argument is unavailing. Viewing the facts in the light most favorable to Plaintiff, a reasonable fact finder could decide that he engaged in protected activity in June 2016 when he and Brown discussed his tardiness. Plaintiff claims he told Brown that his disabilities were causing him to be late for work, but that he was making up for the time by staying late and working weekends.
+Although "there is no requirement that an employee's request for an accommodation be in writing or invoke the magic words 'reasonable accommodation,' the request must make clear that the employee 'wants assistance with his or her disability' so that he or she may return, or continue, to work." Badwal v. Bd. of Trs. of Univ. of D.C., 139 F. Supp. 3d 295, 313 (D.D.C. 2015); see also Evans v. Davis Mem'l Goodwill Indus., 133 F. Supp. 2d 24, 28 (D.D.C. 2000) (citation omitted) ("[w]hat matters under the ADA are not formalisms about the manner of the request, [*8]  but whether the employee or a representative of the employee provides the employer with enough information that, under the circumstances, the employer can be fairly said to know of both the disability and the desire for an accommodation."). While Plaintiff did not invoke the "magic words," a reasonable fact finder could conclude that he sought an accommodation by being allowed to make up missed time in the evenings and on weekends. See Loya v. Sebelius, 840 F. Supp. 2d 245, 250-51, 259, 259 n.15 (D.D.C. 2012) (denying motion for summary judgment where plaintiff asked to be moved to another building due to her disability, but did not specifically ask for an "accommodation"); Lee v. District of Columbia, 920 F. Supp. 2d 127, 136 (D.D.C. 2013) (denying motion for summary judgment where the plaintiff did not formally request an accommodation but told a direct superior, who was aware of the employee's medical condition, that he needed a lunch break due to his diabetes). And although Plaintiff indicated he believed his condition was improving, based on the facts alleged, his disabilities did not improve to the point where he no longer required absences from work.
+Defendant also argues that Plaintiff's complaint about his inability to use "comp" time is not actionable because he has not shown that he suffered an adverse employment [*9]  action. This argument is also unavailing.
+In retaliation cases, a plaintiff must proffer facts showing that the employer engaged in "materially adverse" conduct that would have dissuaded a reasonable person from making or supporting a charge of discrimination. Baloch v. Kempthorne, 550 F.3d 1191, 1198, 384 U.S. App. D.C. 85 (D.C. Cir. 2008). And in employment discrimination cases, although a plaintiff must establish a plausible claim for relief, they do not need to "plead every fact necessary to establish a prima facie case to survive a motion to dismiss." Jones v. Air Line Pilots Ass'n, Int'l, 642 F.3d 1100, 1104, 395 U.S. App. D.C. 279 (D.C. Cir. 2011) (citation omitted).
+Plaintiff has met both these standards. Viewing the facts in the light most favorable to Plaintiff, the court finds that he has alleged sufficient facts to show that Defendant selectively enforced its "comp time" policy against an employee with a disability who was being pressured to return to work despite health problems serious enough to require him to take medical leave. A reasonable fact finder might determine that selective enforcement of this policy and pressure to return to work, under these circumstances, would have dissuaded an employee with a disability from "making or supporting a charge of discrimination." Mogenhan v. Napolitano, 613 F.3d 1162, 1166, 392 U.S. App. D.C. 195 (D.C. Cir. 2010) (citation omitted). Moreover, in most instances failing to allow an employee [*10]  to use "comp" time for work absences can result in lost wages. While Plaintiff has not specifically proffered that this was the case, the court must grant Plaintiff the "benefit of all inferences that can be derived from the facts alleged." Hettinga, 677 F.3d at 476. Accordingly, the court will deny Defendant's motion to dismiss Plaintiff's "comp" time claim.
+
+C. Disparate Treatment and Failure to Accommodate Claims
+Rather than bringing a claim for disparate treatment, Plaintiff brings a hostile work environment claim and couches his salary and "comp" time claims as retaliation claims by explaining that after he disclosed his condition, requested accommodations and filed his EEOC charge, Defendant failed to give him a raise and did not allow him to use "comp" time beyond seven hours.
+However, in his response to Defendant's motion to dismiss, Plaintiff appears to take the position that he has pled a disparate treatment claim: "Defendant does not seek the dismissal of Plaintiff's disability discrimination claims in Counts II and III, only his retaliation claims." ECF No. 10, Pls. Resp. at 1 n.1. To the extent Plaintiff wishes to proceed with a disparate treatment claim relating to his salary and "comp" time allegations, [*11]  he must file a motion to amend his complaint. Any such motion shall be limited to six pages.
+Likewise, although Plaintiff asserts that his case includes an ADA "failure to accommodate" claim, his Complaint does not contain a count for such a claim. Accordingly, to proceed with a reasonable accommodation claim, Plaintiff must file a motion to amend.
+
+IV. CONCLUSION
+For the reasons set forth above, by separate order the court will DENY Defendant's motion to dismiss.
+Date: May 26, 2022
+/s/ Tanya S. Chutkan
+TANYA S. CHUTKAN
+United States District Judge
+
+ORDER
+For the reasons set forth in the accompanying Memorandum Opinion, Defendant's Motion to Dismiss, ECF No. 8, is hereby DENIED.
+Date: May 26, 2022
+/s/ Tanya S. Chutkan
+TANYA S. CHUTKAN
+United States District Judge
+
+
+End of Document
+

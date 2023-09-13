@@ -1,0 +1,44 @@
+Ivey v. First Quality Retail Servs.
+United States District Court for the Middle District of Georgia, Macon Division
+June 15, 2010, Decided; June 15, 2010, Filed
+Civil Action No. 5:09-cv-333 (HL)
+
+Reporter
+2010 U.S. Dist. LEXIS 59255 *; 14 Accom. Disabilities Dec. (CCH) P14-199; 2010 WL 2507828
+CYNTHIA MARIE IVEY, Plaintiff, v. FIRST QUALITY RETAIL SERVICES, Defendant.
+Subsequent History: Summary judgment granted by Ivey v. First Quality Retail Servs., 2011 U.S. Dist. LEXIS 47172 (M.D. Ga., May 3, 2011)
+Counsel:  [*1] Cynthia Marie Ivey, Plaintiff, Pro se, Culloden, GA.
+For First Quality Retail Services, Defendant: Thomas F. Richardson, Chambless, Higdon, Richardson, Katz & Griggs, Macon, GA.
+Judges: HUGH LAWSON, SENIOR JUDGE.
+Opinion by: HUGH LAWSON
+Opinion
+
+
+
+ORDER
+This case is before the Court on Defendant First Quality Retail Services, L.L.C.'s, ("First Quality") Motion to Dismiss (Doc. 6). For the following reasons, First Quality's motion is denied.
+
+I. PROCEDURAL AND FACTUAL BACKGROUND
+ 1 
+Plaintiff Cynthia Ivey ("Ivey"), proceeding pro se, filed her complaint against her former employer, First Quality, on November 21, 2009 (Doc. 1). In her complaint, Ivey explains that she suffers from carpel tunnel syndrome in the back of her hands. On February 22, 2008, she was told by supervisors at First Quality that she would no longer be offered light duty work. About two months later, on April 14, 2008, she received a letter from First Quality stating that she would be terminated on August 24, 2008. First Quality later terminated Ivey from her employment. Ivey's complaint alleges that  [*2] First Quality discriminated against her in violation of the Americans with Disabilities Act ("ADA") when it refused to allow her to return to light duty work and when it terminated her employment.
+Pursuant to Federal Rules of Civil Procedure Rule 12(b)(6) First Quality filed a motion to dismiss Ivey's complaint arguing that it fails to state a claim upon which relief may be granted.
+
+II. MOTION TO DISMISS LEGAL STANDARD
+When deciding a motion to dismiss, a court accepts all factual allegations in the complaint as true and construes them in the light most favorable to the plaintiff. Hill v. White, 321 F.3d 1334, 1335 (11th Cir. 2003). For a pro se plaintiff, a court must "construe [his] complaint more liberally than [it] would formal pleadings drafted by lawyers." Powell v. Lennon, 914 F.2d 1459, 1463 (11th Cir. 1990).
+Nevertheless, to survive a motion to dismiss, a complaint must "contain either direct or inferential allegations respecting all the material elements [of a claim]." Fin. Sec. Assur., Inc. v. Stephens, Inc., 500 F.3d 1276, 1282-83 (11th Cir. 2007) (quotations and citations omitted). The factual allegations in the complaint must also "raise a right to relief above the speculative  [*3] level." Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 1965, 167 L.Ed.2d 929 (2007). This means the plaintiff must do more than use labels and conclusions, and he must include more than a formulaic recitation of the elements of a cause of action. Id.
+In conducting this review, the court is limited to considering the complaint and any documents referred to in the complaint which are central to the claims. Wilchombe v. TeeVee Toons, Inc., 555 F.3d 949, 959 (11th Cir. 2009).
+
+III. DISCUSSION
+To establish a prima facie case of discrimination under the ADA, 2 a plaintiff must show: (1) she is disabled; (2) she is a qualified individual; and (3) she was subjected to unlawful discrimination because of her disability. Earl v. Mervyns, Inc., 207 F.3d 1361, 1365 (11th Cir. 2000).
+First Quality argues that Ivey has not sufficiently alleged the second element of a prima facie ADA case: that she is a qualified individual. It first asserts that Ivey has not alleged that she was able to perform the essential functions of her job with or without an accommodation. Second, it argues that light  [*4] duty work was not a reasonable accommodation and relies on case law that establishes that the ADA does not require employers to create light duty work positions.
+The ADA defines qualified individual as a person "who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires." 42 U.S.C. § 12111(8). "Reasonable accommodation may include job restructuring, part-time or modified work schedules, reassignment to a vacant position . . . ." 42 U.S.C. § 12111(9)(B). Whether an accommodation is reasonable depends on specific circumstances. Terrell v. USAir, 132 F.3d 621, 626 (11th Cir. 1998).
+Viewing Ivey's complaint liberally and within the confines of Twombly, the Court finds that the complaint contains sufficient allegations of disability discrimination on two occasions and contains adequate factual content supporting the allegations of discrimination. From Ivey's allegation that First Quality allowed her to perform light duty work instead of terminating her employment while she suffered from carpal tunnel syndrome, the inference can be drawn that she could perform the essential functions of the position for  [*5] which she had been hired. In addition, the mere fact that First Quality provided her light duty work constitutes sufficient factual content to support her claim that light duty work was a reasonable accommodation. In sum, Ivey has not made a conclusory ADA claim.
+While First Quality is correct that an employer is not required to create light duty work as a reasonable accommodation, a reasonable accommodation may include reassignment to a vacant light duty position. 42 U.S.C. § 12111(9)(B); see also Allen v. Georgia Power Co., 980 F. Supp. 470, 478 n. 3 (N.D. Ga. 1997) (stating that "if an employer already has a vacant light duty position for which an injured worker is qualified, it might be a reasonable accommodation to reassign the worker to that position."). The Court disagrees with First Quality to the extent it argues that as a matter of law an employer's failure to provide light duty work never constitutes a violation of the ADA.
+Since Ivey has adequately stated a claim for ADA relief, whether Ivey is a qualified individual is an issue more properly reserved for summary judgment. First Quality's motion to dismiss is accordingly denied.
+SO ORDERED, this the 15th day of June, 2010.
+/s/  [*6] Hugh Lawson
+HUGH LAWSON, SENIOR JUDGE
+
+
+End of Document
+

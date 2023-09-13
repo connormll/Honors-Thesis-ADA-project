@@ -1,0 +1,133 @@
+Balliet v. Scott's Auto Serv.
+United States District Court for the Eastern District of Pennsylvania
+March 29, 2013, Decided; March 29, 2013, Filed
+Civil Action No. 11-cv-05394
+
+Reporter
+2013 U.S. Dist. LEXIS 45321 *; 27 Am. Disabilities Cas. (BNA) 1521; 2013 WL 1285474
+LISA BALLIET, Plaintiff v. SCOTT'S AUTO SERVICE, INC., SCOTT'S COLLISION CENTERS, INC., and SCOTT DEWALT, Defendants
+Counsel:  [*1] Appearances: DAVID L. DERATZIAN, ESQUIRE, On behalf of Plaintiff.
+ELIZABETH M. KELLY, ESQUIRE, On behalf of Defendants.
+Judges: JAMES KNOLL GARDNER, United States District Judge.
+Opinion by: JAMES KNOLL GARDNER
+Opinion
+
+
+JAMES KNOLL GARDNER
+United States District Judge
+This matter is before the court on the Motion to Dismiss Pursuant to Fed.R.Civ.P. 12(b)(6) filed by defendants on November 14, 2011.1 For the reasons expressed in this Opinion, defendants' Motion to Dismiss is denied.
+
+SUMMARY OF DECISION
+This employment discrimination action involves claims by plaintiff Lisa Balliet, a former Bookkeeper for the corporate defendants Scott's Auto Service, Inc. and Scott's Collision Centers, Inc. Plaintiff claims that she is disabled and that, when she sought reasonable accommodations for her disability from the corporate defendants through defendant  [*2] Scott DeWalt, her multiple requests were ignored; and she was ultimately fired for making those requests.
+Count I of plaintiff's Complaint asserts a claim against the corporation defendants only for violation of the Americans with Disabilities Act ("ADA"),2 while Count II asserts a claim against all defendants for violation of the Pennsylvania Human Relations Act ("PHRA").3
+Defendants's motion seeks to dismiss each of plaintiff's claims for failure to provide sufficient factual allegations in the Complaint. Defendants also seek to dismiss plaintiff's claim against defendant Scott DeWalt because, defendants contend, the PHRA does not permit claims against individual employees. For the reasons expressed below, I deny defendants' motion.
+
+JURISDICTION
+This court has federal question jurisdiction pursuant to 28 U.S.C. § 1331 over plaintiff's federal cause of action asserted in Count I of the Complaint. This court has supplemental jurisdiction pursuant to 28 U.S.C. § 1367(a) over plaintiff's pendent state-law claim asserted in Count II of the Complaint.
+
+VENUE
+Venue for this action  [*3] is proper for all three defendants pursuant to 28 U.S.C. § 1391(b)(2) because a substantial part of the events giving rise to plaintiff's claims occurred in Easton, Northampton County, Pennsylvania, which is located within this judicial district.
+Corporate defendants are deemed to reside in any judicial district in which they are subject to the court's personal jurisdiction with respect to the civil action in question. See 28 U.S.C. § 1391(c)(2). Because plaintiff's claims arise from actions taken during the course of her employment at Scott's Auto Service, Inc. and Scott's Collision Centers, Inc.; and because those corporate defendants are incorporated under the laws of the Commonwealth of Pennsylvania, and each operate from the same corporate offices in Easton,4 both corporate defendants are subject to personal jurisdiction within Pennsylvania and within this judicial district. See 42 Pa.C.S.A. § 5301(a)(2)(i), (iii).
+Therefore, for purposes of venue, all three defendants reside in Pennsylvania; and Defendants Scotts Auto Service, Inc. and Scott's Collision Centers, Inc. reside in Easton, Northampton County, Pennsylvania, which is located within this  [*4] judicial district. Accordingly, venue is also proper for all three defendants pursuant to 28 U.S.C. § 1391(b)(1).
+
+PROCEDURAL HISTORY
+Plaintiff Lisa Balliet initiated this action by filing a two-count Complaint on August 26, 2011. Defendants' counsel executed a Waiver of Service of Summons on September 21, 2011. On November 14, 2011, defendants filed their Motion to Dismiss Pursuant to Fed.R.Civ.P. 12(b)(6) together with a brief in support. On November 21, 2011, Plaintiff's Answer to Defendants' Motion to Dismiss was filed. Hence this Opinion.
+
+STANDARD OF REVIEW
+A claim may be dismissed under Federal Rule of Civil Procedure 12(b)(6) for "failure to state a claim upon which relief can be granted." A Rule 12(b)(6) motion requires the court to examine the sufficiency of the complaint. Conley v. Gibson, 355 U.S. 41, 45, 78 S.Ct. 99, 102, 2 L.Ed.2d 80, 84 (1957) (abrogated in other respects by Bell Atlantic Corporation v. Twombly, 550 U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)). Generally, in ruling on a motion to dismiss, the court relies on the complaint, attached exhibits, and matters of public record, including other judicial proceedings. Sands v. McCormick, 502 F.3d 263, 268 (3d Cir. 2008).
+Except  [*5] as provided in Federal Rule of Civil Procedure 9, a complaint is sufficient if it complies with Rule 8(a)(2), which requires "a short and plain statement of the claim showing that the pleader is entitled to relief". Rule 8(a)(2) does not require heightened fact pleading of specifics, but only enough facts to state a claim to relief that is plausible on its face. Twombly, 550 U.S. at 570, 127 S.Ct. at 1974, 167 L.Ed.2d at 949.5
+In determining whether a complaint is sufficient, the court must accept all factual allegations as true, construe the complaint in the light most favorable to the plaintiff,  [*6] and determine whether, under any reasonable reading, the plaintiff may be entitled to relief. Fowler, 578 F.3d at 210 (citing Phillips v. County of Allegheny, 515 F.3d 224, 233 (3d Cir. 2008)).
+Although "conclusory" or "bare-bones allegations" will not survive a motion to dismiss, Fowler, 578 F.3d at 210, a complaint may not be dismissed merely because it appears unlikely that the plaintiff can prove those facts or will ultimately prevail on the merits. Phillips, 515 F.3d at 231. Nonetheless, to survive a Rule 12(b)(6) motion, the complaint must provide "enough facts to raise a reasonable expectation that discovery will reveal evidence of the necessary element." Id. at 234 (quoting Twombly, 550 U.S. at 556, 127 S.Ct. at 1965, 167 L.Ed.2d at 940) (internal quotations omitted).
+The court is required to conduct a two-part analysis when considering a Rule 12(b)(6) motion. First, the factual matters averred in the complaint, and any attached exhibits, should be separated from legal conclusions asserted. Fowler, 578 F.3d at 210. Any facts pled must be taken as true, and any legal conclusions asserted may be disregarded. Id. at 210-211.
+Second, the court must determine whether those factual  [*7] matters averred are sufficient to show that the plaintiff has a "plausible claim for relief." Id. at 211 (quoting Iqbal, 556 U.S. at 679, 129 S.Ct. at 1950, 173 L.Ed.2d at 884).
+Ultimately, this two-part analysis is "context-specific" and requires the court to draw on "its judicial experience and common sense" to determine if the facts pled in the complaint have "nudged [plaintiff's] claims" over the line from "[merely] conceivable [or possible] to plausible." Iqbal, 556 U.S. at 679-680, 129 S.Ct. at 1949-1951, 173 L.Ed.2d at 884-885.
+A well-pled complaint may not be dismissed simply because "it strikes a savvy judge that actual proof of those facts is improbable, and that a recovery is very remote and unlikely." Twombly, 550 U.S. at 556, 127 S.Ct. at 1965, 167 L.Ed.2d at 940-941 (internal quotations omitted).
+
+FACTS
+Based upon the averments in plaintiff's Complaint, which I must accept as true under the applicable standard of review discussed above, the pertinent facts are as follows.
+
+Parties
+Plaintiff Lisa Balliet is an adult female who presently resides in New London, Connecticut. Ms. Balliet was employed by defendants Scott's Auto Service, Inc. ("Scott's Auto") and Scott's Collision Centers,  [*8] Inc. ("Scott's Collision") (together, the "Scott Businesses") as a Bookkeeper from May 2008, through March 2010.6
+The Scott Businesses operate out of the same corporate office, which is located in Easton, Pennsylvania. The Scott Businesses share a common payroll account with an entity called "ADP". Scott's Auto contracts with customers to perform auto repair work and assigns the repair work to Scott's Collision. Scott's Auto makes all corporate policies for Scott's Collision.7
+The Scott Businesses employ more than fifteen employees.8
+Defendant Scott DeWalt is an adult male who resides in Pennsylvania.9 Mr. DeWalt owns and operates the Scott Businesses, and supervised and managed Ms. Balliet during her employment with the Scott Businesses.10
+Ms. Balliet performed bookkeeping functions for, and alleges that she was a "joint employee" of, the Scott Businesses.11 During her employment by the Scott Businesses, Ms. Balliet exhibited exemplary work habits and fulfilled all of her duties and obligations as a Bookkeeper.12
+
+Discriminatory Conduct
+While she was employed by the Scott Businesses, plaintiff was diagnosed with "several serious medical conditions".13 Plaintiff's medical conditions affected her musculoskeletal system, her nervous system, and her internal organs.14
+The medical conditions with which plaintiff was diagnosed restricted her ability to cook for herself, to use her right arm, to move about, to concentrate, to sit, to stand, and to do household and yard work.15
+On December 7, 2009 plaintiff requested that defendant Scott DeWalt provide her with certain accommodations. Specifically, plaintiff requested (1) leave to recover from the symptoms of her medical conditions, (2) "job restructuring", (3) "a proper chair", (4) a headset to use when answering the telephone, (5) longer computer cables, and (6) "arm placement".16
+Plaintiff again requested these accommodations on January 6, January 20, February 15, and March 15, 2010.17
+On March 19, 2010 — two weeks after plaintiff's fifth request for the accommodations described above — defendant DeWalt terminated plaintiff's employment with the Scott Businesses.18
+
+DISCUSSION
+Defendants contend that plaintiff's Complaint should be dismissed for several reasons. First, defendants contend that plaintiff's Complaint does not include sufficient factual averments to support plaintiff's allegations that she is disabled.19
+Second, defendants contend that plaintiff's claim asserted against defendant Scott DeWalt must be dismissed because "an individual Defendant...cannot be liable for discrimination or retaliation under the PHRA."20
+Third, and finally, defendants contend that plaintiff's claim against defendants based upon a theory that any defendant aided and abetted discriminatory conduct in violation of the PHRA must be dismissed because plaintiff has not pled sufficient facts to support a plausible claim of liability based on an aiding and abetting theory.21 For the reasons described below, defendants' arguments are unavailing.
+
+Disability
+An individual is "disabled" if she has "a physical or mental impairment that substantially limits one or more of the major life activities of such individual." 42 U.S.C. § 12102(1)(A); see Sulima v. Tobyhanna Army Depot, 602 F.3d 177, 185 (3d Cir. 2010)  [*12] (citing 42 U.S.C. § 12102(2)(2006)).
+The Americans with Disabilities Act states that, for purposes of defining disability, "major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working." 42 U.S.C. § 12102(2)(A).
+In addition, the ADA states that "a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions." 42 U.S.C. § 12102(2)(B).
+The regulations promulgated by the United States Equal Employment Opportunity Commission (EEOC) pursuant to the ADA also define, and provide examples of, major life activities. Specifically, the EEOC regulations provide, in pertinent part, that
+[m]ajor life activities include, but are not limited to:
+(i) Caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing,  [*13] learning, reading, concentrating, thinking, communicating, interacting with others, and working; and
+(ii) The operation of a major bodily function, including functions of the immune system, special sense organs and skin; normal cell growth; and digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive functions. The operation of a major bodily function includes the operation of an individual organ within a body system.
+29 C.F.R. § 1630.2(i)(1)(i)-(ii).
+"Physical or mental impairment", for the purposes of the ADA, is any "physiological disorder, or condition...affecting one or more of the following body systems: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine." 29 C.F.R. § 1630.2(h)(1); see Sulima, 602 F.3d at 185.
+"'Substanially limits' is not meant to be a demanding standard." 29 C.F.R. § 1630.2(j)(1)(i); see also 42 U.S.C. §§ 12101, 12102(4)(A)-(C). An impairment is an ADA disability when it "substantailly limits the ability of an individual  [*14] to perform a major life activity as compared to most people in the general population." 29 C.F.R. § 1630.2(j)(1)(ii). Indeed, the EEOC regulations promulgated under the ADA explain that "[a]n impairment need not prevent or severely restrict, the individual from performing a major life activity in order to be considered substantially limiting." Id.
+The EEOC regulations make clear that "[t]he term 'substantially limits' shall be construed broadly in favor of expansive coverage" and is to be interpreted relative to the capabilities of most people in the general population. 29 C.F.R. § 1630.2(j)(1)(i)-(ii).
+Here, while I agree with defendants that plaintiff's Complaint describes her symptoms in a somewhat disjointed fashion,22 I nonetheless conclude that plaintiff's Complaint contains sufficient factual matter — taken as true, as I am required to do by the standard of review described above — to support a reasonable inference that Ms. Balliet suffers from multiple medical condition which substantially limit one or more major life activity.
+Paragraph 21 of the Complaint states, in its entirety, that
+[a]t all times material hereto, Plaintiff had been diagnosed with several  [*15] serious medical conditions including orthopeadic, neurologic and of her internal organ systems, which significantly restricted her in several major life activities, including cooking for herself, dressing all daily life functions, severe restrictions on the use of her right arm limited function, pain limited use, restricted movement, stating restrictions and other substantial limitations, in concentrating, ambulation, sitting, standing, housework, yard work, and working.23
+Though it is not a model of clarity, paragraph 21 of the Complaint supports a reasonable inference that Ms. Balliet was diagnosed with medical conditions which affect her musculoskeletal system, her nervous system, and her internal organs and which restrict plaintiff's ability to cook for herself, to use her right arm, to move about, to dress, to concentrate, to sit, to stand, and to do household work, yard work, and the work of a bookkeeper.24 Accordingly, Ms. Balliet has sufficiently pled that she is disabled for purposes of the ADA and defendant's motion to dismiss the Complaint on that basis is denied.
+
+Failure to Accommodate
+Both the Americans with Disabilities Act and the Pennsylvania  [*16] Human Relations Act prohibit certain entities from discriminating against disabled, otherwise qualified individuals in the hiring and firing of employees. 42 U.S.C. § 12112(a); 43 P.S. § 955(a).
+Pursuant to the ADA, an employer must reasonably accommodate an employee's disability. Williams v. Philadelphia Housing Authority Police Department, 380 F.3d 751, 761 (3d Cir. 2004). Moreover, an employer's failure to engage in an interactive, good-faith process to determine whether an accommodation can reasonably made for a disabled employee constitutes prohibited discrimination. Taylor v. Phoenixville School District, 184 F.3d 296, 311-312 (3d Cir. 1999).
+The United States Court of Appeals for the Third Circuit has stated that
+[a]n employee can demonstrate that an employer breached its duty to provide reasonable accommodations because it failed to engage in good faith in the interactive process by showing that: 1) the employer knew about the employee's disability; 2) the employee requested accommodations or assistance for his or her disability; 3) the employer did not make a good faith effort to assist the employee in seeking accommodations; and 4) the employee could have been reasonably accommodated  [*17] but for the employer's lack of good faith.
+Colwell v. Rite Aid Corporation, 602 F.3d 495, 504 (3d Cir. 2010) (internal quotation marks omitted).
+Here, plaintiff made requests to defendant DeWalt on five separate occasions — December 7, 2009, and again on January 6, January 20, February 15, and March 5, 2010 — that the Scott Businesses provide her with certain accommodations related to her medical conditions. Plaintiff further avers that defendant DeWalt "would consistently tell Plaintiff that he would not provide any of the requested accommodations" and that he "did not have time to discuss [the] matter with her".25
+Accordingly, plaintiff has alleged sufficient facts to support a reasonable inference that the Scott Businesses and defendant DeWalt failed to engage in an interactive, good-faith process to determine whether accommodations could reasonably made for plaintiff.
+For these reasons, I conclude that plaintiff has sufficiently pled her failure-to-accommodate claim in Count I under the ADA against the corporation defendants only, and in Count II under the PHRA against all defendants.
+
+Retaliation
+Retaliation claims under the ADA and the PHRA are analyzed in the same  [*18] manner. Rinehimer v. Cemcolift, 292 F.3d 375, 382 (3d Cir. 2002).
+To state a claim for retaliation under the ADA, a plaintiff must show that (1) plaintiff engaged in an ADA-protected activity; (2) defendant took an adverse employment action against plaintiff either at the same time or after plaintiff's protected activity; and (3) a causal relationship exists between plaintiff's protected activity and defendant's adverse employment action. Aman v. Cort Furniture Rental Corporation, 85 F.3d 1074, 1085 (3d Cir. 1996).
+Requesting an accommodation from an employer because of a disability constitutes ADA-protected activity. Sulima v. Tobyhanna Army Depot, 602 F.3d 177, 188 (3d Cir. 2010).
+Here, plaintiff made requests to defendant DeWalt on five separate occasions — December 7, 2009 and then again on January 6, January 20, February 15, and March 5, 2010 — that the Scott Businesses provide her with certain accommodations for her medical conditions. Defendant DeWalt terminated plaintiff's employment as a Bookkeeper with the Scott Businesses on March 19, 2010, two weeks after plaintiff's fifth request for accommodations.
+In other words, plaintiff's Complaint alleges that she engaged in ADA-protected  [*19] activity (requesting the accommodations) and that she suffered an adverse employment action (termination) two weeks after the latest of multiple instances of protected actions. These facts alleged by plaintiff support a plausible, reasonable inference that a causal relationship exists between plaintiff's ADA-protected activity and the termination of her employment from the Scott Businesses.
+For these reasons, I conclude that plaintiff has sufficiently pled her retaliation claims in Count I under the ADA against the corporation defendants only, and in Count II under the PHRA against all defendants.
+
+Individual Liability
+Defendant's argument that plaintiff's claim in Count II against defendant Scott DeWalt must be dismissed because the PHRA does not provide for individual liability is flawed.
+Defendants cite Holocheck v. Luzerne County Head Start, Inc., 385 F.Supp.2d 491 (M.D.Pa. 2005) (Vanaskie, C.J.), and Clinkscales v. The Children's Hospital of Philadelphia, 2007 U.S.Dist. LEXIS 83930 (E.D.Pa. November 9, 2007) (Kauffman, J.) for the proposition that "individuals cannot be held liable for disability discrimination or retaliation under either the ADA or the PHRA."26
+Neither now-Circuit Judge Vanaskie's Opinion in Holocheck, nor Judge Kauffman's Opinion in Clinkscales, stands for, or supports, that proposition. In fact, both cases clearly provide that an individual defendant who is a supervisory employee may be held liable pursuant to the PHRA — specifically, 43 P.S. § 955(e) — under an aiding and abetting or accomplice theory of liability. Holocheck, 385 F.Supp.2d at 496-497; Clinkscales, 2007 U.S.Dist. LEXIS 83930, at *24-26.
+Both Holocheck and Clinkscales quote Davis v. Levy, Angstreich, Finney, Baldante, Rubenstein & Coren, P.C., 20 F.Supp.2d 885, 887 (E.D.Pa. 1998)(Joyner, J.) and I will do so as well:
+an individual supervisory employee can be held liable under an aiding and abetting/accomplice liability theory pursuant to § 955(e) for his own direct acts of discrimination or for his failure to take action to prevent further discrimination by an employee under supervision.
+Davis, 20 F.Supp.2d at 887 (citing Dici v. Commonwealth of Pennsylvania, 91 F.3d 542, 552-553 (3d Cir. 1996)); see also Santai v. Fred Beans Ford, Inc., 2011 U.S. Dist. LEXIS 91128, at *9-10 (E.D.Pa. August 16, 2011) (Bartle, J.) (stating that "[n]umerous  [*21] other courts in our district have reached the same conclusion" and collecting cases).
+Here, the authority relied upon by defendants does not actually support their position. Moreover, as discussed previously in this Opinion, plaintiff's Complaint contains sufficient factual matter to support a reasonable inference that plaintiff is disabled within the meaning of the ADA and PHRA, that defendant DeWalt refused to engage in a good faith, interactive dialogue with plaintiff concerning her disability and her requested accomodations; and finally, that plaintiff's employment with the Scott Businesses was terminated because she requested accommodations from the Scott Businesses.
+Specifically, plaintiff alleges that she made her requests for accommodations to defendant Scott DeWalt and that he was the person who actually fired her. Accordingly, the direct acts of discrimination by defendant DeWalt alleged in plaintiff's Complaint are sufficient to state a plausible claim of individual liability against defendant DeWalt pursuant to section 955(e) of the PHRA.
+For these reasons, I deny defendants' motion to the extent it seeks to dismiss plaintiff's claim in Count II against individual defendant  [*22] Scott DeWalt.
+
+CONCLUSION
+For the reasons expressed above, I deny defendant's Motion to Dismiss Pursuant to Fed.R.Civ.P. 12(b)(6).
+
+ORDER
+NOW, this 29th day of March, 2013, upon consideration of the following documents:
+(1) Motion to Dismiss Pursuant to Fed.R.Civ.P. 12(b)(6) filed by defendants on November 14, 2011, together with
+(A) Exhibit, United States Equal Opportunity Commission Notice of Charge of Discrimination, EEOC Charge No. 530-2010-03074, filed by Lisa Balliet on August 17, 2010; and
+(B) Brief in Support of Defendants' Motion to Dismiss Pursuant to Fed.R.Civ.P. 12(b)(6);
+(2) Plaintiff's Answer to Defendants' Motion to Dismiss, which answer was filed November 21, 2011; and
+(3) Complaint filed by plaintiff on August 26, 2011;
+and for the reasons expressed in the accompanying Opinion,
+IT IS ORDERED that the within motion is denied.
+BY THE COURT:
+/s/ JAMES KNOLL GARDNER
+James Knoll Gardner
+United States District Judge
+
+
+End of Document
+

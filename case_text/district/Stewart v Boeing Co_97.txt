@@ -1,0 +1,102 @@
+Stewart v. Boeing Co.
+United States District Court for the Central District of California
+December 23, 2013, Decided; December 23, 2013, Filed
+CV 12-05621 RSWL (Ex)
+
+Reporter
+2013 U.S. Dist. LEXIS 180807 *; 2013 WL 6839411
+William Stewart, Plaintiff, v. The Boeing Company and Does 1-50, Defendants.
+Prior History: Stewart v. Boeing Co., 2013 U.S. Dist. LEXIS 63825 (C.D. Cal., May 2, 2013)
+Counsel:  [*1] William Stewart, an individual, Plaintiff, Pro se, Hesperia, CA.
+For Boeing Company, The, a Delaware Corporation, Defendant: Daniel F Fears, Sean A O'Brien, Payne and Fears LLP, Irvine, CA.
+Judges: HONORABLE RONALD S.W. LEW, Senior United States District Judge.
+Opinion by: RONALD S.W. LEW
+Opinion
+
+
+
+STATEMENT OF UNCONTROVERTED FACTS AND CONCLUSIONS OF LAW RE: DEFENDANT'S MOTION FOR SUMMARY JUDGMENT, OR ALTERNATIVELY, PARTIAL SUMMARY JUDGMENT [43]
+After consideration of all the papers submitted pursuant to Defendant The Boeing Company's ("Defendant") Motion for Summary Judgment, or Alternatively Partial Summary Judgment [43], the Court makes the following findings of fact and conclusions of law:
+
+UNCONTROVERTED FACTS
+1. Plaintiff William Stewart ("Plaintiff") was employed by Defendant as an "Expeditor" working on the assembly of the C-17 military transport aircraft in Long Beach California beginning in 1985 until his termination, effective on April 1, 2010. Miller Decl. ¶¶ 5, 20; Defendant's Statement of Uncontroverted Facts ("SUF") # 1.
+2. During his employment with Defendant, including at the time of his termination, Plaintiff was a member of the United Aerospace Workers Union (Local No. 148) ("Union") and was subject to  [*2] a Collective Bargaining Agreement ("CBA") between Defendant and the Union. Miller Decl. ¶ 5.
+3. Defendant and the Union have specific written policies governing Medical Leaves of Absence ("MLOA") and its employees are provided with or have access to these policies. Miller Decl. ¶¶ 7-8, Exs. A, B.
+4. Plaintiff is familiar with Defendant's policies governing MLOA. O'Brien Decl., Ex. A (Deposition of William Stewart ("Stewart Depo.")) 108:23-110:22, 112:17-113:22, 116:19-117:7.
+5. Defendant's MLOA policy requires employees to submit requested medical documentation to Defendant's Leave Administrator, Aetna, within 15 days of the request and requires employees to contact Aetna prior to the expiration of an approved MLOA to inform Defendant whether the employee plans to return to work or extend his or her leave. Miller Decl. ¶ 7, Ex. A.
+6. Defendant's MLOA policy advises employees that failure to comply with these rules could result in termination, and that failure of an employee to contact the company within three days after expiration of his/her approved leave would result in termination, retroactive to the leave expiration date. Id.
+7. The CBA contains a similar provision requiring union employees  [*3] to timely provide medical information updates from health care providers to extend their MLOA, and provides a designated MLOA union representative to follow up with employees. Miller Decl. ¶ 8, Ex. B.
+8. During his employment with Defendant, Plaintiff suffered from physical and psychological issues for which he took several medical leaves of absence. O'Brien Decl. ¶¶ 4-6, Exs. B and C.
+9. On or about January 8, 2010, Plaintiff went on a MLOA. Plaintiff submitted his required medical paperwork to Aetna, and his MLOA was initially approved through February 12, 2010. He later, upon request, submitted updated medical information to further extend his MLOA until March 31, 2010. Miller Decl. ¶¶ 4, 9, Exs. C & D; Stewart Depo. 118:9-123:14.
+10. On March 12, 2010 and March 18, 2010, Defendant and Aetna sent letters to Plaintiff's home address informing him that his approved MLOA would be expiring at the end March and requesting that he provide additional or supplemental documentation from his health care providers in order to extend his leave beyond March 2010. The letter stated that the updated medical information needed to be submitted to Defendant prior to March 26, 2010. Miller Decl. ¶ 10,  [*4] Exs. E and F.
+11. Plaintiff brought the medical form to his doctor to fill out, and it was faxed to Aetna on or about March 25, 2010, but the faxed form was incomplete. On March 29, Id. at ¶ 11.
+12. On March 29, 2010, Defendant and Aetna sent a letter to Plaintiff's home address, informing him that his prior medical submission on March 25, 2010 was incomplete, and that a completed form needed to be returned to Defendant and Aetna no later than April 8, 2010. Id. at ¶ 12, Ex. G.
+13. Neither Defendant nor Aetna ever received the requested information by April 8, 2010, and heard nothing further from Plaintiff or his health care providers as of that date. Id. at ¶ 13.
+14. On April 14, 2010, Nancy Miller, who was the assigned "Leave of Absence" person in Defendant's Human Resources Department, contacted Donnell Harding, who was the appointed MLOA union representative for Plaintiff. Ms. Miller informed Ms. Harding that Plaintiff's leave had expired, and that Ms. Harding needed to call Plaintiff to let him know that he needed to contact Defendant immediately to clear up the situation. Id. at ¶ 14, Ex. H.
+15. In addition to contacting Ms. Harding, Ms. Miller also sent a letter, dated April 20,  [*5] 2010, addressed to Plaintiff at his home, notifying him that he was "AWOL" and that he needed to contact Defendant's Leave of Absence office no later than April 27, 2010 to review his current employment status. The letter also stated that Plaintiff was "in violation of company agreements, policies, and procedures governing attendance and leaves of absence," and that failure to contact Defendant "will result in your immediate termination without further notice." Id. at ¶ 15, Ex. I.
+16. The April 20, 2010 letter was sent via certified mail, and three attempts were made by the U.S. Postal service to deliver it to Plaintiff's home address, with notices being left at his residence. Ultimately, the letter was never picked up by Plaintiff and it was returned to Defendant on May 14, 2010. Id.
+17. Ms. Harding called and left messages at Plaintiff's telephone number, and spoke to him on more than one occasion. The final conversation occurred on April 28, 2010, and is memorialized in an e-mail of that same date from Ms. Harding to Ms. Miller. In that e-mail, Ms. Harding wrote that she spoke with Plaintiff and told him that it was important to contact Ms. Miller, but that Plaintiff refused and claimed  [*6] that he had previously spoken with Vanessa Wilkins, another representative for Defendant, and that he had "special circumstances" that made it unnecessary to talk to Ms. Miller. Ms. Harding concluded that Plaintiff later became belligerent, rude, and uncooperative and she ended the conversation. Id. at ¶¶ 14, 16 Exs. H & J.
+18. Thereafter, Ms. Miller spoke with Ms. Wilkins, Ms. Miller's supervisor, who informed Ms. Miller that she had not spoken to Plaintiff about any "special circumstances" concerning his current MLOA, and that Ms. Miller should proceed with processing Plaintiff's termination. Id. at ¶ 17.
+19. On May 3, 2010, Ms. Miller prepared the necessary paperwork to effectuate a termination of Plaintiff's employment, which was signed by Ms. Wilkins. Id. at ¶ 17-18, Ex. K.
+20. Also on May 3, 2010, Ms. Miller prepared a letter to Plaintiff informing him of his termination from Defendant, effective April 1, 2010, based on "failing to adhere to [company] policies and procedures governing attendance and leaves of absence." Id. at ¶ 20, Ex. L.
+21. The termination letter was sent to Plaintiff's home address by certified mail. The U.S. Postal Service made three unsuccessful attempts to  [*7] deliver it, and left notices for him to pick it up. Plaintiff never picked up the letter and it was returned to Defendant on June 6, 2010. Id. at ¶ 20, Ex. L.
+22. On May 28, 2010, Plaintiff called into Defendant "Total Access" department where his termination and final paycheck were discussed. Id. at ¶ 22, Ex. N.
+23. On May 28, 2010, Plaintiff became fully aware that he had been terminated by Defendant. SUF # 23.
+24. In early June 2010, Plaintiff showed up at the Union Hall and spoke with the union steward about his termination, and stated that he planned to file a union grievance against Defendant. Miller Decl. ¶ 23, Ex. O.
+25. In early February 2011, Defendant learned that Plaintiff showed up at the Union Hall and told other employees that he planned to attempt to return to work despite having been terminated back in April 2010. Id. at ¶ 25, Ex. P.
+26. On February 11, 2011, Plaintiff showed up at Defendant's facilities, claiming that he had been "cleared" by his doctors to return to work. When Plaintiff showed up at Defendant's facilities, he brought a doctor's note and release form that had been signed within the prior two weeks. Plaintiff was reminded that he had been terminated as  [*8] of April 1, 2010 and told to leave, which we did. Id. at ¶ 26, Ex. Q.
+27. On March 11, 2011, Plaintiff submitted a union grievance which was ultimately denied because it had bee filed too late in violation of the CBA. Id. at ¶ 27, Ex. R.
+28. In September 2010, Plaintiff filed for SSDI benefits, claiming he had been "totally disabled" and was unable to work in any capacity since going on a MLOA from Defendant on January 8, 2010. Stewart Depo., Exs. 41-42.
+29. On March 17, 2012, after a hearing before an administrative law judge, the Social Security Administration issued a written decision determining that Plaintiff was "totally disabled" and unable to work in any capacity and had been that way since January 7, 2010. O'Brien Decl. ¶ 6, Ex. C; Stewart Depo., Exs. 41-42.
+30. As a result, Plaintiff has been receiving $1,900 a month in SSDI benefits. SUF # 32.
+31. Plaintiff did not file charges with the California Department of Fair Employment and Housing ("DFEH") until January 23, 2012 - 22 months after his termination from Defendant on April 1, 2010. That same day, DFEH issued Plaintiff's right to sue letter and closed the matter. Stewart Depo., Exs. 21 and 22.
+
+CONCLUSIONS OF LAW
+1. "In order  [*9] to bring a civil action under FEHA, the aggrieved person must exhaust the administrative remedies provided by law." Rodriguez v. Airborne Express, 265 F.3d 890, 896 (9th Cir. 2001) (citing Yurick v. Superior Court, 209 Cal. App. 3d 1116, 1121, 257 Cal. Rptr. 665, (1989)).
+2. Exhaustion in this context requires filing a written charge with DFEH within one year of the alleged unlawful employment discrimination, and obtaining notice from DFEH of the right to sue. Rodriguez, 265 F.3d at 896.
+3. The California Supreme Court has concluded that the FEHA statute of limitations begins to run when an alleged adverse employment action acquires some degree of permanence or finality. See Yanowitz v. L'Oreal USA, Inc., 36 Cal. 4th 1028, 1059, 32 Cal. Rptr. 3d 436, 116 P.3d 1123 (2005).
+4. Plaintiff had known that he had been fired since at least May 28, 2010. Thus, Plaintiff had one year from that date - until May 28, 2011 - to file an administrative complaint with the DFEH. See Rodriguez, 265 F.3d at 896; See Yanowitz, 36 Cal. 4th at 1059 (the FEHA statute of limitations begins to run when the alleged employment action acquires some degree of permanence or finality). Because Plaintiff filed his administrative complaint with the DFEH in January 2012 - almost  [*10] two years after he first learned of his termination - the Court finds that Plaintiff failed to timely exhaust his administrative remedies. See Rodriguez, 265 F.3d at 896.
+5. Exhaustion of these procedures is mandatory; thus, Plaintiff's FEHA claims are dismissed for failure to exhaust administrative remedies. See Parks v. Board of Trustees of California State University, No. 1:09-CV-1314 AWI GSA, 2010 U.S. Dist. LEXIS 9034, 2010 WL 455394, at *4 (E.D. Cal. Feb. 3, 2010); See also Dotson v. County of Kern, No. 1:09-CV-1325 AWI GSA, 2010 U.S. Dist. LEXIS 121569, 2010 WL 4878802, at *5 (E.D. Cal. Nov. 17, 2010).
+6. Even assuming, arguendo, that Plaintiff timely exhausted his administrative remedies, the Court finds that each of Plaintiff's claims fail as a matter of law.
+7. The California Supreme Court has adopted the tripartite burden-shifting framework established in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802-04, 93 S. Ct. 1817, 36 L. Ed. 2d 668, (1973), to analyze disparate treatment and retaliation claims. Lawler v. Montblanc North America, LLC, 704 F.3d 1235, 1242-44 (9th Cir. 2013).
+8. Under McDonnell Douglas, the plaintiff has the initial burden of establishing a prima facie case of discrimination or retaliation. Id. Once a prima facie case is shown, the burden shifts  [*11] to the defendant to show that the adverse employment action was taken for a legitimate, nondiscriminatory reason. Id. If defendant meets this burden, the plaintiff to demonstrate that the proffered reason is mere pretext for discrimination. Id.
+9. However, when an employer moves for summary judgment as to a plaintiff's FEHA claims, the employer bears the initial burden. Lawler, 704 F.3d at 1242 (citing Dep't of Fair Emp't & Hous. v. Lucent Techs., Inc., 642 F.3d 728, 745 (9th Cir. 2011) (quotation omitted)).
+10. "Thus, [t]o prevail on summary judgment, [the employer is] required to show either that (1) plaintiff could not establish one of the elements of [the] FEHA claim or (2) there was a legitimate, nondiscriminatory reason for its decision to terminate plaintiff's employment." Id. (quotation omitted) (alterations in original).
+11. If the employer meets its burden, the plaintiff must demonstrate either "that the defendant's showing was in fact insufficient or ... that there was a triable issue of fact material to the defendant's showing." Lucent Technologies, 642 F.3d at 746.
+12. The plaintiff can satisfy his burden by "produc[ing] substantial responsive evidence that the employer's  [*12] showing was untrue or pretextual. Id.
+13. A "plaintiff may establish pretext either directly by persuading the court that a discriminatory reason more likely motivated the employer or indirectly by showing that the employer's proffered explanation is unworthy of credence." Id. (citing Godwin v. Hunt Wesson, Inc., 150 F.3d 1217, 1220 (9th Cir. 1998)).
+14. If a plaintiff uses circumstantial evidence to satisfy this burden, such evidence "must be specific" and "substantial." Id. (citing Godwin, 150 F.3d at 1221).
+15. Defendant provides sufficient evidence of a legitimate, non-discriminatory reason for its decision to terminate Plaintiff - that Plaintiff "fail[ed] to adhere to [company] policies and procedures governing attendance and leaves of absence."
+16. Because Defendant provides a legitimate, non-discriminatory reason for its employment decisions, the burden shifts to Plaintiff to produce substantial responsive evidence that the employer's showing was untrue or pretextual. See Lucent Technologies, 642 F.3d at 746.
+17. Because Plaintiff fails to provide direct evidence of a discriminatory motive, Plaintiff must provide "specific and substantial" evidence that Defendant's proffered reason  [*13] was pretextual. See Cellini, 51 F. Supp. 2d at 1035-36; See also Lucent Technologies, 642 F.3d at 746.
+18. Plaintiff fails to meet his burden of providing "specific and substantial" evidence that Defendant's proffered reason was pretextual. See Cellini, 51 F. Supp. 2d at 1035-36.
+19. Pursuant to California Government Code section 12940(m), it is unlawful, and separately actionable under FEHA, for an employer to fail to make reasonable accommodation for the known physical or mental disability of an applicant or employee, unless the accommodation would cause undue hardship to the employer. Holtzclaw v. Certainteed Corp., 795 F. Supp. 2d 996, 1018 (E.D. Cal. 2011) (citing Raine v. City of Burbank, 135 Cal. App. 4th 1215, 1222-23, 37 Cal. Rptr. 3d 899 (2006)).
+20. The employee has "the burden of giving the employer notice of the disability." Id. (citing Raine, 135 Cal. App. 4th at 1222).
+21. Once notice is given, the employer must take affirmative steps and the parties must engage in an interactive process in order to attempt to fashion a reasonable accommodation. Id.
+22. Summary judgment in favor of an employer on a reasonable accommodation claim may granted where the employer shows:
+(1) reasonable accommodation  [*14] was offered and refused; (2) there simply was no vacant position within the employer's organization for which the disabled employee was qualified and which the disabled employee was capable of performing with or without accommodation; or (3) the employer did everything in its power to find a reasonable accommodation, but the informal interactive process broke down because the employee failed to engage in discussions in good faith.
+Department of Fair Employment and Housing v. Lucent Technologies, Inc., 642 F.3d 728, 744 (9th Cir. 2011).
+23. The undisputed evidence establishes that the informal interactive process broke down because of Plaintiff's failure to engage in good faith discussions with Defendant. See Davis v. Vitamin World, Inc., No. EDCV 11-00367 ODW (Opx), 2011 U.S. Dist. LEXIS 134723, 2011 WL 5865614, at *7 (C.D. Cal. Nov. 21, 2011).
+24. "In order to sustain a claim of wrongful discharge in violation of fundamental public policy, [a plaintiff] must prove that his dismissal violated a policy that is (1) fundamental, (2) beneficial for the public, and (3) embodied in a statute or constitutional provision." Nielsen v. Trofholz Technologies, Inc., 750 F. Supp. 2d 1157, 1171 (E.D. Cal. 2010) (citing Turner v. Anheuser-Busch, Inc., 7 Cal.4th 1238, 1256, 32 Cal. Rptr. 2d 223, 876 P.2d 1022, (1994)).
+25.  [*15] Where courts have granted summary judgment as to the plaintiff's FEHA claims, the courts have concluded that summary judgment is appropriate on the plaintiff's public policy claim. See Cavanaugh v. Unisource Woldwide, Inc., No. CIV-F-06-0119 AWI DLB, 2007 U.S. Dist. LEXIS 25907, 2007 WL 915223, at *11 (E.D. Cal. Mar. 26, 2007).
+26. Because the Court should grant summary judgment on Plaintiff's other claims, summary judgment should similarly granted on Plaintiff's public policy claim. See Nielsen, 750 F. Supp. 2d at 1171; see also Cavanaugh, 2007 U.S. Dist. LEXIS 25907, 2007 WL 915223, at *11.
+27. Based on the foregoing, Defendant is entitled to summary judgment as to all of Plaintiff's causes of action.
+28. Because Plaintiff has not identified the Doe defendants, despite having ample time to do so, the Doe defendants are dismissed from this Action. See McKenzie v. Rossi-Hill, No. 07-CV-1752-AC, 2010 U.S. Dist. LEXIS 63557, 2010 WL 2595560 at 1, n.2 (D. Or. Mar. 29, 2010), report and recommendation adopted, No. 07-CV-1752-AC, 2010 U.S. Dist. LEXIS 63556, 2010 WL 2595537 (D. Or. June 23, 2010) aff'd, 459 Fed. Appx. 661 (9th Cir. 2011).
+IT IS SO ORDERED.
+DATED: December 23, 2013
+/s/ RONALD S.W. LEW
+HONORABLE RONALD S.W. LEW
+Senior, U.S. District Court Judge
+
+JUDGMENT
+The evidence having been fully considered,  [*16] the issues having been duly heard, and a decision having been duly rendered,
+IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that judgment be entered in favor of Defendant The Boeing Company and against Plaintiff William Stewart. As no other defendants remain, this Action is dismissed in its entirety.
+IT IS SO ORDERED.
+DATED: December 23, 2013
+/s/ RONALD S.W. LEW
+HONORABLE RONALD S.W. LEW
+Senior, U.S. District Court Judge
+
+
+End of Document
+

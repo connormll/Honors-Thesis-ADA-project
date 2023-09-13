@@ -1,0 +1,41 @@
+Gupta v. IBM
+United States District Court for the Northern District of California, San Jose Division
+December 17, 2015, Decided; December 17, 2015, Filed
+Case No. 5:14-cv-01358-EJD
+
+Reporter
+2015 U.S. Dist. LEXIS 169617 *; 16 Accom. Disabilities Dec. (CCH) P16-194
+PIYUSH GUPTA, Plaintiff, v. INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM), Defendant.
+Prior History: Gupta v. IBM, 2015 U.S. Dist. LEXIS 95688 (N.D. Cal., July 22, 2015)
+Counsel:  [*1] For Piyush Gupta, Plaintiff: Tomas Michael Flores, LEAD ATTORNEY, Tomas M. Flores, Esq., San Jose, CA.
+For International Business Machines Corporation (IBM), Defendant: Scott Philip Jang, LEAD ATTORNEY, Alka Nari Ramchandani, Joshua Alan Kuns, Mitchell F. Boomer, Jackson Lewis P.C., San Francisco, CA.
+Judges: EDWARD J. DAVILA, United States District Judge.
+Opinion by: EDWARD J. DAVILA
+Opinion
+
+
+
+ORDER DENYING PLAINTIFF'S MOTION FOR LEAVE TO AMEND THE COMPLAINT; DENYING PLAINTIFF'S MOTION FOR RECONSIDERATION
+
+I. INTRODUCTION
+On August 5, 2014, this court issued a Case Management Order ("CMO") which, inter alia, provided a deadline by which the parties could amend their pleadings according to Federal Rule of Civil Procedure 15. See Docket Item No. 18. That deadline expired in early October, 2014, and the parties proceeded to litigate this case based on Plaintiff Piyush Gupta's ("Plaintiff") original complaint. To that end, Defendant International Business Machines Corporation ("IBM") served interrogatories during discovery, one of which requested that Plaintiff "state all facts" that support the allegation that IBM denied him a reasonable accommodation. See Decl. of Mitchell F. Boomer, Docket Item No. 86, at Ex. X. Plaintiff responded with the following statement: [*2]  "It took an inordinately long time for IBM to approve Plaintiff's request for business class air travel, his request for ergonomic furniture was never fulfilled." Id. IBM also asked Plaintiff to "state all facts" supporting his claim that IBM failed to engage in a timely, good faith interactive process. In response, Plaintiff stated: "Plaintiff asked for an ergonomic office, which IBM never set up." Id.
+IBM eventually moved for summary judgment on all claims. This court granted that motion in part, but denied it with respect to two claims: the second claim for failure to engage in a timely, good faith interactive process and the third claim for failure to provide a disability accommodation. As noted, Plaintiff stated during discovery that these two claims were based on the allegations that IBM took an "inordinately long time" to approve his accommodation requests and that his request for ergonomic furniture was "never fulfilled" or "never set up." Nothing more.
+At the Final Pretrial Conference on December 17, 2015, Plaintiff made an oral motion for leave to amend his complaint under Federal Rule of Civil Procedure 15 in order to assert that, in addition to those allegations previously disclosed, IBM failed to accommodate [*3]  his disability and failed to engage in the interactive process by not offering him disability benefits. IBM opposed the motion, and the court indicated it would deny it. The court has now thoroughly examined this issue and found no basis to modify its oral ruling. Accordingly, Plaintiff's motion will be denied, again, for the reasons explained below.
+
+II. DISCUSSION
+At the outset, the court must first frame the issue before it. Though Plaintiff's counsel referenced Federal Rule of Civil Procedure 15 during argument, Plaintiff's request for leave to amend is unquestionably governed by Federal Rule of Civil Procedure 16 and properly construed as a motion to amend the CMO.1 This is so because the deadline for amendment to the pleadings has long since expired. Johnson v. Mammoth Recreations Inc., 975 F.2d 604, 607-608 (1992). Under Rule 16, a party seeking to amend a scheduling order must demonstrate sufficient "good cause" for the relief. Fed. R. Civ. Proc. 16(b)(4) ("A schedule may be modified only for good cause and with the judge's consent."). Diligence on the part of the moving party is the focus of the inquiry. See Johnson, 975 F.2d at 609. If, and only if, the requisite good cause is shown, the court then turns to an examination of the relevant factors under Rule 15. Hood v. Hartford Life & Accident Ins. Co., 567 F. Supp. 2d 1221, 1224 (E.D. Cal. 2008); Johnson, 975 F.2d at 609 ("If that party was not diligent, the inquiry should end.").
+Here, Plaintiff has not established good cause to amend the scheduling order to allow for an amendment to the complaint. This is so because Plaintiff did not reasonably explain why he failed to disclose sooner that his remaining claims were based in part on disability benefits as a potential accommodation. Such an explanation is especially important for the establishment of good cause for three important reasons. First, contrary to the representations of Plaintiff's counsel at the hearing, it is not apparent from either the complaint or Plaintiff's interrogatory responses that his disability accommodation and engagement claims ever contemplated potential disability benefits as a possible accommodation. Second, Plaintiff cannot deny he was aware of potential issues related to short-term disability benefits, given the fact he based another of his claims on those very same benefits; in other words, the availability of disability benefits is not something Plaintiff recently discovered. [*5]  Third, the nature of Plaintiff's claims required him to identify, during this litigation and at some time prior to the eve of trial, the possible accommodations that would have been available during the interactive process. See Scotch v. Art Inst. of Cal., 173 Cal. App. 4th 986, 995, 93 Cal. Rptr. 3d 338 (2009).2 Plaintiff did identify an accommodation, but disability benefits were not it.
+Under these circumstances, where Plaintiff was aware of a possible theory but failed to timely raise it or alternatively provide a good reason for not doing so, the court is unable to find that Plaintiff acted with diligence. See Kaplan v. Rose, 49 F.3d 1363, 1370 (9th Cir. 1994) ("Late amendments to assert new theories are not reviewed favorably when the facts and the theory have been known to the party seeking amendment since the inception of the cause of action."). [*6]  Since a lack of diligence cannot be equated with a good cause finding under Rule 16, Plaintiff's motion for leave to amend the complaint must be denied.
+Thus, for the purposes of clarity, the court emphasizes that the subject of the currently-scheduled trial is two claims: (1) Plaintiff's second claim for failure to engage in a timely, good faith interactive process, and (2) Plaintiff's third claim for failure to provide a disability accommodation. Within neither of these two claims may Plaintiff assert a theory based on the loss of disability benefits as a potential accommodation.
+
+III. ORDER
+Based on the foregoing, Plaintiff's oral motion for leave to amend the complaint is DENIED. With that, there is no basis to revisit the in limine rulings. Plaintiff's oral motion for reconsideration is also DENIED.
+IT IS SO ORDERED.
+Dated: December 17, 2015
+/s/ Edward J. Davila
+EDWARD J. DAVILA
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,38 @@
+Larson v. DOT
+United States District Court for the Western District of Virginia, Harrisonburg Division
+April 5, 2011, Decided; April 5, 2011, Filed
+Civil Action No. 5:10-cv-00136
+
+Reporter
+2011 U.S. Dist. LEXIS 37393 *
+KARL LARSON, Plaintiff, v. COMMONWEALTH OF VIRGINIA, DEPARTMENT OF TRANSPORTATION, et al., Defendants.
+Counsel:  [*1] For Karl E. Larson, Plaintiff: Terry L. Armentrout, LEAD ATTORNEY, ARMENTROUT & ARMENTROUT PLC, HARRISONBURG, VA.
+For Commonwealth of Virginia, Department of Transportation, Gregory Whirley, Sr., Dept. of Transportation Commissioner, Defendants: Sydney E. Rab, LEAD ATTORNEY, OFFICE OF THE ATTORNEY GENERAL, RICHMOND, VA.
+Judges: Samuel G. Wilson, United States District Judge.
+Opinion by: Samuel G. Wilson
+Opinion
+
+
+
+MEMORANDUM OPINION
+This is an action by plaintiff, Karl Larson, alleging that the defendants, the Commonwealth of Virginia Department of Transportation ("VDOT") and Gregory Whirley, the Commissioner of the VDOT, violated the Americans with Disabilities Act, 42 U.S.C. § 12101 et seq. ("ADA"), by failing to reassign him to a different supervisor after a "verbal altercation" with his current supervisor left him with an alleged case of post-traumatic stress disorder. 1 This matter is currently before the court on the defendants' motion to dismiss Larson's complaint under Federal Rule of Civil Procedure ("Rule") 12(b)(6) on the ground that Larson's proposed accommodation is unreasonable as a matter of law. The court agrees, and dismisses Larson's complaint.
+
+I.
+This suit arises out of events that occurred on October 20, 2008, when Larson, a Human Resources Manager for the VDOT, had what Larson describes as a "verbal altercation" with Quintin Elliott, a District Administrator for the VDOT and Larson's supervisor. Larson alleges that Elliott "verbally assaulted [him,] putting him in apprehension for his safety." As a result of the incident, according to Larson, a physician diagnosed Larson with post-traumatic stress disorder, and Larson left work for several weeks. However, on November 18, 2008, Larson announced that he could return to work, but only in a position where he would not have any immediate contact with Elliott. Larson attempted to meet with VDOT officials to discuss his "proposal," but they refused to consider any arrangement that did not require Larson to work with Elliott, and the VDOT eventually terminated Larson's employment.
+Larson brought this action seeking damages and equitable relief against the VDOT and its Commissioner, Gregory Whirley, claiming that his  [*3] post-traumatic stress disorder rendered him disabled within the meaning of the ADA, and that the VDOT refused to consider his request that the VDOT reasonably accommodate him by removing him from Elliott's supervision. The defendants have moved to dismiss Larson's claim on the ground that replacing one's supervisor is not a reasonable accommodation. Alternatively, the defendants argue that the Eleventh Amendment prohibits Larson from seeking monetary damages against them.
+
+II.
+The defendants have moved to dismiss Larson's complaint on the ground that Larson only offered to return to work on the condition that he would no longer be required to have any contact with Elliott, and that such an accommodation is unreasonable as a matter of law. The court agrees, and grants their motion to dismiss. 2
+The ADA requires that employers make "reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an . . . employee." 42 U.S.C. § 12112(b)(5)(A). To demonstrate that he is entitled to relief, the plaintiff must show: "(1) that he was an individual who had a disability within the meaning of the statute; (2) that the [employer] had notice of his disability; (3) that with reasonable accommodation he could perform the essential functions of the position ...; and (4) that the [employer] refused to make such accommodations." Rhoads v. F.D.I.C., 257 F.3d 373, 387 (4th Cir. 2001) (quoting Mitchell v. Washingtonville Cent. Sch. Dist., 190 F.3d 1, 6 (2d Cir. 1999)).
+Assuming, arguendo, that Larson qualifies as "disabled" under the ADA, he has not plausibly alleged that the VDOT failed to reasonably accommodate him. Larson offered to return to work only if he would not have to work with or report to Elliott, his supervisor. The Third, Sixth, and Seventh Circuits have all held  [*5] that such an accommodation is unreasonable as a matter of law. See Coulson v. The Goodyear Tire & Rubber Co., 31 Fed. App'x 851, 858 (6th Cir. 2002); Gaul v. Lucent Techs., Inc., 134 F.3d 576, 581 (3d Cir. 1998); Weiler v. Household Fin. Corp., 101 F.3d 519, 526 (7th Cir. 1996); see also Wiggins v. DaVita Tidewater, LLC, 451 F. Supp. 2d 789, 799 (E.D. Va. 2006); Newby v. Whitman, 340 F. Supp. 2d 637, 656-58 (M.D.N.C. 2004). That Larson's argument with Elliott was the genesis of his diagnosed condition does not distinguish his case from this precedent. See, e.g., Weiler, 101 F.3d at 524-25 (noting that the plaintiff asserted that her disabilities, anxiety and depression, were caused by her supervisor). Further, the VDOT did not have a duty to engage in discussions with Larson regarding such a clearly unreasonable proposed accommodation, particularly since he made it clear that his willingness to return to work was conditioned on the VDOT's compliance with his request.
+For these reasons, Larson's complaint fails to allege a plausible failure to accommodate his alleged disability. Accordingly, the court grants the defendants' motion to dismiss. 3
+
+III.
+For the reasons stated above, the court grants the defendants' motion to dismiss.
+ENTER: April 5, 2011.
+/s/ Samuel G. Wilson
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

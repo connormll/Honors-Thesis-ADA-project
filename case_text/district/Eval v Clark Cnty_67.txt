@@ -1,0 +1,49 @@
+Eval v. Clark Cnty.
+United States District Court for the District of Nevada
+February 9, 2017, Decided; February 9, 2017, Filed
+Case No. 2:14-CV-1672 JCM (NJK)
+
+Reporter
+2017 U.S. Dist. LEXIS 18580 *; 2017 WL 536834
+MARK EVAL, Plaintiff(s), v. CLARK COUNTY, a political subdivision, and Municipality including its department, CLARK COUNTY SCHOOL DISTRICT, Defendant(s).
+Prior History: Eval v. Clark Cnty., 2015 U.S. Dist. LEXIS 34044 (D. Nev., Mar. 17, 2015)
+Counsel:  [*1] For Mark Eval, Plaintiff: Michael P. Balaban, Law Offices of Michael P. Balaban, Las Vegas, NV.
+For Clark County School District, Defendant: S. Scott Greenberg, LEAD ATTORNEY , Clark County School District, Legal Department, Las Vegas, NV; Patrick Murch, McDonald Carano Wilson LLP, Las Vegas, NV.
+Judges: James C. Mahan, UNITED STATES DISTRICT JUDGE.
+Opinion by: James C. Mahan
+Opinion
+
+
+ORDER
+Presently before the court is defendant Clark County School District's ("District") motion for this court to reconsider its July 21, 2016, order denying that party's motion for summary judgment. (ECF No. 41); see also (ECF No. 40). Plaintiff Mark Eval filed a response (ECF No. 42), and District filed a reply (ECF No. 43).
+
+I. Introduction
+On October 11, 2014, plaintiff filed his complaint asserting three causes of action. (ECF No. 1). In the face of defendant's November 5, 2015, motion for summary judgment, plaintiff abandoned all claims but those alleged under the Americans with Disability Act for disability discrimination and an employer's failure to accommodate. (ECF No. 40).
+On July 21, 2016, this court denied District's motion for summary judgment. (Id.). Although the relevant briefings "focuse[d] on whether the requested (and approved) [*2]  medical leave of absence would have been a reasonable accommodation," this court instead examined if defendant had "engaged in the interactive process in good faith." (Id. at 6-7). As a result, this court found that a genuine issue of material fact existed regarding "whether the District had a duty to engage in the interactive process to determine a reasonable accommodation for [plaintiff]" and whether it had actually done so. (Id. at 8-9).
+Defendant now argues that this court committed "clear error because Ninth Circuit precedent clearly establishes failure to engage in the interactive process does not preclude summary judgment." (ECF No. 41 at 2).
+
+II. Legal Standard
+A motion for reconsideration "should not be granted, absent highly unusual circumstances." Kona Enters., Inc. v. Estate of Bishop, 229 F.3d 877, 890 (9th Cir. 2000). Reconsideration is appropriate if the district court "(1) is presented with newly discovered evidence, (2) committed clear error or the initial decision was manifestly unjust, or (3) if there is an intervening change in controlling law." Dixon v. Wallowa County, 336 F.3d 1013, 1022 (9th Cir. 2003); see also Fed. R. Civ. P. 60(b).
+Federal Rule of Civil Procedure 59(e) "permits a district court to reconsider and amend a previous order"; however, "the rule offers an extraordinary remedy, to be used sparingly in the interests of finality and conservation of judicial resources." [*3]  Carroll v. Nakatani, 342 F.3d 934, 945 (9th Cir. 2003) (internal quotations omitted). A motion for reconsideration "may not be used to raise arguments . . . for the first time when they could reasonably have been raised earlier in litigation." Kona Enters, 229 F.3d at 890.
+
+III. Discussion
+As an initial matter, no sanctions will be imposed on defendant. District has complied with Local Rule 59-1 and offers its motion to discuss controlling law and not for any inappropriate purpose. (ECF No. 41).
+Next, defendant's citation to Dark v. Curry County, 451 F.3d 1078, 1089 (2006), is unpersuasive. (ECF No. 41). Language subsequent to defendant's offered excerpt of that case reaffirms this court's reasoning: "Because the County did not engage in [an interactive] process, summary judgment is available only if a reasonable finder of fact must conclude that there would in any event have been no reasonable accommodation available." Dark, 451 F.3d at 1088 (emphasis in original) (quoting Morton v. United Parcel Serv., Inc., 272 F.3d 1249, 1252 (9th Cir. 2001)) (internal quotation marks omitted). Because there was an issue of genuine fact regarding whether defendant had the duty to consider, or in fact considered, a reasonable accommodation for plaintiff, this argument cannot be the basis for defendant's requested relief. (ECF No. 40).
+Additionally, defendant asserts that "[l]iability for failure to provide reasonable accommodations ensues only where [*4]  the employer bears responsibility for the breakdown in the interactive process." (ECF No. 41) (quoting Zivkovic v. S. California Edison Co., 302 F.3d 1080, 1089 (9th Cir. 2002)) (internal quotation marks omitted). However, a process that has "broken down" must have first existed; this court found that there was a genuine issue of material fact whether any interactive process had even taken place. (ECF No. 40).
+Defendant also argues that the Ninth Circuit held in Barnett v. U.S. Air, Inc., 228 F.3d 1105, 1116 (9th Cir. 2000), vacated on other grounds sub nom, U.S. Airways, Inc. v. Barnett, 535 U.S. 391, 122 S. Ct. 1516, 152 L. Ed. 2d 589 (2002), that "employers, who fail to engage in the interactive process in good faith, face liability for the remedies imposed by the statute if a reasonable accommodation would have been possible." (ECF No. 41). Defendant contests that this language only permits liability after an analysis of the reasonable accommodations, if any, available in a case. See (id.).
+Yet the next sentence in that case reads: "[the Ninth Circuit] further hold[s] that an employer cannot prevail at the summary judgment stage if there is a genuine dispute as to whether the employer engaged in good faith in the interactive process." Barnett, 228 F.3d at 1116. This court made that determination in the challenged order. (ECF No. 40) ("The court thus finds that there are genuine issues of material fact regarding both whether the [*5]  District had knowledge that Eval had workplace difficulties as a result of his disability . . . and . . . whether the District engaged in the interactive process once it had this knowledge.).
+Indeed, viewing the analysis of reasonable accommodation as a condition precedent to the consideration of an employer's good-faith participation in the interactive process—as defendant implies is proper—breaks from the reasoning in Barnett, 228 F.3d at 1116 ("Without the interactive process, many employees will be unable to identify effective reasonable accommodations."). Thus, this court declines to do so. Ultimately, this court is unpersuaded by defendant's argument to reconsider its previous decision.
+
+IV. Conclusion
+Defendant's motion for reconsideration has failed to demonstrate that this court's prior denial of summary judgment was clear error.
+. . .
+. . .
+Accordingly,
+IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that defendant's motion for reconsideration (ECF No. 41) be, and the same hereby is, DENIED.
+DATED February 9, 2017.
+/s/ James C. Mahan
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,56 @@
+Squiers v. Washtenaw Cnty.
+United States District Court for the Eastern District of Michigan, Southern Division
+July 17, 2023, Decided; July 17, 2023, Filed
+Case No. 21-11956
+
+Reporter
+2023 U.S. Dist. LEXIS 122496 *; 2023 WL 4565463
+KATHLEEN SQUIERS, AS AN INDIVIDUAL, Plaintiff, v. WASHTENAW COUNTY, Defendant.
+Subsequent History: Appeal filed, 08/08/2023
+Prior History: Squiers v. Washtenaw Cnty., 2023 U.S. Dist. LEXIS 86552, 2023 WL 3506422 ( E.D. Mich., May 17, 2023)
+Counsel:  [*1] For Kathleen Squiers, Plaintiff: Scott P. Batey, Batey Law Firm, PLLC, Bingham Farms, MI.
+For Washtenaw County, Defendant: Richard W. Warren, Miller, Canfield, Detroit, MI; Schuyler Ferguson, Miller Canfield, Detroit, MI.
+Judges: Sean F. Cox, United States District Judge.
+Opinion by: Sean F. Cox
+Opinion
+
+
+
+ORDER DENYING PLAINTIFF'S MOTION FOR RECONSIDERATION
+Plaintiff Kathleen Squiers filed this discrimination suit against Defendant Washtenaw County under the Americans with Disabilities Act ("ADA"), the Michigan Persons with Disabilities Civil Rights Act ("MPDCRA"), the Family Medical Leave Act ("FMLA") and Michigan Elliott-Larsen Civil Rights Act ("ELCRA").
+After the close of discovery, the matter came before this Court on a summary judgment motion filed by Defendant Washtenaw County. After full briefing of the issues and oral argument, this Court granted summary judgment in favor of Defendant, as to all claims asserted against them, in an Opinion and Order dated May 17, 2023.
+On May 31, 2023, Plaintiff filed a Motion for Reconsideration. (ECF No. 35). Plaintiff asserts that this Court erred in "ignoring Plaintiff's testimony that lifting over 30 pounds or more than 15 pounds for over two hours were not essential functions of the job." (ECF No. 35, PageID.547). Plaintiff contends that this [*2]  was a palpable error that led to the error of granting Defendant's Motion for Summary Judgment.
+Local Rule 7.1(h) of the Local Rules for the Eastern District of Michigan governs motions for rehearing or reconsideration and provides, in pertinent part, that:
+(2) Non-Final Orders. Motions for reconsideration of non-final orders are disfavored. They must be filed within 14 days after entry of the order and may be brought only upon the following grounds:
+(A) The court made a mistake, correcting the mistake changes the outcome of the prior decision, and the mistake was based on the record and law before the court at the time of its prior decision[.]
+E.D. Mich. LR 7.1(h)(2).
+As explained in Fischer, a "motion for reconsideration that merely reasserts the same facts and legal arguments previously asserted is not proper unless there was some defect in the first hearing by which the court and the parties have been misled." Fischer v. United States, 589 F.Supp.3d 726, 728 (E.D. Mich. 2022, Luddington, J.) (Collecting cases). "Nor is a motion for reconsideration a second opportunity for a party to present 'new explanations, legal theories, or proofs.'" Jinks v. AlliedSignal, Inc., 250 F.3d 381, 385 (6th Cir. 2001). In other words, such motions cannot be used as a vehicle to introduce new evidence or arguments that could have been presented to the Court during pendency of the summary judgment motion. Macdermid Inc. v. Electrochemicals, Inc., 1998 WL 165137 at *6 n.7 (6th Cir. 1998) (citing [*3]  Rothwell Cotton Co. v. Rosenthal & Col., 827 F.2d 246, 251 (7th Cir. 1987)).
+The Court finds that Plaintiff has failed to make the required showing as to any of the arguments presented in her Motion for Reconsideration.
+Plaintiff's main argument is that the Court committed palpable error in ignoring Plaintiff's requested accommodation and "testimony that lifting over 30 pounds or more than 15 pounds over two hours were not essential functions of the job." (ECF No. 35, PageID.547). Plaintiff argues, in effect, that if the Court had considered this testimony, the Court would not have granted summary judgment in Defendant's favor. This is incorrect.
+As the Court explained in its Opinion and Order, the ADA only requires that employers accommodate "an otherwise qualified individual with a disability". An individual is "otherwise qualified" if they can perform the "essential functions" of the job with or without reasonable accommodation. 42 U.S.C. § 12111(8); Keith v. County of Oakland, 703 F.3d 918, 925 (6th Cir. 2013). The County has discretion to establish essential job functions. 42 U.S.C. §12111(8); 29 C.F.R. §1630.2(n)(3). A job function may be considered essential if:
+(1) the position exists to perform that function;
+(2) there are a limited number of employees available among whom the performance of that job function can be distributed; or
+(3) the function is highly specialized so [*4]  that the incumbent in the position is hired for her expertise or ability to perform the particular function.
+Keith v. County of Oakland, 703 F.3d 918, 925 (6th Cir. 2013). A court may consider the following factors in determining whether a job function is essential to the position, including:
+(1) the employer's judgment;
+(2) the written job description;
+(3) the amount of time spent performing the job function;
+(4) the consequences of not requiring performance of the function;
+(5) the work experience of past incumbents of the position; and
+(6) the current work experience of incumbents in similar jobs.
+Id. at 925-26.
+Plaintiff's accommodation, as cited in the Court's Opinion and Order, "requested 'she not lifted over 15 pounds for more than two hours a day and no more than 30 pounds at any one time.' (ECF No. 25, PageID.332)." (ECF No. 33, PageID.538). The Court thus clearly addressed and considered Plaintiff's testimony. What Plaintiff seems to take issue with is the weight the Court gave that testimony. Plaintiff's claim that lifting that amount was not an essential function of the position fails to accurately take the above factors into account. In support of her claim, Plaintiff cites her own testimony as well as the written job description. But Plaintiff's [*5]  testimony is not the only factor to be considered and the remaining factors weighed heavily in favor of lifting that amount being an essential part of her job. These factors included that there was only one other employee who had similar tasks but only worked seasonally and was unable to do much lifting, a draft job description that included a lifting requirement of 80 pounds, and testimony from the seasonal employee.
+Plaintiff's briefs and testimony are also conflicting regarding the lifting requirements of the job. In her Response to Defendant's Motion for Summary Judgment, Plaintiff claimed her reasonable accommodation was denied and that she was placed on unpaid leave "despite lifting not being an essential function of her job." (ECF No. 25, PageID.333) (emphasis added). In the present motion, however, Plaintiff claims she "has maintained from the outset that it was a physically demanding job and lifting was an essential function of her job." (ECF No. 35, PageID.547) (emphasis added).
+Plaintiff specifies that while lifting was an essential function of her job, lifting over 30 pounds or more than 15 pounds over two hours were not essential functions. (Id.). Plaintiff argues that her [*6]  "undisputed testimony was that it was 'rare' and a 'fraction, miniscule" portion of the job when she was required to lift more than 30 pounds. (Id.). Because, as Plaintiff argues, her requested accommodation did not include any essential job function, her accommodation should have been granted. However, as explained above, Plaintiff's testimony is not the only factor to be considered and the remaining factors weighed heavily in favor of lifting being an essential part of her job.
+Further, even if Plaintiff's requested accommodation was reasonable, an employer is not required to provide the accommodation an employee requests under the ADA. Trepka v. Bd. Of Educ., 28 F. App'x 455, 459 (6th Cir. 2002). Rather, the employer retains the "ultimate discretion" to choose an effective accommodation. Id. Here, Defendant's accommodation placed Plaintiff on unpaid medical leave. (ECF No. 22, PageID.158; ECF No. 25, PageID.332). Plaintiff argued this was not a reasonable accommodation. (ECF No. 25, PageID.345). However, the Sixth Circuit has held that unpaid medical leave can, in fact, "constitute a reasonable accommodation under the ADA." Williams v. AT&T Mobility Servs. LLC, 847 F.3d 384, 394 (6th Cir. 2017); See also, O'Donnell v. Univ. Hosps. Cleveland Med. Ctr., 833 F. App'x 605, 618 (6th Cir. 2020).
+Therefore, even if this Court had not taken Plaintiff's testimony and requested accommodation into account, [*7]  Defendant's accommodation was still reasonable and would not have changed the Court's determination in granting Defendant's Motion for Summary Judgment.
+Accordingly, for all of these reasons, the Court ORDERS that Plaintiff's Motion for Reconsideration is DENIED.
+IT IS SO ORDERED.
+Dated: July 17, 2023
+/s/ Sean F. Cox
+Sean F. Cox
+U.S. District Judge
+
+
+End of Document
+

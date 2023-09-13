@@ -1,0 +1,42 @@
+Fernandez v. Mattress Xperts Broward, Inc.
+United States District Court for the Southern District of Florida
+September 1, 2021, Decided; September 2, 2021, Entered on Docket
+CASE NO. 21-80573-CIV-MARRA
+
+Reporter
+2021 U.S. Dist. LEXIS 166724 *; 2021 WL 3931243
+NELSON FERNANDEZ, Plaintiff, vs. MATTRESS XPERTS BROWARD, INC., a Florida for-profit corporation, Defendant.
+Counsel:  [*1] For Nelson Fernandez, Plaintiff: Pelayo M. Duran, LEAD ATTORNEY, Law Office of Pelayo Duran, PA, Miami, FL; Roderick Victor Hannah, Roderick V. Hannah, Esq., P.A., Sunrise, FL.
+For Mattress Xperts Broward, Inc., a Florida for-profit corporation, Defendant: Eric Lee, LEAD ATTORNEY, Lee & Amtzis, P.L., Boca Raton, FL.
+Judges: KENNETH A. MARRA, United States District Judge.
+Opinion by: KENNETH A. MARRA
+Opinion
+
+
+
+ORDER AND OPINION DENYING MOTION TO DISMISS
+THIS CAUSE is before the Court upon Defendant's Motion to Dismiss Amended Complaint [DE 13]. The Court has carefully considered the motion, response, reply, and is otherwise fully advised in the premises.
+
+Background1
+Plaintiff Nelson Fernandez ("Fernandez") is a visually impaired, disabled person who relies on "screen-reading" software to read websites and other online content through his computer. Amended Complaint, DE 11, ¶¶ 5-6, 9. Defendant Mattress Xperts Broward, Inc. ("Mattress Xperts") owns and operates a retail mattress store in Oakland Park, Florida which is open to the public. DE 11, ¶¶ 7, 10. Mattress Xperts also owns and operates a website. DE 11, ¶¶ 12, 16. The website provides information about Mattress Xperts's physical stores, provides product information, [*2]  and allows users to order and purchase Mattress Xperts's products. DE 11, ¶¶ 12-14. The website is not compatible with screen-reading software. DE 11, ¶¶ 21-22. Fernandez sues Mattress Xperts alleging that its website violates the public accommodation provisions under Title III of the Americans with Disabilities Act, 42 U.S.C. §§ 12181-12189 ("ADA") as well as Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794a, et seq. ("Rehab Act").2 Fernandez seeks declaratory judgment and injunctive relief. Mattress Xperts moves to dismiss Fernandez's claims arguing that the Eleventh Circuit's recent decision in Gil v. Winn-Dixie Stores, Inc., 993 F.3d 1266 (11th Cir. 2021) ("Gil") holds that, as a matter of law, the ADA and Rehab Act do not apply to websites that do not act as an intangible barrier to a physical store location.
+
+Legal Standard
+In ruling on a motion to dismiss, the Court must view the complaint in the light most favorable to the plaintiff, see, e.g., Jackson v. Okaloosa Cnty., 21 F.3d 1531, 1534 (11th Cir. 1994), and must limit its consideration to the pleadings and any exhibits attached thereto. Grossman v. Nationsbank, N.A., 225 F.3d 1228, 1231 (11th Cir. 2000) citing GSW, Inc. v. Long Cnty., 999 F.2d 1508, 1510 (11th Cir. 1993). The Court will liberally construe the complaint's allegations in the Plaintiff's favor. Brown v. City of Fort Lauderdale, 923 F.2d 1474, 1475 (11th Cir. 1991). However, "conclusory allegations, unwarranted factual deductions or legal conclusions masquerading as facts will not prevent dismissal." Davila v. Delta Air Lines, Inc., 326 F.3d 1183, 1185 (11th Cir. 2003).
+In reviewing a complaint on a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), "courts must be mindful that the Federal Rules [*3]  require only that the complaint contain 'a short and plain statement of the claim showing that the pleader is entitled to relief.'" United States v. Baxter Int'l, Inc., 345 F.3d 866, 880 (11th Cir. 2003) (citing Fed. R. Civ. P. 8(a)). This is a liberal pleading requirement, one that does not require a plaintiff to plead with particularity every element of a cause of action. Roe v. Aware Woman Ctr. for Choice, Inc., 253 F.3d 678, 683 (11th Cir. 2001). However, a plaintiff's obligation to provide the grounds for his or her entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do. Bell Atl. Corp. v. Twombly, 550 U.S. 544, 554-555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). The complaint's factual allegations "must be enough to raise a right to relief above the speculative level," id. at 555, and cross "the line from conceivable to plausible." Ashcroft v. Iqbal, 556 U.S. 662, 680, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009).
+The Declaratory Judgment Act "confer[s] on federal courts unique and substantial discretion in deciding whether to declare the rights of litigants." Wilton v. Seven Falls Co., 515 U.S. 277, 286, 115 S. Ct. 2137, 132 L. Ed. 2d 214 (1995); 28 U.S.C. § 2201. "[I]Injunctive relief . . . is the only form of relief available to plaintiffs suing under Title III of the ADA." Houston v. Marod Supermarkets, Inc., 733 F.3d 1323, 1329 (11th Cir. 2013) citing 42 U.S.C. § 12188(a) and Newman v. Piggie Park Enters., Inc., 390 U.S. 400, 402, 88 S. Ct. 964, 19 L. Ed. 2d 1263 (1968) .
+
+Discussion
+Mattress Xperts moves to dismiss the Complaint under Federal Rule of Civil Procedure 12(b)(6) for failing to state a claim, asserting that the ADA and Rehab Act do not apply to its website because not having "screen-reading" software is not, as a matter of law, an "intangible barrier" [*4]  to its physical store locations. DE 13 at 2. This premise is based entirely on the Eleventh Circuit's recent ruling in Gil v. Winn-Dixie Stores, Inc., 993 F.3d 1266 (11th Cir. 2021) ("Gil").
+Gil addresses an issue of first impression for this Circuit: whether "public accommodations" under Title III of the ADA are limited to actual, physical places, or whether it includes a limited-use website which operates as an "intangible barrier" to accessing the goods, services, privileges, or advantages of its physical stores. Gil, 993 F.3d at 1266, 1278-80.
+Notably, two days after the panel opinion in Gil was issued, the Court entered an order withholding the mandate. Thus, at this time, the mandate has not issued from the appellate court, and there is a motion for rehearing pending. In general, the mandate in any case functions to end the jurisdiction of the appellate court and to return full jurisdiction of the case to the trial court. See Zaklama v. Mount Sinai Med. Ctr., 906 F.2d 645, 649 (11th Cir.1990) ("[A] district court ... is without jurisdiction to rule in a case that is on appeal, despite a decision by this court, until the mandate has issued."); U.S. v. Bell, 501 F. App'x 946, 947, (11th Cir. 2012) ("the first dismissal was entered when the district court lacked jurisdiction because it was entered before the mandate issued"). Furthermore, until the Eleventh Circuit rules on the motion for [*5]  rehearing, the authority of Gil will be questionable. Until those matters are resolved, this Court cannot definitively rely on Gil.
+Moreover, even if Gil becomes the binding law in the Eleventh Circuit, when reviewing the four corners of the complaint, the Court cannot determine, as a matter of law, whether the website in this case operates as an "intangible barrier" to accessing the goods, services, privileges, or advantages of Defendant's physical stores. The court in Gil relied heavily on the fact that a prospective customer of Winn Dixie could not purchase goods through its website, and all goods had to be purchased at the physical stores. Gil, 993 F.3d at 1279. Here, Plaintiff has alleged that Defendant does sell goods through its website. [DE 11 at ¶ 12]. Additionally, the court in Gil noted that there were no allegations that the absence of the auxiliary aides prevented Gil from effectively accessing the services of Winn Dixie's physical stores. Id. at 1280. Here, Plaintiff has made those allegations. [DE 11 at ¶¶ 50, 55, 66].
+Accordingly, it is hereby
+ORDERED AND ADJUDGED that Defendant's Motion to Dismiss Amended Complaint [DE 13] is denied.
+DONE AND ORDERED in Chambers at West Palm Beach, Palm Beach County, [*6]  Florida, this 1st day of September, 2021.
+/s/ Kenneth A. Marra
+KENNETH A. MARRA
+United States District Judge
+
+
+End of Document
+

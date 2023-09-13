@@ -1,0 +1,54 @@
+Scheier v. Lawyers Title Ins. Corp.
+United States District Court for the Eastern District of Pennsylvania
+April 11, 2013, Decided; April 11, 2013, Filed
+CIVIL ACTION NO. 11-617; 11-7044
+
+Reporter
+2013 U.S. Dist. LEXIS 52359 *; 2013 WL 1489391
+PATRICIA SCHEIER, Plaintiff, v. LAWYERS TITLE INS. CORP. AND FIDELITY NAT'L TITLE INS. CO., Defendant.
+Subsequent History: Appeal dismissed by Scheier v. Lawyers Title Ins. Corp., 2013 U.S. App. LEXIS 15969 (Fed. Cir., Aug. 2, 2013)
+Counsel:  [*1] For PATRICIA SCHEIER (2:11-cv-00617), Plaintiff: THOMAS J. BASS, LEAD ATTORNEY, THOMAS J. BASS, ATTY AT LAW, PHILA, PA; GEORGE P. WOOD, GEORGE P. WOOD & ASSOC PC, NEWTOWN SQUARE, PA.
+For LAWYERS TITLE INSURANCE CORPORATION, FIDELITY NATIONAL TITLE INSURANCE COMPANY (2:11-cv-00617), Defendants: BARBARA RITTINGER RIGO, KATE SUE-ELLEN ARDUINI, SARAH E. MCCARTHY, LITTLER MENDELSON, P.C., PHILADELPHIA, PA.
+For PATRICIA SCHEIER (2:11-cv-07044), Plaintiff: THOMAS J. BASS, LEAD ATTORNEY, THOMAS J. BASS, ATTY AT LAW, PHILA, PA.
+For LAWYERS TITLE INSURANCE CORPORATION, FIDELITY NATIONAL TITLE INSURANCE COMPANY (2:11-cv-07044), Defendants: BARBARA RITTINGER RIGO, SARAH E. MCCARTHY, LITTLER MENDELSON, P.C., PHILADELPHIA, PA.
+Judges: ANITA B. BRODY, J.
+Opinion by: ANITA B. BRODY
+Opinion
+
+
+
+EXPLANATION
+On March 5-7 and March 11-13, 2013 trial between Plaintiff Patricia Scheier and Defendants Lawyers Title Insurance Corporation and Fidelity National Title Insurance Corporation took place. Scheier brought the following claims against the Defendants: discrimination for her disability under the Americans with Disabilities Act (ADA), discrimination for her perceived disability under the ADA, failure of her employer to accommodate her under  [*2] the ADA, retaliation under the ADA, harassment under the ADA, a request for punitive damages under the ADA, and a claim under the Pennsylvania Wage Payment and Collection Law for unpaid wages. At the close of Plaintiff's case in chief, Defendants moved under Federal Rule of Civil Procedure 50 for Judgment as a Matter of Law on all of Scheier's claims. After Defendants presented their case, they renewed their motion for Judgment as a Matter of Law for all of Scheier's claims. I granted Defendants' Rule 50 motion as to the accommodation claim, harassment claim, retaliation claim, and Wage Payment Collection Act claim. 1 This explanation sets forth a summary of the reasons for granting the Rule 50 motion for these claims.
+Rule 50 states that a court may grant a motion for judgment as a matter of law "if a party has been fully heard on an issue during a jury trial and the court finds that a reasonable jury would not have a legally sufficient evidentiary basis to find for the party on that issue." Fed. R. Civ. P. R. 50(a)(1). "The question is not whether there is literally  [*3] no evidence supporting the party against whom the motion is directed but whether there is evidence upon which the jury could properly find a verdict for that party." Foster v. Nat'l Fuel Gas Co., 316 F.3d 424, 428 (3d Cir. 2003).
+
+1. Failure to Accommodate
+An employer commits unlawful discrimination under the ADA if the employer does "not mak[e] reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless [the employer] can demonstrate that the accommodation would impose an undue hardship on the operation of the business of [the employer]." Taylor v. Phoenixville Sch. Dist., 184 F.3d 296, 311 (3d Cir. 1999) (citing 42 U.S.C. § 12112(b)(5)(A)).
+The ADA's regulations state: "To determine the appropriate reasonable accommodation it may be necessary for the [employer] to initiate an informal, interactive process with the [employee] in need of accommodation. This process should identify the precise limitations resulting from the disability and the potential reasonable accommodations that could overcome those limitations." Id. (citing 29 C.F.R. § 1630.2(o)(3)).
+No evidence was ever presented  [*4] demonstrating that Scheier requested an accommodation regarding a disability. As a result, there is no evidence that an accommodation was denied. There is only evidence that she requested leave for her medical condition, was granted and took the leave, and then advised her employer that she was able to return to work on September 15, 2008. Therefore, Defendant's Rule 50 motion as to Scheier's accommodation claim was granted.
+
+2. Harassment
+A claim for harassment or hostile work environment based on disability requires a showing that:
+(1) Scheier is a qualified individual with a disability under the ADA;
+(2) She was subject to unwelcome harassment;
+(3) The harassment was based on her disability or a request for an accommodation;
+(4) The harassment was sufficiently severe or pervasive to alter the conditions of her employment and to create an abusive working environment; and
+(5) That defendant Lawyers Title knew or should have known of the harassment and failed to take prompt effective remedial action.
+Walton v. Mental Health Ass'n of Se. Pa., 168 F.3d 661, 667 (3d Cir. 1999). In evaluating the fourth element, the district court must "consider all the circumstances, including 'the frequency of  [*5] the discriminatory conduct; its severity; whether it is physically threatening or humiliating, or a mere offensive utterance; and whether it unreasonably interferes with an employee's work performance.' " Id. (quoting Harris v. Forklift Sys., Inc., 510 U.S. 17, 23, 114 S. Ct. 367, 126 L. Ed. 2d 295 (1993)).
+Scheier claims that she was harassed by her supervisor Diane Berta when Berta made multiple attempts through e-mails and instant messages to obtain medical documentation from Scheier to support her request for leave. The contact Berta made with Scheier was not pervasive or severe enough to meet the Supreme Court's standard in Harris v. Forklift Systems, Inc. Furthermore, there is not enough evidence that would allow a reasonable jury to find that the asserted harassment was because of Scheier's disability. Therefore, Defendant's Rule 50 motion as to Scheier's harassment claim was granted.
+
+3. Retaliation
+To establish a prima facie case of retaliation under the ADA, Scheier must show that:
+(1) She was engaged in a protected activity;
+(2) She was subjected to an adverse tangible employment action at the time, or after the protected conduct took place; and
+(3) There is a causal connection between the employee's protected activity  [*6] and the employer's adverse action.
+Williams v. Phila. Hous. Auth. Police Dept., 380 F.3d 751, 759 (3d Cir. 2004).
+Causation may be proven by circumstantial evidence sufficient to raise the inference that the protected activity was the likely reason for the adverse action. Kachmar v. SunGard Data Sys., Inc., 109 F.3d 173, 177 (3d Cir. 1997). Temporal proximity between the protected activity and adverse action can be sufficient to establish a causal connection. Shellenberger v. Summit Bancorp, Inc., 318 F.3d 183, 188 (3d Cir. 2003). "Where the temporal proximity is not so close as to be unduly suggestive, [the Third Circuit] has recognized that timing plus other evidence may be an appropriate test." Williams v. Phila. Hous. Auth. Police Dept., 380 F.3d at 760. Scheier claims that defendant Lawyers Title retaliated against her by firing her for sending a complaint to Human Resources about the way Diane Berta was treating her. Approximately six months lapsed from when Scheier sent a complaint to Human Resources on March 13, 2008 (Ex. P-2), to when she received a letter informing her that her position was eliminated, dated September 4, 2008 (Ex. P-1). This time gap is too great to infer  [*7] retaliation. In addition, there is no evidence that she was terminated because she made a complaint to HR. Therefore, Defendant's Rule 50 motion as to Scheier's retaliation claim was granted.
+
+4. Wage Payment Collection Act
+In her Complaint Scheier claimed that she was owed vacation pay and wages that were not paid to her in violation of the Pennsylvania Wage Payment and Collection Law. No evidence was presented at trial relating to owed wages. Therefore Defendant's Rule 50 motion as to Scheier's Wage Payment Collection Act claim was granted.
+/s/ Anita B. Brody
+ANITA B. BRODY, J.
+
+
+End of Document
+

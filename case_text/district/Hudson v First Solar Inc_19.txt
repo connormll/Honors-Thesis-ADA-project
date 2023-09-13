@@ -1,0 +1,115 @@
+Hudson v. First Solar, Inc.
+United States District Court for the Northern District of Ohio, Western Division
+March 28, 2014, Filed
+Case No. 3:12CV2292
+
+Reporter
+2014 U.S. Dist. LEXIS 200373 *; 2014 WL 12600136
+Noah T. Hudson, Plaintiff v. First Solar, Inc., Defendant
+Counsel:  [*1] For Noah T Hudson, Plaintiff: Amy L. Zawacki, LEAD ATTORNEY, INVALID ADDRESS - Widman & Franklin, Toledo, OH USA; Elijah D. Baccus, Widman & Franklin, Toledo, OH USA.
+For First Solar, Inc, Defendant: Carrie L. Urrutia, Thomas A. Dixon, Eastman & Smith - Toledo, Toledo, OH USA.
+Judges: James G. Carr, Senior United States District Judge.
+Opinion by: James G. Carr
+Opinion
+
+
+
+ORDER
+This is a disability discrimination case arising under the Americans with Disabilities Act (ADA). Plaintiff Noah T. Hudson alleges defendant First Solar, Inc., his former employer, discriminated on the basis of disability and failed to accommodate his disability when terminating his employment in April, 2009.
+Jurisdiction is proper under 28 U.S.C. § 1331.
+Pending is defendant's motion for summary judgment. (Doc. 22). For the reasons that follow, I grant the motion.
+
+Background
+First Solar hired Hudson as a temporary Environmental and Health Safety (EHS) Technician in March, 2008. EHS Technicians work twelve-hour shifts and perform onsite duties such as safety training and audits, inspections, respirator-fit testing, and hygiene monitoring. Because Hudson performed well in his temporary position, First Solar promoted him to a full-time EHS Technician in August, 2008. [*2] 
+Hudson's performance declined after he became a full-time EHS Technician. Joseph St.John, Hudson's direct supervisor, first met with Hudson about his performance in November, 2008. St. John cited Hudson's frequent absences, tardiness, and excessive call-offs.
+Sometime after the meeting, Hudson informed St. John his performance issues were related to medical problems, which required him to see a doctor. St. John told Hudson to provide First Solar with documentation of any future medical problems. Hudson provided doctor's notes to St. John, Human Resources (HR), and Tina Thornton, First Solar's occupational health nurse case manager.
+As additional explanation for his performance, Hudson cited "personal issues at home" (he indicated he and his wife had been "butting heads"). (Doc. 25 at 71-72). He also mentioned car troubles and bad weather.
+Hudson's performance problems continued in 2009. Between January and early April of that year, Hudson was absent from work on twenty-nine days.
+According to another HR officer, Alexandria Williams, Hudson reported, on various, occasions, that he: 1) felt "like crap"; 2) "was ill"; 3) was "always on the toilet"; and 4) and had been "seeing multiple doctors." [*3]  (Doc. 26 at 104). Hudson also told HR he was very ill, and he asked if leave was a possibility.
+During a February, 2009, meeting, St. John spoke to Hudson again about his performance issues. But his frequent absences continued. First Solar encouraged him to apply for short term disability benefits (STDB) with the company's third party administrator, Sun Life Financial.
+In mid-February, 2009, while still employed at First Solar, Hudson applied for STDB. Sun Life's approval or denial of Hudson's application had important consequences: if Sun Life granted the application, Hudson would deem some or all of Hudson's absences excused; if Sun Life denied the application, First Solar would deem the absences unexcused. If it did so, it would, in all likelihood, fire Hudson.
+While the application was pending, Hudson supplied First Solar with information about his doctor's appointments, work restrictions, and symptoms. St. John and Hudson discussed Hudson's performance and possible outcomes of the STDB application at a meeting in late March, 2009.
+Sun Life denied Hudson's application on April 6, 2009. Based on its review of the pertinent records, Sun Life found no objective evidence to support Hudson's [*4]  claim that he was totally disabled from his job as an EHS Technician. Hudson's physicians diagnosed him with gastroenteritis. On April 7, First Solar terminated Hudson's employment because of absenteeism. First Solar eventually filled Hudson's former position on July 20, 2009. Hudson appealed Sun Life's decision.
+In May, 2009, Hudson was diagnosed with gastroparesis, a chronic gastrointestinal condition that substantially limits major life activities and major bodily functions.
+After Hudson alerted Sun Life of his diagnosis, Sun Life overturned its original decision and awarded him disability benefits. Hudson then asked First Solar to reinstate him, but the company told him that his former position was no longer open. It encouraged him to apply for an open position.
+
+Discussion
+A party is entitled to summary judgment under Fed. R. Civ. P. 56 where the opposing party fails to show the existence of an essential element for which that party bears the burden of proof. Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986). The movant must initially show the absence of a genuine issue of material fact. Id. at 323.
+Once the movant meets that initial burden, the "burden shifts to the nonmoving party [to] set forth specific facts showing there is a genuine issue for trial." Anderson v. Liberty Lobby Inc., 477 U.S. 242, 250, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986) [*5] . Rule 56(e) "requires the nonmoving party to go beyond the [unverified] pleadings" and submit admissible evidence supporting its position. Celotex, supra, 477 U.S. at 324.
+
+A. Discrimination on the Basis of a Disability
+Count one of the complaint asserts First Solar discriminated on the basis of disability when it ended Hudson's employment in April, 2009.
+First Solar contends it is entitled to summary judgment on that claim because Hudson has not made out a prima facie case of disability discrimination. More specifically, First Solar argues that there is no triable question of fact on whether: 1) First Solar knew or had reason to know of Hudson's disability; and 2) Hudson was a "qualified individual" under the ADA.
+The ADA provides that "[n]o covered entity shall discriminate against a qualified individual with a disability because of the disability of such individual in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a).
+A plaintiff can establish a disability discrimination claim through direct or indirect evidence. However, Hudson offers no direct evidence, so I consider his claim under the indirect method of proof.
+Under the indirect method, the plaintiff has the burden of establishing a prima facie case of discrimination [*6]  by showing:
+1) he or she is disabled; 2) otherwise qualified for the position, with or without reasonable accommodation; 3) suffered an adverse employment decision; 4) the employer knew or had reason to know of the plaintiff's disability; and 5) the position remained open while the employer sought other applicants or the disabled individual was replaced.
+Hedrick v. W. Reserve Care Sys., 355 F.3d 444, 453 (6th Cir. 2004).
+Once the plaintiff has established a prima facie case through indirect evidence, "[t]he defendant must then offer a legitimate explanation for its action. If the defendant satisfies this burden of production, the plaintiff must introduce evidence showing that the proffered explanation is pretextual." Walsh v. United Parcel Serv., 201 F.3d 718, 725 (6th Cir. 2000).
+
+1. Employer's Knowledge
+"An employer must know about a disability before it can intentionally discriminate against an employee based on that disability. Otherwise it could not be said that the employer discriminated because of the disability." Hammon v. DHL Airways, 980 F. Supp. 919, 926 (S.D. Ohio 1997).
+It is undisputed that First Solar did not know of Hudson's gastroparesis when, on April 7, 2009, it ended his employment. Indeed, Hudson himself did not learn of that diagnosis until more than a month later.
+However, Hudson contends that a reasonable jury could find that the circumstances surrounding [*7]  his absences from work, especially his frequent complaints of sickness, alerted First Solar to his disability.
+In support, Hudson cites: 1) his conversations with St. John about his symptoms, his doctor visits, and his declining job performance; 2) the doctor's notes; 3) emails about medical testing and restrictions; and 4) a discussion about leave with a supervisor. He also relies on language in Hammon, supra, 980 F. Supp. at 926, stating that an employer knows of an employee's disability when the employee tells the employer about the condition or its underlying facts.
+Even viewing this evidence in the light most favorable to Hudson, there is no genuine issue of material fact. Hudson spoke of feeling "ill," "sick," and "always being on the toilet." These are vague, generalized complaints, rather than complaints obviously associated with a disabling condition. Likewise, Hudson's visits to multiple doctors, who then ran medical tests, is a natural reaction to symptoms that could have been associated with a common bug or flu.
+To be sure, certain symptoms may be linked directly to a specific disability. However, the symptoms Hudson reported are indistinguishable from those encountered by employees in any workplace on a daily [*8]  basis. Even Hudson's own physician originally diagnosed him with gastroenteritis, a non-disabling condition. If a trained physician would not recognize Hudson's symptoms as obviously associated with a disability, no reasonable jury could conclude that First Solar knew or had reason to know Hudson was disabled. Sun Life used this diagnosis of a non-disabling gastroenteritis to deny Hudson benefits.
+Hudson also argues that the frequency of his absences should have alerted First Solar to his disability. However, employers are not required to speculate whether an employee's absenteeism is due to a disability. They must have known or had reason to know of the disability under this step of plaintiff's prima facie case. As stated above, First Solar had no actual knowledge of Hudson's disability.
+Moreover, as the Seventh Circuit has explained:
+Tardiness and laziness have many causes, few of them based in illness. The ADA hardly requires that merely because some perceived tardiness and laziness is rootedin disability, an employer who has not been informed of the disability, and who has no reason to know of the disability, is bound to retain all apparently tardy and lazy6employees on the chance [*9]  that they may have a disability that causes their behavior. The ADA does not require clairvoyance.
+Hedberg v. Indiana Bell Tel. Co., 47 F.3d 928, 934 (7th Cir. 1995).
+By extension, the same is true of absenteeism: in the absence of evidence alerting First Solar to Hudson's disabling condition, First Solar had no obligation to retain Hudson on the off-chance that his absenteeism was due to disability.
+Because the record, viewed as a whole and in the light most favorable to Hudson, does not contain obvious signs or strong implications that Hudson was disabled, a reasonable jury could only conclude First Solar did not know, and had no reason to know, that Hudson was disabled.
+
+2. Qualified Individual
+The ADA protects only "qualified individuals with disabilities" from employment discrimination.
+Qualified individuals are those who, "with or without reasonable accommodation, can perform the essential functions of the employment position." 42 U.S.C. §§ 12112(a), 12111(8). "The term 'essential functions' means the fundamental job duties of the employment position the individual with a disability holds or desires." 29 C.F.R. § 1630.2(n)(1).
+There is no question that regular attendance is an "essential function." Indeed, the Sixth Circuit "has flatly held that '[a]n employee who cannot meet the attendance requirements [*10]  of the job at issue cannot be considered a 'qualified' individual protected by the ADA.'" Melange v. City of Center Line, 482 F. App'x 81, 84 (6th Cir. 2012) (quoting Gantt v. Wilson Sporting Goods Co., 143 F.3d 1042, 1047 (6th Cir. 1998)).
+First Solar argues Hudson is not a qualified individual because he could not meet an essential function of his position: regular attendance.
+Hudson responds that First Solar could have granted him a medical leave of absence, a reasonable accommodation that would have allowed him to perform this essential function. In addition, Hudson contends that his absences must not have been disruptive, given that: 1) First Solar took no formal disciplinary action against him; 2) his position remained unfilled for five months after his employment was terminated; and 3) First Solar's short-term disability policy allowed forty weeks of leave.
+First Solar replies that granting Hudson a leave of absence would not be reasonable because it was unclear at best whether, or when, Hudson would be able to return to work and perform as his ordinary job duties. In other words, First Solar argues that granting a medical leave would have required it to tolerate Hudson's absence for an indefinite period while he sought treatment, had his condition diagnosed, and regained sufficient health to return to work.
+It is [*11]  undisputed that Hudson's position required on-site sampling, testing, and training, tasks that he could not perform if not on-site.
+Moreover, courts have declined to hold that an indefinite medical leave is a reasonable accommodation for purposes of the ADA:
+Nothing in the text of the reasonable accommodation provision requires an employer to wait an indefinite period for an accommodation to achieve its intended effect. Rather, reasonable accommodation is by its terms most logically construed as that which presently, or in the immediate future, enables the employee to perform the essential functions of the job in question.
+Myers v. Hose, 50 F.3d 278, 283 (4th Cir. 1995).
+I recognize there are occasions where a medical leave of absence may serve as a reasonable accommodation. In general, a medical leave is a reasonable accommodation if it allows the employee to perform the essential functions of his job within a reasonable amount of time after the leave has begun. Id.
+Hudson relies on the Sixth Circuit's decision in Cehrs v. Northeast Ohio Alzheimer's Research Ctr., 155 F.3d 775 (6th Cir. 1998). There the court found a genuine issue of fact over whether an employer's granting further medical leave was a reasonable accommodation.
+The plaintiff in Cehrs suffered from pustular psoriasis, a severe (and potentially life-threatening) [*12]  skin condition that could, during episodes of flare-ups, prevent her from performing common daily functions. Id. at 777-78. After one severe flare-up, Cehrs' employer fired her, citing her failure to complete the paperwork needed to extend her leave of absence. Id. at 778.
+The Sixth Circuit held that there was a genuine issue of fact on whether granting Cehrs a medical leave would have been a reasonable accommodation. Id. at 783. The court noted Cehrs' had a known disability and her symptoms were transient. Given those facts, the Sixth Circuit determined that a reasonable jury could conclude that a finite leave period during Cehrs's flare-ups could accommodate her disability while allowing her to perform the essential functions of her job.
+Here, in contrast, no reasonable jury could find that First Solar could have reasonably accommodated Hudson by maintaining his employment indefinitely while he was on leave. Moreover, the facts in Cehrs are distinguishable. In Baker v. Windsor Republic Doors, 2009 U.S. Dist. LEXIS 37176 (W.D. Tenn. May 1, 2009), the court noted "[t]he circumstances in Cehrs--particularly the transience of Cehrs's symptoms and the fact that she had requested the leave voluntarily--were key to the holding".
+Likewise, unlike the plaintiff in Cehrs, Hudson had not been diagnosed with any [*13]  disability while working for the employer, who, moreover, had no reason to expect he would be able to attend work regularly after an indefinite leave. Hudson's position required him to be at the facility, conducting on-site testing.
+For all of these reasons, no reasonable jury could find that Hudson was a qualified individual.
+
+B. Failure to Accommodate
+Count two of the complaint alleges First Solar failed to accommodate Hudson's disability.
+First Solar asserts Hudson failed to meet his burden as a matter of law. First Solar contends Hudson was not a qualified individual, never provided a proper diagnosis of disability, and did not make a request for a reasonable accommodation.
+Hudson claims his that his question to First Solar's HR officer about the availability of leave was enough to alert First Solar to the existence of a disabling condition.
+The ADA provides that an employer must make "reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee." 42 U.S.C. § 12112(b)(5)(A) To succeed on a failure-to-accommodate claim, "plaintiff must prove that (1) he has a disability; (2) that he is "otherwise qualified" for the job; [*14]  and (3) that defendants either refused to make a reasonable accommodation for his disability or made an adverse employment decision regarding him solely because of his disability." Smith v. Ameritech, 129 F.3d 857, 866 (6th Cir. 1997). The "disabled individual bears the initial burden of proposing an accommodation and showing that that accommodation is objectively reasonable." Monette v. Elec. Data Sys. Corp., 90 F.3d 1173, 1183 (6th Cir. 1996).
+"Once the employee requests an accommodation, the employer has a duty to engage in an interactive process to identify the precise limitations resulting from the disability and potential reasonable accommodations that could overcome those limitations." Melange, supra, 482 F. App'x at 84-85.
+Hudson's claim fails at the outset because, as I have already determined, the undisputed facts show that he was not "otherwise qualified."
+To be sure, "a disabled employee will still be considered otherwise qualified if a reasonable accommodation by the employer would render the employee capable of performing the 'essential functions' of the job." Leeds v. Potter, 249 Fed. Appx. 442 (6th Cir. 2007). But for the reasons given above, an indefinite medical leave was not a reasonable accommodation on the facts of this case.
+First Solar argues Hudson's accommodation claim also fails because it had no obligation [*15]  to provide an accommodation to Hudson without a diagnosis or request. An employer is not obligated to provide an accommodation without the employee first providing proper diagnosis and request for accommodation. See Kaltenberger v. Ohio Coll. Of Podiatric Med., 162 F.3d 432, 437 (6th Cir. 1998). This argument is well-taken: at the time of termination there was no request for an accommodation, and Hudson acknowledged in his deposition that he never requested an accommodation. (Doc. 25, at 227-28). Moreover, as already discussed, First Solar did not know, and had no reason to know, that Hudson was disabled.
+Hudson counters that even without a formal diagnosis, a jury could conclude First Solar was alerted to his disabling condition as argued above. Here Hudson emphasized that he asked an HR officer, "[I]s leave a possibility?" (Citation). Hudson states a reasonable jury could view this question as a request for accommodation.
+Hudson's argument fails on both accounts. No reasonable jury could conclude that Hudson's illness alerted First Solar to a disabling condition. As discussed in the Employer's Knowledge analysis, First Solar neither knew nor had reason to know that Hudson was disabled. Hudson's diagnosis was not available until after his termination, and his [*16]  symptoms, which Hudson's own doctor initially attributed to a temporary illness, were not enough to alert First Solar to a disability. There may be circumstances where, even absent a proper diagnosis, an employer might possibly become alerted to a disabling condition. This case is not, however, such a case.
+Nor does Hudson's question about a possible leave constitute a request for or proposal of accommodation. Hudson is correct in stating he does not have to use magic words like "accommodation" or "disability" in requesting an accommodation. But that does not relieve him of his obligation to obtain a diagnosis or present manifest signs of disability - neither of which he did here.
+Additionally, Hudson's question occurred when his symptoms were of nothing more than an ordinary and apparently insignificant illness of some uncertain sort. The HR officer, via St. John, told Hudson to meet with her and discuss possible options relating to his being ill. (Doc. 26, at 30). It makes sense here that Hudson would ask about the possibility of leave as St. John suggested he ask HR about short-term disability. (Doc. 27, at 49). St. John made this recommendation before Hudson's meeting with the HR [*17]  officer, at which the officer anticipated speaking with Hudson about his possible options. (Doc. 26, at 30). Thus, the anticipated subject of the conversation between the HR officer and Hudson was leave of absence policies. At the meeting they discussed whether Hudson was eligible for FMLA leave and what he would have to do to proceed with a short-term approach. (Doc. 26, at 31). Hudson asking in passing about the possibility of leave did not indicate that he desired an accommodation.
+Even if I were to consider Hudson's statement to be a request for accommodation, it was not a reasonable request. Hudson concedes he never asked for a specific period of time off. (Doc. 25, at 228). For a requested accommodation with a leave to be reasonable, the request cannot be entirely indefinite: "open ended, indefinite requests for leave are not requests for reasonable accommodation." Allen v. BellSouth Telecomms. Inc., 483 Fed. App'x 197, 201 (6th Cir. 2012). No reasonable jury could find Hudson was otherwise qualified for his position, First Solar knew of a disability, or Hudson requested an accommodation for said disability.
+
+C. Limiting Damages Under After-Acquired-Evidence Doctrine
+Because I am granting First Solar's motion for summary judgment, I need not reach the question [*18]  of limiting damages under the after-acquired-evidence doctrine.
+
+Conclusion
+It is, accordingly,
+ORDERED THAT defendant's motion for summary judgment (Doc. 22) be, and the same hereby is granted.
+So ordered
+/s/ James G. Carr Sr. U.S. District Judge
+JUDGMENT ENTRY
+For the reasons stated in the Order filed March 28, 2014, it is hereby:
+ORDERED THAT, defendant's motion for summary judgment (Doc. 22) be, and the same hereby is granted.
+So Ordered.
+/s/ James G. Carr
+Sr. United States District Judge
+
+
+End of Document
+

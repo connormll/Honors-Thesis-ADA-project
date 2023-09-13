@@ -1,0 +1,298 @@
+Koss v. Lincare, Inc.
+United States District Court for the Eastern District of Michigan, Northern Division
+May 21, 2012, Decided; May 21, 2012, Filed
+Case Number 11-11932
+
+Reporter
+2012 U.S. Dist. LEXIS 70469 *; 2012 WL 1843031
+ROBIN KOSS, Plaintiff, v. LINCARE, INC., Defendant.
+Counsel:  [*1] For Robin Koss, Plaintiff: Julie A. Gafkay, Gafkay & Gardner, PLC, Frankenmuth, MI.
+For Lincare, Inc., Defendant: John A. Ruemenapp, Weisman, Young & Ruemenapp, P.C., Bingham Farms, MI.
+Judges: Honorable THOMAS L. LUDINGTON, United States District Judge.
+Opinion by: THOMAS L. LUDINGTON
+Opinion
+
+
+
+OPINION AND ORDER GRANTING DEFENDANT'S MOTION FOR SUMMARY JUDGMENT
+This employment discrimination case arises out of the ending of Plaintiff Robin Koss's employment with Defendant Lincare, Inc. While working as a sales representative for Defendant, Plaintiff aggravated her lymphedema. Her doctor ordered her not to lift objects weighing more than ten pounds. Because of her disability, Plaintiff contends, her employment was terminated. Defendant responds that it terminated Plaintiff's employment not because of her disability, but because she could not perform the essential functions of her job. Defendant notes that it has consistently judged the setting up of oxygen tanks and concentrators (which both weigh more than ten pounds) as essential functions of a sales representative. The work experience of past and present sales representatives has included these functions. And the published job description provides that sales representatives  [*2] "must frequently lift and/or move up to 10 pounds and occasionally lift and/or move up to 25 pounds."
+Following her termination, Plaintiff filed suit in this Court alleging a violation of the Americans with Disabilities Act. Defendant now moves for summary judgment. ECF No. 11. Because Defendant is correct that Plaintiff could not perform the essential functions of her job, the Court will grant Defendant's motion.
+
+I
+
+A
+Plaintiff is a breast cancer survivor. To treat her cancer, lymph nodes were removed. When the lymph nodes were removed, lymph vessels that carry fluid from the arm to the rest of the body were also removed. As a result, Plaintiff suffers from lymphedema in her right arm. Fluid accumulates, causing swelling. To treat her lymphedema, Plaintiff wears a compression sleeve (a garment that compresses the arm to cause the fluid to flow out of the limb). While Plaintiff was required to monitor the status of her arm prior to her employment with Lincare, she had no lifting restrictions.
+Defendant is in the business of supplying medical equipment, such as oxygen tanks and compressors, to doctors and patients. Nationwide, it operates more than thirteen hundred offices (or "centers").  [*3] Centers are staffed by five to fifteen employees filling five positions. Managers run the centers. Customer service representatives perform administrative tasks. Service representatives make scheduled equipment deliveries. Health care specialists act as in-house licensed health care providers. And sales representatives, as their job title suggests, sell products and services.
+Some of the specific duties of sales representatives' are listed in a written job description, which provides in pertinent part:
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned.
+Establish and maintain a relationship with referral sources in the medical community. Responsible for obtaining a predetermined number of oxygen referrals per month.
+Identify and develop new referral sources. Responsible for obtaining a predetermined number of oxygen set-ups from new referral sources each month.
+Prepare for and participate in trade shows, exhibits and advertising campaigns.
+Conduct[] in-service for referral sources educating them in the use and application of Lincare equipment. . . .
+May be required to set-up patient where allowed by state regulation. . . .
+PHYSICAL DEMANDS . . . The employee  [*4] must frequently lift and/or move up to 10 pounds and occasionally lift and/or move up to 25 pounds.
+Pl.'s Resp. Mot. Summ. J. Ex. 7, at 1-2, ECF No. 15-8. In Michigan, state regulations permit sales representatives to set up medical equipment in a patient's hospital room or home.
+
+B
+In January 2010, Plaintiff applied for a job as a sales representative in Defendant's Houghton Lake center. The center's manager, Tina Reeds, interviewed Plaintiff. During the interview, Ms. Reeds brought up the requirement that Houghton Lake staff be "on-call" to deliver equipment to patients outside normal business hours. As the office had only five people (including the manager), each employee was on call one week each month (except the manager, who filled in as needed). During Plaintiff's deposition, she was asked:
+Q: Did you have an understanding as to what on call meant at that time?
+A: Meant I would be available for calls after hours.
+Q: What kind of calls?
+A: Calls for patients to receive equipment from us.
+Q: And that's what Tina explained at the first interview?
+A: That was my understanding.
+Q: And what else? What did you say when she asked if you would be available?
+A: I said I would be available.
+Q: Okay.  [*5] Did she say anything about the type of equipment that might be relevant to this on-call issue?
+A: It would be the equipment we provided to our patients.
+Q: Oxygen?
+A: Um-hmm.
+Q: Yes?
+A: Yes.
+Q: Did she say anything about having equipment available in your car during that first interview?
+A: She might have.
+Q: Okay. You don't recall one way or the other?
+A: I do not.
+Q: Did you eventually learn something about that before you took the job?
+A: I'm sure I did, yes, somewhere along there.
+Q: So you think you learned that maybe at the second interview?
+A: I don't know if it was the first or second.
+Q: Regardless of when it was, the first or second, what did you learn about having equipment available?
+A: I would have to have equipment available.
+Q: What kind of equipment?
+A: Oxygen.
+Q: And "available" means what?
+A: In my car.
+Q: What kind of oxygen; in other words, what kind of an oxygen package? Was it a tank or something else?
+A: Oh, probably a medium size tank and a concentrator.
+Pl.'s Dep. 34:1-35:14, Oct. 28, 2011, attached as Def.'s Mot. Summ. J. Ex. A, ECF No. 11-7.
+The "most frequent set up" involves a medium size oxygen tank that weighs eleven pounds. See Morrison Aff. ¶ 6, attached as Def.'s Mot. Ex.  [*6] J; see also Def.'s Mot. Ex. F (listing oxygen tank weights). The lightest of Defendant's compressors weighs about thirty pounds. Pl.'s Dep. 32:14-17.
+In Ms. Reeds's deposition, she was also asked about the first interview. She recalled that after discussing a sale representative's job requirements, the conversation turned to the Houghton Lake center in particular. She was asked:
+Q: Tell me what you recall about your interview with Robin Koss?
+A: . . . We discussed that we were a small center, that we all shared responsibility for on-call, that we're not a typical office where we close at 5:00 o'clock, that we are 24/7 including holidays, and that we all share in the responsibility of that. I had reviewed her resume which read very well to me, but had a gap, and I just asked I'm interested you had a gap in work, what happened here, because I took time off when my children were born, so I was curious. And she volunteered the information that she had been through - she had breast cancer, and she shared with me her experience and we bonded a little bit because I had a similar scare. And she was very - I was impressed with her. I thought if she could overcome that, she would do a great job,  [*7] that she was a fighter, and I liked that.
+Reeds Dep. 25:15-26:4, Dec. 14, 2011, attached as Pl.'s Resp. Ex. 4. Plaintiff also recalled that the topic of her cancer came up at the first interview. During Plaintiff's deposition, she was asked:
+Q: Anything else that you can remember just before - I'm going to get out of this first interview pretty soon here but anything else you remember discussing with Tina at the first interview about your cancer?
+A: Nothing that I remember.
+Q: Do you remember telling her that occasionally your arm would swell?
+A: I remember telling her that I've had issues with my arm, that it was occasional.
+Q: Do you remember telling her that you would wrap your arm occasionally, at that first interview?
+A: Um-hmm.
+Q: You think that you did tell her that now?
+A: I don't know if I did. If I did, that would not have been inaccurate.
+Q: Okay. And again, I'm just trying to get to what you remember talking about. Do you remember Tina asking you, look, is your cancer or your arm going to get in the way of doing the things that we've talked about, like the on-call duties or the movement of equipment or anything, any of those things. Do you recall her asking you that question?
+A: I  [*8] believe we talked about whether or not I would be able to do the job relative to my arm, and I said I had no reason to believe that I couldn't.
+Q: And relative to the movement of equipment, as well?
+A: Yeah.
+Q: That's why it came up?
+A: Right.
+Q: Okay. And you said, I think I can do it?
+A: Yeah, yeah. I could — It was my understanding that I would occasionally need to do that and I said, yes, I can occasionally do that.
+Q: Did you talk about — Was the word "occasionally" used, as you recall?
+A: Something [like] that — either that word or another word that meant the same thing.
+Q: All right. And by whatever word that was used, did you understand that you weren't going to have to haul equipment and big tanks sort of repeatedly every day?
+A: Correct.
+Q: Okay. But you knew from your discussions at that first meeting that at least periodically it was something you would be required to do?
+A: Yes.
+Pl.'s Dep. 55:7-57:3.
+Following the first interview, Defendant invited Plaintiff for a second. In this interview, Ms. Reeds was joined by her supervisor, district manager Rhonda Roth. The same topics were discussed. Again, Plaintiff did well.
+
+C
+In March 2010, Defendant offered Plaintiff a position as sales representative.  [*9] She accepted. She then signed two documents. First, on March 15, 2010, she signed a copy of the sales representative job description quoted above. See Def.'s Mot. Ex. B. Three days later, she signed a "sales expectations" form. Id. Ex. C. The form provides that sales representatives are expected to build relationships with clients, be able to set up all equipment types, and carry a concentrator and medium oxygen tank at all times:
+- Establish and maintain relationships with referral sources. . . .
+- Place Starter Dose Kits (monthly goals to be determined with CM). . . .
+- Understand and be able to set up all equipment types . . . .
+- Have a Concentrator, DTs, and portable system [medium oxygen tank] at all times (two of each preferred).
+Id.
+In April 2010, Plaintiff travelled to Florida (where Defendant's corporate headquarters are located) for three weeks of training. The next month, she began working at the Houghton Lake center. Plaintiff recalls, "I would go to doctors' offices and talk to them about Lincare products and services, review with them patient information and ask for additional referrals." Pl.'s Dep. 69:1-3. Additionally, Plaintiff performed equipment set-ups for patients during  [*10] normal business hours. She explains:
+I would generally have it with me, so that, as I was making sales calls, if there was an opportunity to set up a patient if I was in the geographical area that was where the patient was, I would get the phone call and say, this doctor needs you at this location to do this for that patient.
+Q: Got you. Okay. And that's called a setup?
+A: Perhaps. It could have been - I mean, it depended on what the patient needed.
+Q: Okay. If the patient needed oxygen, you would take your tank in and do the same thing for the patient that you explained to me you would do for the guy at the hospital; is that right?
+A: Correct.
+Q: And what is a good word for us to call that?
+A: You can call it a setup.
+Q: Is a setup just oxygen or does a setup include a concentrator? I just want to make sure we're talking the same language.
+A: Generally, I would expect a setup would include a concentrator.
+Q: During the period of time you were at Lincare, how many setups did you do that included the concentrator?
+A: A setup includes a concentrator. I don't know how many I did. . . .
+Q: How many do you recall doing?
+A: I don't.
+Q: Let me ask it this way. What would a customary week be?
+A: Maybe a  [*11] couple a week. Maybe one a week.
+Pl.'s Dep. 109:10-110:20. Plaintiff was also placed into the on-call rotation for afterhours setups. Addressing this responsibility during her deposition, she was asked:
+Q: During the period of time that you worked with Lincare, how often were you on call?
+A: I want to say every four or five weeks. . . .
+Q: How many weeks do you think you were on call during the three or four months that you worked with Lincare?
+A: I think it was three times.
+Q: Did you ever have to perform any official duties while you were on call?
+A: Yes.
+Q: How many times?
+A: I don't remember.
+Q: More than five?
+A: Per on call?
+Q: No. I'm talking about total.
+A: Total, over the three periods of time?
+Q: Right.
+A: I believe so.
+Q: More than a dozen?
+A: I don't remember.
+Q: What on-call duties do you recall you had to perform?
+A: Delivering maybe a walker to the hospital, setting up a patient with oxygen to leave the hospital and then meeting with them at their home to set up their concentrator.
+Pl.'s Dep. 96:4-97:10.
+
+D
+Plaintiff performed a set-up in Standish, Michigan on July 1, 2010. The equipment included one of the heavier concentrators. Plaintiff recounts what happened:
+While lifting a piece of equipment,  [*12] the strain on my arm created a blood clot.
+Q: What kind of equipment were you lifting?
+A: An oxygen concentrator.
+Q: Do you know how much it weighed?
+A: It was one of heavier ones. I would say between sixty to, you know, sixty, seventy, [seventy-five pounds]. I don't know, somewhere around that. . . .
+Q: Was there a trauma, do you know? I don't know if that's the right word but was there an immediate reaction from the lifting that you recall or was it something that set in later?
+A: I was not aware of it at the time.
+Q: When did you first become aware of it?
+A: I realized that it was — I had exacerbated — My arm began to swell over the next couple of days.
+Pl.'s Dep. 71:12-72:23.
+Over the Fourth of July weekend, the swelling in Plaintiff's right arm worsened. Plaintiff called her doctor on Monday, July 5, and was told to contact her physical therapist. Her therapist, Madhu Rishi, recommended a compression pump. She also recommended taking a few days off. Plaintiff followed Ms. Rishi's recommendations, but the swelling did not go down. Two days later, she made an appointment with her doctor. After examining Plaintiff, the doctor sent her to the emergency room, where an ultrasound revealed a blood  [*13] clot. Plaintiff underwent surgery that evening. The following day, she underwent a second surgery. She remained in the hospital for about a week.
+After being released from the hospital, Plaintiff called her supervisor, Ms. Reeds. Plaintiff recalls that Ms. Reeds directed Plaintiff to bring her job description to her doctor to clear her for work:
+I think I called her just to let her know I was home and to follow up and let her know how long they had told me I needed to stay off work; that I had a follow-up appointment somewhere towards the end of — within a week or two, and just asked her what I needed to do. And she said — she explained the process of them needing to — of what I needed to do to come back to work. . . .
+I sent to them — or they sent to me my job description for my doctor, to say, read this and clear her to return to work.
+TPl.'s Dep. 80:4-20. Plaintiff brought the job description to her physical therapist, who wrote that Plaintiff could return to work with three permanent restrictions: (1) no overhead lifting; (2) no lifting greater than ten pounds; and (3) no repetitive motion with the right arm. Pl.'s Resp. 7.
+After Plaintiff sent these restrictions to Ms. Reeds, the two  [*14] women had another telephone conversation. In her deposition, Ms. Reeds was asked:
+Q: Did Robin, at any time tell you she believed she could do her job with an accommodation?
+A: She did.
+Q: What did she tell you, or what was that discussion?
+A: She said that she felt that she could do the job with assistance of another person.
+Q: When did that conversation occur?
+A: I would be guessing at a timeline. I would have to guess that it fell somewhere between the lymphedema pump and her return to the office on the 22nd.
+Q: Was this a telephone conversation with you?
+A: Yes.
+Q: Okay.
+A: And it was in response to the physical therapist note . . . .
+Q: Okay. How did this conversation come up between you and her where you had this conversation?
+A: I don't recall how we got to that. I believe she was concerned about having a job being off for a length of time and concerned that those restrictions were going to be an issue.
+Q: Okay. Was this a phone conversation?
+A: Yes.
+Q: Just between you and Robin?
+A: Yes.
+Q: And Robin felt she could do the job with the assistance of another person?
+A: She suggested that.
+Q: Okay. And what was your response?
+A: That — the first suggestion by Robin was that a family member accompany  [*15] her, and my response was that that would not be allowed by corporate due to HIPAA rules. It would be a privacy issue. The second suggestion by Robin was that it could be done by a service rep, a customer service rep, a healthcare specialist, myself, that we could do all of the heavy lifting. Robin would do all the talking and the paperwork.
+Q: And what was your response?
+A: That that's not a decision made by me, that's a decision made by corporate.
+Reeds Dep. 60:9-61:24.
+
+E
+On July 22, Plaintiff returned to work with a copy of the physical therapist's restrictions. Ms. Reeds faxed the information to Defendant's human resources department. The human resources manager, Sheila Dilley, then set up a conference call with Plaintiff and Ms. Reeds. In her deposition, Plaintiff was asked:
+Q: During that telephone conference call, did you offer as a suggestion that you would have a family member come and lift oxygen tanks and concentrators for you?
+A: I remember saying it one time. I don't remember if it was during that call or not. I remember saying, you know, gee, if I need to, I can do this. And I don't remember who [I] said it to or when, and they pointed out that that would have been a HIPPAA violation  [*16] for me to have a person at a patient's home and, so, that wasn't an option.
+Q: Okay. And do you agree with that, that —
+A: Yes.
+Q: — it would have been a HIPPAA violation? A: Yes. . . .
+Q: During that telephone conference call, do you remember suggesting that you be removed from on-call?
+A: I remember saying I wouldn't be able to do that because I wouldn't be able to lift the concentrators.
+Q: And what was the response to that, if you recall?
+A: There was not a specific response to anything in that conversation from Lincare. They said they would have to check into it and they would get back to me.
+Q: During that telephone conference call, do you remember suggesting that Lincare have someone, essentially, meet up with you any time there had to be lifting involved, to do the lifting for you?
+A: No.
+Q: Did you make any suggestion similar to that?
+A: That if they were setting up, I would be able to go where they were. If it was a patient that I needed to — a doctor/patient relationship that I needed to be a part of, I could accompany somebody else doing the setup but not that somebody should have to come with me and lift for me.
+Q: Okay. Did anyone from Lincare make any suggestions as to how your  [*17] lifting restriction could be accommodated during the conference call?
+A: During the conference call, not that I recall.
+Q: Did they ever?
+A: Yes. In my conversation with Tina, she said, well, we can work around it.
+Q: Okay. And the way you were going to "work around it" was to have somebody else take a portion of what you had been doing and do that portion of what you had been doing, referring to the on-call stuff, right?
+A: I wouldn't — yeah.
+Pl.'s Dep. 137:7-139:10. Ms. Dilley was also asked about the conference call in her deposition. She was asked:
+Q: Tell me what you recall about that phone conference?
+A: I most likely [initiated the call], because I have the ability to conference somebody and call Tina, and then called Robin and then went over what the — just to clarify what I'm looking at, the restrictions that there is no overhead lifting, there is no lifting over ten pounds and no repetitive motion with the right arm and that these are permanent. And then generally we discussed what the job entails that the individual is holding. I don't remember exactly what was said.
+Q: I don't want to know what generally you had discussed. I want to know what you recall discussing with Tina and  [*18] Robin.
+A: I don't have exact recall.
+Q: Do you remember anything you discussed with them?
+A: I do remember talking about that there wasn't any other positions within that center and her mentioning to me that a competitor —
+Q: Who's her?
+A: I'm sorry, Robin said to me that a competitor had somebody that was in a wheelchair. And I did respond that I was not familiar with who the competitor was. And she named the competitor. And I said I don't know what the requirements of their job [are] as opposed to I do know what Lincare's requirements are. And so we talked about that, then she also made mention about that she was asked to lift 60 pounds and that we put her life in jeopardy. She was very combative, that's all. I do remember that.
+Q: Anything else you remember about that phone conversation?
+A: That — not specifics.
+Q: Okay. And how did the phone conversation conclude?
+A: I don't recall.
+Q: Well, what was Robin's status at the conclusion of the phone conversation? What was the status of her employment?
+A: That we would look at whether there was any kind of - I don't recall exactly what was stated, but with the permanent restrictions that it would not be something that, you know, we would not be  [*19] able to work with.
+Dilley Dep. 22:22-24:12, Feb. 29, 2012, attached as Def.'s Mot. Ex I. Ms. Reeds was also asked about this conference call in her deposition:
+Q: And what do you recall about the discussion?
+A: Sheila relayed the information to Robin that you know, we were not going to be able to accommodate these permanent restrictions, that she was not going to be able to perform. In their opinion she would not be able to perform the job she was hired to do.
+Q: Did Sheila say what functions she didn't believe Robin would be able to perform?
+A: She did not say that initially. Robin responded — I believe Robin asked what specifically. Sheila said she would not be able to perform oxygen setups, that that would be too heavy, that the tanks that sales reps carry and deliver would be too heavy, that nothing we do in a setup or an on-call would fall under those restrictions. . . .
+Q: Okay. Tell me what else occurred in that conversation?
+A: Sheila explained, as I mentioned before that the lifting of the equipment for setups and on-call would be outside of those restrictions.
+Q: Okay. And do you remember any other response from Robin during that conversation?
+A: I remember Robin saying that she felt  [*20] it was unfair, that she felt Lincare should accommodate those restrictions as she — in Robin's words Lincare caused the problem.
+Q: What else do you remember about that telephone conversation?
+A: That's approximately it. It was a short conversation.
+Q: Okay. And what happened next?
+A: Sheila, you know, said that's all that we have to say on that. I'm sorry, it is what we've discussed. You'll need to turn your keys into Tina and any other Lincare owned equipment. The call ended.
+Q: And what did Robin do?
+A: She gathered her keys, I followed her out to her car, she had a couple tanks in her car, I unloaded the tanks, retrieved any sales materials she had, and Robin left.
+Reeds Dep. 52:3-17, 59:1-23.
+About two weeks later, Ms. Dilley wrote to Plaintiff. Def.'s Mot. Ex. E. "This letter is to confirm our telephone conversation on July 22, 2010," the letter began. Id. It continued:
+We confirmed that the medical provider had mandated restrictions of no overhead lifting, no lifting of more than 10 pounds, and no repetitive motion to right arm. You confirmed that you understood them and that you understood them to be permanent.
+In review[ing] the physical requirements of your job as a Sales Representative  [*21] (frequently move/lift up to 10 pounds and occasionally move/lift up to 25 pounds) and the permanent restriction you have, you would not be able to perform the essential requirements which include the deliver[y] of equipment to discharge planners and demonstrating equipment during in-services. Unfortunately there is not any other position in the center that would be able to accommodate these permanent restrictions.
+Consequently, we are removing you from our rolls as an active employee.
+Id. Ms. Dilley mailed the letter to Plaintiff on August 5. Four days later, Plaintiff faxed a letter to Defendant. It provided:
+The purpose of this letter [is] to confirm that, I am ready, willing, and able to return to work. My physician restrictions are within my job duties. Please advise me of a date when I can return to work.
+This letter also confirms that I submitted a doctor's release on 7/21/10. Since that date you have not engaged in an interactive process seeking to accommodate my restrictions. I have been told that you do not want to accommodate my restrictions. This seems incredibly unfair because the restrictions do not appear to interfere with my job description.
+Additionally, I feel I have no  [*22] choice, so I am filing a claim of discrimination with the EEOC due to your refusal to accommodate my disability.
+Pl.'s Resp. Ex. 8.
+In November 2010, Plaintiff filed a claim of discrimination with the Equal Employment Opportunity Commission. In April 2011, the EEOC issued a notice of right to sue. Plaintiff filed suit in this Court the following month.
+Defendant now moves for summary judgment.
+
+II
+Summary judgment should be granted if the admissible evidence shows that "there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Court must view all facts and draw all reasonable inferences in favor of the nonmovant and determine "whether the evidence presents a sufficient disagreement to require submission to a jury or whether it is so one-sided that one party must prevail as a matter of law." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 251-52, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986).
+
+III
+The Americans with Disabilities Act, among its protections, prohibits an employer from discharging a qualified individual on the basis of disability. 42 U.S.C. § 12112(a). To establish a prima facie case of disability discrimination, a plaintiff must prove: (1)  [*23] she is an individual with a disability; (2) she is otherwise qualified to perform the job requirements, with or without reasonable accommodation; and (3) she was discharged solely on account of her disability. Walsh v. UPS, 201 F.3d 718, 724 (6th Cir. 2000); EEOC v. AT&T Mobility Servs. LLC, No. 10- 13889, 2011 U.S. Dist. LEXIS 144195, 2011 WL 6309449, at *7 (E.D. Mich. Dec. 15, 2011). The party opposing the motion may not "rely on the hope that the trier of fact will disbelieve the movant's denial of a disputed fact," but must make an affirmative showing with proper evidence in order to defeat the motion. Street v. J.C. Bradford & Co., 886 F.2d 1472, 1479 (6th Cir. 1989).
+Here, Defendant argues that Plaintiff does not establish either of the first two elements of the prima facie case. She is not disabled, Defendant asserts, because "a ten pound lifting restriction does not constitute a substantial limitation on a major life activity under the ADA."  [*24] Def.'s Mot. 10. Next, Defendants argue, even if Plaintiff is disabled, she does not establish the second element because she does not establish that she is capable of performing the essential functions of her job. As the second argument is dispositive, it is taken up first.
+
+A
+"Essential functions of a job," this Court recently noted, "are those functions which the individual who holds the position must be able to perform and that could not be removed without fundamentally altering the position." AT&T Mobility Servs., 2011 U.S. Dist. LEXIS 144195, 2011 WL 6309449, at *7 (citing 29 C.F.R. § 1630.2(n)). " 'The term essential functions means the fundamental job duties of the employment position the individual with a disability holds or desires,' but it does not include only marginal functions." Hoskins v. Oakland Cnty. Sheriff's Dept., 227 F.3d 719, 726 (6th Cir. 2000) (quoting 29 C.F.R. § 1630.2(n)(1)).
+In this case, Defendant contends that essential functions of the sales representative position include oxygen set-ups and on-call rotations. Def.'s Mot. 13. That is, salespeople are required to do more than simply sell the equipment, they have to be able set it up too (during regular business hours and after hours as  [*25] part of the on-call rotation). Plaintiff concedes that she is unable to perform set-ups or participate in on-call rotations, but argues that the evidence shows "that these were not essential functions of the sales representative position." Pl.'s Resp. 10. Contrary to Plaintiff's assertion, Defendant establishes that they are essential to the position of sales representative.
+
+1
+"The inquiry into whether a function is essential," the Sixth Circuit emphasizes, "is highly fact specific." Hoskins, 227 F.3d at 726. A court must "scrutinize the evidence before determining whether the defendant's justifications reflect a well-informed judgment grounded in a careful and open-minded weighing of the risks and alternatives, or whether they are simply conclusory statements that are being used to justify reflexive reactions grounded in ignorance or capitulation to public prejudice." Hall v. U.S. Postal Serv., 857 F.2d 1073, 1079 (6th Cir. 1988) (quoting Arline v. Sch. Bd. of Nassau Cnty., 772 F.2d 759, 764-65 (11th Cir. 1985)). In this case, Plaintiff does not suggest that Defendant is actually prejudiced against breast cancer survivors and is merely using the oxygen set-ups and on-call rotation requirements  [*26] to justify terminating Plaintiff's employment. Rather, Plaintiff contends that set-ups and on-call rotations are simply not essential functions of the sales representative position - the essential function is, as the job title suggests, selling.
+Factors for the court to consider in determining whether a particular job function is essential include:
+(i) The employer's judgment as to which functions are essential;
+(ii) Written job descriptions prepared before advertising or interviewing applicants for the job;
+(iii) The amount of time spent on the job performing the function;
+(iv) The consequences of not requiring the incumbent to perform the function;
+(v) The terms of a collective bargaining agreement;
+(vi) The work experience of past incumbents in the job; and/or
+(vii) The current work experience of incumbents in similar jobs.
+Hoskins, 227 F.3d at 726 (quoting 29 C.F.R. § 1630.2(n)(3)). In this case, no collective bargaining agreement exists between the parties. After drawing all reasonable inferences in Plaintiff's favor, the remaining factors establish that set-ups and on-call rotations are essential functions of sales representatives at the Houghton Lake center.
+First, Defendant has consistently  [*27] judged these two tasks to be essential functions. Before Plaintiff was hired, Defendant informed Plaintiff during each of her two interviews that sales representatives are required to perform oxygen set-ups and participate in on-call rotations. When Defendant inquired whether Plaintiff would be able to perform these tasks, Plaintiff responded that she would. "I believe we talked about whether or not I would be able to do the job relative to my arm," Plaintiff testified, "and I said I had no reason to believe that I couldn't." Pl.'s Dep. 56:4-6. Likewise, Defendant's regional manager testifies "Sales Representatives must perform equipment set ups, particularly oxygen set ups, as part of their essential job functions" and "It is customary for a Sales Representative to have 'on-call' duties in smaller Centers, such as the Houghton Center, as part of his/her essential job functions." Morrison Aff. ¶¶ 6-7. After Plaintiff was hired, she acknowledges, she repeatedly performed oxygen set-ups and performed on-call service calls. See  [*28] Pl.'s Dep. 96:4-97:10 (quoted above). Defendant's consistent judgment as demonstrated by its course of conduct thus suggests that these two functions are essential.
+Second, the written job description Defendant prepared before interviewing Plaintiff specifies that oxygen set-up is an essential part of a sales representative's job. Under the heading "essential duties," the job description provides: "May be required to set-up patient where allowed by state regulation." Pl.'s Resp. Ex. 7, at 1. And in Michigan, the parties agree, state regulations permit patient set-ups. The job description also provides under the heading "physical demands" that "The employee must frequently lift and/or move up to 10 pounds and occasionally lift and/or move up to 25 pounds." Id. at 2. The parties agree that Plaintiff's lifting restriction means that she is unable to meet the physical demands listed in the job description. Plaintiff signed a copy of this job description when she was hired. Def.'s Mot. Ex. B. She also signed a "sales expectations" form. Id. Ex. C. That form provides that sales representatives are expected to "be able to set up all equipment types" and "[h]ave a Concentrator, DTs, and portable  [*29] system [medium oxygen tank] at all times (two of each preferred)." Id. Defendant's published policies, enacted before hiring Plaintiff, thus suggest that set-up is an essential function.
+Third, these functions formed a regular part of the time Plaintiff spent working for Defendant. Plaintiff was required to spend one week each month on-call. And while she could not recall the precise number of times she actually responded to a call, she estimated it to be more than five, perhaps more than a dozen. See Pl.'s Dep. 96:17-97:4 (quoted above). Moreover, although Plaintiff could not recall the precise number of times she performed a set-up, she acknowledged that she averaged "[m]aybe a couple a week. Maybe one a week." Pl.'s Dep. 110:20. That these functions formed a regular part of Plaintiff's work schedule (in the case of the on-call rotation, a substantial part of the schedule) suggest that they were not marginal, but essential functions.
+Fourth, oxygen set-ups and on-call rotations are vital, not discretionary, activities. "Because meeting patients' respiratory needs is involved," Defendant's regional manager notes, "Lincare is a 24 hour/7 day a week business." Morrison Aff. ¶ 5. Plaintiff  [*30] likewise recognizes that these activities are vital, and so she asks that someone else perform them. Following her injury, she told her supervisor that the set-ups "could be done by a service rep, a customer service rep, a healthcare specialist, myself [i.e., Ms. Reeds], that we could do all of the heavy lifting." Reeds Dep. 61:17-61:20. Similarly, in her deposition Plaintiff was asked, "And the way you were going to 'work around it' was to have somebody else take a portion of what you had been doing and do that portion of what you had been doing, referring to the on-call stuff, right?" Pl.'s Dep. 139:6-9. She responded, "yeah." Pl.'s Dep. 139:10. The Sixth Circuit instructs, however, that "the ADA does not require employers to accommodate individuals by shifting an essential job function onto others." Hoskins, 227 F.3d at 729 (citing Bratten v. SSI Servs., Inc., 185 F.3d 625, 632 (6th Cir. 1999)). Plaintiff's assertion that the job function is not essential because it could have been reassigned thus lacks merit — "employers are not required to assign existing employees or hire new employees to perform certain functions or duties of a disabled employee's job which the employee cannot  [*31] perform by virtue of his disability." Bratten, 185 F.3d at 632 (citing Cochrum v. Old Ben Coal Co., 102 F.3d 908, 913 (7th Cir. 1996)). Obligated to follow the Sixth Circuit instruction on this issue, the Court cannot impose liability on Defendant for not taking Plaintiff up on her suggestion that someone else could "do all of the heavy lifting."
+Finally, the work experience of past and present sales representatives has included oxygen set-ups and on-call rotations. As noted, Defendant's regional manager has produced an affidavit. "I have worked for Lincare for over 25 years," he testifies. Morrison Aff. ¶ 1. He continues: "Sales Representatives must perform equipment set ups, particularly oxygen set ups, as part of their essential job functions," explaining: "Sales Representatives are required to perform set ups and/or to deliver equipment in smaller Centers (such as the Houghton Lake Center) as a matter of course due to personnel and geographic concerns." Id. ¶¶ 6, 8.
+Turning to the on-call rotation, he writes that "it is the practice of Lincare to require Sales Representatives to fulfill on-call duties as part of their essential functions in all such smaller centers. . . . Sales Representatives  [*32] at Centers in Northeast Michigan must perform on-call duties. It is part of their job and one of their essential functions which they are made aware of during their interview for the position." Id. ¶ 7.
+In sum, the evidence taken as a whole reveals that oxygen set-ups and on-call rotations are essential functions of the sales representative position at the Houghton Lake center. Because Plaintiff was unable to perform these essential functions of her job, she is unable to satisfy the second elements for establishing a prima facie case of disability discrimination under the ADA. Defendant is entitled to summary judgment.
+
+2
+Although Plaintiff makes several arguments why these functions were not essential to her job, none are meritorious. First, Plaintiff argues, the on-call requirements were not an essential function because "the Sales Representative job description does not reference 'on call' duties in any fashion." Pl.'s Resp. 13. As noted, however,
+The determination of whether physical qualifications are essential functions of a job requires the court to engage in a highly fact-specific inquiry. Such a determination should be based upon more than statements in a job description and should  [*33] reflect the actual functioning and circumstances of the particular enterprise involved.
+Hall, 857 F.2d at 1079 (internal citation omitted) (citing Arline, 772 F.2d at 764-65). While Plaintiff is correct that the lack of reference to on-call responsibilities in the published job description supports her argument, it does not conclusively establish it. That is, the published job description is evidence of whether a job function is essential. But it is not the end of the inquiry. AT&T Mobility Servs., 2011 U.S. Dist. LEXIS 144195, 2011 WL 6309449, at *7 ("An inquiry into whether a particular duty is an 'essential function' of the job should be based on more than statements in a job description."). As detailed above, the actual functioning of Defendant's business demonstrates that the on-call rotation was an essential part of a sales representative's job at the Houghton Lake center.
+Next, Plaintiff argues that "she was  [*34] told by Tina Reeds at her hire that once her referrals reached a certain point, she would no longer have to participate in on-call rotation. . . . This testimony is bolstered by that of Sheila Dilley, who confirmed that there are other locations where Sales Representatives do not take any on-call responsibilities." Pl.'s Resp. 12. Essentially, Plaintiff argues that the on-call requirement would not be an essential function of her job if she had a different position, or worked in a different location, or both. This argument, however, does not address whether these two tasks were essential functions of the position Plaintiff actually held, sales representative at the Houghton Lake center.
+Third, Plaintiff argues that comments by Defendant's human resources manager, Ms. Dilley, suggest that set-ups and on-call rotations are not essential. Plaintiff writes:
+Sheila Dilley . . . confirmed that there are other locations where Sales Representatives do not take any on-call responsibilities. Further, with regard to set-ups and delivery of equipment, Ms. Dilley testified that if Ms. Koss was called upon to deliver equipment such as oxygen during working hours, it is simply a matter of convenience  [*35] to Lincare. If Robin Koss [was] unavailable to make the delivery, the delivery would still get made, it would just be less convenient for Lincare.
+Pl.'s Resp. 12. As noted, however, Plaintiff's assertion that another employee could have performed these functions does not make the functions non-essential - "employers are not required to assign existing employees or hire new employees to perform certain functions or duties of a disabled employee's job which the employee cannot perform by virtue of his disability." Bratten, 185 F.3d at 632 (citing Cochrum v. Old Ben Coal Co., 102 F.3d 908, 913 (7th Cir. 1996)). An employer that decides to reassign the essential functions of a disabled employee's job to another employee may justly be praised. An employer that does not, however, is not subject to civil liability under the ADA.
+Drawing all reasonable inferences in Plaintiff's favor, Defendant is entitled to judgment on Plaintiff's ADA claim.
+
+IV
+Accordingly, it is ORDERED that Defendant's motion for summary judgment (ECF No. 11) is GRANTED.
+/s/ Thomas L. Ludington
+THOMAS L. LUDINGTON
+United States District Judge
+Dated: May 21, 2012
+
+
+End of Document
+

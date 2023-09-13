@@ -1,0 +1,44 @@
+EEOC v. Simmons Bedding Co.
+United States District Court for the Northern District of Georgia, Atlanta Division
+May 2, 2012, Decided; May 2, 2012, Filed
+CIVIL ACTION NO. 1:07-cv-1713-JEC
+
+Reporter
+2012 U.S. Dist. LEXIS 61262 *; 26 Am. Disabilities Cas. (BNA) 872; 2012 WL 1565265
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Plaintiff, v. SIMMONS BEDDING COMPANY, Defendant.
+Prior History: Eeoc v. Simmons Bedding Co., 2007 U.S. Dist. LEXIS 119155 (N.D. Ga., Sept. 18, 2007)
+Counsel:  [*1] For Equal Employment Opportunity Commission, Plaintiff: James L. Lee, Robert K. Dawkins, Ronald S. Cooper, LEAD ATTORNEYS, Lakisha C. Duckett, Equal Employment Opportunity Commission-ATL, Atlanta District Office-Legal Unit, Atlanta, GA.
+For Yvonne Ming Young, Plaintiff: David S. Fried, Fried & Bonder, LLC, Atlanta, GA.
+For Simmons Bedding Company, Defendant: Alisa Pittman Cleek, Stanford Glenn Wilson, Elarbee Thompson Sapp & Wilson, Atlanta, GA; Justin Beecher Connell, Elarbee, Thompson, Sapp & Wilson, LLP, Atlanta, GA.
+Judges: JULIE E. CARNES, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: JULIE E. CARNES
+Opinion
+
+
+
+ORDER & OPINION
+This case is before the Court on the EEOC's Brief in Support of its Claim for Injunctive Relief [123]. The Court has reviewed the record and the arguments of the parties and, for the reasons set out below, concludes that the EEOC's Claim for Injunctive Relief [123] should be DENIED as moot and the case CLOSED.
+
+BACKGROUND
+The Court provided a detailed description of the facts underlying this dispute in its previous summary judgment orders. (Orders [111] and [121].) Briefly, plaintiff intervener Yvonne Young was working for defendant as a Senior Systems Analyst when she was diagnosed with breast  [*2] cancer in 2005. (Order [111] at 2.) Young requested and received a six-month medical leave of absence and short-term disability benefits to facilitate her treatment. (Id.) Pursuant to the disability policy that was in effect at the time, defendant automatically terminated Young's employment when she did not return to work after 180 days of medical leave. 1 (Id. at 3.)
+Following her termination, Young filed a charge of discrimination with the EEOC alleging a violation of the Americans with Disabilities Act (the "ADA"). (Id. at 3.) After investigating Young's charge, the EEOC initiated this lawsuit against defendant pursuant to Title I of the ADA. (Id.) Young intervened in the suit, asserting a claim for disability discrimination under the ADA, as well as a state law claim for intentional infliction of emotional distress. (Order [111] at 3-4.)
+Young and defendant reached a settlement, and filed a joint motion to dismiss the case. (Joint Mot. to Dismiss [102].) The EEOC did not object to the motion, which the Court granted as unopposed. (Order  [*3] [103].) However, the EEOC subsequently moved to reopen the case as to those claims seeking relief "separate and apart from" Young's individual claims, including certain claims for compensatory and punitive damages and a claim for injunctive relief. (EEOC's Mot. to Reopen [104] and Proposed Pretrial Order [115] at Attachment C.) The Court granted the EEOC's motion to reopen, and at the same time permitted defendant to renew its motions for summary judgment on liability and punitive damages. (Orders [106] and [111].)
+On defendant's renewed motions, the Court concluded that any recovery by the EEOC of compensatory damages was precluded by the settlement agreement. (Order [111] at 13-14.) The Court also granted summary judgment to defendant on the punitive damages issue. (Order [121] at 6, 10.) Based on the materials in the record, the Court found that the EEOC's claim for punitive damages was (1) barred by the settlement agreement and (2) not supported by the evidence. (Id.) By separate order, the Court directed the EEOC to submit a brief setting out the legal and factual basis of its request for injunctive relief. (Order [122] at 2.)
+As instructed by the Court, the EEOC has submitted a  [*4] brief in support of its claim for injunctive relief. (EEOC's Br. in Supp. of its Claim for Inj. Relief ("EEOC's Br.") [123].) Defendant has responded to the brief. (Def.'s Resp. in Opp'n to the EEOC's Claim for Inj. Relief ("Def.'s Resp.")[124].) It is apparent from the EEOC's brief and defendant's response that the claim for injunctive relief is now moot. Accordingly, the Court DENIES the claim and will CLOSE the case.
+
+DISCUSSION
+The injunctive relief requested by the EEOC is an order requiring defendant to amend its leave policy so that disabled employees who are not able to return to work after 180 days of leave are not automatically terminated. (EEOC's Br. [123] at 5-6.) Citing several decisions from other circuits, the EEOC contends that extended medical leave can be a reasonable accommodation that is required by the ADA under certain circumstances. (Id. at 2-3.) Pursuant to the cited case law, the reasonableness of a proposed request for extended medical leave depends on whether (1) the request is for a finite or indefinite period of time and (2) granting the request would impose an undue burden on the employer. (Id. at 3.) According to the EEOC, those factors require an individualized  [*5] inquiry that is at odds with defendant's policy of automatic termination following 180 days of medical leave. (Id. at 5-6.)
+In response to the EEOC's brief, defendant presents evidence that it has amended its leave policy to address the EEOC's concerns. (Def.'s Resp. [124] at 4-5 and Garvin Decl. 2 [124] at ¶ 3.) Specifically, defendant has removed the mandatory termination provision that resulted in Young's termination in this case. (Id. at 4 and ¶ 3.) Rather than impose mandatory termination after a set length of time, defendant now engages in an individualized review to determine whether a reasonable accommodation can be identified to permit a disabled employee to perform the essential functions of his or her job. (Id. at 4-5 and ¶ 5.) In appropriate cases, defendant considers whether an extended period of medical leave is a reasonable accommodation. (Id. at 5 and ¶ 6.)
+The EEOC does not dispute the above evidence. Nor does it point to any additional injunctive relief that is warranted in this  [*6] case, given defendant's policy amendments that incorporate the EEOC's own suggestions as to extended medical leave. The EEOC apparently is continuing to pursue injunctive relief based on its belief that "[d]efendant . . . refuses to agree with the concept of providing leave extensions as a reasonable accommodation." (EEOC's Br. [123] at 5.) That belief is impossible to reconcile with the action taken by defendant in response to this litigation. (Def.'s Resp. [124] at 4-5.)
+Based on the undisputed evidence in the record, defendant's leave policy amendments have rendered the EEOC's claim for injunctive relief moot. Accordingly, the Court DENIES the EEOC's claim for injunctive relief as set forth in its brief [123]. As there are no remaining grounds for relief in this case, the case will be CLOSED.
+
+CONCLUSION
+For the foregoing reasons, the Court DENIES as moot the EEOC's Claim for Injunctive Relief [123] and directs the Clerk to CLOSE this case.
+SO ORDERED, this 2nd day of May, 2012.
+/s/ Julie E. Carnes
+JULIE E. CARNES
+CHIEF UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

@@ -1,0 +1,66 @@
+Shore v. City of Portland
+United States District Court for the District of Oregon, Portland Division
+May 21, 2018, Decided; May 21, 2018, Filed
+Case No. 3:17-cv-1519-YY
+
+Reporter
+2018 U.S. Dist. LEXIS 120912 *
+JAY VINCENT SHORE, Plaintiff(s), v. CITY OF PORTLAND, OREGON; PORTLAND BUREAU OF TRANSPORTATION; PORTLAND POLICE BUREAU; SERGEANT'S TOWING, INC., Defendant(s).
+Subsequent History: Adopted by, Motion granted by, Dismissed by, in part Shore v. City of Portland, 2018 U.S. Dist. LEXIS 119638, 2018 WL 3463262 (D. Or., July 17, 2018)
+Prior History: Shore v. United States Dist. Court (In re Shore), 2017 U.S. App. LEXIS 25980 (9th Cir. Or., Dec. 19, 2017)
+Shore v. City of Portland, 2017 U.S. Dist. LEXIS 238844, 2017 WL 11755709 (D. Or., Sept. 29, 2017)
+Counsel:  [*1] Jay Vincent Shore, Plaintiff, Pro se, Portland, OR.
+For City of Portland, Cross Defendant Ashley M. Carter, LEAD ATTORNEY, City of Portland, Portland, OR.
+For City of Portland, Portland Police Bureau, Portland Bureau of Transportation, Defendants: Ashley M. Carter, LEAD ATTORNEY, City of Portland, Portland, OR.
+For Sergeant's Towing. Inc., in capacity as agent for CITY OF PORTLAND, and in capacity as a "private entity", Defendant, Cross Claimant: Barry W. Dod, Elkins, Zipse & Mitchell, Portland, OR.
+Judges: Youlee Yim You, United States Magistrate Judge.
+Opinion by: Youlee Yim You
+Opinion
+
+
+FINDINGS AND RECOMMENDATIONS
+YOU, Magistrate Judge:
+
+INTRODUCTION
+Plaintiff Jay Vincent Shore ("Shore") has filed a complaint alleging that he is a qualified individual with a disability pursuant to 42 U.S.C. § 12131(2). He contends he was subjected to a pattern of discrimination and denied reasonable accommodation in violation of Title II and Title III of the American with Disabilities Act ("ADA"); Section 504 of the Rehabilitation Act, 29 U.S.C. § 794; and the Due Process Clause of the Fourteenth Amendment. Compl. ¶¶ 70-98, ECF #1. Shore further alleges that defendants acted to deprive him of his rights under color of law, in violation of 42 U.S.C. § 1983. Id. ¶¶ 99 & 100.
+Defendants City of Portland, Portland Bureau [*2]  of Transportation ("PBOT"), and Portland Police Bureau ("PPB") have filed a Motion to Dismiss In Part (ECF #34) pursuant to FRCP 12(b)(6) for an order (1) dismissing PBOT and PPB as improper parties; and (2) dismissing the Title III claims against the City of Portland as a public entity.1 ECF #34. For the reasons discussed below, the Motion to Dismiss In Part (ECF #34) should be GRANTED.
+
+FACTUAL BACKGROUND
+Shore alleges that he lost his home to foreclosure in December 2005 and that he suffers from post-traumatic stress disorder (PTSD) as a result. Compl. ¶¶ 13 & 16, ECF #1. He became transient and arrived in Portland, Oregon, in November 2016, settling near the intersection of N. Roberts and N. Lombard streets in North Portland. Id. ¶15. Although Shore is not the registered owner, he has the use of a converted 1991 school bus and a 1996 Dodge Neon, which he regards as auxiliary aids for recovery from PTSD and a June 2017 inguinal hernia repair surgery. Id. ¶ 16. In support of this position, the complaint quotes a medical doctor, who attests that the vehicles are acting as auxiliary aids and that "[l]osing access to these vehicles would be detrimental to [Shore's] overall health and well being." Id. [*3] 
+On June 8, 2017, a tow warning was placed on the 1991 converted school bus providing notice that "[i]f this vehicle is not completely removed from the public right of way, it will be towed by order of the City of Portland." Id. ¶¶ 28-29. A subsequent warning was placed on the vehicle on July 6, 2017. Id. ¶ 45. On July 25, 2017, the City of Portland issued a parking citation. Id. ¶ 40. Shore alleges that he received a total of six parking citations. Id. ¶ 44. The complaint further references a number of interactions with PPB and PBOT employees in which Shore was urged to move the vehicles. Id. ¶¶ 48, 49, 50, 54. On September 15, 2017, the 1996 Dodge Neon was disconnected from the converted school bus and towed by Sergeant's Towing, Inc., who Shore claims is acting as an agent of and at the direction of the City of Portland. Id. ¶¶ 11 & 56.
+Prior to the towing, Shore sent an "ADA Title II Notice" to PBOT's ADA Coordinator David Galat, invoking his right to reasonable accommodation under the ADA. Id. ¶ 31. Galat responded to the registered owner of the vehicles, Extramural Church Trust #12, noting the registered owner's obligation to comply with all parking regulations. Id. ¶ 33. Galat [*4]  further asserted that notice and time had been provided to allow the registered owner to relocate the illegally parked vehicles. Id. Shore followed with a cease and desist letter addressed to Galat, including evidence of his status as a qualified individual with a disability. Id. ¶ 55.
+Shore filed this lawsuit on September 27, 2017, asserting that the City of Portland, PPB, and PBOT "have continually, and at all times refused to accommodate [him]," and that all defendants have "stolen/seized" his auxiliary aid and "created a discriminatory, hostile and unfair environment." Id. ¶¶ 37, 57, 59.
+
+STANDARDS
+In order to state a claim for relief, a pleading must contain "a short and plain statement of the claim showing that the pleader is entitled to relief[.]" FRCP 8(a)(2). This standard "does not require 'detailed factual allegations,'" but does demand "more than an unadorned, the-defendant-unlawfully-harmed-me accusation." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). "A pleading that offers 'labels and conclusions' or 'a formulaic recitation of the elements of a cause of action will not do.'" Id. (quoting Twombly, 550 U.S. at 555). In order to survive a motion to dismiss for failure to state a claim pursuant to FRCP 12(b)(6), "a complaint must contain sufficient factual [*5]  matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Id. (quoting Twombly, 550 U.S. at 570).
+In evaluating a motion to dismiss, the court must accept the allegations of material fact as true and construe those allegations in the light most favorable to the non-moving party. Parks Sch. of Bus., Inc. v. Symington, 51 F3d 1480, 1484 (9th Cir. 1995). In civil rights cases involving a plaintiff proceeding pro se, this court construes the pleadings liberally and affords the plaintiff the benefit of any doubt. McGuckin v. Smith, 974 F.2d 1050, 1055 (9th Cir. 1992), overruled on other grounds, WMX Techs. v. Miller, 104 F.3d 1133, 1136 (9th Cir. 1998); Karim-Panahi v. Los Angeles Police Dep't, 839 F.2d 621, 623 (9th Cir. 1988). Although pro se complaints are construed liberally, courts may not supply essential elements of the claim that were not initially pled. See Ivey v. Bd. of Regents of the Univ. of Alaska, 673 F.2d 266, 268 (9th Cir. 1982).
+
+FINDINGS
+
+I. Dismissal of PPB and PBOT as Improper Defendants
+Shore's complaint defines the City of Portland to include PPB and PBOT, and indicates that reference to the City of Portland includes the other named entities. Compl. ¶ 10, ECF #1. The claims are stated against all the defendants, who are referred to collectively. Id. ¶¶ 2, 10. However, to the extent the complaint seeks to state a claim against PPB and PBOT separately, these entities are improper parties and should be dismissed from the action.
+As cases in this district have repeatedly held, "[t]he Portland Police Bureau [*6]  is not a separate entity from the City of Portland and is not amenable to suit. It is merely the vehicle through which the city fulfills its police functions." Nwerem v. City of Portland/Portland Police Bureau, 2006 U.S. Dist. LEXIS 81152, 2006 WL 3228775, at *2 n. 1 (D. Or. Nov.6, 2006); see also Harris v. City of Portland Police Dept., 2016 U.S. Dist. LEXIS 22393, 2016 WL 740425, at *1 (D. Or. 2016) (finding the proper defendant is the City of Portland); Lukens v. Portland Police Bureau, 2011 U.S. Dist. LEXIS 137535, 2011 WL 5999376, at *2 (D. Or. 2011) (dismissing PPB from the suit with prejudice); Nickerson v. Portland Police Bureau, 2008 U.S. Dist. LEXIS 125016, 2008 WL 4449874, at *3-4 (D. Or. 2008); White v. City of Portland, 2008 U.S. Dist. LEXIS 62733, 2008 WL 3836168, at *1 (D. Or. 2008) (granting motion to dismiss PPB as a defendant); Haliburton v. City of Albany Police Dep't., 2005 U.S. Dist. LEXIS 48693, 2005 WL 2655416, at *2-3 (D. Or. Oct. 18, 2005) (dismissing all claims against municipal police department absent showing that city intended to create a separate legal entity when it formed the police department); Keller v. City of Portland, 1998 U.S. Dist. LEXIS 21743, 1998 WL 1060222, at *4 (D. Or. 1998) (noting that PPB is not a separate and distinct entity from the City of Portland and its officers are city employees).
+It follows that PBOT is also a vehicle to fulfill city functions and cannot be sued as a separate entity from the city. See Shepard v. City of Portland, 829 F.Supp.2d 940 (D. Or. 2011) (naming only the City of Portland and his supervisors in a discrimination suit filed by a former PBOT employee.)
+Accordingly, the motion to dismiss PPB and PBOT as defendants should be granted with prejudice.
+
+II. Failure to State a Claim Under Title III of the ADA
+Title III of the American Disabilities Act (ADA) states that "[n]o individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, [*7]  privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation." 42 U.S.C. § 12182(a). To state a claim for violation of Title III, a plaintiff must allege that the defendant is a private entity that owns, leases, or operates a place of public accommodation. 42 U.S.C. § 12181(7); Fortyune v. Am. Multi-Cinema, Inc., 364 F.3d 1075, 1082 (9th Cir. 2004); see also Valder v. City of Spokane, 125 Fed. Appx. 890, 2005 WL 824089, at *1 (9th Cir. 2005) (upholding dismissal of Title III claim because the city of Spokane is not a private entity that owns or otherwise operates a place of public accommodation.) The term "private entity" is defined as "any entity other than a public entity." 42 U.S.C. § 12181(6). A "public entity" is "any State or local government [or] any department, agency, ... or other instrumentality of a State or States or local government." 42 U.S.C. § 12131(1). The City of Portland is a public entity and, therefore, Title III is inapplicable to the services it provides.
+Because Shore cannot state a claim against the City of Portland under Title III of the ADA, his Title III claim should be dismissed with prejudice.
+
+RECOMMENDATIONS
+Defendant's Motion to Dismiss in Part (ECF #34) should be GRANTED in that (1) PPB and PBOT should be dismissed with prejudice, and (2) the Title III claim should be dismissed [*8]  with prejudice.
+
+SCHEDULING ORDER
+These Findings and Recommendations will be referred to a district judge. Objections, if any, are due Monday, June 04, 2018. If no objections are filed, then the Findings and Recommendations will go under advisement on that date.
+If objections are filed, then a response is due within 14 days after being served with a copy of the objections. When the response is due or filed, whichever date is earlier, the Findings and Recommendations will go under advisement.
+
+NOTICE
+These Findings and Recommendations are not an order that is immediately appealable to the Ninth Circuit Court of Appeals. Any Notice of Appeal pursuant to Rule 4(a)(1), Federal Rules of Appellate Procedure, should not be filed until entry of a judgment.
+DATED May 21, 2018.
+/s/ Youlee Yim You
+Youlee Yim You
+United States Magistrate Judge
+
+
+End of Document
+

@@ -1,0 +1,64 @@
+Gross v. Hous. Auth. of Las Vegas
+United States District Court for the District of Nevada
+February 1, 2013, Decided; February 1, 2013, Filed
+2:11-CV-1602 JCM (CWH)
+
+Reporter
+2013 U.S. Dist. LEXIS 14009 *; 27 Am. Disabilities Cas. (BNA) 1143; 2013 WL 431057
+IRIS JANE GROSS, Plaintiff(s), v. HOUSING AUTHORITY OF THE CITY OF LAS VEGAS, et al., Defendant(s).
+Subsequent History: Motion granted by, Dismissed by, in part Gross v. Hous. Auth. of Las Vegas, 2014 U.S. Dist. LEXIS 72605 (D. Nev., May 27, 2014)
+Costs and fees proceeding at, Motion denied by, Motion granted by, Motion granted by, in part Gross v. Hous. Auth. of City Las Vegas, 2014 U.S. Dist. LEXIS 98772 (D. Nev., July 10, 2014)
+Motion denied by Gross v. Hous. Auth. of City Las Vegas, 2014 U.S. Dist. LEXIS 168063 (D. Nev., Dec. 4, 2014)
+Counsel:  [*1] Iris Jane Gross, Plaintiff, Pro se, North Las Vegas, NV.
+For Housing Authority of the City of Las Vegas, also known as Southern Nevada Regional Housing Authority, Father Dave Casaleggio, former chairman of Board of Commissioners, Carl O. Rowe, former executive director, Zelda Ellis, former director of operations, Shandra Hudson, former director of human resources, Norma Gray, human resources EEO officer, Al Conklin, social services manager, Maria Luevanos, social services coordinator, Maria Machuca, former resident council coordinator, Essie Williams, family self-sufficienty coordinator, Defendants: Amber Lynn White-Davidson, Parker, Nelson & Associates, Chtd., Las Vegas, NV; Theodore Parker III, Parker, Nelson & Associates, Las Vegas, NV.
+Judges: James C. Mahan, UNITED STATES DISTRICT JUDGE.
+Opinion by: James C. Mahan
+Opinion
+
+
+
+ORDER
+Presently before the court is defendants' motion 1 to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6). (Doc. # 8). Plaintiff, appearing pro se, Iris Jane Gross, filed a response in opposition. (Doc. # 20). Defendant filed a reply. (Doc. # 21).
+The parties participated in an early neutral evaluation (ENE) settlement conference, but were unable to reach a settlement. The case has returned to the normal litigation track and the instant motion is now ripe for this court's review.
+
+I. Background
+Plaintiff is a former employee of the Southern Nevada Regional Housing Authority (SNRHA). (Doc. # 7, Compl. at ¶ 3.1). She worked as a public housing family self-sufficiency coordinator. (Id.). The individual defendants were likewise employed by SNRHA with various positions. (See id. at ¶¶ 3.2-3.11).
+SNRHA hired plaintiff, a caucasian woman, on October 21, 2008. (Id. at ¶ 4.2). She was hired on a six month probationary term. (Id.). On her second day of work, defendant Conklin, a manager and supervisor, issued plaintiff a list of eight major tasks that were to be completed by the end of her probationary period. (Id. at ¶ 3.8 & 4.6). Conklin is a caucasian male. (Id. at ¶ 3.8). The majority of SNRHA's staff and employees were members of minority  [*3] groups. (Id. at ¶ 4.7).
+Plaintiff was fired at the end of her probationary term. (Id. at ¶¶ 4.31-4.37). Plaintiff alleges she was fired even though she satisfactorily completed her eight major tasks. (See id.). Plaintiff then filed this lawsuit alleging racial discrimination and religious discrimination under Title VII, and disability discrimination under the American with Disabilities Act. (Id. at ¶¶ 5.1-5.3).
+
+II. Legal Standard
+A court may dismiss a plaintiff's complaint for "failure to state a claim upon which relief can be granted." Fed.R.Civ.P. 12(b)(6). A properly pled complaint must provide "[a] short and plain statement of the claim showing that the pleader is entitled to relief." Fed.R.Civ.P. 8(a)(2); Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). While Rule 8 does not require detailed factual allegations, it demands "more than labels and conclusions" or a "formulaic recitation of the elements of a cause of action." Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 1949, 173 L. Ed. 2d 868 (2009) (citation omitted). "Factual allegations must be enough to rise above the speculative level." Twombly, 550 U.S. at 555. Thus, to survive a motion to dismiss, a complaint must contain sufficient factual matter  [*4] to "state a claim to relief that is plausible on its face." Iqbal, 129 S.Ct. at 1949 (citation omitted).
+In Iqbal, the Supreme Court clarified the two-step approach district courts are to apply when considering motions to dismiss. First, the court must accept as true all well-pled factual allegations in the complaint; however, legal conclusions are not entitled to the assumption of truth. Id. at 1950. Mere recitals of the elements of a cause of action, supported only by conclusory statements, do not suffice. Id. at 1949. Second, the court must consider whether the factual allegations in the complaint allege a plausible claim for relief. Id. at 1950. A claim is facially plausible when the plaintiff's complaint alleges facts that allows the court to draw a reasonable inference that the defendant is liable for the alleged misconduct. Id. at 1949.
+Where the complaint does not permit the court to infer more than the mere possibility of misconduct, the complaint has "alleged, but not shown, that the pleader is entitled to relief." Id. (internal quotations omitted). When the allegations in a complaint have not crossed the line from conceivable to plausible, plaintiff's claim must be dismissed.  [*5] Twombly, 550 U.S. at 570.
+
+III. Discussion
+The court will address each of plaintiff's three causes of action in turn.
+
+A. Discrimination Based on Race
+Title VII makes it unlawful for an employer to "discharge any individual, or otherwise to discriminate against any individual with respect to [her] compensation, terms, conditions, or privileges of employment, because of such individual's race. . . ." 42 U.S.C. § 2000e-2(a)(2).
+To state a claim for race discrimination under Title VII, a plaintiff must plead facts demonstrating the occurrence of four elements: (1) that plaintiff was a member of a protected class; (2) that plaintiff applied for, was qualified for, and performed the job satisfactorily; (3) that plaintiff suffered an adverse employment action because of her race; and (4) that the employer treated similarly situated employees outside of plaintiff's protected class more favorably. See Washington v. Garrett, 10 F.3d 1421, 1433 (9th Cir. 1994); Brown v. FPI Mgmt., Inc., no. c-11-05414, 2012 U.S. Dist. LEXIS 24323, 2012 WL 629182, at *4 (N.D. Cal. Feb. 27, 2012).
+Plaintiff states she is a caucasian, while 80% of her coworkers at SNRHA were from a racial minority group. (Doc. # 7, Compl. ¶¶ 4.2 & 4.7). At this early  [*6] stage, these assertions establish element one.
+For element two, plaintiff alleges that she completed each task on her assignment list within the prescribed time limits and submitted the appropriate report to supervisor Conklin. (Id. at ¶ 4.12). Plaintiff also alleges that she submitted an application to transfer to a similar position at SNRHA on March 12, 2009. (Id. at ¶ 4.26). Plaintiff alleges she was qualified for the position but did not receive it. (See id.). These assertions establish the second element.
+For element three, plaintiff asserts that she received a negative and unsatisfactory job performance rating. (Id. at ¶ 4.28). Plaintiff alleges she submitted formal objections to the review. (Id. at ¶ 4.29). Plaintiff was terminated from her probationary term, and she alleges it was based on discrimination. (Id. at ¶¶ 4.31 & 4.35). She has satisfied the third element.
+Finally, plaintiff asserts that employees outside of her protected class were not terminated. Plaintiff's allegations for racial discrimination are not a model of clarity, but, at this early stage, her factual assertions remove the allegations from the realm of the "conclusory" to the realm of "plausible."
+
+B. Discrimination  [*7] Based on Religion
+Title VII makes it unlawful for an employer to discriminate against an employee on the basis of the employee's religion. 42 U.S.C. § 2000e-2(a)(1). Religion includes "all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business." 42 U.S.C. § 2000e(j).
+To establish a prima facie case for religious discrimination under Title VII, a plaintiff must plead facts sufficient to show: (1) "she had a bona fide religious belief, the practice of which conflicted with an employment duty; (2) she informed her employer of the belief and conflict; and (3) the employer threatened her or subjected her to discriminatory treatment, including discharge, because of her inability to fulfill the job requirements." Tiano v. Dillard Dep't. Stores, Inc., 139 F.3d 679, 681 (9th Cir. 1998) (citing Heller v. EBB Auto Co., 8 F.3d 1433, 1438 (9th Cir. 1993).
+For element one, plaintiff alleges she that she is Jewish. (Compl. at ¶ 4.8). She further alleges that because of her religion  [*8] she could not participate in activities centered around Christmas or celebrate Christmas. (Id.). At this early stage these allegations establish element one.
+For element two, plaintiff alleges she told some coworkers and supervisor Conklin at a staff meeting that she was Jewish. (Id.). She further alleges she informed her coworkers and supervisor that she could not celebrate Christmas or participate in activities centered around Christmas. (Id.). At this early stage, plaintiff has established element two.
+For element three, plaintiff alleges that she was terminated on the basis of religious discrimination. (See id. at ¶¶ 4.32-4.40). She asserts that she did not participate in Christmas activities or celebrations because she is Jewish, and that defendants schemed to fire her. Plaintiff's factual assertions are sparse and not very well connected. Nonetheless she has sufficiently pled a cause of action for religious discrimination at this early stage.
+
+C. Discrimination Based on Disability
+The Americans with Disabilities Act (ADA) makes it unlawful for a qualified employer to "discriminate against a qualified individual on the basis of disability in regard to job application procedures, the  [*9] hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). Discrimination includes "not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity." 42 U.S.C. § 12112(b)(5)(A).
+"[T]o state a prima facie case under the ADA, [the plaintiff] must show that (1) she is a disabled person within the meaning of the ADA; (2) she is a qualified individual, meaning she can perform the essential functions of her job; and (3) [the defendant] terminated her because of her disability." Nunes v. Wal-Mart Stores, Inc., 164 F.3d 1243, 1246 (9th Cir. 1999).
+To satisfy the first showing, "an individual is disabled [under the ADA] if that individual (1) has a physical or mental impairment that substantially limits one or more of the individual's major life activities; (2) has a record of such an impairment; or (3) is regarded as having such an  [*10] impairment." Coons v. Secretary of U.S. Dep't. of Treasury, 383 F.3d 879, 884 (9th Cir. 2004) (citing 42 U.S.C. § 12102(2). Plaintiff's complaint alleges that she "was an individual with disabilities [because] she was restricted in lifting, carrying and walking distances." (Compl. at ¶ 4.5). She further alleges that she "submitted a doctor's certification to Defendant Gray in the Human Resources office stating that she had physical limitations." (Id. at ¶ 4.9; see also ¶¶ 4.22-4.24). She has satisfied the first showing at this stage in the proceeding.
+For step two, plaintiff asserts she was qualified for her own position as well as the other open positions and performed them satisfactorily. (Id. at ¶¶ 3.1, 4.26, & 4.29). Finally, for the third showing, plaintiff alleges she was terminated on the basis of her employer discriminating against her because of her disabilities. (Id. at 4.31). Like her two previous claims, plaintiff has satisfied the requirements at this early stage in the action.
+IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that defendants' motion to dismiss (doc. # 8) be, and the same hereby, is DENIED.
+DATED February 1, 2013.
+/s/ James C. Mahan
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

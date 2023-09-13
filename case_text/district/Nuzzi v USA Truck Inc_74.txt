@@ -1,0 +1,64 @@
+Nuzzi v. USA Truck, Inc.
+United States District Court for the Western District of Arkansas, Fort Smith Division
+December 12, 2017, Decided; December 12, 2017, Filed
+Case No. 2:17-CV-02018
+
+Reporter
+2017 U.S. Dist. LEXIS 203714 *
+STANLEY H. NUZZI, PLAINTIFF v. USA TRUCK, INC., DEFENDANT
+Counsel:  [*1] For Stanley H. Nuzzi, Plaintiff: Patrick Lyle Doman, LEAD ATTORNEY, Law Office of Patrick L. Doman, Dothan, AL.
+For USA Truck, Inc., Defendant: Joseph F. Gilker, LEAD ATTORNEY, Gilker and Jones, Mountainburg, AR.
+Judges: P.K. HOLMES, III, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: P.K. HOLMES, III
+Opinion
+
+
+
+OPINION AND ORDER
+Before the Court are Defendant USA Truck, Inc.'s ("USA Truck") motion for summary judgment (Doc. 9), statement of facts in support of its motion (Doc. 10), and brief in support of its motion. (Doc. 11). Plaintiff Stanley H. Nuzzi filed a response in opposition to summary judgment. (Doc. 12). Mr. Nuzzi did not file a response to the statement of facts. Pursuant to Federal Rule of Civil Procedure 56(e) and Local Rule 56.1(c), the material facts in USA Truck's statement of facts (Doc. 10) are deemed admitted. USA Truck submitted a reply to Mr. Nuzzi's response. (Doc. 13). For the reasons stated herein, USA Truck's motion for summary judgment will be granted.
+
+I. Background
+On September 18, 2013, USA Truck hired Mr. Nuzzi as an over-the-road driver. For the first two years of his employment, Mr. Nuzzi was dispatched to haul freight throughout the country. His route, which was based on the day-to-day needs of USA Truck and its customers, was generally unpredictable. [*2] 
+In 2014, Mr. Nuzzi was diagnosed with a heart condition known as mitral valve prolapse ("MVP"). To monitor the status of his MVP, Mr. Nuzzi is required to undergo a multi-day testing regimen every three to four months in Dothan, Alabama, where he resides.
+In early 2015, Mr. Nuzzi missed two appointments, one for an ultrasound and the other for a circulation test, because he was on the road and unable to get home to Dothan. On February 20, 2015, Mr. Nuzzi's attorney sent USA Truck a letter requesting reasonable accommodations for Mr. Nuzzi's MVP under the Americans with Disabilities Act ("ADA"). Specifically, the letter requested that USA Truck ensure that Mr. Nuzzi get home in time for his scheduled MVP monitoring appointments. On March 11, 2015, USA Truck's then-Human Resources Manager Wayland Parker responded to Mr. Nuzzi's attorney. Mr. Parker stated that USA Truck could get Mr. Nuzzi home for his appointments if he provided the company with advance notice.
+In September 2015, Mr. Nuzzi was not able to get home in time for a scheduled appointment and he complained to his dispatchers. On September 21, 2015, Mr. Nuzzi was moved to a dedicated route, in which he provided services for a [*3]  single customer — Georgia Paciffic. This dedicated route has freight origin and destination points located in the Southeastern United States. Mr. Nuzzi was told by dispatchers Tommy Dyer and Ron Rogers that he was being transferred to this dedicated route to make it easier for him to get home for his medical appointments.
+In December 2015, Mr. Nuzzi filed a charge of discrimination against USA Truck with the Equal Employment Opportunity Commission ("EEOC").
+Mr. Nuzzi is still employed by USA Truck and still assigned to the Georgia-Pacific dedicated route. Since being transferred to a dedicated route, Mr. Nuzzi is typically home every five to six days, although he has occasionally been on the road for longer. However, there have still been several occasions when Mr. Nuzzi has had difficulty getting home in time for his appointments.
+
+II. Legal Standard for Summary Judgment
+When a party moves for summary judgment, it must establish both the absence of a genuine dispute of material fact and that it is entitled to judgment as a matter of law. See Fed. R. Civ. P. 56; Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 586-87, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986); Nat'l Bank of Commerce of El Dorado, Ark. v. Dow Chem. Co., 165 F.3d 602, 606 (8th Cir. 1999). In order for there to be a genuine issue of material fact, the nonmoving party must produce evidence "such that a reasonable jury could return [*4]  a verdict for the nonmoving party." Allison v. Flexway Trucking, Inc., 28 F.3d 64, 66-67 (8th Cir. 1994) (citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986)). Only facts "that might affect the outcome of the suit under the governing law" need be considered. Anderson, 477 U.S. at 248. "[T]he non-movant must make a sufficient showing on every essential element of its claim on which it bears the burden of proof." P.H. v. Sch. Dist. of Kan. City, Mo., 265 F.3d 653, 658 (8th Cir. 2001). Facts asserted by the nonmoving party "must be properly supported by the record," in which case those "facts and the inferences to be drawn from them [are viewed] in the light most favorable to the nonmoving party." Id. at 656-57.
+
+III. Analysis
+Mr. Nuzzi contends that there are genuine issues of material fact as to (1) whether USA Truck failed to accommodate him under the ADA and (2) whether USA Truck retaliated against him because he requested an accommodation and filed an EEOC charge. The Court will address each of these arguments in turn.
+
+A. Failure to Accommodate
+The ADA prohibits employers from discriminating "against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment." 42 U.S.C. § 12112(a). This includes "not making reasonable accommodations to the known [*5]  physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee." § 12112(b)(5)(A).
+A plaintiff asserting a failure-to-accommodate claim under the ADA must establish both a prima facie case of discrimination based on disability and a failure to accommodate it. Schaffhauser v. United Parcel Service, Inc., 794 F.3d 899, 905 (8th Cir. 2015). To establish a prima facie case of discrimination based on disability, a plaintiff must show that he "(1) is disabled within the meaning of the ADA; (2) is a qualified individual under the ADA; and (3) has suffered an adverse employment decision because of the disability." Id. (citation omitted). To be considered disabled within the meaning of the ADA, a plaintiff must show "a physical or mental impairment that substantially limits one or more major life activities." 42 U.S.C. § 12102(1)(A).
+If a plaintiff produces sufficient evidence to make a prima facie case of discrimination, he then must establish a failure to accommodate his disability. Schaffhauser, 794 F.3d at 906. "To determine whether an accommodation for the employee is necessary, and if so, what that accommodation might be, it is necessary for the employer and employee to engage in an 'interactive process.'" Id. (citation omitted). This interactive, accommodation-seeking process [*6]  must be initiated by the disabled employee, who must alert his employer to the need for an accommodation and provide relevant details of his disability. Id. To show that an employer did not engage in an interactive process, the employee must prove that (1) the employer knew about the employee's disability; (2) the employee requested accommodations or assistance for his disability; (3) the employer did not make a good faith effort to assist the employee in seeking accommodations; and (4) the employee could have been reasonably accommodated but for the employer's lack of good faith. Id.
+Assuming, without deciding, that Mr. Nuzzi could establish a prima facie case of disability discrimination, his failure to accommodate claim still fails because he cannot establish that USA Truck failed to accommodate his disability. It is clear from the undisputed facts before the Court that USA Truck made a good faith effort to assist Mr. Nuzzi in seeking accommodations.
+USA Truck made multiple efforts to assist Mr. Nuzzi in seeking accommodations. In February 2015, USA Truck responded to the letter from Mr. Nuzzi's attorney stating that the company could get him home for appointments if he gave them [*7]  advance notice. In September 2015, when Mr. Nuzzi missed another appointment, USA Truck moved him to a dedicated route which allowed him to get home more regularly. While there have still been several occasions where Mr. Nuzzi has had difficulty getting home in time for his appointments, an accommodation need only be reasonable, not perfect. See Minnihan v. Mediacom Communications Corp., 779 F.3d 803, 814 (8th Cir. 2015) ("[A] disabled individual is not entitled to an accommodation of his choice.") (citation omitted). Accordingly, Mr. Nuzzi cannot demonstrate that USA Truck did not make a good faith effort to assist him in seeking accommodations and summary judgment is appropriate.
+
+B. Retaliation
+To establish a prima facie case of retaliation, a plaintiff must show that (1) he engaged in statutorily protected activity; (2) he suffered an adverse employment action; and (3) there was a causal connection between the protected activity and the adverse action. Oehmke v. Medtronic, Inc., 844 F.3d 748, 758 (8th Cir. 2016). An adverse employment action materially changes the terms or conditions of a plaintiff's employment. Kelleher v. Wal-Mart Stores, Inc., 817 F.3d 624, 631-33 (8th Cir. 2016). Adverse employment actions include termination, reduction in pay or benefits, and changes in employment that significantly affect an employee's future career prospects. Id. at 633. Minor changes in working conditions [*8]  that merely inconvenience an employee or alter an employee's work responsibilities do not qualify as adverse employment actions. Id.
+Mr. Nuzzi cannot establish a prima facie case of retaliation. It is clear from the undisputed facts before the Court that Mr. Nuzzi did not suffer an adverse employment action.
+Mr. Nuzzi argues that after making complaints and filing a charge with the EEOC he was moved to a new position that decreased his wages. He attributes the alleged decrease in his wages to missing work to reschedule doctor's appointments and cancellation fees for missing doctor's appointments. He also alleges that on multiple occasions, dispatchers Bobby Price and Tommy Dyer told him he would be fired if he did not meet deadlines or comply with their orders.
+Contrary to Mr. Nuzzi's assertion, his wages actually increased after he was moved to the Georgia-Pacific dedicated route. Mr. Nuzzi's rate per mile increased from 38.5¢ to 49¢ when he was transferred. Further, Mr. Nuzzi earned $51,270.45 in 2016, as compared to $42,039.43 in 2015, demonstrating that the change in route led to an increase in annual pay. So, missing work to reschedule doctor's appointments did not lead to a reduction [*9]  in Mr. Nuzzi's total pay. Mr. Nuzzi also alleges that he lost money because he was forced to pay a cancellation fee for missing appointments. But this fee was not a reduction in pay or benefits because it was not imposed by USA Truck. The alleged threats by Mr. Price and Mr. Dyer also do not constitute adverse employment actions because Mr. Nuzzi continues to be employed by USA Truck and has seen no reduction in pay or benefits. Burchett v. Target Corp., 340 F.3d 510, 518 (8th Cir. 2003) (A verbal reprimand "is not in itself an adverse employment action, however, and it is actionable only if the employer subsequently uses that review to alter the terms or conditions of employment to the detriment of the employee.") (citation omitted).
+Accordingly, Mr. Nuzzi cannot establish a prima facie case of retaliation and summary judgment is appropriate.
+
+IV. Conclusion
+IT IS THEREFORE ORDERED that Defendant USA Truck's motion for summary judgment (Doc. 9) is GRANTED and Plaintiff Stanley H. Nuzzi's claims are DISMISSED WITH PREJUDICE. Judgment will be entered in favor of USA Truck, Inc.
+IT IS SO ORDERED this 12th day of December, 2017.
+/s/ P. K. Holmes, III
+P.K. HOLMES, III
+CHIEF U.S. DISTRICT JUDGE
+
+JUDGMENT
+Pursuant to the order entered in this case on this [*10]  date, IT IS CONSIDERED, ORDERED, and ADJUDGED that this matter is DISMISSED WITH PREJUDICE.
+IT IS SO ADJUDGED this 12th day of December, 2017.
+/s/ P. K. Holmes, III
+P.K. HOLMES, III
+CHIEF U.S. DISTRICT JUDGE
+
+
+End of Document
+

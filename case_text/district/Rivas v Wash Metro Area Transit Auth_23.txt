@@ -1,0 +1,65 @@
+Rivas v. Wash. Metro. Area Transit Auth.
+United States District Court for the District of Maryland
+October 4, 2021, Decided; October 4, 2021, Filed
+Civil No. TJS-19-2192
+
+Reporter
+2021 U.S. Dist. LEXIS 191343 *; 2021 WL 4521342
+HEIDI RIVAS, Plaintiff, v. WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY, Defendant.
+Subsequent History: Reconsideration denied by Rivas v. Washington Metro. Area Transit Auth., 2021 U.S. Dist. LEXIS 255340 (D. Md., Dec. 13, 2021)
+Prior History: Rivas v. Wash. Metro. Area Transit Auth., 2020 U.S. Dist. LEXIS 122624 (D. Md., July 13, 2020)
+Counsel:  [*1] For Heidi Rivas, Plaintiff: Susan Laiken Kruger, LEAD ATTORNEY, Alan Lescht and Associates PC, Washington, DC.
+For WMATA, Defendant: Michael Kelly Guss, LEAD ATTORNEY, Washington Metropolitan Area Transit Authority, Washington, DC.
+Judges: Timothy J. Sullivan, United States Magistrate Judge.
+Opinion by: Timothy J. Sullivan
+Opinion
+
+
+
+MEMORANDUM OPINION
+This matter is before the Court on Defendant Washington Metropolitan Area Transit Authority's ("WMATA") Motion for Summary Judgment ("Motion") (ECF No. 50).1 Plaintiff Heidi Rivas ("Ms. Rivas") has not filed a response and time for doing so has passed. See Loc. R. 105.2. The matter is ripe for the Court's consideration and no hearing is necessary. See Loc. R. 105.6. For the reasons set forth below, the Motion will be granted.
+
+I. INTRODUCTION
+The following facts, drawn largely from Ms. Rivas's Amended Complaint (ECF No. 12) and the parties' Joint Statement of Undisputed Facts (ECF No. 59 at 2-3), are presented in the light most favorable to Ms. Rivas because she is the non-moving party. Ms. Rivas is a former employee of the WMATA Metro Transit Police Department. She suffered disabling on-the-job injuries on December 19, 2014, and was medically disqualified from performing her job as a Metro Transit [*2]  Police Officer on September 27, 2016, due to being unable to perform the essential functions of the job. Ms. Rivas filed a worker's compensation claim for her injuries and, while the claim was pending, she was assigned to two separate light-duty assignments. On September 30, 2016, Ms. Rivas was referred to WMATA's Employees with Disabilities Panel ("Panel") for a possible reassignment as an accommodation for her disabilities. The Panel attempted to reassign Ms. Rivas to a Metro Special Police Officer position, but the reassignment could not be completed because Ms. Rivas could not perform the essential job functions of the position. In November 2016, the Panel forwarded Ms. Rivas's resume to WMATA's Human Resources Talent Acquisition office for consideration for one of the open Police Communications Specialist positions as a reassignment. Ms. Rivas was not selected for this position because she did not have the necessary public safety dispatching experience. On May 9, 2017, the Panel sent a letter to Ms. Rivas stating that because the Panel was unable to find a vacant position for reassignment, it was concluding its search for a position to which Ms. Rivas could be reassigned. WMATA [*3]  terminated Plaintiff effective September 8, 2017.
+Plaintiff's sole claim is that WMATA discriminated against her in violation of the Rehabilitation Act of 1973 ("Rehabilitation Act"), 29 U.S.C. § 701, et seq. ECF No. 12.
+
+II. LEGAL STANDARD
+"The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The burden is on the moving party to demonstrate the absence of any genuine dispute of material fact. Adickes v. S.H. Kress & Co., 398 U.S. 144, 157, 90 S. Ct. 1598, 26 L. Ed. 2d 142 (1970). If sufficient evidence exists for a reasonable jury to render a verdict in favor of the party opposing the motion, then a genuine dispute of material fact is presented and summary judgment should be denied. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). However, the "mere existence of a scintilla of evidence in support of the [opposing party's] position" is insufficient to defeat a motion for summary judgment. Id. at 252.
+The facts themselves, and the inferences to be drawn from the underlying facts, must be viewed in the light most favorable to the opposing party. Scott v. Harris, 550 U.S. 372, 378, 127 S. Ct. 1769, 167 L. Ed. 2d 686 (2007); Iko v. Shreve, 535 F.3d 225, 230 (4th Cir. 2008). A party may not rest upon the mere allegations or denials of its pleading but instead must cite to "particular parts of materials in the record" or "show[] that the materials cited [*4]  do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." Fed. R. Civ. P. 56(c)(1). Supporting and opposing affidavits are to be made on personal knowledge, contain such facts as would be admissible in evidence, and show affirmatively the competence of the affiant to testify to the matters stated in the affidavit. Fed. R. Civ. P. 56(c)(4).
+When a motion for summary judgment is unopposed, the Court must still thoroughly analyze the merits of the motion to determine whether summary judgment is appropriate pursuant to Rule 56. Robinson v. Wix Filtration Corp., 599 F.3d 403, 409 n.8 (4th Cir. 2010) ("[I]n considering a motion for summary judgment, the district court 'must review the motion, even if unopposed, and determine from what it has before it whether the moving party is entitled to summary judgment as a matter of law.'") (quoting Custer v. Pan Am. Life Ins. Co., 12 F.3d 410, 416 (4th Cir. 1993)) (emphasis in original).
+
+III. DISCUSSION
+"The Rehabilitation Act prohibits federal agencies from discriminating against its employees on the basis of disability." Hannah P. v. Coats, 916 F.3d 327, 336 (4th Cir. 2019). WMATA argues that it is entitled to summary judgment on Ms. Rivas's Rehabilitation Act claim regardless of whether it is evaluated under a failure to accommodate or discrimination theory.
+
+A. Failure to Accommodate
+"To establish a prima [*5]  facie claim of failure to accommodate under the Rehabilitation Act, a plaintiff must demonstrate that (1) she was a qualified person with a disability; (2) the employer had notice of the disability; (3) the plaintiff could perform the essential functions of the position with a reasonable accommodation; and (4) the employer nonetheless refused to make the accommodation." Hannah P., 916 F.3d at 337.
+WMATA argues that it is entitled to summary judgment because there were no jobs available for Ms. Rivas for which she qualified and for which she could perform the essential functions of the position. ECF No. 50 at 6-8. WMATA points to the Declaration of Yasmin Mitchell (ECF No. 59) to support its argument. Ms. Mitchell is the Director of Employee Health & Wellness in WMATA's Office of Occupational Health and Wellness. Id. ¶ 1. At all relevant times, Ms. Mitchell was the chairperson of the Panel. Ms. Mitchell states that the Panel was first made aware that Ms. Rivas was medically disqualified as a Metro Transit Police Officer on September 27, 2016.2 Id. ¶ 5. The same day, the Panel "engaged Ms. Rivas in the interactive process and searched for another position for her as an accommodation." Id. Before September 27, 2016, [*6]  "Ms. Rivas was not engaged in the ADA interactive process." Id. ¶ 7. Ms. Mitchell states that the Panel attempted to reassign Ms. Rivas to another position because there were no reasonable accommodations available to enable Ms. Rivas to perform the essential functions of her job as a Metro Transit Police Officer. See id. ¶¶ 4, 8. Ms. Mitchell explains that "[r]eassignment is a noncompetitive placement, meaning the employee is not required to apply for a position for which they are deemed qualified." Id. ¶ 8. An employee meeting the minimum qualifications for any position not represented by the union would be placed in that position. Id. "For bargaining unit positions, all seniority rights must be exhausted prior to an eligible employee being reassigned to that position." Id.
+Throughout the course of the Panel's six-month search for positions to which Ms. Rivas could be reassigned, two positions were identified: Metro Special Police Officer and Police Communications Specialist. Ms. Rivas was unable to perform the essential functions of the Metro Special Police Officer Position. See ECF No. 59 at 2. As for the Police Communications Specialist position, Ms. Rivas was not qualified because [*7]  she lacked the requisite experience ("a minimum of one year of public safety dispatching, to include six months of call taking experience in a public safety environment, or a minimum of two recent consecutive years of call taking experience in a public safety environment"). ECF No. 59 ¶¶ 13-14. These were the only non-union positions that Ms. Rivas could have filled had she qualified for them. The Panel "was not aware of any positions [that] Ms. Rivas applied for outside the reassignment interactive process." Id. ¶ 16. The Panel concluded its effort to reassign Ms. Rivas to another position on May 9, 2017. Id. ¶ 17. The Panel informed Ms. Rivas by letter "that the search for reassignment was ending because no vacant position that matched her qualifications became available during the nearly six-month search, which was beyond the sixty (60) calendar days the Panel usually takes to search for a reassignment." Id. The Panel explained that continuing to search for vacant positions to which Ms. Rivas could be reassigned would be unreasonable. ECF No. 59 at 80.
+Ms. Rivas has failed to identify how WMATA failed to accommodate her. The undisputed evidence is that WMATA was unable to reassign [*8]  Ms. Rivas to any open positions because she was either unable to complete their essential functions, with or without reasonable accommodation, or she did not meet the minimum qualifications for the position. Accordingly, the Court finds that Ms. Rivas cannot prevail on her claim under a failure to accommodate theory.
+
+B. Discrimination
+"Rehabilitation Act claims for discrimination are reviewed under the McDonnell Douglas burden-shifting framework." Hannah P., McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973))). Under that framework, Ms. Rivas has the initial burden of establishing a prima facie case of discrimination. Id. To establish this prima facie case, Ms. Rivas must show that: (1) she is disabled; (2) she was otherwise qualified for the position; and (3) she suffered an adverse employment action solely on the basis of her disability. Id.
+If Ms. Rivas establishes a prima facie case, the burden shifts to WMATA to provide a legitimate, nondiscriminatory reason for its conduct. Id. If WMATA provides such a reason, Ms. Rivas "bears the ultimate burden of persuasion" and "must show by a preponderance of the evidence that the proffered reason was a pretext for discrimination." Id.
+WMATA argues that Ms. Rivas cannot prevail on a discrimination theory [*9]  because she has admitted that she could not perform the essential job functions of the Metro Transit Police Officer or the Metro Special Police Officer positions. ECF No. 50 at 6. In addition, the record contains undisputed evidence that Ms. Rivas was not qualified for the only other open and available position, Police Communications Specialist. ECF No. 59 at 6.
+WMATA is correct on this point. The record contains uncontroverted evidence that Ms. Rivas was either unqualified for or could not perform the essential functions of these positions. ECF No. 59 at 2-3, 19-20. Because Ms. Rivas did not respond to WMATA's Motion, the Court has no argument or evidence to find to the contrary (aside from Ms. Rivas's unsupported testimony during her deposition that she was "black-balled" by the chief of police, ECF No. 59 at 29).
+Because Ms. Rivas cannot prevail on her claim under either a failure to accommodate or a discrimination theory, WMATA is entitled to judgment as a matter of law.
+
+IV. CONCLUSION
+For the reasons set forth in this Memorandum Opinion, WMATA's Motion for Summary Judgment (ECF No. 50) is GRANTED. An Order implementing this decision and closing the case will be filed separately.
+/s/ [*10]  Timothy J. Sullivan
+Timothy J. Sullivan
+Date: October 4, 2021
+United States Magistrate Judge
+
+ORDER
+For the reasons stated in the accompanying Memorandum Opinion, Defendant Washington Metropolitan Area Transit Authority's Motion for Summary Judgment is GRANTED. Pursuant to Fed. R. Civ. P. 56, summary judgment is entered in favor of Defendant Washington Metropolitan Area Transit Authority.
+The Clerk shall CLOSE this case.
+October 4, 2021
+Date
+/s/ Timothy J. Sullivan
+Timothy J. Sullivan
+United States Magistrate Judge
+
+
+End of Document
+

@@ -1,0 +1,50 @@
+Jones v. La. Dep't of Health & Hosps.
+United States District Court for the Eastern District of Louisiana
+January 27, 2016, Decided; January 27, 2016, Filed
+CIVIL ACTION NO: 15-2356 SECTION: "B" (4)
+
+Reporter
+2016 U.S. Dist. LEXIS 9531 *
+DESIREE JONES v. LOUISIANA DEPARTMENT OF HEALTH AND HOSPITALS, ET AL.
+Counsel:  [*1] For Desiree S. Jones, Plaintiff: Wanda Anderson Davis, LEAD ATTORNEY, Leefe, Gibbs, Sullivan, Dupre & Aldous, Metairie, LA.
+For Department of Health and Hospitals, Medical Vendor Administration, Jeanette Cage, New Orleans Medicaid Regional Administrator, Defendants: Lance Sterling Guest, LEAD ATTORNEY, Louisiana Department of Justice - 1, Litigation Division, New Orleans, LA.
+Judges: Ivan R. Lemelle, UNITED STATES DISTRICT JUDGE.
+Opinion by: Ivan R. Lemelle
+Opinion
+
+
+
+ORDER AND REASONS
+Before the Court is a Motion to Dismiss filed by defendants, the State of Louisiana, through its Department of Health and Hospitals ("DHH"), and Jeanette Cage ("Cage"). Rec. Doc. 6. Pro se plaintiff, Desiree S. Jones ("Jones"), opposes the motion, and defendants filed a reply memorandum. Rec. Docs. 20 & 23, respectively. The motion is submitted on the papers without oral argument. Having considered the parties' memoranda, the record, and the applicable law,
+IT IS ORDERED that the defendants' Motion to Dismiss is GRANTED IN PART and DENIED IN PART, dismissing the instant action WITHOUT PREJUDICE.
+
+I. BACKGROUND
+Jones was employed on a probationary basis by DHH as a Medicaid analyst, and Cage was her supervisor. Rec. Doc. 1. Jones claims that [*2]  she filed a complaint regarding Cage's "refusal to allow reasonable accommodation to several disabled employees," and cooperated in the ensuing investigation. Id. Jones alleges that she was fired in retaliation for her participation in the investigation in violation of the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101, et seq. Id. Defendants filed a motion to dismiss, with prejudice, for failure to state a claim under Rule 12(b)(6) of the Federal Rules of Civil Procedure arguing that Jones has not stated claim against them under the ADA because DHH, as an arm of the State of Louisiana, enjoys sovereign immunity from Jones' ADA claim and Cage, an individual, is not an employer subject to liability under the statute.1 Rec. Doc. 6. Jones opposes the motion arguing that DHH does not enjoy sovereign immunity regarding her claim because Medicaid is a program that receives federal funding. Rec. Doc. 20. Although Jones acknowledges that she cannot maintain a claim against Cage under the ADA,2 she argues that she has stated a claim for defamation against DHH and Cage. Id.
+
+II. LAW AND ANALYSIS
+
+A. Motion to Dismiss Standard
+As a threshold matter, the Court notes that it interprets pleadings of pro se litigants liberally "to afford all reasonable inferences which can be drawn from them."3 In re Tex. Pig Stands, Inc., 610 F.3d 937, 941 n. 4 (5th Cir. 2010). A motion to dismiss under Rule 12(b)(6) may be granted when a complaint fails to allege "enough facts to state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). The well-pleaded factual allegations of the complaint, taken as true, must raise the plaintiff's right to recover above the speculative level. Twombly, 550 U.S. at 555-56. Facts from which the court could infer the mere possibility of liability will not suffice. Iqbal, 556 U.S. at 678 (quoting FED.R.CIV.P. 8(a)(2)). However, "a well-pleaded complaint may proceed even if it strikes a savvy judge that actual proof of these facts is improbable, and that a recovery is very remote and unlikely." Twombly, 550 U.S. at 556.
+On a motion to dismiss, a court must take all well-pleaded factual allegations of the complaint as true and draw all reasonable inferences in favor of the plaintiff. In re Katrina Canal Breaches Litig., 495 F.3d 191, 205 (5th Cir. 2007). Nevertheless, "conclusory allegations and unwarranted deductions of fact are not admitted as true, especially when such conclusions are contradicted by facts disclosed by a document appended to the complaint." Associated Builders, Inc. v. Ala. Power Co., 505 F.2d 97, 100 (5th Cir. 1974) (internal citations omitted).
+
+B. DHH's Sovereign Immunity Regarding Jones' ADA Claim
+DHH argues that it is entitled to sovereign immunity regarding Jones' ADA retaliation claim raised under Title I of the ADA, which addresses discrimination in employment.
+The Eleventh Amendment bars citizens' suits in federal court against states, their alter egos, and state officials acting in their official capacities, unless the state has waived its sovereign immunity. Champagne v. Jefferson Parish Sheriff's Office, 188 F.3d 312, 313 (5th Cir. 1999) (citing Voisin's Oyster House v. Guidry, 799 F.2d 183, 185 (5th Cir. 1986)); Cozzo v. Tangipahoa Parish Council, 279 F.3d 273, 280 (5th Cir. 2002). This sovereign immunity extends to actions against state agencies or entities that are classified as "arms of the state." Regents of the Univ. of Cal. v. John Doe, 519 U.S. 425, 428, 117 S. Ct. 900, 137 L. Ed. 2d 55 (1997). The DHH is a department within the Louisiana state government, and is considered an arm of the state. LA. REV. STAT. § 36:251; Darlak v. Bobear, 814 F.2d 1055, 1059 (5th Cir. 1987).
+The United States Fifth Circuit Court of Appeals [*5]  has noted:
+By statute, Louisiana has refused any such waiver of its Eleventh Amendment sovereign immunity regarding suits in federal court. See La. Rev. Stat. Ann. §13:5106(A).
+Furthermore, Congress may only abrogate a state's Eleventh Amendment immunity by unequivocally expressing its intent to do so and by acting pursuant to a valid exercise of power.
+Cozzo, 279 F.3d at 281 (internal quotations and citations omitted). In Board of Trustees of the University of Alabama v. Garrett, 531 U.S. 356, 374, 121 S. Ct. 955, 148 L. Ed. 2d 866 (2001), the Supreme Court of the United States held that Congress failed to validly abrogate state sovereign immunity when it enacted Title I of the ADA, and suits by employees against States for money damages under Title I of the ADA are barred by the Eleventh Amendment. Jones, a former DHH employee, alleges a cause of action under Title I of the ADA against DHH, an arm of the State of Louisiana.4 Thus, Jones' ADA claim for retaliation against DHH is barred by the Eleventh Amendment.
+
+C. Jones' Defamation of Character Claim
+Jones argues that the complaint cannot be dismissed because she alleged a defamation claim against DHH and Cage. Rec. Doc. 20. Without reaching the merits of Jones' defamation claim and even setting aside available Eleventh Amendment protections, it is possible to conclude that the Court does not have subject matter jurisdiction over Jones' defamation claims. The Court could only hear Jones' defamation claims, which are state and not federal law claims,5 if it had diversity jurisdiction pursuant to 28 U.S.C. § 1332 or supplemental jurisdiction pursuant to 28 U.S.C. § 1367.
+Besides the fact that Jones' pro se complaint does not invoke diversity [*7]  jurisdiction, it is reasonable to conclude that the Court does not have diversity jurisdiction for two reasons. First, there does not appear to be complete diversity of citizenship, given that both Jones and Cage are apparently citizens of Louisiana.6 See 28 U.S.C. § 1332(a)(1) (requiring that diversity jurisdiction suits be between citizens of different states). Second, it is not clear from Jones' complaint that the amount in controversy in this case exceeds $75,000. See 28 U.S.C. § 1332(a).
+Given the dismissal of Jones' federal law claims against defendants, it would not be appropriate for the Court to exercise supplemental jurisdiction either. Even assuming that the Court at some point had supplemental jurisdiction over Jones' defamation claims, district courts are given statutory authority to decline to exercise that jurisdiction in the case that the Court has dismissed all claims over which it had original jurisdiction. See 28 U.S.C. § 1367(c)(3). Given that the Eleventh Amendment bars the Court from hearing Jones' ADA claim—Jones' only claim over which the Court could have had original jurisdiction7—the Court declines to continue exercising supplemental jurisdiction over Jones' remaining state law claims.
+Because the Court concludes that it does not have subject matter jurisdiction over Jones' defamation claims, dismissal of Jones' entire suit is appropriate. However, the Court's dismissal is without prejudice, meaning Jones is free to seek any available relief [*9]  in state court.
+Accordingly, IT IS ORDERED that defendants' Motion to Dismiss (Rec. Doc. 6) is GRANTED IN PART and DENIED IN PART in that Jones' Complaint (Rec. Doc. 1) is DISMISSED WITHOUT PREJUDICE.
+New Orleans, Louisiana, this 27th day of January, 2016.
+/s/ Ivan R. Lemelle
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

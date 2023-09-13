@@ -1,0 +1,67 @@
+Meggert v. Decorative Panels Int'l, Inc.
+United States District Court for the Eastern District of Michigan, Northern Division
+July 8, 2020, Decided; July 8, 2020, Filed
+Case No: 19-cv-13665
+
+Reporter
+2020 U.S. Dist. LEXIS 119157 *; 2020 WL 3846334
+DENNIS W. MEGGERT, Plaintiff, v DECORATIVE PANELS INTERNATIONAL, INC., Defendant.
+Counsel:  [*1] For Dennis W Meggert, Plaintiff: Gary A. Kozma, Atkinson Petruska Kozman & Hart PC, Gaylord, MI.
+For Decorative Panels International, Inc., Defendant: John R. Christie, Lewis Brisbois Bisgaard and Smith LLP, Cleveland, OH.
+Judges: Hon. THOMAS L. LUDINGTON, United States District Judge.
+Opinion by: THOMAS L. LUDINGTON
+Opinion
+
+
+
+ORDER DENYING MOTION TO DISMISS
+On December 12, 2019, Plaintiff Dennis W. Meggert filed a complaint against his former employer Defendant Decorative Panels International, Inc. ECF No. 1. He alleges that sometime during the 1990s, he sustained a back injury. Id. at PageID.31. Following the injury, his doctor recommended that Plaintiff only lift 25 pounds at a time and work a maximum of five days a week. Id. Defendant accommodated these restrictions for Plaintiff for approximately 20 years, allowing Plaintiff to work as a lift truck operator. On December 23, 2016, Plaintiff left on medical leave in order to undergo wrist surgery.
+Plaintiff did not return to work for approximately 18 months. He claims that Defendant's medical leave policy permitted an employee to take up to 18 months for medical leave. Id. at PageID.32. On or about May 24, 2018, Plaintiff advised Defendant that he was prepared to return [*2]  to work in his former position as a lift truck operator. He asked that he receive the same restrictions that Defendant had previously accommodated for Plaintiff's back injury, specifically a maximum of lifting 25 pounds and a maximum of working five days a week. However, Defendant refused to allow him to return to his former position of lift truck operator. Id.
+In June 2018, Plaintiff filed a charge with the Equal Employment Opportunity Commission ("EEOC") and on October 2, 2019, the EEOC issued him a Right to Sue Letter. Id. at PageID.34. Plaintiff subsequently filed his complaint against Defendant.
+Plaintiff's amended complaint provides one claim of violation of the Americans with Disabilities Act.
+
+I.
+Defendant has now filed a Motion to Dismiss Plaintiff's First Amended Complaint. ECF No. 11. A pleading fails to state a claim under Rule 12(b)(6) if it does not contain allegations that support recovery under any recognizable legal theory. Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). In considering a Rule 12(b)(6) motion, the Court construes the pleading in the non-movant's favor and accepts the allegations of facts therein as true. See Lambert v. Hartman, 517 F.3d 433, 439 (6th Cir. 2008). The pleader need not provide "detailed factual allegations" to survive dismissal, but the "obligation to provide the [*3]  'grounds' of his 'entitle[ment] to relief' requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). In essence, the pleading "must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face" and "the tenet that a court must accept as true all of the allegations contained in a complaint is inapplicable to legal conclusions." Iqbal, 556 U.S. at 678-79 (quotations and citation omitted).
+
+II.
+
+A.
+Defendant argues that the Americans with Disabilities Act ("ADA") does not provide employees returning from medical leave a right to restoration of their former employment position. That instead is offered in the Family and Medical Leave Act ("FMLA") which provides:
+On return from FMLA leave, an employee is entitled to be returned to the same position the employee held when leave commenced, or to an equivalent position with equivalent benefits, pay, and other terms and conditions of employment. An employee is entitled to such reinstatement even if the employee has been replaced or his or her position has been restructured to accommodate the employee's absence.
+29 C.F.R. § 825.214. Defendant contends that because Plaintiff took a [*4]  medical leave of absence that exceeded the 12 weeks permitted by the FMLA, he is not entitled to restoration of his employment position as provided in the FMLA. ECF No. 11 at PageID.55.
+Plaintiff argues that he has not brought his claim under FMLA, but instead under the ADA which provides:
+
+(a) General rule
+No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
+
+(b) Construction
+As used in subsection (a), the term "discriminate against a qualified individual on the basis of disability" includes...
+(5)(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee...
+42 U.S.C. § 12112.
+The FMLA and ADA are distinct and separate laws. As provided in the Code of Federal Regulations:
+Nothing in FMLA modifies or affects any Federal or State law prohibiting discrimination on the basis of race, religion, color, national origin, sex, age, or disability...FMLA's legislative history explains that FMLA [*5]  is "not intended to modify or affect...the Americans with Disabilities Act of 1990 [as amended] or the regulations issued under that act. Thus, the leave provisions of the [FMLA] are wholly distinct from the reasonable accommodation obligations of employers covered under the [ADA].
+29 C.F.R. § 825.702 (insertions in original).
+
+B.
+Contrary to Defendant's assertion, the ADA in some circumstances may require an employer to reinstate an employee to the position they held prior to taking medical leave. Defendant argues that this is incorrect because the "reasonable accommodations listed in the ADA do not include job protection rights." Defendant quotes to 42 U.S.C. § 12111 which provides:
+The term "reasonable accommodation" may include--
+(A) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
+(B) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+42 U.S.C. § 12111(9) (emphasis added). The [*6]  use of the word "may" indicates that the list was not intended to be exhaustive, but rather to provide examples of what constitutes a "reasonable accommodation." Schmidt v. Safeway Inc., 864 F. Supp. 991, 996 (D. Or. 1994) ("The term 'reasonable accommodation' is an open-ended one. The statutes and regulations offer examples, but caution that the term is not limited to those examples."). Job protection may qualify as a reasonable accommodation regardless of the fact that it is not explicitly listed as example in the statute.
+A guide by the U.S. Equal Employment Opportunity Commission ("EEOC") offers additional insight.1 It provides:
+An employee with a disability who is granted leave as a reasonable accommodation is entitled to return to his/her same position unless the employer demonstrates that holding open the position would impose an undue hardship.
+If an employer cannot hold a position open during the entire leave period without incurring undue hardship, the employer must consider whether it has a vacant, equivalent position for which the employee is qualified and to which the employee can be reassigned to continue his/her leave for a specific period of time and then, at the conclusion of the leave, can be returned to this new position.
+Equal [*7]  Employment Opportunity Commission, Revised Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the ADA ¶ 18 (updated Oct. 2002), available at https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada#intro .
+Another district court within the Sixth Circuit has adopted this same reasoning. In Hastings v. Fayette County Schools, the court determined that under the ADA, the plaintiff was entitled to return to her same employment position after taking medical leave because the employer did not demonstrate that holding her position open would have created an undue hardship. See Hastings v. Fayette Cty. Sch., 320 F. Supp. 3d 966, 984 (W.D. Tenn. 2018).
+Plaintiff has adequately pled his complaint. As explained above, under certain circumstances, the ADA requires an employer to allow an employee to return to their prior position following medical leave. Plaintiff's complaint makes such an allegation, claiming that Defendant denied him his prior position of lift truck operator upon his return from medical leave.
+
+III.
+Accordingly, it is ORDERED that Defendant's Motion to Dismiss, ECF No. 11, is DENIED.
+Dated: July 8, 2020
+/s/ Thomas L. Ludington
+THOMAS L. LUDINGTON
+United States District Judge
+
+
+End of Document
+

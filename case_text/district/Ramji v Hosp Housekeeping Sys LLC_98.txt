@@ -1,0 +1,33 @@
+Ramji v. Hosp. Housekeeping Sys., LLC
+United States District Court for the Northern District of Georgia, Atlanta Division
+August 12, 2019, Decided; August 12, 2019, Filed
+CIVIL ACTION FILE NO. 1:18-CV-734-TWT
+
+Reporter
+2019 U.S. Dist. LEXIS 175552 *
+NOORJAHAN RAMJI, Plaintiff, v. HOSPITAL HOUSEKEEPING SYSTEMS, LLC, Defendant.
+Subsequent History: Vacated by, Remanded by Ramji v. Hosp. Housekeeping Sys., LLC, 2021 U.S. App. LEXIS 9836, 2021 WL 1257247 (11th Cir. Ga., Apr. 6, 2021)
+Prior History: Ramji v. Hosp. Housekeeping Sys., LLC, 2019 U.S. Dist. LEXIS 175555 (N.D. Ga., July 24, 2019)
+Counsel:  [*1] For Noorjahan Ramji, Plaintiff: Regan E. Keebaugh, LEAD ATTORNEY, Radford & Keebaugh, LLC, Decatur, GA USA.
+For Hospital Housekeeping Systems, Llc, Defendant: David W. Adams, LEAD ATTORNEY, Sponsler, Bennett, Jacobs & Adams P.A.-FL, Tampa, FL USA; Zachary J. Glaser, LEAD ATTORNEY, PRO HAC VICE, Bennett Jacobs & Adams, P.A. -FL, Tampa, FL USA; Crystal Stevens McElrath, Swift, Currie, McGhee & Hiers, LLP, Atlanta, GA USA.
+Judges: THOMAS W. THRASH, JR., United States District Judge.
+Opinion by: THOMAS W. THRASH, JR.
+Opinion
+
+
+
+ORDER
+This is an action for damages under the Family and Medical Leave Act. It is before the Court on the Report and Recommendation [Doc. 82] of the Magistrate Judge recommending denying the Defendant's Motion for Summary Judgment [Doc. 55] and denying the Plaintiff's Motion for Summary Judgment [Doc. 62]. In her Complaint, it is clear that the Plaintiff is alleging a violation of the FMLA.
+Defendant violated the FMLA by (1) failing to inform Ms. Ramji of her right to FMLA leave after learning of her serious health condition, (2) failing to allow Ms. Ramji FMLA leave as needed to address her serious health condition, (3) failing to inform Ms. Ramji of its required physical agility test, (4) requiring [*2]  Ms. Ramji to undergo a physical agility test, and (5) terminating Ms. Ramji's employment after her physical agility test, which she failed because of her serious health condition.
+The Plaintiff did not make a claim under the Americans with Disabilities Act.
+I decline to adopt the Report and Recommendation with respect to the Defendant's Motion for Summary Judgment. In this case, the Plaintiff was afforded all rights to which she was entitled under the FMLA. Specifically, it is undisputed that the Plaintiff was allowed leave to handle her knee injury (assuming such injury was a serious health condition) through the workers' compensation system. The Plaintiff was allowed to take leave from September 16, 2016, until she was returned to work with restrictions on September 26, 2016. The Plaintiff was not deprived of any employer-sponsored group insurance benefits. In fact, the Plaintiff's treatments were covered through the workers' compensation system. Finally, when her physician certified that the Plaintiff's knee was at maximum medical improvement with a 0% impairment rating and returned the Plaintiff to work, her job was available. Since the Plaintiff's physician had returned her to work [*3]  with a 0% impairment rating, there can be no argument that the Plaintiff had a serious health condition under FMLA, thereby entitling her to any further substantive rights. There is nothing in the FMLA that requires the Defendant to go beyond the note from Dr. Harkins. And there is nothing in the FMLA that requires or allows HHS to substitute its judgment and determine Ms. Ramji was suffering from a serious health condition when her doctor just certified she was 100% healed.
+The Plaintiff could have asked for a reasonable accommodation under the ADA. It is possible that after an interactive dialogue, the Defendant would have found, or would have been required to provide, a reasonable accommodation to Ms. Ramji. However, this is not an ADA case. This is an FMLA case and the FMLA does not require the Defendant, or any other employer, to go beyond a doctor's note and substitute its judgment for a medical professional. In fact, the FMLA prohibits employers from doing exactly what the Recommendation is claiming HHS was required to do -- second guess Dr. Harkins. "Read together, 29 U.S.C. § 2613 and 29 C.F.R. § 825.307(a) establish that a medical certification is sufficient and must be accepted by the employer if it contains [*4]  the information required by the statute and is signed by the employee's health care provider."1
+Finally, in addition to the fact that an employer is not allowed to substitute its medical opinion for a treating physician's opinion under the FMLA, the FMLA contemplates this precise situation. FMLA regulations provide, in pertinent part, that "[i]f the employee is unable to perform an essential function of the position because of a physical or mental condition, including the continuation of a serious health condition or an injury or illness also covered by workers' compensation, the employee has no right to restoration to another position under the FMLA. The employer's obligations may, however, be governed by the Americans with Disabilities Act (ADA)."2 While the ADA may require a reasonable accommodation, the FMLA does not. Indeed, the "FMLA does not require 'an employer to provide a reasonable accommodation to an employee to facilitate his return to the same or equivalent position at the conclusion of his medical leave.'"3 Once Dr. Harkins cleared the Plaintiff and stated her injury was resolved with no further need for medical attention and she was cleared to return to work, the Plaintiff [*5]  was not entitled to any leave under the FMLA. The Defendant could not have reasonably determined she was entitled to leave under the FMLA.4 For the same reasons, the Plaintiff's Objections to the Report and Recommendation are without merit. The Defendant is entitled to summary judgment with respect to the FMLA claim. The Plaintiff's Motion for Summary Judgment [Doc. 62] is DENIED. The Defendant's Motion for Summary Judgment [Doc. 55] is GRANTED.
+SO ORDERED, this 12 day of August, 2019.
+/s/ Thomas W. Thrash
+THOMAS W. THRASH, JR.
+United States District Judge
+
+
+End of Document
+

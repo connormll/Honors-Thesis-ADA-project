@@ -1,0 +1,35 @@
+Rodriguez v. Charter Communs., Inc.
+United States District Court for the District of Massachusetts
+December 14, 2018, Decided; December 14, 2018, Filed
+CIVIL ACTION NO. 16-40060-TSH
+
+Reporter
+2018 U.S. Dist. LEXIS 210816 *
+CHERYL RODRIGUEZ, Plaintiff, v. CHARTER COMMUNICATIONS, INC. and CHARTER COMMUNICATIONS, LLC, Defendants.
+Counsel:  [*1] For Cheryl Rodriguez, Plaintiff: Austin M. Joyce, LEAD ATTORNEY, Reardon, Joyce & Akerson, P.C., Worcester, MA.
+For Charter Communications, Inc., Charter Communications, LLC, Defendants: Christopher A. Parlo, LEAD ATTORNEY, PRO HAC VICE, Morgan, Lewis & Bockius, New York, NY; Andriette A. Roberts, PRO HAC VICE, Hanna E. Martin, PRO HAC VICE, Jason D. Burns, PRO HAC VICE, Morgan, Lewis & Bockius LLP, New York, NY; Peter J. Mee, Morgan, Lewis & Bockius LLP, Boston, MA.
+Judges: TIMOTHY S. HILLMAN, DISTRICT JUDGE.
+Opinion by: TIMOTHY S. HILLMAN
+Opinion
+
+
+
+ORDER AND MEMORANDUM ON DEFENDANTS' MOTION TO STRIKE PLAINTIFF'S PROPOSED VERDICT FORM (Docket No. 89)
+HILLMAN, D.J.
+In her Complaint, Plaintiff asserts three claims against Defendants: "Unlawful Removal of Reasonable Accommodations" under the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et seq. ("Count I"), "Failure to Engage in the Interactive Process" pursuant to the ADA ("Count II"), and "Discrimination Against A Qualified Handicapped Persons" by "unlawfully removing her accommodations without a legitimate business purpose for doing so" and because she received a written warning for a work absence. ("Count III").
+On May 18, 2018, this Court granted Defendants' motion for summary [*2]  judgement on Count II, but denied the motion on Counts I and III. With respect to Count I this Court explained:
+The Plaintiff has been provided some accommodation and does not have the right to her preferred accommodation. However, absent evidence of hardship on the Defendants as to the January 2014 Accommodation, the Court must deny the Defendants motion for summary judgment as to Count I.
+(Docket No. 60). And with respect to Count III:
+The Defendants agree that to establish a prima facia claim for disability discrimination under M.G.L. c. 151B, an adverse employment action includes employer's failure to provide a reasonable accommodation. Defendants argue that the Plaintiff has failed to show that she has suffered an adverse employment action because she was not denied a reasonable accommodation. However, consistent with the analysis above, the record supports the Plaintiffs assertion that the Defendants failed to reasonably accommodate her and the Defendants motion for summary judgment as to Count III is denied.
+Id.
+With trial approaching, Plaintiff submitted a proposed verdict form. (Docket No. 87). The first question Plaintiff proposed to the jury reads: "Do you find that Plaintiff [*3]  Cheryl Rodriguez has proven by a preponderance of the evidence that Defendant Charter Communications discriminated against her for using her reasonable accommodation?" Id. at 2. Defendants subsequently filed this motion objecting to Plaintiff's proposed verdict form because Plaintiff attempts "to argue a completely new claim to the jury." (Docket No. 90, at 1). Further, Defendants argue it would be unfair to force them to litigate an entirely new claim on the eve of trial. See Ruiz-Sulsona v. University of Puerto Rico, 334 F.3d 157, 160 (1st Cir. 2003) ("[P]laintiff should not be able to idle and then produce arguments that the defendant had no cause to rebut and the district judge had no cause to examine.").
+Defendants are correct, Plaintiff's formulation of her claims in the verdict form is a claim that she has yet to raise in this litigation. As for Count I, the issue for the jury is whether Defendants unlawfully removed Plaintiff's accommodation. With respect to Count III, the issue is whether Plaintiff has suffered adverse employment action against her because of, in whole or in part, her protected disability. See McDonnell-Douglas, 411 U.S. 792, 802, 93 S.Ct. 1817, 36 L. Ed. 2d 668 (1973).
+Accordingly, Defendants' motion to strike (Docket No. 89) is granted insofar as it requests that this Court strike Plaintiff's proposed verdict form. [*4] 
+SO ORDERED
+/s/ Timothy S. Hillman
+TIMOTHY S. HILLMAN
+DISTRICT JUDGE
+
+
+End of Document
+

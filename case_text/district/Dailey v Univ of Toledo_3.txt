@@ -1,0 +1,59 @@
+Dailey v. Univ. of Toledo
+United States District Court for the Northern District of Ohio, Western Division
+March 19, 2019, Filed
+Case No. 3:16-cv-1564
+
+Reporter
+2019 U.S. Dist. LEXIS 44895 *; 2019 WL 1255074
+Ryan P. Dailey, Plaintiff, v. University of Toledo, Defendant.
+Subsequent History: Appeal terminated, 05/30/2019
+Counsel:  [*1] For Ryan P. Dailey, Plaintiff: Thomas A. Sobecki, Toledo, OH.
+For University of Toledo, Defendant: James B. Yates, Sarah E. Pawlicki, Eastman & Smith - Toledo, Toledo, OH.
+Judges: Jeffrey J. Helmick, United States District Judge.
+Opinion by: Jeffrey J. Helmick
+Opinion
+
+
+MEMORANDUM OPINION AND ORDER
+
+I. Introduction
+Defendant the University of Toledo ("UT") seeks summary judgment on Plaintiff Ryan P. Dailey's claims for violation of the Rehabilitation Act and Ohio law. (Doc. No. 20). Dailey opposes the motion, (Doc. No. 25), and UT has filed a brief in reply. (Doc. No. 26). For the reasons stated below, Defendant's motion is granted.
+
+II. Background
+Dailey first enrolled in the University of Toledo College of Law for the fall semester of 2012. He withdrew during that semester because of his desire to assist his family during a period of significant financial trouble and to resolve a dispute concerning certain course work at his undergraduate institution, Ohio University. (Doc. No. 19-1 at 4-5). Dailey returned to the College of Law as a full-time student in August 2013.
+Dailey initially was diagnosed with Asperger's syndrome while in high school, a diagnosis confirmed in late 2011 while Dailey pursued his undergraduate degree. [*2]  (Doc. No. 19-1 at 8-9). Asperger's falls within the autism spectrum. While autism spectrum disorders manifest differently from one individual to another, Dailey's condition affects his ability to understand nuance in language and impacts his behavior in social settings. (Doc. No. 19-1 at 10-11).
+While Dailey requested and received some accommodations from Ohio University in connection with his Asperger's diagnosis, (Doc. No. 19-1 at 9), he did not request accommodations at the beginning of either the 2012 or 2013 fall semesters. (Doc. No. 19-1 at 13-15). Dailey realized as the fall 2013 semester proceeded, however, that his condition was affecting his ability to learn the information his courses required. He then provided documentation of his Asperger's diagnosis to administrators with the College of Law and requested that he be allowed to take exams in a private room with a 50% longer time limit. (Doc. No. 19-1 at 16-17). Those accommodations were in place in time for Dailey's December 2013 exams. (Doc. No. 19-1 at 17).
+Dailey now seeks to recover for he describes as UT's "discriminatory treatment on the basis of his disability." (Doc. No. 1 at 1). Dailey asserts the College of Law [*3]  failed to forward his documentation to UT's Office of Student Disability Services, as required by its internal policies, and therefore Dailey was not provided with the opportunity to receive other or greater accommodations which would have benefitted him during his studies. Dailey alleges that, as a result of UT's acts and omissions, he was not seriously considered for internships during law school and lost an academic scholarship, along with other present and future damages.
+
+III. Standard
+Summary judgment is appropriate if the movant demonstrates there is no genuine dispute of material fact and that the movant is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a). All evidence must be viewed in the light most favorable to the nonmovant, White v. Baxter Healthcare Corp., 533 F.3d 381, 390 (6th Cir. 2008), and all reasonable inferences are drawn in the nonmovant's favor. Rose v. State Farm Fire & Cas. Co., 766 F.3d 532, 535 (6th Cir. 2014). A factual dispute is genuine if a reasonable jury could resolve the dispute and return a verdict in the nonmovant's favor. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986). A disputed fact is material only if its resolution might affect the outcome of the case under the governing substantive law. Rogers v. O'Donnell, 737 F.3d 1026, 1030 (6th Cir. 2013).
+
+IV. Analysis
+Dailey contends the College of Law discriminated against him when it failed to follow UT's internal procedures and offer him all available [*4]  accommodations, including by failing to provide him with proper notification that he needed to register with the Office of Student Disability Services and to forward his medical documentation to that office. It no doubt is true that UT has an incentive to provide its students with the greatest range of services and support, whether for altruistic reasons or because of a desire to position itself favorably in the competitive marketplace for undergraduate, graduate, and professional students. It is not true, though, that UT creates a different threshold for liability under federal or state law simply by setting higher standards for itself.
+
+A. Rehabilitation Act
+The Rehabilitation Act prohibits discriminatory treatment of an otherwise-qualified individual with a disability by an institution which receives federal funding. See, e.g., Carpenter-Barker v. Ohio Dep't of Medicaid, 752 F. App'x 215, 2018 U.S. App. LEXIS 24825, 2018 WL 4189530, *4 (6th Cir. Aug. 31, 2018) (quoting 29 U.S.C. § 794(a)). The "remedies, procedures, and rights" made available under Title II of the Americans with Disabilities Act also apply to the Rehabilitation Act, id., and caselaw applying one law also applies to the other. Gati v. W. Kentucky Univ., 762 F. App'x 246, 2019 U.S. App. LEXIS 2931, 2019 WL 364449, *2 (6th Cir. Jan. 29, 2019) (citing Jakubowski v. Christ Hosp., Inc., 627 F.3d 195, 201 (6th Cir. 2010) and Banks v. Bosch Rexroth Corp., 610 F. App'x 519, 526 (6th Cir. 2015)).
+Dailey must show he is an individual with a disability who was otherwise qualified for the legal education program at the College [*5]  of Law and that he needed an accommodation, but UT failed to provide the necessary accommodation. Gaines v. Runyon, 107 F.3d 1171, 1175 (6th Cir. 1997). UT concedes, for the purposes of its motion, that it was aware Dailey was diagnosed with a disability and he was otherwise qualified for the College of Law program. But UT denies it failed to engage in the interactive process or that it refused to provide any accommodations Dailey requested.
+A plaintiff is "'otherwise qualified' to participate in a program if [he] can meet its necessary requirements with reasonable accommodation." Kaltenberger v. Ohio Coll. of Podiatric Med., 162 F.3d 432, 435 (6th Cir. 1998) (quoting Sandison v. Michigan High Sch. Athletic Ass'n, Inc., 64 F.3d 1026, 1034 (6th Cir. 1995)). The Rehabilitation Act requires a student and a federally-funded program to engage in "a good faith interactive process" to determine a reasonable accommodation for the student's disability. Gati, 762 F. App'x 746, 2019 WL 364449 at *3; see also Nance v. Goodyear Tire & Rubber Co., 527 F.3d 539, 556 (6th Cir. 2008) (describing the interactive process as "mandatory"). "Parties should not obstruct the process, or refuse to participate." Jakubowski, 627 F.3d at 202. A student has the duty to propose reasonable accommodations and a university must show how the proposed accommodation would cause undue hardship before rejecting the proposal. Gati, 762 F. App'x 246, 2019 U.S. App. LEXIS 2931, 2019 WL 364449 at *2; Jakubowski, 627 F.3d at 202; see also Gantt v. Wilson Sporting Goods Co., 143 F.3d 1042, 1046 (6th Cir. 1998) ("[G]enerally 'it is the responsibility of the individual with a disability to inform the employer that an accommodation is needed.'" (quoting [*6]  29 C.F.R. § 1630.9(a))).
+Dailey testified during his deposition that during the fall of 2013, he approached Lee Pizzimenti, the Dean of Students at the College of Law, to tell her he was having trouble with his courses despite his efforts to persevere in spite of his Asperger's syndrome.1 (Doc. No. 19-1 at 15). Dean Pizzimenti informed Dailey he needed to provide documentation of his diagnosis in order to receive accommodations, and Dailey arranged for that documentation to be provided to the College of Law. (Doc. No. 19-1 at 15-16). Dean Pizzimenti subsequently asked Dailey what accommodations "[he] thought [he] was entitled to, and [he] told her what [he] had received" during his undergraduate studies. (Doc. No. 19-1 at 17).
+While Dailey argues UT should have informed him of other possible accommodations, the Rehabilitation Act does not require UT to "propose a counter accommodation in order to participate in the interactive process in good faith," even if UT had rejected Dailey's proposed accommodation. Jakubowski, 627 F.3d at 202-03 (citing Talley v. Family Dollar Stores of Ohio, Inc., 542 F.3d 1099, 1108, 1110 (6th Cir. 2008)). UT's failure to volunteer other accommodations offered to other students, whether within the College of Law or in other colleges, does not convert its acceptance of Dailey's proposal [*7]  into an act of bad faith. Jakubowski, 627 F.3d at 203 (concluding defendant "never hindered the [interactive] process" when it did not volunteer a remediation program offered to another medical resident).
+Further, while "[t]he Rehabilitation Act does not impose a duty to provide every accommodation requested," Gaines, 107 F.3d at 1178, UT in fact did so, including when Dailey subsequently requested other accommodations after discovering they were available through the Office of Student Disability Services. (Doc. No. 19-1 at 19-24).
+Evidence that the interactive process in which the parties engaged was not "a model interactive process" does not mean a party failed to act in good faith. Kleiber v. Honda of America Mfg., Inc., 85 F.3d 862, 871 (6th Cir. 2007). UT provided the facially-reasonable accommodations Dailey requested, and there is no evidence that the College of Law's failure to notify the Office of Student Disability Services of Dailey's disability, or its alleged failure to notify Dailey of the existence of that office, was the result of a discriminatory animus. I conclude there is no genuine dispute of material fact and UT is entitled to judgment as a matter of law on Dailey's Rehabilitation Act claim.
+
+B. State-Law Claims
+Dailey does not contest Defendant's argument that his claims for relief under [*8]  Ohio Revised Code sections 4112.022 and 4112.99 are barred by the Eleventh Amendment to the United States Constitution. (See Doc. No. 25 at 28). I agree, and grant UT's motion for summary judgment on those claims.
+
+V. Conclusion
+For the reasons stated above, UT's motion for summary judgment, (Doc. No. 20), is granted.
+So Ordered.
+/s/ Jeffrey J. Helmick
+United States District Judge
+JUDGMENT ENTRY
+For the reasons stated in the Memorandum Opinion and Order filed contemporaneously, the motion of Defendant the University of Toledo for summary judgment, (Doc. No. 20), is granted.
+So Ordered.
+/s/ Jeffrey J. Helmick
+United States District Judge
+
+
+End of Document
+

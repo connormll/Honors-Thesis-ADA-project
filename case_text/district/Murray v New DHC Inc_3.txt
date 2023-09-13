@@ -1,0 +1,45 @@
+Murray v. New DHC, Inc.
+United States District Court for the District of Maine
+August 7, 2019, Decided; August 7, 2019, Filed
+CIVIL NO. 1:18-CV-56-DBH
+
+Reporter
+2019 U.S. Dist. LEXIS 133257 *; 2019 WL 3752904
+WADE MURRAY, PLAINTIFF v. NEW DHC, INC., ET AL., DEFENDANTS
+Counsel:  [*1] For WADE MURRAY, Plaintiff: JOHN P. GAUSE, LEAD ATTORNEY, EASTERN MAINE LAW LLC, BANGOR, ME.
+For NEW DHC INC, COOKE AQUACULTURE USA INC, TRUE NORTH MAINE INC, TRUE NORTH SALMON US INC, KELLY COVE SALMON LTD, GMG FISH SERVICES LTD, TRUE NORTH SALMON CO LTD, SHORELAND TRANSPORT INC, CHARLOTTE FEEDS INC, NORTHEAST NUTRITION INC, COOKE AQUACULTURE INC, Defendant: RYAN P. DUMAIS, EATON PEABODY, BRUNSWICK, ME; THAD B. ZMISTOWSKI, NORTHERN LIGHT HEALTH, BREWER, ME.
+Judges: D. BROCK HORNBY, UNITED STATES DISTRICT JUDGE.
+Opinion by: D. BROCK HORNBY
+Opinion
+
+
+
+DECISION AND ORDER ON MOTION FOR SUMMARY JUDGMENT
+This is an employment discrimination case. The plaintiff-employee claims that his employer1 terminated his employment because of his disability and because he took medical leave. He seeks relief under the Americans With Disabilities Act (ADA), the Maine Human Rights Act (MHRA), the federal Family and Medical Leave Act (FMLA), and Maine's Family Medical Leave Requirements Act (FMLR). Compl. ¶¶ 69-86 (ECF No. 1). The defendant-employer has moved for summary judgment on all counts. I GRANT the motion in part and Deny it in part.
+For purposes of ruling on the motion I credit the employee's account since he is the nonmoving party. [*2]  Although the employer has put forward a strong alternative version to the employee's account, it is for a jury to decide between the two.
+
+Disability Discrimination and Failure to Accommodate Under the ADA and MHRA
+I Deny the motion for summary judgment on Counts I and III, the ADA and MHRA claims, respectively. There is a genuine dispute as to one or more material facts over the reason for, and circumstances of, the employee's termination.2
+The employee initially obtained approved medical leave based upon a note from his primary care provider. Defs.' Statement of Material Facts (Defs.' SMF) ¶ 11 (ECF No. 29). The employee has testified that after initially receiving that leave, he received approval from his medical provider to return to work, informed his employer of that fact repeatedly, but was not permitted to return to work. Pl.'s Statement of Additional Material Facts (Pl.'s SAMF) ¶¶ (54)-(59) (ECF No. 34). The employee was never advised that there was a time limit on his leave nor given any warning that it was about to expire. Id. ¶¶ (65)-(66). He was told by management that he needed a note from a psychiatrist to return to work,3 Pl.'s Opposing Statement of Material [*3]  Facts (Pl.'s OSMF) ¶ 14 (ECF No. 34), but a Human Resources employee later testified at an unemployment compensation hearing that a medical note would have been sufficient and that she would have accepted such a note from the physician's assistant who provided the initial note that resulted in his taking leave. Id. ¶ 43. When the employee first received his notice of termination he asked for "a couple of days" to get a medical provider's note, Murray Dep. at 125:18-20 (ECF No. 30-1); Pl.'s SAMF ¶ (69), but management told him it was too late. His supervisor also told him that he "wasn't mentally stable to work." Murray Dep. at 111-12; Pl.'s OSMF ¶ 21. After unemployment compensation hearing testimony that his primary medical provider's note would have been sufficient, the employee provided such a note, but the employer again said it was too late. Pl.'s OSMF ¶ 43. The manager who made the recommendation to terminate the employee, see Morang Dep. at 74 (ECF No. 30-14), testified that an earlier 2012 conversation with the employee when the employee was distraught and obtained leave "never left my mind" and that the manager was "afraid of—of something happening in the workplace." Pl.'s [*4]  SAMF ¶ (27); Morang Dep. at 46-48.
+I conclude that there are factual issues over whether the employer's explanation that it terminated the employee for his failure to obtain a health care provider's note was pretextual for disability discrimination and whether the refusal to give the employee the extra "couple of days" that he requested for the note4 was a denial of a reasonable accommodation.5
+I recognize the parties' disagreement over whether the MHRA requires the employer to engage in an interactive process. Compare Carnicella v. Mercy Hosp., 2017 ME 161, 168 A.3d 768, 775 (Me. 2017) (no such obligation on the employer's part because it is only an affirmative defense); Kezer v. Cent. Me. Med. Ctr., 2012 ME 54, 40 A.3d 955 (Me. 2012) (same), with Code Me. R. tit. 94-348 Ch. 3, § 3.02 ("To determine the appropriate reasonable accommodation it may be necessary for the covered entity to initiate an informal, interactive process with the individual with a physical or mental disability in need of the accommodation.") The defendant seems to have the better of that argument, given the Law Court's unambiguous language,6 but my resolution of that disagreement awaits the development of a trial record.
+
+Medical Leave
+I Grant the motion for summary judgment as to Counts [*5]  II and IV, the FMLA claim and the Maine FMLR claim, respectively. The employee asserts a retaliation claim under these two statutes, Pl.'s Opp'n to Mot. for Summ. J. at 16 (Pl.'s Opp'n) (ECF No. 33), claiming that his employer terminated his employment because he took medical leave.7 For summary judgment purposes, the employer concedes that the employee engaged in protected activity by taking leave and that his termination in June 2016 was an adverse employment action. Defs.' Mot. for Summ. J. (Defs.' Mot.) at 25 (ECF No. 28). But the employer disputes causation (that his taking medical leave motivated the termination), id., a necessary part of the three-element analysis. Carrero-Ojeda v. Autoridad De Energía Eléctrica, 755 F.3d 711, 719 (1st Cir. 2014) ("To make out a prima facie case of FMLA retaliation, an employee must show: . . . 'there was a causal connection between [his] protected conduct and the adverse employment action.'").
+In opposing summary judgment on causation on these two Counts, the employee is very brief: "For the same reasons stated above on these issues [ADA and MRHA arguments on causation and pretext], [the plaintiff] has presented more than enough evidence to reach [a] jury on whether he was fired for taking FMLA and Maine FMLR leave." Pl.'s [*6]  Opp'n at 16. That argument is insufficient.
+According to the First Circuit, "[i]n an FLMA retaliation case, the employer's intent—i.e., why the employer fired or acted against the employee—matters." Carrero-Ojeda, 755 F.3d at 719 (emphasis in original). Carrero-Ojeda was decided on a 12(b)(6) motion where the plaintiff had to show only a plausible claim. See id. at 722. Even under that relaxed standard, the First Circuit rejected the claim, saying that "temporal proximity . . . is not enough" to infer bad motive. Id. at 720. In Carrero-Ojeda, the adverse action occurred during the FMLA leave. Id. But in this case, the FMLA leave expired about three months before the termination. So temporal proximity here is even weaker.
+I have said that there are disputed facts from which a jury could find that the employee's disability was a factor in his ultimate termination or that his employer did not sufficiently accommodate his needs under federal and state anti-discrimination law. But those disputed facts, viewed in the light most favorable to the employee, do not translate into an inference that his 12 weeks of medical leave motivated his termination. Like the record in Carrero-Ojeda, the employee "gives us no facts beyond the timing of [his] [*7]  discharge—e.g., no negative comments, complaints, or expressions of reluctance by [his] superiors or co-workers about [his] FMLA leave-taking, no discussion of [his] FMLA leave status in performance reviews, etc.—that would lead us to think that defendants took [his] FMLA requests or leave status into account when deciding to discharge [him]." Id. (internal citation omitted). I have carefully reviewed the employee's opposing and additional statements of material facts, and I see nothing to support an inference that his taking the protected 12 weeks of medical leave was a motivating factor in the employer's decision to terminate him months later. The timing here does not support a retaliation claim. Summary judgment is therefore Granted on Counts II and IV.
+
+Conclusion
+Summary judgment is Granted on Counts II and IV and Denied on Counts I and III.
+
+So Ordered.
+
+Dated this 7th Day Of August, 2019
+/s/ D. Brock Hornby
+D. Brock Hornby
+United States District Judge
+
+
+End of Document
+

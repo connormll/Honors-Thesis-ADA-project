@@ -1,0 +1,57 @@
+Raetano v. Bray
+United States District Court for the Middle District of Florida, Tampa Division
+July 20, 2012, Decided; July 20, 2012, Filed
+Case No. 8:12-cv-966-T-24-TGW
+
+Reporter
+2012 U.S. Dist. LEXIS 100936 *; 2012 WL 2979022
+JOSEPH RAETANO, Plaintiff, v. BUFORD S. BRAY, Trustee of the Twin Oaks Land Trust, Defendant.
+Counsel:  [*1] For Joseph Raetano, Individually, Plaintiff: John Paul Fuller, LEAD ATTORNEY, Fuller, Fuller & Associates, PA, N Miami, FL.
+For Buford S. Bray, Trustee of the Twin Oaks Land Trust, Defendant: Randall P. Mueller, LEAD ATTORNEY, Carey, O'Malley, Whitaker & Mueller, PA, Tampa, FL.
+Judges: SUSAN C. BUCKLEW, United States District Judge.
+Opinion by: SUSAN C. BUCKLEW
+Opinion
+
+
+
+ORDER
+This cause comes before the Court on Defendant Buford S. Bray's Motion to Dismiss or, Alternatively, Motion for a More Definite Statement. (Doc. No. 8). Plaintiff Joseph Raetano has filed a response in opposition. (Doc. No. 9). For the following reasons, Bray's motion is GRANTED in part and DENIED in part.
+
+I. Background
+Joseph Raetano filed this action against Buford S. Bray, Trustee of the Twin Oaks Land Trust, pursuant to the Americans with Disabilities Act, 42 U.S.C. § 12181 et seq. on May 2, 2012. (Doc. No. 1). Raetano alleges that Bray owns, leases, leases to, or operates a place of public accommodation known as the Twin Oaks Plaza ("Property"). He alleges that he has encountered architectural barriers at the Property that substantially impair his access to the premises, that have endangered his safety, and that have denied him the full and  [*2] equal access to the Property. Raetano provides a non-exhaustive list of experienced and observed violations related to "parking," "entrance access and path of travel interior," and "access to goods and services restroom."
+Bray filed the instant motion, seeking dismissal of Raetano's complaint pursuant to Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim, or alternatively, a more definite statement pursuant to Rule 12(e). (Doc. No. 8). He also seeks dismissal pursuant to Rule 12(b)(7) for failure to join a party under Rule 19, or alternatively, amendment that joins necessary parties. (Doc. No. 8).
+
+II. Discussion
+
+A. Failure to State a Claim, or More Definite Statement
+Bray argues that Raetano's complaint vaguely alleges a variety of ADA violations but fails to identify where on the Property or in which tenant spaces these violations exist. He contends this failure prevents him from formulating a proper response to Raetano's allegations, and consequently, the complaint should be dismissed for failure to state a claim, or alternatively, Raetano should be required to amend his complaint to provide a more definite statement.
+Federal Rule of Civil Procedure 8(a) requires that  [*3] a complaint contain "a short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. 8(a)(2). While a plaintiff need not provide "detailed factual allegations," he or she must provide "more than labels and conclusions . . . a formulaic recitation of the elements of a cause of action will not do." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). "Factual allegations must be enough to raise a right to relief above the speculative level, on the assumption that all the allegations in the complaint are true . . . ." Id. (citation omitted). Therefore, "[t]o survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (internal quotation marks omitted).
+Motions for a more definite statement are disfavored under the law. See Campbell v. Miller, 836 F. Supp. 827, 832 (M.D. Fla. 1993). "A motion for a more definite statement will only be required when the pleading is 'so vague or ambiguous that the opposing party cannot respond, even with a simple denial, in good faith or without prejudice to himself.'" Id.  [*4] (citing Delta Educ., Inc. v. Langlois, 719 F. Supp. 42, 50 (D.N.H. 1989) (quoting 5 Wright & Miller, Federal Practice & Procedure, § 1376)). Alleged facts need not be spelled out with exactitude, nor must recovery appear imminent. See Mun. Util. Bd. v. Ala. Power Co., 934 F.2d 1493, 1501 (11th Cir. 1991). A motion for a more definite statement is not to be used as a substitute for discovery. See Campbell, 836 F. Supp. at 832.
+Upon review of the complaint, the Court finds that Raetano has provided fair notice of the grounds upon which this action rests. The complaint is not so vague or ambiguous that Bray cannot be expected to respond. Bray bases his request on the complaint's lack of detail; however, he will obtain specific details through discovery. Accordingly, Bray's motion is denied with respect to this basis for relief.
+
+B. Failure to Join, or Amendment to Join Necessary Parties
+Bray also argues that Raetano has failed to join necessary parties. Among other forms of relief, Raetano seeks "[i]njunctive relief against the Defendant including an order to make all readily achievable alterations to the facility; or to make such facility readily accessible to and usable by individuals with  [*5] disabilities to the extent required by the ADA . . . ." (Doc. No. 1 at 7). However, Bray, who is owner and landlord of the Property, argues:
+[T]here are areas within the tenant spaces in the shopping center that the Landlord has no right to modify without the consent of the tenant. Moreover, with respect to the architectural barriers allegedly existing as a result of the leasehold improvements — i.e. tables and counters — any order requiring the Defendant to remove such barriers would require the Defendant to remove or make alterations to property he does not own or control.
+(Doc. No. 8 at 6). Bray contends the tenants have "a strong financial interest in decisions regarding construction work performed to their units," so the disposition of this action in the tenants' absence may impair or impede their ability to protect their interests. (Doc. No. 8 at 6-7).
+Raetano counters that landlords and tenants are jointly and severally liable for ADA violations and that any allocation of responsibility for ADA compliance that parties may include in a lease agreement is effective only between the parties — the terms of such a lease will not affect the rights of a third party who sues under the  [*6] ADA. He argues that, at the appropriate time, Bray may seek indemnity from the tenant(s) or bring them into the action as third-party defendants. (Doc. No. 9 at 5).
+Federal Rule of Civil Procedure 19(a) provides, in pertinent part:
+
+(a) Persons Required to Be Joined if Feasible.
+(1) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:
+(A) in that person's absence, the court cannot accord complete relief among existing parties; or
+(B) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
+(i) as a practical matter impair or impede the person's ability to protect the interest; or
+(ii) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
+Fed. R. Civ. P. 19(a). Both a landlord who owns the building that houses a place of public accommodation and the tenant who owns or operates a place of public accommodation are obligated to comply with the ADA. Botosan v. Paul McNally Realty, 216 F.3d 827, 832-34 (9th Cir. 2000).  [*7] Though a landlord and tenant may allocate responsibility for complying with the ADA by lease or other contract, that contractual allocation of responsibility has no effect on the rights of third parties. Id.
+The contractual provisions included in Bray's lease with his tenants have no bearing on Raetano's rights under the ADA with respect to the Property. However, if Raetano intends to pursue claims about perceived barriers within premises occupied by Bray's tenants, such that those tenants may "claim[] an interest relating to the subject of the action" and are "so situated that disposing of the action in the person's absence may as a practical matter impair or impede the person's ability to protect the interest," then those tenants should be joined as parties pursuant to Rule 19(a)(1)(B).
+
+IV. Conclusion
+Accordingly, it is ORDERED AND ADJUDGED that Defendant Buford S. Bray's Motion to Dismiss or, Alternatively, Motion for a More Definite Statement (Doc. No. 8) is GRANTED to the extent that Plaintiff Joseph Raetano is directed to file an amended complaint by August 3, 2012 that joins the tenant or tenants in possession of the leased spaces that contain the perceived architectural barriers  [*8] he alleges. Otherwise, Bray's motion is DENIED.
+DONE AND ORDERED at Tampa, Florida, this 20th day of July, 2012.
+/s/ Susan C. Bucklew
+SUSAN C. BUCKLEW
+United States District Judge
+
+
+End of Document
+

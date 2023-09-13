@@ -1,0 +1,55 @@
+Fuhrman v. Siemens Corp.
+United States District Court for the Northern District of Georgia, Atlanta Division
+August 30, 2019, Decided; August 30, 2019, Filed
+CIVIL ACTION FILE NO. 1:18-cv-2758-TCB
+
+Reporter
+2019 U.S. Dist. LEXIS 249512 *; 2019 WL 13269323
+DAVID E. FUHRMAN, Plaintiff, v. SIEMENS CORPORATION, Defendant.
+Counsel:  [*1] For David E. Fuhrman, Plaintiff: Jeanne Bynum Hipes, LEAD ATTORNEY, Hipes Law LLC, Alpharetta, GA.
+For Siemens Corporation, Defendant: Eric Leroy Barnum, LEAD ATTORNEY, Marice Guzman, Baker & Hostetler, LLP - GA, Atlanta, GA.
+Judges: Timothy C. Batten, Sr., United States District Judge.
+Opinion by: Timothy C. Batten, Sr.
+Opinion
+
+
+
+ORDER
+On August 6, the Court entered an order [77] adopting Magistrate Judge Russell G. Vineyard's Report and Recommendation ("R&R") [75]. The R&R recommended granting Defendant Siemens Corporation's motion [41] for summary judgment. After Plaintiff David Fuhrman failed to file any objections within the fourteen-day period in which he was permitted to do so, the Court reviewed the R&R for clear error, found none, adopted the R&R, and closed the case.
+Fuhrman then filed a motion [79] for relief from the Court's order, a motion [81] to alter the judgment, an amended motion [83] for relief from the Court's order, and two sets of objections [80, 82]. Fuhrman also has filed a motion [87] for sanctions. All these motions are before the Court.
+
+I. Motions for Relief and to Alter Judgment
+Fuhrman has filed three motions seeking relief from the judgment. Two motions [79, 83] seek relief pursuant to Federal Rule of Civil Procedure 60(b)(1) and [*2]  (6), and one [81] seeks to alter or amend the Court's earlier order pursuant to Rule 59(e). Fuhrman has not demonstrated that he is entitled to relief pursuant to Rule 59(e). Therefore, his motion [81] to alter or amend is denied.
+Fuhrman's motions pursuant to Rule 60(b) seek relief for reasons including excusable neglect. Specifically, Fuhrman's counsel's overwhelming schedule caused her to overlook the email containing the deadline to file objections to the R&R. Therefore, she was unaware of the deadline until the Court's order adopting the R&R was issued. Counsel promptly filed objections, along with the motions at issue. The Court will therefore, based on excusable neglect, consider Fuhrman's belatedly filed objections. As discussed infra, however, the objections do not change the outcome. Therefore, Fuhrman's motions [79, 83] are granted only to the extent he requests that the Court consider his objections and conduct a de novo review of the portions of the R&R to which he objects. The motions are otherwise denied.
+
+II. Objections to R&R
+Fuhrman objects to the R&R's conclusion that no oral argument is necessary. However, the Court agrees with the R&R that the record is sufficient to decide the issues and that no [*3]  oral argument is required. This objection will be overruled.
+Fuhrman also objects to the magistrate judge's order, contained in the R&R, that Lee Olsen's affidavit be excluded. A magistrate judge's order, as opposed to a recommendation, is reviewed for clear error even when a party objects. FED. R. CIV. P. 72(a). The Court finds no clear error in the magistrate judge's determination that Olsen's affidavit was offered not only for impeachment purposes, but also as substantive evidence. This objection also will be overruled.
+Though contained within his objection to the order regarding Olsen's affidavit, Fuhrman also separately objects to the R&R's conclusion that there is no evidence that Siemens had a policy of terminating employees who had been on leave for a year. He points to his own deposition testimony that Kennedy had told him that such a policy existed. He also points to notes written by Susan Mills, Liberty Mutual's technical claim consultant, that Kennedy had told her "NOT TERMED FOR PERFORMANCE, IF OUT A YEAR WILL TERMINATE." [58-2] at 9.
+However, Kennedy's direct testimony is to the contrary: that a one-year termination was not set in stone but that termination of employees who had been on extended [*4]  leave was conducted on a case-by-case basis.
+Notwithstanding this testimony, Fuhrman himself was not automatically terminated after one year had passed; rather, he was given an opportunity to update his status and obtain a medical release. Ultimately, after he did not successfully do so, he was terminated after approximately fourteen months. His objection regarding the purported policy does not change the finding in the R&R (and the basis for its recommendation that summary judgment be granted) that he is not a qualified individual under the ADA. This objection will be overruled.
+Fuhrman next objects to the R&R's accepting as true Siemens's assertion that the guidelines were intended for employees who are not on disability. He argues that the document does not state this and that Kennedy (who testified of the intent of the guidelines) could not explain her conclusion. However, Kennedy did testify that this was the intent, and Fuhrman only questions her testimony. He does not provide contradictory evidence. Therefore, the Court agrees with the R&R in accepting Kennedy's testimony. This objection will be overruled.
+Fuhrman also objects to the R&R's conclusion that he needed a medical release [*5]  to work before an interactive discussion was required to occur. He argues that neither the law nor Siemens's policy states that this is the case, and that the law the R&R cites is not binding. He contends that an employee could not know what restrictions he needs to request from his doctor until an interactive discussion has occurred. However, Fuhrman does not point to any binding authority to the contrary, and the Court finds persuasive the authority to which the R&R cites.
+Further, the Eleventh Circuit has rejected the argument that an employer can be liable merely for failing to engage in an interactive process, regardless of whether a reasonable accommodation could have been made. Spears v. Creel, 607 F. App'x 943, 950 (11th Cir. 2015). Where (as here) the plaintiff cannot demonstrate that a reasonable accommodation existed, an employer's lack of investigation into a reasonable accommodation is not important. Id. This objection will be overruled.
+Fuhrman additionally objects that whether he was a qualified individual under the ADA cannot be determined by a Social Security disability investigation. He argues that the Social Security report was issued twenty months after his termination, not when he was capable of doing his job with some [*6]  accommodation. He further argues that the motivations and issues in a Social Security hearing differ from those relevant to determining whether he was a qualified individual for ADA purposes.
+However, the R&R relied on more than just the Social Security report to determine that Fuhrman was not a qualified individual. Instead, the magistrate judge considered the fact that Fuhrman's treating physician had not released him to return to work, along with Fuhrman's deposition testimony. This objection will be overruled.
+Fuhrman next seems to object generally that he should not have been given only four days to obtain his medical release; that nothing was clear about his termination; and that Siemens not only did not attempt to accommodate him, but added new requirements (such as being in the office three days per week and travelling to Germany).
+This objection does not specifically address whether he was a qualified individual, which is the primary basis upon which the R&R recommended granting summary judgment. And the Court agrees with the magistrate judge's conclusion that Fuhrman has not presented "any facts tending to show that he was able to safely and effectively perform his job before [*7]  his termination." Anderson v. Embarq/Sprint, No. 1:08-cv-54-CAP-LTW, 2009 WL 10690457, at *9 (N.D. Ga. June 16, 2009), adopted by 2009 WL 10690487, at *1 (N.D. Ga. July 2, 2009), aff'd, 379 F. App'x 924 (11th Cir. 2010) (per curiam).
+To the extent this is an attempt to argue that he could survive summary judgment based on a convincing mosaic of circumstantial evidence, the Court agrees with the R&R that he did not specifically argue this and that the record does not support such an inference. This objection will be overruled.
+Finally, Fuhrman objects to the R&R deeming various facts admitted. Specifically, he objects that he properly denied Siemens's statements of fact numbers 9, 10, 12, 36, 42, 44-46, 49, part of 51, and 52. However, Fuhrman did not deny 10, 36, 42, or 49 in his response [69] to Siemens's statement of material facts. To the extent he challenges whether his denial of the remaining statements of fact was proper, the Court finds that it does not affect the outcome. This objection will be overruled.
+
+III. Motion for Sanctions and Motion to Seal
+Fuhrman has moved [86] to seal a confidential medical document. The motion to seal, which is unopposed, is granted. The Clerk is directed to seal Fuhrman's medical report [43-5], attached as exhibit 7 to the transcript of Fuhrman's deposition.
+Relatedly, Fuhrman moves for sanctions against Siemens after Siemens [*8]  initially did not file his medical report under seal. However, as Siemens points out, Fuhrman initially neglected to designate his medical report as confidential, and Siemens has attempted to work with Fuhrman in sealing the report. The Court finds that Fuhrman has not demonstrated that Siemens acted in bad faith. The motion [87] for sanctions is denied.
+
+IV. Conclusion
+For the foregoing reasons, Fuhrman's motions [79, 83] for relief are granted only to the extent he requests that the Court consider his objections and conduct a de novo review of the portions of the R&R to which he objects and otherwise denied. His motion [81] to alter is denied. His objections [80, 82] are overruled and the R&R [75] remains the order of the Court.
+Fuhrman's motion [86] for leave to file under seal is granted. The Clerk is directed to seal Fuhrman's medical report [43-5] under seal. Fuhrman's motion [87] for sanctions is denied.
+IT IS SO ORDERED this 30th day of August, 2019.
+/s/ Timothy C. Batten, Sr.
+Timothy C. Batten, Sr.
+United States District Judge
+
+
+End of Document
+

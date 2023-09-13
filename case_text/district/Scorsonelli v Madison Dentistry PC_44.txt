@@ -1,0 +1,34 @@
+Scorsonelli v. Madison Dentistry, P.C.
+United States District Court for the Southern District of New York
+November 14, 2019, Decided; November 14, 2019, Filed
+18-CV-4269 (JMF)
+
+Reporter
+2019 U.S. Dist. LEXIS 197976 *; 2019 WL 6032787
+ANNA MARIE SCORSONELLI, Plaintiff, -v- MADISON DENTISTRY, P.C., et al., Defendants.
+Subsequent History: Dismissed by, Without prejudice Scorsonelli v. Madison Dentistry, P.C., 2020 U.S. Dist. LEXIS 9112 (S.D.N.Y., Jan. 15, 2020)
+Counsel:  [*1] For Anna Marie Scorsonelli, Plaintiff: Michael Taubenfeld, Fisher Taubenfeld LLP, New York, NY; Liane Fisher, Fisher Taubenfeld LLP, New York, NY.
+For Madison Dentistry, P.C., Frank DiCicco, Defendants: Stacey Lynn Davidson, LEAD ATTORNEY, Karen Yasmine Bitar, Seyfarth Shaw LLP (NYC), New York, NY; Frederic L. Lieberman, J.P. Morgan Chase Legal Department, New York, NY; Gary Edward Hanna, Brooklyn, NY.
+Judges: JESSE M. FURMAN, United States District Judge.
+Opinion by: JESSE M. FURMAN
+Opinion
+
+
+
+MEMORANDUM OPINION AND ORDER
+JESSE M. FURMAN, United States District Judge:
+Upon review of the parties' motion papers, the Court concludes that Defendants' motion for summary judgment must be denied. Defendants' argument that Plaintiff Anna Marie Scorsonelli was terminated for poor performance, and not on account of a disability, is not without force and may well prevail at the end of the day based, in part, on the proposition that "an employee's disagreement with her employer's evaluation of her performance is insufficient to establish discriminatory intent." Ricks v. Conde Nast Publs., Inc., 6 Fed. Appx. 74, 78 (2d Cir. 2001) (collecting cases). But, drawing all inferences in Scorsonelli's favor, there is sufficient evidence — most notably, the differential treatment of Scorsonelli and Michelle [*2]  Smith paired with Ms. Smith's testimony that she was similarly situated to Scorsonelli, see ECF No. 41 — for the issue of pretext to go to a jury. See, e.g., Hinton v. City College of N.Y., No. 05-CV-8951 (GEL), 2008 U.S. Dist. LEXIS 16058, 2008 WL 591802, at *16 (S.D.N.Y. Feb. 29, 2008) (Lynch, J.) (denying summary judgment on the ground that "[a] reasonable juror could equally well find" an alleged comparator "better qualified than [the plaintiff], or otherwise find them not similarly situated, but [the plaintiff had] presented sufficient evidence to make this a genuine issue for trial").
+A reasonable jury could likewise find that Defendants failed to accommodate Scorsonelli's disability. Even if Scorsonelli's daily requests for time off do not qualify as a request for accommodation, that fact would not be fatal to her claim. The law requires employers to engage employees they know or should know suffer from a disability in an interactive process to identify a reasonable accommodation. See, e.g., Brady v. Wal-Mart Stores, Inc., 531 F.3d 127, 135-36 (2d Cir. 2008). Here, there is sufficient evidence in the record for a jury to find that Defendants were on notice of Scorsonelli's alleged disability. See ECF No. 40, ¶ 6; ECF No. 41, ¶¶ 14-17. Moreover, a jury could find that a finite period of medical leave would have been a reasonable accommodation given, among other things, [*3]  that Defendants permitted Ms. Smith to take four months of leave to care for her husband. See Graves v. Finch Pruyn & Co., 457 F.3d 181, 185 n.5 (2d Cir. 2006) (noting that, although the Second Circuit has not yet determined whether unpaid leave is ever a reasonable accommodation, most circuits and the Equal Employment Opportunity Commission have concluded that it can be under some circumstances); see also ECF No. 46, ¶ 144. Under these circumstances, Scorsonelli's termination may amount to a denial of a reasonable accommodation. See, e.g., Adduci v. Yankee Gas Servs. Co., 207 F. Supp. 3d 170, 180-82 (D. Conn. 2016) (holding that a reasonable jury could find that employer failed to provide reasonable accommodation of employment in an alternative position and instead terminated his employment).
+Finally, although the question is a particularly close one, a reasonable jury could conclude that Scorsonelli's repeated daily requests for leave constituted "protected activity" and that her termination — which occurred while she was on leave because (in Defendant Dr. Frank DeCicco's words) it "wasn't an adaptable situation," ECF No. 43, ¶ 78 — was in retaliation for those requests. See, e.g., Rodriguez v. Atria Senior Living Grp., Inc., 887 F. Supp. 2d 503, 512 (S.D.N.Y. 2012) ("Requesting a reasonable accommodation of a disability is an ADA-protected activity." (citing Weixel v. Board of Educ. of City of N.Y., 287 F.3d 138, 149 (2d Cir. 2002)).1
+In short, drawing [*4]  all inferences in Scorsonelli's favor, see, e.g., Sec. Ins. Co. of Hartford v. Old Dominion Freight Line, Inc., 391 F.3d 77, 83 (2d Cir. 2004), the Court is compelled to conclude that Defendants' motion for summary judgment must be denied. Unless and until the Court orders otherwise, the parties shall submit their proposed joint pretrial order and associated materials (in accordance with Paragraph 5 of the Court's Individual Rules and Practices in Civil Cases) within thirty days of the date of this Memorandum Opinion and Order. See ECF No. 18, ¶¶ 14-15. They should be prepared to begin trial as early as two weeks thereafter. See id. ¶ 16. That said, the Court is firmly of the view that the parties should try to settle this matter without the need for an expensive and risky trial. To that end, the Court directs the parties to confer immediately about the prospect of settlement and conducting a settlement conference before Magistrate Judge Gorenstein (or before a mediator appointed by the Court or retained privately). If the parties agree that a settlement conference would be appropriate, they should promptly advise the Court and seek an appropriate extension of the pretrial deadlines.
+The Clerk of Court is directed to terminate ECF No. 31.
+SO ORDERED.
+Dated: November 14, 2019 [*5] 
+New York, New York
+/s/ Jesse M. Furman
+JESSE M. FURMAN
+United States District Judge
+
+
+End of Document
+

@@ -1,0 +1,54 @@
+EEOC v. UPS
+United States District Court for the Northern District of Illinois, Eastern Division
+July 3, 2012, Decided; July 3, 2012, Filed
+No. 09-cv-5291
+
+Reporter
+2012 U.S. Dist. LEXIS 92994 *; 2012 WL 2597887
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Plaintiff, TRUDI MOMSEN, Plaintiff-Intervenor, v. UNITED PARCEL SERVICE, INC., Defendant.
+Subsequent History: Vacated by, Motion granted by, Motion denied by, Certificate of appealability denied, As moot, Motion denied by, As moot EEOC v. UPS, 2013 U.S. Dist. LEXIS 4462 (N.D. Ill., Jan. 11, 2013)
+Prior History: EEOC v. UPS, 2011 U.S. Dist. LEXIS 111464 (N.D. Ill., Sept. 28, 2011)
+Counsel:  [*1] For Equal Employment Opportunity Commission, Plaintiff: Diane Ilene Smason, Jeanne B. Szromba, LEAD ATTORNEYS, United States Equal Employment Opportunity Commission, Chicago, IL; AUSA, United States Attorney's Office (NDIL), Chicago, IL; Aaron R. DeCamp, Deborah Lois Hamilton, John C. Hendrickson, Equal Employment Opportunity Commission, Chicago, IL.
+For United Parcel Service, Inc., Defendant: Gary R. Clark, John Allen Klages, LEAD ATTORNEYS, Ellen Marie Girard Georgiadis, Quarles & Brady LLP, Chicago, IL.
+For Trudi Momsen, Intervenor Plaintiff: David A. Hemenway, LEAD ATTORNEY, Law Offices of David A. Hemenway, Chicago, IL.
+Judges: Robert M. Dow, Jr., United States District Judge.
+Opinion by: Robert M. Dow, Jr.
+Opinion
+
+
+
+MEMORANDUM OPINION AND ORDER
+Before the Court is a motion [59] by Plaintiff Equal Employment Opportunity Commission (EEOC) for leave to file a second amended complaint [59-1]. Also before the Court is a motion [64] by Defendant United Parcel Service (UPS) for leave to file a sur-reply in opposition to the EEOC's motion. For the reasons stated below, Plaintiff's motion [59] is denied. Defendant's motion [64] is denied as moot.
+
+I. Background
+As discussed in detail in the Court's two previous opinions in  [*2] this case [42, 57], the EEOC filed an original complaint on behalf of former UPS employee Trudi Momsen and other unidentified class members, alleging that UPS violated Section 102(b)(5) of the Americans with Disabilities Act of 1990 (ADA) by permitting Momsen and the other class members only a twelve-month leave of absence and failing to provide them with reasonable accommodation for their disabilities. The Court dismissed the original complaint with leave to refile because the EEOC did not sufficiently plead that Momsen and the other class members were qualified to perform the essential functions of their jobs with or without reasonable accommodation.
+The EEOC thereafter filed a first amended complaint, asserting claims on behalf of Momsen and Mavis Luvert, as well as other unidentified class members. UPS again sought to dismiss the complaint, but only with respect to the claims asserted on behalf of the unidentified class members. The Court granted UPS's motion, concluding that the EEOC
+has not pleaded with adequate specificity facts establishing the plausibility of a claim that each class member is a qualified individual under the ADA who could have performed his or her job with or  [*3] without a reasonable accommodation. Without additional detail, the EEOC's allegations do not "raise a right to relief above the speculative level." Concentra Health Servs., Inc., 496 F.3d at 777.
+[57 at 10.] The Court then gave the EEOC one final opportunity to apply for leave to file a second amended complaint, if it could cure the pleading defects identified above.
+The EEOC has filed such a motion [59] and attaches a proposed second amended complaint. Curiously, however, the EEOC freely admits that the second amended complaint "does not contain additional factual material with regard to any unidentified class member." [59 at 2.] Rather, the second amended complaint simply "adds the additional claim that [UPS's] inflexible twelve-month leave policy violates Section 102(b)(6) of the [ADA]." [59 at 2.] UPS opposes the EEOC's motion, maintaining that the EEOC failed to cure the defects in the original claim and that granting leave to add the additional claim would be futile.1
+
+II. Legal Standard  [*4] on a Motion to Amend
+Leave to amend a complaint should be freely given "when justice so requires." Fed. R. Civ. P. 15(a). But it is well settled that a district court may deny a motion for leave to amend when the amended pleading would be futile. Bethany Pharmacal Co. v. QVC, Inc., 241 F.3d 854, 861 (7th Cir. 2001). An amended complaint is futile if it could not withstand a motion to dismiss.2 See Smart v. Local 702 Int'l Bhd. of Elec. Workers, 562 F.3d 798, 811 (7th Cir. 2009).
+
+III. Analysis
+
+A. Section 102(b)(5) Claim
+As discussed in detail in the Court's two previous opinions in this case [42, 57], under the ADA, it is unlawful for an employer to fail to make reasonable accommodations to qualified individuals with disabilities. 42 U.S.C. §§ 12112(a), 12112(b)(5)(A). When the EEOC files a claim under the ADA, "it is not enough for a complaint to avoid foreclosing possible bases for relief; it must actually suggest that the plaintiff has a right to relief by providing allegations that raise a right to relief above the speculative level." EEOC v. Concentra Health Servs., Inc., 496 F.3d 773, 777 (7th Cir. 2007)  [*5] (citations and quotation marks omitted).
+In dismissing the EEOC's first amended complaint, the Court counseled that "the EEOC both can and should do better in presenting its class allegations so that they set forth in more detail the factual basis for their ADA claims" regarding the putative class members. [57 at 9.] But as the EEOC concedes, it did not do better. The second amended complaint "does not contain additional factual material with regard to any unidentified class member." [59 at 2.] Nevertheless, the EEOC spends considerable time in its reply brief arguing that its allegations are sufficient to survive a motion to dismiss. These arguments were discussed at length and rejected in the Court's previous opinion [57 at 6-10]. Because the EEOC did not even attempt to cure the defects cited by the Court, the second amended complaint would not survive a motion to dismiss regarding the Section 102(b)(5) claim.3
+
+B. Section 102(b)(6) Claim
+The only question remaining is whether the EEOC's motion for leave to amend should be granted regarding its new Section 102(b)(6) claim. The EEOC argues that UPS's leave policy constitutes a qualification standard under Section 102(b)(6) because the policy allows UPS to administratively terminate an employee at the end of a twelve-month leave period regardless of whether the employee is a qualified individual with a disability who could return to work with or without a reasonable accommodation. UPS counters, however, that properly alleging a Section 102(b)(6) claim still requires the EEOC to adequately plead that each class member is a qualified individual with a disability. Because the Court found that the EEOC failed to satisfy this requirement in its first amended complaint, and the second amended complaint adds no new factual allegations, UPS maintains that the Section 102(b)(6) claim fails as well.4
+Section 102(a) states the general rule prohibiting employers from "discriminat[ing] against a qualified individual on the basis of disability" regarding terms, conditions, and privileges of employment. 42 U.S.C. § 12112(a). Section 102(b) construes the term "discriminate against a qualified individual on the basis of disability" to include, among other things, "using qualification standards, employment tests or other selection criteria that screen out or tend to screen out an individual with a disability . . . ." Id. § 12112(b)(6). Thus, by its plain language, Section 102(b)(6) only protects qualified individuals with disabilities.
+Other circuits have reached the same conclusion. See, e.g., Bates v. Dura Auto. Sys., Inc., 625 F.3d 283, 285-86 (6th Cir. 2010) ("A straightforward reading of this statute compels the conclusion that only a 'qualified individual with a disability' is protected from the prohibited form of discrimination described in subsection (b)(6).");  [*8] see also Bates v. UPS, 511 F.3d 974, 989 (9th Cir. 2007) ("Before an employee can challenge an employer's qualification standard, however, an employee must first prove that he is a 'qualified individual' within the meaning of the ADA."); Davidson v. Am. Online, Inc., 337 F.3d 1179, 1189 (10th Cir. 2003) (holding, in evaluating a Section 102(b)(6) claim, that "[n]o matter what type of discrimination is alleged, however, a plaintiff must establish first that he was 'a qualified individual with a disability.'"). The EEOC does not even attempt to refute this persuasive authority, which is consistent with Seventh Circuit precedent generally holding that the ADA only prohibits discrimination against qualified individuals with disabilities. See, e.g., Nowak v. St. Rita High Sch., 142 F.3d 999, 1002 (7th Cir. 1998) (citing Weigel v. Target Stores, 122 F.3d 461, 465 (7th Cir. 1997)).
+Because Section 102(b)(6) only protects qualified individuals with disabilities, the EEOC needed to plead with adequate specificity facts supporting its contention that the unidentified class members meet this requirement. Instead, the EEOC added no new factual allegations to its complaint, which the Court previously  [*9] found to be insufficient. Accordingly, the second amended complaint would not survive a motion to dismiss regarding the Section 102(b)(6) claim.
+
+IV. Conclusion
+For the reasons set forth above, Plaintiff's motion [59] for leave to file a second amended complaint is denied. Defendant's motion [64] for leave to file a sur-reply is stricken as moot. The EEOC's complaint survives only with respect to the claims asserted on behalf of Plaintiffs Momsen and Luvert.
+Dated: July 3, 2012
+/s/ Robert M. Dow, Jr.
+Robert M. Dow, Jr.
+United States District Judge
+
+
+End of Document
+

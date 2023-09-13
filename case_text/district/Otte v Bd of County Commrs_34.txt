@@ -1,0 +1,46 @@
+Otte v. Bd. of County Comm'rs
+United States District Court for the District of Kansas
+June 19, 2013, Decided; June 19, 2013, Filed
+Case No. 13-2159-RDR
+
+Reporter
+2013 U.S. Dist. LEXIS 85735 *; 2013 WL 3147658
+COHEN OTTE, Plaintiff, v. BOARD OF COUNTY COMMISSIONERS OF THE COUNTY OF ATCHISON, KANSAS, Defendant.
+Counsel:  [*1] For Cohen Otte, Plaintiff: David A. Weidner, LEAD ATTORNEY, The Weidner Law Firm, LLC, Kansas City, MO.
+For Peggy House, As an individual and in her official capacity as director of Atchison Senior Village, Board of County Commissioners of the County of Atchison, Kansas, Defendants: David V. Cascio, Kevin D. Case, LEAD ATTORNEYS, Case & Roberts, PC, Kansas City, MO.
+Judges: Richard D. Rogers, United States District Judge.
+Opinion by: Richard D. Rogers
+Opinion
+
+
+
+MEMORANDUM AND ORDER
+This matter is presently before the court upon defendant's motion to dismiss. Having carefully reviewed the arguments of the parties, the court is now prepared to rule.
+I.
+Plaintiff asserts claims of disability discrimination under the Americans with Disabilities Act (ADA), 42 U.S.C. § 12101 et seq., against his former employer, the Board of County Commissioners of Atchison County, Kansas. Plaintiff, who was employed as a maintenance man with the defendant, contends that the defendant (1) discriminated against him because of his disability, arthritis; (2) failed to reasonably accommodate his disability; and (3) retaliated against him for requesting a reasonable accommodation.
+In this motion, the defendant contends that plaintiff has failed to  [*2] exhaust his administrative remedies on his claim for failure to provide a reasonable accommodation. The defendant argues that plaintiff's administrative charge of discrimination filed with the Equal Employment Opportunity Commission (EEOC) "did not clearly set forth a basis for [failure to provide a reasonable accommodation], did not allege any failure to provide reasonable accommodation, and did not allege any failure to provide reasonable accommodation." The defendant asserts that plaintiff's claim of failure to provide a reasonable accommodation must be dismissed pursuant to Fed.R.Civ.P. 12(b)(6). Plaintiff has responded that, under the liberal rules of Fed.R.Civ.P. 8(a), he has provided fair notice of a claim of failure to provide a reasonable accommodation under the ADA. He suggests that his charge filed with the EEOC was sufficient to allow such a claim in this case.
+The parties' reliance upon Rules 12(b)(6) and 8(a) are misplaced. The defendant does not contend that plaintiff has failed to state a claim for failure to provide a reasonable accommodation under the ADA in his complaint. Rather, the defendant argues that plaintiff has failed to exhaust his administrative remedies  [*3] on this claim. Such an argument goes to the court's subject matter jurisdiction. Filing a charge of discrimination with the EEOC is a jurisdictional prerequisite to the institution of a lawsuit based on a claim of employment discrimination under the ADA. See Jones v. UPS, Inc., 502 F.3d 1176, 1183 (10th Cir. 2007). As a result, the court must consider the defendant's motion under Fed.R.Civ.P. 12(b)(1). When a defendant brings a motion to dismiss for lack of subject matter jurisdiction, the plaintiff must carry the burden of proving jurisdiction. Mounkes v. Conklin, 922 F.Supp. 1501, 1505 (D.Kan. 1996).
+Rule 12(b)(1) attacks on subject matter jurisdiction are typically either facial attacks on the sufficiency of jurisdictional allegations or factual attacks on the accuracy of those allegations. Holt v. United States, 46 F.3d 1000, 1002-03 (10th Cir. 1995). The defendant in this case lodges a factual attack--one which questions the accuracy of the allegations in the complaint as they relate to subject matter jurisdiction. See Holt, 46 F.3d at 1002. In reviewing a factual attack on the complaint, the court has wide discretion to allow affidavits, other documents, and a limited evidentiary  [*4] hearing to resolve disputed jurisdictional facts. See Davis ex rel. Davis v. United States, 343 F.3d 1282, 1294 (10th Cir. 2003), cert. denied, 542 U.S. 937, 124 S. Ct. 2907, 159 L. Ed. 2d 812 (2004). In such instances, a court's reference to evidence outside the pleadings does not convert the motion to dismiss to a motion for summary judgment under Fed.R.Civ.P. 56. Id.
+II.
+On or about July 19, 2012, plaintiff filed a charge of discrimination alleging "disability discrimination and retaliation" with the EEOC. The charge described the discrimination as follows:
+I have a disability in my lower back requiring occasional modification of the schedule for which I perform duties. Atchison County was aware of this disability upon my hiring. Atchison County, specifically Peggy House (director of Atchison County Senior Village, the Atchison County run nursing home), discriminated by:
+• Giving lower raise than other county employees
+• Inaccurately recording my sick and vacation time
+• Writing me up when I needed schedule altered
+• Writing me up for activities, but not writing non-disabled employees up for the same activities
+• Going through my personal belongings to see my Rx (prescriptions)
+On February 7, 2012 I was instructed to clock  [*5] out and leave work by Peggy House for requesting to leave for an emergency doctor appointment, despite my offer to make up lost time that night. I asked Peggy why she was treating me differently, Peggy House directed me to clock out and leave work and to call the next morning at 8:00 a.m. before returning to work. When I called on February 8, 2012, I was instructed not to return to work and to call again the next day (February 9, 2012) at 8:00 to see if I could return. When I called on February 10, 2012 to see if I could return to work, Peggy House would not answer my call but instead had another staff member tell me that she could not be disturbed.
+I reported this discrimination to the Sheriff, John Calhoun (whom is on the discrimination board for Atchison County) on February 8, 2012. On February 8, 2012 I was terminated. Atchison County denied my unemployment despite emails from an Atchison County Commissioner verifying that I would not be denied. I seek lost pay and benefits, pain and suffering, emotional distress, reinstatement, a clean record, attorney's fees and any other relief deemed appropriate.
+III.
+"A plaintiff's claim in federal court is generally limited by the scope of the  [*6] administrative investigation that can reasonably be expected to follow the charge of discrimination submitted to the EEOC." MacKenzie v. City & County of Denver, 414 F.3d 1266, 1274 (10th Cir. 2005). The inquiry is generally "limited to the scope of the administrative investigation that can reasonably be expected to follow from the discriminatory acts alleged in the administrative charge." Jones, 502 F.3d at 1186 (emphasis in original). The court must liberally construe charges filed with the EEOC in determining whether administrative remedies have been exhausted as to a particular claim. Id.
+The court notes in his charge that plaintiff alleged, inter alia, that he had a disability arising from problems with his lower back. He further alleged that this condition required "occasional modification of [his] schedule." Finally, he asserted that his supervisor was aware of his disability and cited him when he needed an altered schedule.
+The court is persuaded that the plaintiff's claim of failure to provide a reasonable accommodation here could reasonably be expected to follow the allegations that were made in plaintiff's EEOC charge. In order to state a claim of failure to provide a reasonable  [*7] accommodation under the ADA, a plaintiff must show that: (1) he has a disability within the meaning of the ADA; (2) the employer had notice of his disability; (3) he could perform the essential functions of the job with reasonable accommodation; and (4) the employer refused to provide such accommodation. Bones v. Honeywell Int'l, Inc., 223 F.Supp.2d 1203, 1218 (D.Kan. 2002), aff'd, 366 F.3d 869 (10th Cir. 2004)(citation omitted). Although in his EEOC charge plaintiff failed to specifically mention a failure to accommodate claim, he did allege facts that adequately put the defendant on notice of such a claim. He noted the existence of a disability, knowledge of the disability by the defendant, the ability to perform the job with a reasonable accommodation and the defendant's failure to provide such accommodation. Accordingly, the court shall deny defendant's motion to dismiss.
+IT IS THEREFORE ORDERED that defendant's motion to dismiss (Doc. # 7) be hereby denied.
+IT IS SO ORDERED.
+Dated this 19th day of June, 2013, at Topeka, Kansas.
+/s/ Richard D. Rogers
+United States District Judge
+
+
+End of Document
+

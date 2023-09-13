@@ -1,0 +1,80 @@
+Maxwell v. Wash. Cty., Miss.
+United States District Court for the Northern District of Mississippi, Greenville Division
+October 1, 2019, Decided; October 1, 2019, Filed
+NO. 4:18-CV-154-DMB-RP
+
+Reporter
+2019 U.S. Dist. LEXIS 170065 *; 2019 WL 4855156
+MARCUS MAXWELL, PLAINTIFF, v. WASHINGTON COUNTY, MISSISSIPPI, DEFENDANT
+Subsequent History: Reconsideration denied by Maxwell v. Wash. County, 2019 U.S. Dist. LEXIS 210607 (N.D. Miss., Dec. 6, 2019)
+Counsel:  [*1] For Marcus Maxwell, Plaintiff: Louis H. Watson , Jr., Robert N. Norris, LEAD ATTORNEYS, WATSON & NORRIS, PLLC, Jackson, MS.
+For Washington County, Mississippi, Defendant: Paul Scott Phillips, Brittany Brooks Frankel, LEAD ATTORNEYS, CAMPBELL DELONG, LLP, Greenville, MS.
+Judges: Debra M. Brown, UNITED STATES DISTRICT JUDGE.
+Opinion by: Debra M. Brown
+Opinion
+
+
+
+OPINION AND ORDER
+Before the Court is Washington County, Mississippi's motion for summary judgment. Doc. #35.
+
+I
+
+Summary Judgment Standard
+Under Rule 56(a) of the Federal Rules of Civil Procedure, "[s]ummary judgment is proper only when the record demonstrates that no genuine issue of material fact exists and the movant is entitled to judgment as a matter of law." Luv N' Care, Ltd. v. Groupo Rimar, 844 F.3d 442, 447 (5th Cir. 2016). "A factual issue is genuine if the evidence is sufficient for a reasonable jury to return a verdict for the non-moving party, and material if its resolution could affect the outcome of the action." Burton v. Freescale Semiconductor, Inc., 798 F.3d 222, 226 (5th Cir. 2015) (quotation marks omitted). In evaluating summary judgment issues, a court must "consider the evidence in the light most favorable to the nonmoving party and draw all reasonable inferences in its favor." Edwards v. Cont'l Cas. Co., 841 F.3d 360, 363 (5th Cir. 2016).
+In seeking summary judgment, "[t]he moving party bears the initial responsibility of informing the district court of the basis for its motion, and identifying [*2]  those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." Nola Spice Designs, L.L.C. v. Haydel Enters., Inc., 783 F.3d 527, 536 (5th Cir. 2015) (quotation marks and alterations omitted). If the moving party satisfies this burden, "the non-moving party must go beyond the pleadings and by her own affidavits, or by the depositions, answers to interrogatories, and admissions on file, designate specific facts showing that there is a genuine issue for trial." Id. (quotation marks omitted). "Where the nonmoving party bears the burden of proof at trial, the moving party satisfies this initial burden by demonstrating an absence of evidence to support the nonmoving party's case." Celtic Marine Corp. v. James C. Justice Cos., Inc., 760 F.3d 477, 481 (5th Cir. 2014).
+
+II
+
+Factual Background and Procedural History
+Sometime in 2010, Washington County, Mississippi ("County"), hired Marcus Maxwell to work as a mobile maintenance employee in its Buildings and Grounds Department. Doc. #35-2 at 13-14. Sometime later, Boris Branden, Maxwell's supervisor, transferred him from mobile maintenance to the position of park custodian at Warfield Point Park. Id. at 14-15.
+
+A. Internal Grievance and Transfer from the Parks Department
+On January 3, 2014, Maxwell sent a "letter of grievance" to Branden, which stated:
+This letter of grievance is to inform [*3]  you of the mistreatment that you have shown toward me, Marcus Maxwell.
+1. You claim to have put me at the park to keep from firing me. Your words "Stop from putting me out on the streets"
+2. I have informed you about the weekend worker, that he is not doing his job. You said don't worry about him, just do your job. Come Monday morning I have to do the job of the weekend worker.
+3. On several occasion you told me that my work looks like "shit".
+4. I have explained to you that I don't feel safe at the park because I am afraid of snakes. You said you could transfer me to the county road department, but you will not put me back on the job that I was hired to do.
+Id. at Ex. 3.
+In early April 2014, Maxwell was transferred to the position of Class B Truck Driver with the County's Road Department. Id. at 16. This position, officially titled "Truck Driver I (Solid Waste, Tar, Pot Hole, Limb Truck)," required an employee to "have a valid Mississippi Class B Commercial Driver's License." Doc. #35-9 at 1.
+On April 15, 2014, Maxwell filed a charge of discrimination with the Equal Employment Opportunity Commission alleging that he was transferred to the Road Department in retaliation for the "internal grievance." [*4]  Doc. #35-8.
+
+B. Injury, Recovery, and Termination
+On March 10, 2015, Maxwell injured his ankle while stepping off a truck. Doc. #35-2 at 27. As a result of the injury, Maxwell worked "off and on" for the County while undergoing "a couple of surgeries." Id. Following his final surgery in February 2017, Maxwell was released to return to work on light duty. Id. at 27-28. Around this time, Maxwell spoke with Vicki Uppal, then County Administrator and Personnel Officer,1 regarding his return to work. Id. at 36. Uppal stated during the conversation that there were no light duty positions in the Road Department. Id. at 36-37. Maxwell, however, remained employed with the County.
+After meeting with Uppal, Maxwell underwent a functional capacity evaluation, which found he was able to return to "medium duty" work. Id. at 35. Thus, in April 2017, Maxwell was released to return to work on medium duty. Id. at 28. Later, Maxwell met again with Uppal. During this meeting, Maxwell requested a return to his mobile maintenance position in the Buildings and Grounds Department. Id. at 33. Uppal stated that Maxwell would have to stay with the Road Department and inquired what position he would be able to perform. Id. at 33-34. Maxwell responded, "it is your job to place me somewhere [*5]  so if I can't do it, I can come to you and say 'Well, I can't do this job because of this injury. Can you find something else?'" Id. at 34. Uppal stated, "let's see what happens and we'll talk about it later." Id.
+After meeting with Uppal, Maxwell went to the Department of Transportation to renew the medical card required to maintain his Commercial Driver's License ("CDL"). Id. at 35. At the requisite evaluation, conducted on June 8, 2017, the medical examiner found Maxwell did not meet the standards for a CDL due to "medications." Doc. #35-7 at 4. Maxwell reported the results of the evaluation to Uppal, who terminated Maxwell in a letter shortly after.2 Doc. #35-6. The termination letter states:
+Following your release from medical treatments you reported to me today, June 6, 2017 that you no longer have a valid CDL license. You also stated you did not know what job you could perform at the County even though your doctors provided you with medium duty work restrictions. In any event, Washington County cannot employ you as a truck driver without a valid CDL.
+Id.
+
+C. Walsh Wigfall
+In March 2017, Jerry Redmond, Sr., a County board member, noticed Walsh Wigfall, a maintenance lead person in the County's Buildings [*6]  and Grounds Mobile Maintenance Department, having difficulty walking. Doc. #37-1 at 1. Redmond instructed Wigfall to seek medical attention. Id. Wigfall had previously been diagnosed with bone spurs and had been told by a doctor he could have an "extremely painful" surgery or could purchase $500 dollar shoes. Id.
+Later that month, Wigfall spoke with Mike Jones, his direct supervisor, regarding his foot condition and his inability to purchase the shoes. Id. Jones stated that Wigfall could not return to work if he did not have the shoes but that the County could not buy the shoes for him. Id. at 1-2. Based on this interaction, Wigfall felt that it was "clear" he could no longer work for the County. Id. at 2. Accordingly, on or about April 2, 2017, Wigfall filed for unemployment benefits. Doc. #35-11. Sometime later, it appears Wigfall began taking accrued sick leave and annual leave. Doc. #35-10. On April 24, 2017, after his leave had run out, Wigfall was placed on Family Medical Leave Act ("FMLA") leave. Id. Wigfall's request for unemployment benefits was denied on April 27, 2017, because Wigfall was "on an approved leave of absence from [his] employment." Doc. #35-11.
+According to Keona Jackson, a County [*7]  human resources representative,3 during Wigfall's FMLA leave, the County tried to "work with him" to encourage him to get the required shoes. Doc. #35-3 at 11-12. During this time, Wigfall "[n]ever would give ... any definite answers about coming back." Id. at 11.
+While County officials were aware that Wigfall lacked the funds to purchase the shoes, they believed his insurance would pay some of the money and Mike Jones, his supervisor, offered to let him borrow money for the purchase. Id. at 23-24. However, in early July, Wigfall "brushed [] off" the offer to borrow money. Id. at 24. At approximately the same time, the County learned that Wigfall was missing appointments with doctors. Id. at 10-11. County officials then "started realizing that he wasn't coming back." Id. at 24. Accordingly, Wigfall was terminated when his FMLA leave expired on July 14, 2017. Id.at Ex. 2.
+
+D. EEOC Charge and This Action
+On August 4, 2017, Maxwell filed with the EEOC a second charge of discrimination which alleged discrimination by the County based on disability and retaliation for his filing "an internal complaint and EEOC complaint." Doc. #35-1 at Ex. A. The EEOC issued a Notice of Suit Rights on May 24, 2018. Id. at Ex. B.
+Pursuant to his right to sue, [*8]  Maxwell filed this action on July 19, 2018. Doc. #1. Maxwell's complaint asserts a claim for failure to accommodate under the Americans with Disabilities Act ("ADA") and claims for retaliation under the ADA and Title VII of the Civil Rights Act. Id. at 3- 4. Following a period of discovery, the County moved for summary judgment on all claims. Doc. #35. The motion has been fully briefed. See Docs. #38, #39.
+
+III
+
+Analysis
+Because Maxwell's response concedes summary judgment is appropriate on his retaliation claims,4 the only question before the Court is whether a genuine issue of material fact exists as to whether the County failed to reasonably accommodate Maxwell's disability.5
+The Americans with Disabilities Act "requires an employer to make 'reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability.'" Delaval v. PTech Drilling Tubulars, L.L.C., 824 F.3d 476, 481 (5th Cir. 2016) (alterations omitted) (quoting 42 U.S.C. § 12112(b)(5)(A)). To prevail on a failure to accommodate claim, a plaintiff must show "(1) the plaintiff is a qualified individual with a disability; (2) the disability and its consequential limitations were known by the covered employer; and (3) the employer failed to make reasonable accommodations for such [*9]  known limitations." Feist v. La., Dep't of Justice, Office of the Attorney Gen., 730 F.3d 450, 452 (5th Cir. 2013) (quotation marks omitted).
+The County argues that Maxwell's claim must fail because he was not a qualified individual and because he cannot identify a reasonable accommodation. Doc. #36 at 8-15. Maxwell argues in response that he was disabled in numerous ways and that "[i]n March 2017, a position on the mobile maintenance became available when Defendant learned that Walsh Wigfall would not be able to return to work because he could not afford ... special shoes ...." Doc. #38 at 2. The County replies that the position was not vacant because Wigfall was on FMLA leave. Doc. #39 at 2-3. Because, for the reasons explained below, the Court concludes that Maxwell has failed to identify a reasonable accommodation, it will decline to address whether Maxwell qualified as disabled under the ADA.6
+While "reassignment to a different job may be a reasonable accommodation, ... the plaintiff bears the burden of proving that an available position exists that he was qualified for and could, with reasonable accommodations, perform." Moss v. Harris Cty. Constable Precinct One, 851 F.3d 413, 418 (5th Cir. 2017) (quotation marks omitted). The vacancy must exist during the plaintiff's employment. See id. at 419 ("Moss failed to present any evidence that [*10]  a light duty position ... was vacant at the time of his termination ...."). "A position is not considered vacant if the employer has a legitimate reason, unrelated to the employee's disability, for reserving the position for others." Winfrey v. City of Chicago, 259 F.3d 610, 618 (7th Cir. 2001). And, a plaintiff may not satisfy his reasonable accommodation burden by pointing to a vacancy created by another employee on FMLA leave. See Hill v. Excel Corp., No. 04-3083, 2005 U.S. Dist. LEXIS 33242, 2005 WL 3358866, at *3 (C.D. Ill. Dec. 9, 2005) ("The Coulter Position was not vacant because Excel was holding it open for Coulter while he was on family medical leave.").
+There is no dispute that Wigfall, the person occupying the position Maxwell contends he should have been transferred to, was on FMLA leave through July 14, 2017, more than a month after Maxwell's termination and approximately three months after he requested a transfer to a mobile maintenance position. Doc. #35-3 at 10. While Maxwell contends that it was "clear" to the County that Wigfall would not be returning, see Doc. #37-1 at 2, he has offered no authority for the proposition that a position held by an employee on FMLA leave is vacant within the meaning of the ADA if it is clear the employee will not return. The Court assumes without deciding that a position is vacant for the purpose of [*11]  a reasonable accommodation claim if an occupant is on FMLA leave and the employer knows the employee will not return. Cf. Jackson v. Blue Mt. Prod. Co., 761 Fed. Appx. 356 (5th Cir. 2019) ("Nor has Jackson provided any evidence that Blue Mountain should have known that a forklift operator position would be available two weeks later.") (emphasis added). However, even under this assumed rule, Maxwell's claim still fails.
+The undisputed evidence shows that even after his denial of unemployment benefits, Wigfall willingly remained on FMLA leave and engaged in regular conversations with County employees regarding his treatment. During these conversations, Wigfall refused to give County officials a definitive answer on whether he would return. At most, the evidence supports a finding that, at the time of Maxwell's termination, it was likely Wigfall would not return to work, not that the County knew he would not. An employer cannot be expected to preemptively terminate an employee under such circumstances. Accordingly, Maxwell cannot show that Wigfall's position was vacant. In the absence of another proposed reasonable accommodation, Maxwell's failure to accommodate claim fails.
+
+IV
+
+Conclusion
+The County's motion for summary judgment [35] is GRANTED. A final [*12]  judgment will issue separately.
+SO ORDERED, this 1st day of October, 2019.
+/s/ Debra M. Brown
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

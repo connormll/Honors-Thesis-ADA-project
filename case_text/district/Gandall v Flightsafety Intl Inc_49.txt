@@ -1,0 +1,33 @@
+Gandall v. Flightsafety Int'l, Inc.
+United States District Court for the Northern District of Oklahoma
+July 23, 2012, Decided; July 23, 2012, Filed
+Case No. 12-CV-82-TCK-PJC
+
+Reporter
+2012 U.S. Dist. LEXIS 102225 *; 2012 WL 3000257
+TERRY D. GANDALL, Plaintiff. vs. FLIGHTSAFETY INTERNATIONAL, INC., Defendant.
+Subsequent History: Summary judgment granted by, Motion denied by, As moot Gandall v. Flightsafety Int'l, Inc., 2013 U.S. Dist. LEXIS 78907 (N.D. Okla., June 5, 2013)
+Counsel:  [*1] For Terry D Gandall, an individual, Plaintiff: David Ray Blades, Shook & Johnson PLLC, TULSA, OK.
+For Flight Safety International Inc., a foreign corporation, Defendant: Denelda Richardson, Jo Anne Deaton, LEAD ATTORNEYS, Rhodes Hieronymus Jones Tucker & Gable, TULSA, OK.
+Judges: TERENCE C. KERN, United States District Judge.
+Opinion by: TERENCE C. KERN
+Opinion
+
+
+
+OPINION AND ORDER
+Before the Court is Defendant's Motion to Dismiss Count II of Plaintiff's Complaint (Doc. 8). For reasons explained below, this motion is denied.
+In his Complaint, Plaintiff alleges that he suffers from a "disability" as that term is defined in 42 U.S.C. § 12102 of the Americans with Disabilities Act ("ADA") based upon various conditions, including artery disease, PAD deep vein Thrombosis, and atherosclerosis. Plaintiff alleges that, during his employment with Defendant as a Simulator Technician, Defendant failed to accommodate his disability and ultimately terminated him based on his disability. Plaintiff asserts two causes of action: (1) "[t]ermination in violation of the [ADA];" and (2) "[f]ailure to accommodate." (Compl. 3-4.) Defendant moves to dismiss the second cause of action for failure to accommodate, arguing that it is not a separate  [*2] cause of action under the ADA. This motion presents a purely legal question.
+The Tenth Circuit has stated that claims for wrongful termination and failure to accommodate under the ADA "appear to present separate and distinct causes of action" because the third elements differ for each claim. Bartee v. Michelin N. Am., Inc., 374 F.3d 906, 912 (10th Cir. 2004) (affirming jury verdict that was in favor of the plaintiff on reasonable accommodation claim but against the plaintiff on wrongful termination claim "because the disputed elements were not common to both causes of action and the jury could have logically reached opposite conclusions on those elements"). In a footnote, the Tenth Circuit stated:
+We assume, without definitively deciding, that wrongful termination and failure to reasonably accommodate claims under the ADA are separate causes of action. The District Court and the parties proceeded as if they were, and neither party objected to that assumption on appeal. Furthermore, at least one court of appeal appears to treat them as distinct causes of action. See Burch v. Coca-Cola Co., 119 F.3d 305, 314 (5th Cir.1997). On the other hand, both theories of recovery arise from the same  [*3] statutory provision. See, e.g., Siemon v. AT & T Corp., 117 F.3d 1173, 1175 (10th Cir.1997) (citing 42 U.S.C. § 12112(a) as basis for failure to accommodate claim); Taylor v. Pepsi-Cola Co., 196 F.3d 1106, 1107-09 (10th Cir.1999) (citing 42 U.S.C. § 12112(a) as basis for wrongful termination claim). Such cases could lend support to the view that they provide merely alternative methods of proving one statutory cause of action.
+Id. at 912 n.5. Thus, while the Tenth Circuit has not decided the question, it certainly has not prohibited plaintiffs from pleading these claims as two separate causes of action or prohibited juries from entering separate verdicts on each claim.
+Defendant contends that subsequent cases indicate that the Tenth Circuit would now decide that these two "claims" are actually alternative theories of relief under the umbrella of a single ADA cause of action. Upon review of all cases cited by Defendant in its motion and its reply, the Court is not persuaded that any subsequent case law indicates how the Tenth Circuit would decide the precise question it identified in footnote 5 of Bartee. Such cases address what must be proven in order to ultimately succeed under a "failure  [*4] to accommodate" cause of action and/or theory of recovery. See, e.g., Valdez v. McGill, 462 Fed. Appx. 814, 819 (10th Cir. 2012) (explaining that an employer's failure to engage in a sufficient interactive process aimed at identifying a reasonable accommodation does not itself form the basis of an ADA claim and that a plaintiff must also show that a reasonable accommodation was "possible") ("[A]n employer is not required to engage an employee in a futile interactive process where, as we have concluded was the case here, no reasonable accommodation was possible."); Lowe v. Ind. Sch. Dist. No. 1 of Logan Cnty, 363 Fed. Appx. 548, 551-52 (10th Cir. 2010) (same). In the Court's view, these cases do not address the question of whether failure to accommodate is an independent "cause of action" under the ADA. Therefore, the Court finds it most prudent to follow the assumption made in Bartee and permit Plaintiff's second cause of action to proceed as a separate claim for relief rather than merely an alternative theory of recovery.
+Defendant's Motion to Dismiss Count II of Plaintiff's Complaint (Doc. 8) is DENIED.
+IT IS SO ORDERED this 23rd day of July, 2010.
+/s/ Terence C. Kern
+TERENCE C. KERN
+United  [*5] States District Judge
+
+
+End of Document
+

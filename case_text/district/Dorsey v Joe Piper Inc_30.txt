@@ -1,0 +1,58 @@
+Dorsey v. Joe Piper, Inc.
+United States District Court for the Northern District of Alabama, Southern Division
+August 5, 2021, Decided; August 5, 2021, Filed
+Case No. 2:20-cv-02042-CLM
+
+Reporter
+2021 U.S. Dist. LEXIS 146927 *; 2021 WL 3421393
+JOHN DORSEY, Plaintiff, v. JOE PIPER, INC., Defendant.
+Counsel:  [*1] For John W Dorsey, Plaintiff: Ashley Rose Rhea, LEAD ATTORNEY, RHEA LAW LLC, Birmingham, AL.
+For Joe Piper Inc, Defendant: Rebecca Ann Young, WILSON, ELSER, MOSKOWITZ, EDELMAN AND DICKER, LLP, Vestavia Hills, AL.
+Judges: COREY L. MAZE, UNITED STATES DISTRICT JUDGE.
+Opinion by: COREY L. MAZE
+Opinion
+
+
+
+MEMORANDUM OPINION
+Joe Piper Inc. ("Joe Piper") hired John Dorsey to be a Machine Helper in May 2015. Dorsey is legally deaf, and Joe Piper knew Dorsey was deaf when it hired him. Dorsey alleges that his coworkers harassed and mocked him daily for being deaf. Dorsey states that he asked Joe Piper for an interpreter throughout his employment but Joe Piper didn't give him one. Joe Piper fired Dorsey in December 2019 because, it says, Dorsey's conflicts with coworkers violated company policy.
+Dorsey sues Joe Piper alleging that his termination violated the Americans with Disabilities Act ("ADA"), and that Joe Piper's failure to provide a reasonable accommodation violated the ADA. Joe Piper has moved to dismiss Dorsey's complaint. Doc. 3. As explained within, Dorsey does not allege facts that connect the harassment he faced with his termination. Nor does Dorsey plead facts that allege his requested accommodation is necessary or that his claim is timely. So the court [*2]  will GRANT Joe Piper's motion to dismiss without prejudice to give Dorsey the chance to plead facts that would cure the deficiencies in his complaint.
+
+STATEMENT OF THE FACTS
+Dorsey is a former Machine Helper at Joe Piper. Doc. 1, ¶ 11. He began working for Joe Piper around May 10, 2015. Id.
+Both parties agree that Dorsey is legally deaf and that Joe Piper knew Dorsey was deaf when Joe Piper hired him. Id. ¶ 12-13. Dorsey's deafness hinders his ability to hear and talk to others. Id. Dorsey alleges that his supervisors and coworkers harassed and mocked him daily because of his deafness, and that he reported this harassment but Joe Piper did not take corrective action. Id. ¶¶ 14-15. Dorsey also alleges that he requested an accommodation for his deafness multiple times throughout his employment—specifically, Dorsey asked for a certified interpreter. Id. ¶ 16. But Joe Piper did not give him an interpreter. Id. ¶ 17.
+Joe Piper ultimately fired Dorsey because, Joe Piper says, Dorsey got in a fight with a coworker and used a knife to threaten his coworker and destroy company property. Doc. 3, at 2. In Dorsey's termination letter, Joe Piper said that, for the safety of the business and other employees, [*3]  it could not tolerate Dorsey's aggressive and destructive behavior. Doc. 3-1.
+Dorsey claims that his termination and Joe Piper's failure to accommodate him both violate the ADA. Doc. 1, ¶¶ 29, 40.
+
+STANDARD OF REVIEW
+Federal Rule of Civil Procedure 8(a)(2) states that a pleading must contain "a short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. 8(a)(2). Rule 8 does not require the pleading to have detailed factual allegations, but does require "more than an unadorned, the-defendant-unlawfully-harmed-me accusation." Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007)). Rule 12(b)(6) permits the dismissal of a complaint when it fails to state a claim upon which relief can be granted. Fed. R. Civ. P. 12(b)(6). To withstand a 12(b)(6) motion, the complaint must "plead enough facts to state a claim to relief that is plausible on its face." Twombly, 550 U.S. at 570. A claim is plausible when "the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 678. This requires more than "labels and conclusions, and a formulaic recitation of the elements of a cause of action." Twombly, 550 U.S. at 555. If a plaintiff has not alleged facts sufficient to nudge their claim "across the line from conceivable to plausible, their complaint must be dismissed." Id. at 570.
+
+ANALYSIS [*4] 
+Dorsey raises two claims: (1) disability discrimination, and (2) failure to accommodate.
+
+I. Disability Discrimination
+Dorsey alleges that Joe Piper's decision to terminate him violates the ADA. Doc. 1, ¶ 30. But it's difficult to parse the basis of Dorsey's disability discrimination claim. Dorsey's claim mentions conflict with coworkers because they mocked and harassed him, but Dorsey does not plead facts that connect this mockery and harassment to Joe Piper's decision to fire him. Instead, Dorsey's complaint suggests that Joe Piper fired him for violating company policy (don't commit violence), a decision that wouldn't violate the ADA. Dorsey needs to connect the alleged harassment to his termination to make Count 1 plausible.
+
+II. Failure to Accommodate
+Dorsey also alleges that Joe Piper violated the ADA by refusing to reasonably accommodate his deafness. Doc. 1, ¶ 40. And Dorsey is right that a covered entity must provide a reasonable accommodation to a qualified individual with an "actual disability", unless doing so would cause undue hardship. C.F.R. § 1630.2(o)(4).
+But Dorsey alleges no facts that would show his request for an interpreter was a reasonable accommodation. An accommodation is reasonable [*5]  only if it enables the qualified individual to perform the essential functions of the job. Holly v. Clairson Indus., 492 F.3d 1247, 1256 (11th Cir. 2007). Dorsey claims that he requested a certified interpreter during trainings and other meetings and that Joe Piper failed to provide him one. Complaint, ¶ 35. But fails to plead facts that would show that Dorsey needed the certified interpreter to perform the essential functions of a Machine Helper. It is Dorsey's burden as plaintiff to show that the accommodation allows him to perform the essential functions, see Lucas v. W.W. Grainger, Inc., 257 F.3d 1249, 1255-56 (11th Cir. 2001), and Dorsey alleges no facts that identify how a certified interpreter would help him perform his job.
+And that's not Dorsey's only problem. Dorsey also has to plead facts that would show that Dorsey filed his EEOC charge of discrimination within 180 days of the date Joe Piper failed to accommodate his request. See Nance v. Maxwell Federal Credit Union, 186 F.3d 1338, 1341 (11th Cir. 1999). But Dorsey does not plead the date(s) when he asked Joe Piper for an interpreter, nor does he identify to whom he made the requests. Without these facts, Dorsey cannot show that his claim was timely filed.
+In sum, Dorsey does not plead facts sufficient to connect the discrimination to his termination; to show that his requested accommodation was needed for his job; or, that [*6]  his failure to accommodate claim is timely. So the court must dismiss his claims. But because this is Dorsey's first complaint, the court will dismiss them without prejudice to give Dorsey one chance to correct the deficiencies.
+
+CONCLUSION
+For the reasons stated above, the court will GRANT Joe Piper's motion to dismiss (doc. 3). The Court will enter an order that dismisses Dorsey's complaint without prejudice and allows Dorsey 21 days to file an amended complaint.
+DONE on August 5, 2021.
+/s/ Corey L. Maze
+COREY L. MAZE
+UNITED STATES DISTRICT JUDGE
+
+ORDER
+For the reasons stated in the court's Memorandum Opinion (doc. 12), the court GRANTS Defendants' motion to dismiss (doc. 3) and DISMISSES Dorsey's complaint (doc. 1) without prejudice. Under Rule 15(a)(2), the court grants Dorsey leave to file a second amended complaint by August 26, 2021. Defendant's motion for entry of default (doc. 5) is now MOOT.
+DONE and ORDERED on August 5, 2021.
+/s/ Corey L. Maze
+COREY L. MAZE
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

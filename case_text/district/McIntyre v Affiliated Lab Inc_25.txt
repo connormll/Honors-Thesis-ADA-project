@@ -1,0 +1,44 @@
+McIntyre v. Affiliated Lab. Inc.
+United States District Court for the District of Maine
+May 4, 2016, Decided; May 4, 2016, Filed
+1:14-cv-00083-JCN
+
+Reporter
+2016 U.S. Dist. LEXIS 59058 *
+BARBARA A. MCINTYRE, Plaintiff v. AFFILIATED LABORATORY INC., Defendant
+Counsel:  [*1] For BARBARA A MCINTYRE, Plaintiff: ERIK M.P. BLACK, LEAD ATTORNEY, JULIE D. FARR, GILBERT & GREIF, P.A., BANGOR, ME.
+For AFFILIATED LABORATORY INC, AFFILIATED HEALTHCARE SYSTEMS, Defendants: FRANK T. MCGUIRE, MATTHEW M. COBB, LEAD ATTORNEYS, RUDMAN & WINCHELL, BANGOR, ME.
+Judges: John C. Nivison, United States Magistrate Judge.
+Opinion by: John C. Nivison
+Opinion
+
+
+
+MEMORANDUM OF DECISION ON PLAINTIFF'S RENEWED MOTION FOR JUDGMENT AS A MATTER OF LAW OR FOR NEW TRIAL
+In this action, Plaintiff Barbara McIntyre alleged that her former employer, Defendant Affiliated Laboratory, discriminated against her based on a disability, retaliated against her for exercising her right to take family medical leave, and failed to make reasonable accommodations for her disability. After a trial, the jury found that Plaintiff suffered from a disability, but otherwise found in favor of Defendant on all of Plaintiff's claims.
+The matter is before the Court on Plaintiff's Renewed Motion for Judgment as a Matter of Law or for New Trial. (ECF No. 109.) Through her motion, Plaintiff argues that because the jury found that she was disabled, she is entitled to judgment as a matter of law, or a new trial, on her failure to accommodate claim.1 After [*2]  consideration of the parties' written and oral arguments, the Court denies Plaintiff's motion.
+
+Background
+At the conclusion of the trial, on its written verdict form, the jury reported that Plaintiff had proved, by a preponderance of the evidence, that she was disabled under both state and federal law "at the time Defendant terminated her employment." (Verdict Form ¶¶ 3, 4, ECF No. 101.) The jury also reported on the form its finding that Plaintiff had not proved, by a preponderance of the evidence, "that Defendant failed to reasonably accommodate her disability." (Id. ¶ 6.)
+
+Discussion
+Plaintiff argues that because the jury found that she was disabled at the time Defendant terminated her employment, the jury was required to find that Defendant failed to accommodate her disability. Plaintiff requests judgment as a matter of law or, in the alternative, a new trial on her failure to accommodate claim.
+
+A. Motion for Judgment as a Matter of Law
+To obtain a judgment as a matter of law, Plaintiff must demonstrate that the facts introduced at trial, including all reasonably available inferences, [*3]  "are such that no reasonable factfinder could have reached a verdict against [her]." Webber v. Int'l Paper Co., 326 F. Supp. 2d 160, 165 (D. Me. 2004) (citing Santos v. Sunrise Med., Inc., 351 F.3d 587, 590 (1st Cir. 2003)). When conducting its review, the Court does not make an independent determination "as to the credibility of the witnesses or the weight of the evidence." Valentin-Almeyda v. Mun. of Aguadilla, 447 F.3d 85, 95 (1st Cir. 2006). Instead, the Court's "review is weighted toward preservation of the jury verdict." Crowe v. Bolduc, 334 F.3d 124, 134 (1st Cir. 2003).
+Plaintiff's argument for judgment as a matter of law is unconvincing. Based on the record evidence, the jury could have reasonably concluded that as the result of her disability, Plaintiff could not engage in patient care at any level. The jury, therefore, could have reasonably determined that Plaintiff's proposed accommodation — that Defendant assign Plaintiff to the triage desk for a period of time — was not reasonable because a person assigned to the triage desk must, on occasion, have patient contact and provide patient care. In other words, the jury could have reasonably concluded that Plaintiff could not have performed the essential functions of the job even with the proposed accommodation.
+Plaintiff's contention that judgment in her favor is warranted because Defendant failed to engage in the interactive process regarding a possible accommodation [*4]  is similarly unavailing. Insofar as Defendant's representatives met with Plaintiff to discuss her situation, including the ways in which her doctor's restrictions affected her ability to work, the jury could have concluded that Defendant engaged in an interactive process with Plaintiff. In fact, given that Defendant learned during the discussion that Plaintiff could not be involved in patient contact or care, the jury could have reasonably concluded that the interactive process confirmed that Defendant could not accommodate Plaintiff's request for a transfer to the triage desk.
+Plaintiff nevertheless argues that because Defendant did not discuss with Plaintiff or consider granting Plaintiff further leave, the jury was compelled to find that Defendant failed to engage in the interactive process and thus failed to accommodate Plaintiff's disability. First, contrary to Plaintiff's suggestion, the mere fact that an employer did not engage in an interactive process does not establish the employer's failure to accommodate. Lang v. Wal-Mart Stores E., L.P., 813 F.3d 447, 456 (1st Cir. 2016) (citing Kvorjak v. Maine, 259 F.3d 48, 52 - 53 (1st Cir. 2001)). In addition, Plaintiff must demonstrate that the interactive process would have identified a reasonable accommodation. Id. Although additional leave in some [*5]  instances can constitute a reasonable accommodation, the law requires an individualized assessment as to whether the additional leave is reasonable in a particular situation. Garcia—Ayala v. Lederle Parenterals, Inc., 212 F.3d 638, 646 - 47 (1st Cir. 2000). As part of the assessment, a factfinder must consider the hardship, if any, of the accommodation (here, the additional leave) to the employer. Id. at 648 - 49. In this case, the record contains ample evidence from which the jury could have concluded that given Defendant's staffing challenges at the time, the additional leave would have placed an undue burden on Defendant. In short, even if the communications Defendant's representatives had with Plaintiff were deemed insufficient to satisfy any obligation Defendant had to engage in an interactive process, the record would support the jury's determination that further discussion would not have identified a reasonable accommodation under the circumstances.
+
+B. Motion for New Trial
+Pursuant to Rule 59, the Court may grant a new trial to Plaintiff "for any reason for which a new trial has heretofore been granted in an action at law in federal court." Fed. R. Civ. P. 59(a)(1)(A). The standard for a new trial is less demanding than the standard for awarding judgment as a matter of law. In particular, the [*6]  Court is not required to view the evidence in the light most favorable to the verdict, and it may grant a new trial if it finds that the jury verdict was against the weight of the evidence, that upholding the verdict would result in a miscarriage of justice, or that the trial was somehow not fair to the moving party. Frappier v. Countrywide Home Loans, Inc., 750 F.3d 91, 99 (1st Cir. 2014); Jennings v. Jones, 587 F.3d 430, 438 - 39 (1st Cir. 2009); Rivera Castillo v. Autokirey, Inc., 379 F.3d 4, 13 (1st Cir. 2004). Although the Rule 59 standard is not as high as the Rule 50 standard, it is nevertheless "strict," and presents a "high hurdle" for Plaintiff. Jennings, 587 F.3d at 438. As explained in the context of Plaintiff's request for judgment, the record contains sufficient evidence to support the jury's determination that Defendant did not fail to accommodate Plaintiff's disability.
+
+Conclusion
+Based on the foregoing analysis, the Court denies Plaintiff's Renewed Motion for Judgment as a Matter of Law or for New Trial. (ECF No. 109.)
+/s/ John C. Nivison
+U.S. Magistrate Judge
+Dated this 4th day of May, 2016.
+
+
+End of Document
+

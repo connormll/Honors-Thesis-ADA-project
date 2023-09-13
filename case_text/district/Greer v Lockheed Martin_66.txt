@@ -1,0 +1,44 @@
+Greer v. Lockheed Martin
+United States District Court for the Northern District of California, San Jose Division
+August 5, 2011, Decided; August 5, 2011, Filed
+Case Number CV 10-1704 JF (HRL)
+
+Reporter
+2011 U.S. Dist. LEXIS 86658 *; 2011 WL 3471113
+JEAN ELISE GREER, Plaintiff, v. LOCKHEED MARTIN, ESIS INC., and DOES 1 through 20 inclusive, Defendants.
+Subsequent History: Summary judgment granted by Greer v. Lockheed Martin Corp., 2012 U.S. Dist. LEXIS 3416 (N.D. Cal., Jan. 11, 2012)
+Prior History: Greer v. Lockheed Martin, ESIS Inc., 2011 U.S. Dist. LEXIS 65606 (N.D. Cal., May 11, 2011)
+Counsel:  [*1] For Jean Elise Greer, Plaintiff: M. Alieu Iscandari, LEAD ATTORNEY, Iscandari & Associates, Hayward, CA; Asha Bailey Wilkerson, The Wilkerson Law Office, Hayward, CA; Lakeisha Kristina Poole, LKP Legal Services, Menlo Park, CA.
+For Lockheed Martin Corporation, also known as Lockheed Martin, Defendant: Michael W. Foster, LEAD ATTORNEY, Erin Leigh Winters, Foster Employment Law, Oakland, CA.
+Judges: JEREMY FOGEL, United States District Judge.
+Opinion by: JEREMY FOGEL
+Opinion
+
+
+
+ORDER1GRANTING MOTION TO DISMISS THE FIRST THROUGH SIXTH CLAIMS OF PLAINTIFF'S FIRST AMENDED COMPLAINT
+[re doc. no. 52]
+Defendant Lockheed Martin Corp. (Lockheed) moves to dismiss the first through sixth claims of Plaintiff's First Amended Complaint (FAC) on the ground that Plaintiff has failed to exhaust her administrative remedies under state and federal law. The Court has considered the moving and responding papers 2 and the oral argument presented at the hearing. For the reasons discussed below, the motion will be granted, and Greer's claims will be dismissed without prejudice.
+
+I. BACKGROUND
+Plaintiff Jean Elise Greer was terminated from her employment with Lockheed subcontractor EISI on April 7, 2009. On January 27, 2010, Greer, representing herself, filed a charge against Lockheed with the United States Equal Employment Opportunity Commission (EEOC). Greer checked boxes on the pre-printed charge form for "Retaliation," and discrimination based on "Age" and "Disability." Winters Decl. ex. A. Greer provided no "particulars" in the space provided for that purpose on the form, but instead she attached a partial copy of a civil complaint against Lockheed for negligence and premises liability. That document contained allegations that on January 11, 2007, Greer  [*3] tripped on a damaged floor tile at her workplace and was injured. Id. The document makes no mention of Greer's termination or of any claim of discrimination based on age or disability.
+In March 2010, Greer filed this action in the Santa Clara Superior Court. After Lockheed removed the case to this Court, Greer amended her complaint to add claims under the Age Discrimination in Employment Act (ADEA), 29 U.S.C. § 621, et seq., the Americans with Disabilities Act (ADA), 42 U.S.C. § 12101, et seq., and the California Fair Employment and Housing Act (FEHA), Cal. Gov't Code § 12900, et seq. The FAC alleges that Lockheed "has in place a pattern and practice of selecting older employees for termination," FAC ¶ 41; that it failed "to provide reasonable accommodation for" her disability, and failed to "timely and in good faith, engage in the interactive process," FAC ¶¶ 44, 46; and that it failed to investigate harassment and retaliated against her in violation of the FEHA, FAC ¶¶ 66-67.
+
+II. DISCUSSION
+The ADA, ADEA and FEHA each require that prior to bringing a civil action a claimant must file a charge with the appropriate government agency and receive a right to sue letter from the agency. 29 U.S.C. § 626(d)  [*4] (ADEA)l 42 U.S.C. §12117(a) & 2000e-5(f)(1) (ADA); Cal. Gov't Code § 12965(b) (FEHA). A plaintiff may not raise discrimination claims that are not "like or reasonably related to the allegations contained in" the administrative charge. B.K.B. v. Maui Police Dep't., 276 F.3d 1091, 1100 (9th Cir. 2002) (quoting Green v. L.A. County Supt. Of Sch., 883 F.2d 1472, 1475 (9th Cir. 1990)). Courts construe the language of the administrative charge "with utmost liberality since they are made by those unschooled in the technicalities of formal pleading." Id. (quoting Kaplan v. Int'l Alliance of Theatrical & Stage Employees, 525 F.2d 1354, 1359 (9th Cir. 1975)). "In determining whether a plaintiff has exhausted allegations that she did not specify in her administrative charge, it is appropriate to consider such factors as [1] the alleged basis of the discrimination, [2] dates of discriminatory acts specified in the charge, [3] perpetrators of discrimination named in the charge, and [4] any locations at which discrimination is alleged to have occurred." Id.
+The charge is "intended to satisfy the dual purpose of establishing notice of the complainant's claims both to the agency and to the respondent."  [*5] B.K.B. 276 F.3d at 1102. The exhaustion requirement is not merely a procedural hoop, it is designed to provide the administrative agencies an opportunity to investigate and obtain voluntary compliance. See Okoli v. Lockheed Tech. Ops. Co., 36 Cal. App. 4th 1607, 1617, 43 Cal. Rptr. 2d 57 (1995). The question is whether the administrative agency has had the opportunity to investigate the allegations reasonably related to those in the complaint.
+In this case, while it is undisputed that Greer checked the boxes for retaliation and discrimination based on age and disability, the only factual allegations presented to the administrative agency relate to her workplace injury, which occurred two years prior to her discharge. Even though the charge was filed nine months after Greer was terminated, it makes no mention at all of her termination, nor does it contain any factual allegations relating to a pattern or practice of discrimination or a failure to accommodate her disability. Apart from Greer's characterization of her claims, the only common fact between the allegations made in the charge and those raised in Greer's FAC is her employment with EISI.
+Under even the most liberal reading of the charge, the Court  [*6] can find no indication that the agency had an opportunity to investigate factual allegations related to those in the complaint. While Greer may have intended to assert claims relating to her termination, there is no indication in the record that the administrative agency was able to investigate any such discrimination. Greer contends that the fact that she obtained a right to sue letter from Department of Fair Employment and Housing (DFEH) demonstrates that she has exhausted her administrative remedies. However, the right to sue letter itself states that any suit "may include any matter alleged in the charge or, to the extent permitted by court decisions, matters like or related to matters alleged in the charge." Winters Decl. ex. B.
+At the hearing on August 5, 2011, Greer's counsel indicated that Greer may be able to amend her administrative charge to include factual allegations with respect to her termination. Accordingly, the claims will be dismissed without prejudice.
+
+III. DISPOSITION
+Good cause therfore appearing, the motion to dismiss the first through sixth claims of the FAC is granted without prejudice.
+IT IS SO ORDERED.
+DATED: 8/5/2011
+/s/ Jeremy Fogel
+JEREMY FOGEL
+United States District  [*7] Judge
+
+
+End of Document
+

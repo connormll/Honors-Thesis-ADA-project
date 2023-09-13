@@ -1,0 +1,45 @@
+Plush v. ServTech Inc.
+United States District Court for the District of Maryland
+September 2, 2022, Decided; September 2, 2022, Filed
+Civil Action No. RDB-21-2013
+
+Reporter
+2022 U.S. Dist. LEXIS 159479 *; 2022 WL 4017329
+ANDREW PLUSH, Plaintiff, v. SERVTECH INC., Defendant.
+Counsel:  [*1] For Andrew Plush, Plaintiff: Pamela Keith, Donald Melvin Temple, Temple Law Offices, Washington, DC.
+For Servtech Inc., Defendant: Shirlie Norris Lake, LEAD ATTORNEY, Eccleston and Wolf PC, Baltimore Washington Law Center, Hanover, MD; Alexander V Cranford, Eccleston & Wolfe, P.C., Hanover, MD.
+Judges: Richard D. Bennett, United States District Judge.
+Opinion by: Richard D. Bennett
+Opinion
+
+
+
+MEMORANDUM ORDER
+Plaintiff Andrew Plush ("Plaintiff") brings this employment discrimination action against his former employer Defendant ServTech Inc. ("Defendant" or "ServTech"). (ECF No. 1.) Presently pending are Defendant's Motion to Dismiss (ECF No. 4) and Plaintiff's Motion for Leave to File an Amended Complaint (ECF No. 17). The Court has considered the parties' submissions (ECF Nos. 4, 12, 17, 18, 20) and finds no hearing is necessary. See Local Rule 105.6 (D. Md. 2021). For the reasons that follow, Plaintiff's Motion for Leave to File an Amended Complaint (ECF No. 17) is GRANTED, and Defendant's Motion to Dismiss (ECF No. 4) is DENIED AS MOOT.
+
+BACKGROUND
+Plaintiff is a "moderately-functioning autistic young man" who worked as a night stocker at the Commissary at the United States Navy Base in Patuxent River, Maryland ("Pax River"), for three [*2]  years. (ECF No. 1.) Plaintiff's employment was initially supervised by The Center for Life Enrichment ("CLE"), a private company that held an operations contract for the Commissary at Pax River. Id. Plaintiff was employed as part of the AbilityOne and SourceAmerica programs, which "provide work opportunities for persons with serious physical and/or developmental disabilities ... on federal installations and properties ...." Id. CLE was Medicaid certified while contracted with Pax River, and therefore had the funds to provide Plaintiff with a job coach that assisted him in developing job skills and habits. (ECF No. 1 at 3.) Plaintiff's mother, Ms. Plush, often advocated for Plaintiff in his employment matters, and would review any written documents provided by Plaintiff's employer. Id.
+In March 2020, ServTech took over the operations contract for the Commissary at Pax River. (ECF No. 1 at 3.) Plaintiff's job coach remained employed by ServTech until she left for another opportunity in October 2020. Id. at 5. Shortly after the job coach's departure, on November 7, 2020, Plaintiff received a disciplinary write-up for failure to meet ServTech's work standard. Id. Three days later, Plaintiff [*3]  received another disciplinary write-up for failure to meet ServTech's productivity standard. Id. at 6. On November 14, 2020, Plaintiff again received a disciplinary write-up and was terminated from his job. (ECF No. 1 at 6.) ServTech did not provide Ms. Plush copies of Plaintiff's disciplinary write-ups for review. Id.
+Plaintiff filed a timely Charge of Discrimination with the U.S. Equal Employment Opportunity Commission ("EEOC") on February 18, 2021, for discrimination based on ServTech's failure to reasonably accommodate his disability.1 (ECF No. 1 at 2.) The EEOC issued Plaintiff a "right to sue" letter, and Plaintiff subsequently filed this action. Id. Plaintiff's Complaint alleges that ServTech failed to reasonably accommodate a disability (Count I) and unlawfully retaliated against Plaintiff based on his necessary accommodation(s) (Count II), both in violation of the Americans with Disabilities Act of 1967 ("ADA"), 42 U.S.C. 126, § 12101 et seq. (ECF No. 1.)
+Defendant filed a Motion to Dismiss (ECF No. 4) arguing that Plaintiff failed to request a reasonable accommodation and further fails to allege that any such accommodation would have enabled him to perform the essential functions of his job. Furthermore, Defendant asserts that Plaintiff has failed to prove [*4]  that he engaged in a protected activity which is necessary in proving a successful retaliation claim. Id. Plaintiff's Opposition properly highlights that Defendant mischaracterized the law on accommodations, particularly that the initiation of the interactive process was Defendant's duty. (ECF No. 12.) Contemporaneous with his Opposition, Plaintiff filed a Motion for Leave to Amend the Complaint. (ECF No. 17.)
+Plaintiff's requested Amended Complaint includes the two original counts under the ADA, adds two counts under the Rehabilitation Act 29 U.S.C. §794(a), et seq., and adds two counts under the Maryland Fair Employment Practices Act ("MFEPA"), Md. Code Ann., State Gov't §§ 20-601, 20-606(a)(4), et seq. (ECF No. 17.) Defendant opposes Plaintiff's amendments and remains steadfast in its arguments presented in its Motion to Dismiss (ECF No. 4). (ECF No. 18.) For the reasons that follow, Plaintiff's Motion for Leave to File an Amended Complaint is GRANTED, and Defendant's Motion to Dismiss is DENIED AS MOOT.
+
+STANDARD OF REVIEW
+"A party may amend its pleading once as a matter of course" within "21 days after service of a motion under Rule 12(b)...." Fed. R. Civ. P. 15(a). Where a plaintiff requests, and the Court grants, an extension of time to respond to a Rule 12(b) motion, the plaintiff's time to amend the complaint is correspondingly [*5]  extended. See Hurd v. NDL, Inc., No. CIV. CCB-11-1944, 2012 U.S. Dist. LEXIS 26147, 2012 WL 642425, at *1 (D. Md. Feb. 27, 2012) ("because [plaintiff] requested and was granted an extension of time to file her response, the court will consider the amended complaint timely and therefore permitted as a matter of course").
+In cases where a plaintiff must seek leave to amend, a district court may deny plaintiff's request "when the amendment would be prejudicial to the opposing party, the moving party has acted in bad faith, or the amendment would be futile." Equal Rights Center v. Niles Bolton Assocs., 602 F.3d 597, 603 (4th Cir. 2010). As this Court has repeatedly explained, an amendment is futile if it would not survive a motion to dismiss. See, e.g., Whitaker v. Ciena Corp., RDB-18-0044, 2018 U.S. Dist. LEXIS 125754, 2018 WL 3608777, at *3 (D. Md. July 27, 2018) (citing Tawwaab v. Virginia Linen Service, Inc., 729 F. Supp. 2d 757, 770 (D. Md. 2010)). Conversely, "a court may not deny an amendment filed as a matter of course even if the amendment would have been futile." Gilman & Bedigian, LLC v. Sackett, 337 F.R.D. 113, 116 (D. Md. 2020).
+
+ANALYSIS
+Plaintiff's Motion for Leave to File an Amended Complaint is one that shall be granted as a matter of course. Defendant filed its Motion to Dismiss on November 8, 2021. (ECF No. 4.) Plaintiff subsequently filed a consent Motion for Extension of Time, which this Court granted, extending the deadline for his opposition to Defendant's Motion to December 20, 2021. (ECF Nos. 7, 9.) Plaintiff filed both his opposition and Motion for Leave on the date ordered by the Court. (ECF Nos. 12, 17.) [*6]  Accordingly, Plaintiff filed his Motion for Leave to File an Amended Complaint within the timeline allotted to amend "as a matter of course."
+The Court additionally notes that, even if Plaintiff was not within the timeframe to amend as a matter of course, Plaintiff's amendments are not futile as his additional and revised allegations state a plausible cause of action sufficient to survive a motion to dismiss. See Arsenault v. Dep't of Pub. Safety & Corr. Servs., No. CV RDB-20-0998, 2020 U.S. Dist. LEXIS 242417, 2020 WL 7694472, at *4 (D. Md. Dec. 28, 2020) (granting leave to amend where allegations survive a motion to dismiss). Defendant posits, in both its original Motion to Dismiss and in its opposition to Plaintiff's Motion for Leave to Amend, that Plaintiff's failure to appropriately request a reasonable accommodation renders Plaintiff's claims unsuccessful. (ECF Nos. 4, 18.) Defendant's argument fails to acknowledge or even address that Plaintiff's disability precluded him from participating in the standard "interactive process." See Est. of Allen v. Baltimore Cnty., Maryland, No. CV CCB-13-3075, 2017 U.S. Dist. LEXIS 208949, 2017 WL 6508930, at *5 (D. Md. Dec. 20, 2017) (finding an employer should engage in the interactive process when it is aware of an employee's disability and need for accommodations). It is clearly alleged that the Plaintiff's mother needed to advocate for Plaintiff on employment matters. As such, Plaintiff's Amended Complaint states a [*7]  plausible cause of action sufficient for the dismissal stage, and his Motion for Leave shall be GRANTED. Defendant's Motion to Dismiss is correspondingly DENIED AS MOOT.
+
+CONCLUSION
+For the reasons stated above, IT IS this 2nd day of September 2022, hereby ORDERED:
+1) Plaintiff's Motion for Leave to File an Amended Complaint (ECF No. 17) is GRANTED; and,
+2) Defendant's Motion to Dismiss (ECF No. 4) is DENIED AS MOOT.
+Dated: September 2, 2022
+/s/ Richard D. Bennett
+United States District Judge
+
+
+End of Document
+

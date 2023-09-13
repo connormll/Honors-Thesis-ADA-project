@@ -1,0 +1,76 @@
+Odds v. Louisiana
+United States District Court for the Middle District of Louisiana
+September 19, 2012, Decided; September 19, 2012, Filed
+CIVIL ACTION NO. 10-394-BAJ-DLD
+
+Reporter
+2012 U.S. Dist. LEXIS 134194 *; 2012 WL 4214341
+TONY ODDS versus STATE OF LOUISIANA THROUGH BOARD OF SUPERVISORS FOR LOUISIANA STATE UNIVERSITY
+Counsel:  [*1] For Tony Odds, Plaintiff: Charles Leopold Dirks, III, LEAD ATTORNEY, Baton Rouge, LA.
+For State of Louisiana, Through Board of Supervisors for Louisiana State University, Defendant: Holly C. Hargrove, LEAD ATTORNEY, Attorney General's Office - Shreveport, Shreveport, LA.
+Judges: BRIAN A. JACKSON, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: BRIAN A. JACKSON
+Opinion
+
+
+
+RULING AND ORDER
+This matter is before the Court pursuant to a Motion for Summary Judgment filed by Defendant, State of Louisiana through Board of Supervisors for Louisiana State University ("Defendant") (doc. 22). Plaintiff, Tony Odds ("Plaintiff"), opposes Defendant's motion (doc. 30). Defendant has also filed an unopposed Motion for Leave to File Reply Memorandum (doc. 31). This suit is brought under the federal question jurisdiction of this Court under the provisions of 28 U.S.C. § 1331.
+
+BACKGROUND
+
+I. Uncontested Facts
+Pursuant to LR 56.1, Defendant has submitted a statement of undisputed material facts (doc. 22-2). Plaintiff has not contested any of those facts, as is required under LR 56.2. Therefore, pursuant to LR 56.2, certain material facts will be deemed admitted for purposes of this motion. 1
+The uncontested facts are as follows:
+• Plaintiff was employed as a painter for Earl K. Long (EKL) hospital and clinics (doc. 22-2 ¶ 1).
+• According to Defendant, essential job duties of Plaintiff's position included working at locations other than the main EKL hospital campus (doc. 22-2 ¶ 2).
+• The parties agree that it was not medically necessary for Plaintiff to eat at any certain time or on any particular schedule (doc. 22-2 ¶ 3).
+• The parties agree that it was not medically necessary for Plaintiff to eat food of any particular temperature or quality (doc. 22-2 ¶ 4).
+• According to Defendant, EKL did not have the resources to provide Plaintiff with a dedicated vehicle at off-site locations so that he could leave the job site to obtain food (doc. 22-2 ¶ 5).
+• The customary timing of breaks and lunch during the work day was: 1) report for work at  [*3] 7:00 a.m.; 2) a scheduled break at 9:00 a.m.; 3) a 30-minute lunch at 11:00 a.m.; 4) a scheduled break at 2:00 p.m.; 5) work day ends at 3:30 p.m. (doc. 22-1, at 3).
+• The parties agree that employees such as Plaintiff are considered to be "working" while being transported to and from off-site locations, and Defendant risks liability when employees use their own vehicles (doc. 22-2 ¶ 7).
+• According to Defendant, Plaintiff was terminated for refusal to work at off-site locations (doc. 22-2 ¶ 8).
+• According to Defendant, Plaintiff's co-employee painter was not treated more favorably regarding transportation to and/or from off-site locations (doc. 22-2 ¶ 10).
+• According to Defendant, Plaintiff was not harassed by Donald Fort, and Donald Fort is also a diabetic (doc. 22-2 ¶ 11).
+
+II. Additional Facts Alleged
+Plaintiff alleges that during his employment he advised Defendant through his supervisors that he suffered from diabetes, a permanent medical condition (Compl. ¶ 2). Plaintiff further alleges that he asked for accommodations to ensure that he could eat small meals throughout the day in order to appropriately maintain his insulin and blood sugar levels (Compl. ¶ 4). Plaintiff also alleges  [*4] that his employer denied his request for accommodations (Compl. ¶ 4). After the denial of accommodations, Plaintiff asserts that Defendant, through his supervisors, began to retaliate against him for making said requests by verbally harassing and abusing him on an almost daily basis (Compl. ¶ 5).
+Plaintiff further alleges that he was terminated by his employer without cause or reason, on October 27, 2009 (Compl. ¶ 6). Plaintiff asserts that his disability and request for accommodation was a motivating factor in Defendant's decision to terminate his employment (Compl. ¶ 6).
+
+ANALYSIS
+"The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). In determining whether the movant is entitled to summary judgment, the court views facts in the light most favorable to the non-movant and draws all reasonable inferences in her favor. Coleman v. Houston Independent School Dist., 113 F.3d 528 (5th Cir. 1997). After a proper motion for summary judgment is made, the non-movant must set forth specific facts showing that there is a genuine issue for trial. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S. Ct. 2505, 2511, 91 L. Ed. 2d 202 (1986).
+The  [*5] non-movant's burden, however, is not satisfied by some metaphysical doubt as to the material facts, or by conclusory allegations, unsubstantiated assertions or a scintilla of evidence. Little v. Liquid Air Corp., 37 F.3d 1069, 1075 (5th Cir. 1994). Summary judgment is appropriate if the non-movant "fails to make a showing sufficient to establish the existence of an element essential to that party's case." Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 2552, 91 L. Ed. 2d 265 (1986).
+Plaintiff asserts that he was subject to unlawful discrimination, and his employment was terminated because of his disability, in violation of The Americans with Disability Act, 42 U.S.C. §§ 12101-12300 (Compl., at 1).
+
+I. Disability Discrimination Claim
+The Fifth Circuit has held that "one may establish a claim of discrimination under the ADA either by presenting direct evidence or by using the indirect method of proof set forth in McDonnell Douglas Corp. v. Green." E.g., Daigle v. Liberty Life Ins. Co., 70 F.3d 394, 396 (5th Cir.1995). Furthermore, to establish a prima facie case of intentional discrimination under McDonnell Douglas, a plaintiff must show:
+"that: (1) he or she suffers from a disability;  [*6] (2) he or she is qualified for the job; (3) he or she was subject to an adverse employment action; and (4) he or she was replaced by a non-disabled person or treated less favorably than non-disabled employees." Id.
+Once a prima facie case is established, "the employer then must show a legitimate, non-discriminatory reason for its action." Seaman v. CSPH, Inc., 179 F.3d 297, 300 (5th Cir. 1999). Finally, "the employee ultimately bears the burden of showing that the employer's actions were motivated by considerations prohibited by the statute." Id.
+In Griffin, the Fifth Circuit ruled on the issue of "an employer's failure to provide a reasonable employment accommodation in consideration of his [an employee's] diabetes." Griffin v. UPS, 661 F.3d 216, 220 (5th Cir. 2011). The issues in Griffin were whether Griffin's diabetes amounted to a disability within the meaning of the ADA, and whether the United Parcel Service (UPS) failed to reasonably accommodate a known limitation of his condition. Id. at 222-25. The Fifth Circuit held that the employee's diabetes treatment regimen required only modest dietary and lifestyle changes, and there was no evidence that UPS was unwilling to engage in  [*7] a good-faith, interactive process for a reasonable accommodation. Id.
+
+A. Disability
+As a threshold requirement, Plaintiff must first establish that he has a disability. Waldrip v. Gen. Elec. Co., 325 F.3d 652, 654 (5th Cir. 2003). Under Sutton, the ADA requires a case-by-case determination of the nature of the employee's impairment. Sutton v. United Air Lines, Inc., 527 U.S. 471, 483 119 S. Ct. 2139, 2147 144 L. Ed.2d 450 (1999). Furthermore, "an individualized assessment of the effect of an impairment is particularly necessary when the impairment is one whose symptoms vary widely from person to person." Toyota Motor Mfg. v. Williams, 534 U.S. 184, 199, 122 S. Ct. 681, 692 151 L. Ed.2d 615 (2002).
+In this case, Plaintiff asserts that his diabetic condition substantially limits his major life activity of eating. Plaintiff asserts that he needed to drive his own vehicle to a job site or take a state vehicle with him (doc. 30, at 2). Plaintiff argues that a vehicle would allow him to better regulate his diabetic condition and his need to eat certain meals. However, as in Griffin, Plaintiff has failed to show that his diabetic condition substantially limits his eating. First, Plaintiff is  [*8] not required to follow a strict dietary regimen. It was not medically necessary for Plaintiff to eat food of a particular temperature or quality, or to eat at any certain time.
+Second, although it was recommended that Plaintiff eat small meals throughout the day in order to appropriately balance his insulin and blood sugar levels (doc. 30, at 5), there were other methods available to Plaintiff to accomplish this. Bringing daily meals, for example, would have allowed Plaintiff to work from the job site. Defendant asserts, and the Court agrees, that the customary timing of breaks and lunch during the work day was more than ample to meet Plaintiff's stated desire to eat regular, small meals throughout the day.
+Finally, the Fifth Circuit, and other Circuit Courts have concluded that "modest dietary restrictions concomitant with an employee's diabetic condition do not amount to substantial limitations under the ADA." Griffin, 661 F.3d at 223. Thus, Plaintiff fails to allege sufficient facts to establish that his modest diabetes treatment regimen renders him disabled within the meaning of the ADA.
+
+B. Reasonable Accommodation
+The Fifth Circuit has held that, under the ADA, "it is unlawful for  [*9] an employer to fail to accommodate the known limitations of an employee's disability." Griffin, 661 F.3d at 224. Furthermore, "an employee who needs an accommodation because of a disability has the responsibility of informing her employer." E.E.O.C. v. Chevron Phillips Chem. Co., 570 F.3d 606, 621 (5th Cir. 2009).
+Even assuming that Plaintiff is disabled within the meaning of the ADA, Plaintiff has not established that he adequately informed his employer of his disability. Plaintiff states that he complained to his employer about being dropped off at the job site because he "couldn't get anything to eat and being a diabetic, he couldn't afford to do that (doc. 30, at 4)." Here, as in Griffin, it is not clear that Defendant was made aware of the precise nature of Plaintiff's restrictions as a diabetic. First, Plaintiff put nothing in writing regarding his need for an accommodation. Plaintiff's employers testified that they remember a discussion of Plaintiff's "need to eat," but recall no discussions of his diabetic condition (doc. 30, at 3). Offering a written request would have ensured that his employer was apprised of the limitations of his disability.
+Second, Plaintiff made no efforts  [*10] to demonstrate to his employers that the limitation of his diabetes required the requested accommodations. For example, Plaintiff did not present documents from a physician showing that his condition required a fixed or structured eating schedule. Thus, Plaintiff has not alleged sufficient facts to show that Defendant denied the request with knowledge of the limitations imposed by his diabetic condition.
+Accordingly, the Court finds that Plaintiff has not established that his diabetes amounted to a disability within the meaning of the ADA, or that Defendant failed to reasonably accommodate a known limitation of his condition. Because Plaintiff has failed to alleged sufficient facts to support his discrimination claim, Defendant is entitled to judgment as a matter of law.
+
+II. Defendant's Motion for Leave to File Reply Memorandum
+Defendant requests that the Court grant leave to file a reply memorandum on its Motion for Summary Judgment. The Court denies the motion due to the factual and legal determinations set forth in this ruling.
+
+CONCLUSION
+For the foregoing reasons, Defendant's Motion for Summary Judgment (doc. 22) is GRANTED and Defendant's Motion for Leave to File Reply Memorandum (doc.  [*11] 31) is DENIED. The Court observes that Plaintiff also brought a state law claim for discrimination. The state law claim is subsumed by the federal claim and as a matter of law is subject to dismissal for the same reasons.
+Baton Rouge, Louisiana, September 19, 2012.
+/s/ Brian A. Jackson
+BRIAN A. JACKSON, CHIEF JUDGE
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF LOUISIANA
+
+
+End of Document
+

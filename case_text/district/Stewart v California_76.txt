@@ -1,0 +1,69 @@
+Stewart v. California
+United States District Court for the Northern District of California
+June 21, 2018, Decided; June 21, 2018, Filed
+Case No. 18-cv-01778-PJH
+
+Reporter
+2018 U.S. Dist. LEXIS 104368 *; 2018 WL 3068421
+KENNETH STEWART, III, et al., Plaintiffs, v. STATE OF CALIFORNIA, et al., Defendants.
+Subsequent History: Motion granted by, in part, Motion denied by, in part, Dismissed without prejudice by, in part Stewart v. California, 2018 U.S. Dist. LEXIS 202728 (N.D. Cal., Nov. 29, 2018)
+Motion granted by Stewart v. California, 2019 U.S. Dist. LEXIS 545 (N.D. Cal., Jan. 2, 2019)
+Motion denied by Stewart v. California, 2019 U.S. Dist. LEXIS 50842 (N.D. Cal., Mar. 25, 2019)
+Counsel:  [*1] For Kenneth Stewart, III, a minor by and through his Guardian Ad Litem, Beatriz Abrego, individually and as successor in interest to Kenneth E. Stewart, Jr. deceased, Plaintiff: Joseph Antonio Lepera, LEAD ATTORNEY, Attorney at Law, San Francisco, CA; Joseph S. May, LEAD ATTORNEY, Law Office of Joseph S. May, San Francisco, CA; Patrick A. Hormillosa, LEAD ATTORNEY, Lepera & Associates PC, San Francisco, CA.
+Asiana Stewart, Plaintiff, Pro se.
+For State of California, Defendant: Kyle Anthony Lewis, Department of Justice, Office of Attorney General, San Francisco, CA.
+Judges: PHYLLIS J. HAMILTON, United States District Judge.
+Opinion by: PHYLLIS J. HAMILTON
+Opinion
+
+
+
+ORDER GRANTING DEFENDANT'S MOTION TO DISMISS
+Re: Dkt. No. 11
+Defendant the State of California's (the "State") motion to dismiss came on for hearing before this court on June 20, 2018. Plaintiff Kenneth Stewart III appeared through his counsel, Joseph May. Defendant appeared through its counsel, Kyle Lewis. Having read the papers filed by the parties and carefully considered their arguments and the relevant legal authority, and good cause appearing, the court hereby GRANTS the State's motion to dismiss plaintiff's second, third, and fourth causes of action, for [*2]  the reasons stated at the hearing and as further explained below.
+
+BACKGROUND
+On January 27, 2017, Kenneth E. Stewart, Jr. (the "decedent") was found dead in his cell at San Quentin State Prison. Dkt. 9, First Amended Complaint (the "FAC") ¶ 15.
+On April 19, 2018, plaintiff, a minor and the decedent's son, filed this action, in his individual capacity and as successor in interest to the decedent. Though the FAC also names the decedent's daughter, Asiana Stewart, as a plaintiff, she has not made an appearance in this action and is not represented by plaintiff or his counsel. Relatedly, while the FAC names as defendants the California Department of Corrections and Rehabilitation (the "CDCR"), San Quentin State Prison ("SQSP"), and SQSP's Warden Ronald Davis, those defendants have not been served.
+During the hearing on the State's motion to dismiss, the court directed the parties to meet and confer about whether CDCR and SQSP should be named as defendants. The court also ordered plaintiff's counsel to inform putative plaintiff Asiana Stewart that she is required to make an appearance if she wishes to be a part of this action.
+As relevant here, the FAC alleges:
+12. Decedent was diagnosed with [*3]  mental illness, including but not limited to one or more of the following: schizophrenia, bipolar disorder, depression, anxiety, and potentially others. Each of these diagnoses or some combination of them constituted a disability in that they were mental impairments that substantially limited one or more of Decedent's major life activities.
+13. In or about November [2016], Decedent was transferred to SQSP. Prior to that time, while incarcerated in other facilities, Decedent had complained repeatedly about the failure of government officials to adequately address his mental health disabilities. This included the filing of three separate lawsuits in the United States District Court for the Northern District of California.
+14. Once at SQSP, Decedent continued to repeatedly request treatment for his mental health disabilities, including the provision of mental healthcare services. Defendants were aware of Decedent's requests and knew that in the absence of appropriate care and monitoring, Decedent would likely suffer serious harm or even death, possibly at his own hands. However, despite knowing the danger that Decedent posed to himself, and the need to provide healthcare and/or monitoring, [*4]  Defendants consciously ignored Decedent's needs, and never took any steps to address the foreseeable risk of significant harm that Decedent posed to himself.
+15. On January 27, 2017, Decedent was found dead in his cell. The cause of death was determined by the Marin County Medical Examiner's Office to be asphyxia resulting from suicide by hanging.
+21. Defendants, and each of them, knew of Decedent's serious medical and mental health needs in that the signs and symptoms of Decedent's mental illness were being clearly manifested and Decedent in fact complained repeatedly about the lack of treatment he was receiving for his mental illness. Plaintiffs are informed and believe[ ] and thereon allege[ ] that Decedent had shown further signs of suicidal tendencies and/or ideations prior to his eventual suicide death and those signs were ignored by Defendants.
+FAC ¶¶ 12-15, 21; see also FAC ¶ 33.
+Based on the above, the FAC alleges four causes of action under: (1) 42 U.S.C. § 1983 for violations of the 8th and 14th Amendment against Davis and the Doe defendants; (2) Cal. Gov. Code § 845.6 for failure to summon medical care against all defendants; (3) Title II of the Americans with Disabilities Act (the "ADA"), 42 U.S.C. § 12132, & the Rehabilitation Act (the "RA") [*5]  for failure to provide services and accommodations for decedent's disability against the State of California, CDCR, SQSP, and the Doe defendants; and (4) negligence against all defendants.
+The State moves to dismiss the second, third, and fourth causes of action.
+
+DISCUSSION
+
+A. Legal Standard
+A motion to dismiss under Rule 12(b)(6) tests for the legal sufficiency of the claims alleged in the complaint. Ileto v. Glock, 349 F.3d 1191, 1199-1200 (9th Cir. 2003). Under the minimal notice pleading requirements of Federal Rule of Civil Procedure 8, which requires that a complaint include a "short and plain statement of the claim showing that the pleader is entitled to relief," Fed. R. Civ. P. 8(a)(2), a complaint may be dismissed under Rule 12(b)(6) if the plaintiff fails to state a cognizable legal theory, or has not alleged sufficient facts to support a cognizable legal theory. Somers v. Apple, Inc., 729 F.3d 953, 959 (9th Cir. 2013).
+While the court must accept as true all the factual allegations in the complaint, legally conclusory statements, not supported by actual factual allegations, need not be accepted. Ashcroft v. Iqbal, 556 U.S. 662, 678-79, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009). The complaint must proffer sufficient facts to state a claim for relief that is plausible on its face. Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 558-59, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007) (citations and quotations omitted). "A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that [*6]  the defendant is liable for the misconduct alleged." Iqbal, 556 U.S. at 678 (citation omitted). Determining whether a complaint states a plausible claim for relief is "a context-specific task that requires the reviewing court to draw on its judicial experience and common sense." Id. at 679. "[W]here the well-pleaded facts do not permit the court to infer more than the mere possibility of misconduct, the complaint has alleged—but it has not 'show[n]'—'that the pleader is entitled to relief.'" Id. Where dismissal is warranted, it is generally without prejudice, unless it is clear the complaint cannot be saved by any amendment. Sparling v. Daou, 411 F.3d 1006, 1013 (9th Cir. 2005).
+
+B. Analysis
+
+1. Whether The FAC States A § 845.6 Claim Against the State
+Generally, Cal. Gov. Code § 845.6 immunizes public entities and employees from liability for injuries caused by a failure to provide medical care for a prisoner in custody. However, the second clause of § 845.6 "creates a limited public-entity liability when: (1) the public employee 'knows or has reason to know [of the] need,' (2) of 'immediate medical care,' and (3) 'fails to take reasonable action to summon such medical care.'" Castaneda v. Dep't of Corr. & Rehab., 212 Cal. App. 4th 1051, 1070, 151 Cal. Rptr. 3d 648 (2013) (emphasis and alteration in original).
+The State argues that the FAC lacks sufficient factual allegations to state a § 845.6 claim. The court [*7]  agrees. The FAC contains no information about: (i) who at SQSP the decedent told about his need for medical care, (ii) what mental health disability caused the need for immediate medical care, (iii) why immediate medical care was needed, or (iv) how the unnamed public employee failed to take reasonable action to summon such medical care. The FAC's mere rephrasing of the elements of a § 845.6 claim does not satisfy the federal pleading requirements.
+
+2. Whether the FAC States An RA or ADA Claim Against the State1
+"Title II of the ADA prohibits public entities from both discriminating against qualified individuals because of a disability and excluding such individuals from benefitting from or participating in a public program because of their disability." Razon v. Cty. of Santa Clara, No. 17-CV-00869-LHK, 2018 U.S. Dist. LEXIS 6235, 2018 WL 405010, at *9 (N.D. Cal. Jan. 12, 2018) (citing 42 U.S.C. § 12132). "To prove that a public program or service violated Title II of the the ADA, [plaintiff] must show that: (1) he is a qualified individual with a disability; (2) he was either excluded from participation in or denied the benefits of a public entity's services, programs, or activities, or was otherwise discriminated against by the public entity; and (3) such exclusion, denial of benefits, [*8]  or discrimination was by reason of his disability." Updike v. Multnomah Cty., 870 F.3d 939, 949 (9th Cir. 2017). In short, "[a] public entity may be liable for damages under Title II of the ADA or § 504 of the Rehabilitation Act if it intentionally or with deliberate indifference fails to provide meaningful access or reasonable accommodation to disabled persons." Id. at 951. That said, the negligent provision of medical treatment alone does not constitute an unlawful failure to accommodate under the ADA or RA. See, e.g., Simmons v. Navajo County, 609 F.3d 1011, 1022 (9th Cir. 2010) ("The ADA prohibits discrimination because of disability, not inadequate treatment for disability.").
+The court finds that the FAC lacks factual allegations sufficient to support plaintiff's ADA & RA cause of action. First, the FAC does not contain any specific factual allegations showing the decedent was a "qualified individual with a disability." See FAC ¶ 12 (alleging that at some unspecified point the decedent was diagnosed with one of four mental illnesses or some other unstated mental illness). In addition, the FAC does not allege what major life activity the decedent was substantially limited in performing or how his alleged mental illness caused or contributed to that limitation. See FAC ¶ 12. Lastly, the FAC lacks factual allegations [*9]  supporting plaintiff's assertions about the "defendants" alleged awareness of and alleged deliberate indifference to the decedent's need for an accommodation. See FAC ¶¶ 14, 21.
+
+3. Whether The FAC States A Negligence Cause of Action Against the State
+As indicated in plaintiff's opposition and confirmed at the hearing, plaintiff does not contest dismissal of the negligence cause of action as to the State. Accordingly, that cause of action is dismissed with prejudice as to the State.
+
+CONCLUSION
+In accordance with the foregoing, defendant's motion to dismiss is GRANTED. The dismissal is WITH LEAVE TO AMEND as to the second and third causes of action and WITH PREJUDICE as to the fourth cause of action against the State.
+During the hearing on defendant's motion, plaintiff's counsel indicated that he is pursuing documents potentially relevant to this action under California's Information Practices Act of 1977, Cal. Civ. Code § 1798.1 et seq. In consideration of that pursuit, plaintiff's amended complaint shall be filed within 60 days and defendant's response shall be filed 28 days thereafter.
+IT IS SO ORDERED.
+Dated: June 21, 2018
+/s/ Phyllis J. Hamilton
+PHYLLIS J. HAMILTON
+United States District Judge
+
+
+End of Document
+

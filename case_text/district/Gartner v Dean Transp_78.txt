@@ -1,0 +1,39 @@
+Gartner v. Dean Transp.
+United States District Court for the Western District of Michigan, Southern Division
+August 30, 2017, Decided; August 30, 2017, Filed
+CASE NO. 1:16-CV-167
+
+Reporter
+2017 U.S. Dist. LEXIS 222470 *; 2017 WL 6503428
+JONATHAN M. GARTNER, Plaintiff, v. DEAN TRANSPORTATION, Defendant.
+Subsequent History: Decision reached on appeal by Gartner v. Dean Transp., 2019 U.S. App. LEXIS 316 (6th Cir. Mich., Jan. 3, 2019)
+Counsel:  [*1] Jonathan M. Gartner, Plaintiff, Pro se, Grand Rapids, MI USA.
+For Jonathan M. Gartner, Plaintiff: Garrett J. Tenhave-Chapman, Solomon Law Firm, PLLC, Grand Rapids, MI USA.
+For Dean Transportation, Defendant: Joseph J. Vogan, Varnum Riddering Schmidt & Howlett LLP (Grand Rapids), Grand Rapids, MI USA.
+For Facilitative Mediator, Mediator: Jon G. March, LEAD ATTORNEY, Miller Johnson PLC (Grand Rapids), Grand Rapids, MI USA.
+Judges: HON. ROBERT J. JONKER, CHIEF UNITED STATES DISTRICT JUDGE.
+Opinion by: ROBERT J. JONKER
+Opinion
+
+
+
+ORDER
+This matter is before the Court on Defendant's Motion for Costs, Expenses and Fees (ECF No. 30) under Fed. R. Civ. P. 54(d), 42 U.S.C. § 12205, and 28 U.S.C. § 1920. On August 2, 2017, for reasons recited from the bench, the Court issued an Order granting Defendant's motion for summary judgment on Plaintiff's failure to accommodate claim under the Americans with Disabilities Act ("ADA"), 42 U.S.C. § 1201 et seq. In the instant motion, Defendant asserts that it is entitled to its attorney's fees, expenses and costs as a prevailing party based on "litigation that was unreasonable and without foundation." (ECF No. 31, PageID.368.) Based on its review of the record, the Court denies in part and grants in part Defendant's motion.
+Under the ADA, a district court "in its discretion, [*2]  may allow the prevailing party . . . a reasonable attorney's fee, including litigation expenses and costs. . . ." 42 U.S.C. § 12205. But the standard for awarding fees to prevailing defendants is high. "A district court should award such fees to a prevailing defendant in a civil rights action only 'upon a finding that the plaintiff's action was frivolous, unreasonable, or without foundation, even though not brought in subjective bad faith.'" Baker v. Windsor Republic Doors, 414 F. App'x 764, 780 (6th Cir. 2011) (quoting Christiansburg Garment Co. v. EEOC, 434 U.S. 412, 421, 98 S. Ct. 694, 54 L. Ed. 2d 648 (1978)). In fact "[a]n award of attorney's fees against a losing plaintiff in a civil rights action is an extreme sanction, and must be limited to truly egregious cases of misconduct." Jones v. Continental Corp., 789 F.2d 1225, 1232 (6th Cir. 1986).
+The Court does not find any basis in the record to conclude that Plaintiff's discrimination claim was frivolous, unreasonable, or groundless. The Court granted summary judgment against Plaintiff for reasons including a problem with the prima facie case, but this does not justify fee shifting. In this case, Plaintiff did have at least one doctor's opinion that supported his position. (ECF No. 23, PageID.299-300.) There was at least some factual basis for Plaintiff's claim. Plaintiff's complaint was neither frivolous, unreasonable, or groundless. Therefore Defendant is not entitled [*3]  to attorney's fees under 42 U.S.C. § 12205.
+Even though Defendant is not entitled to an award of attorney's fees, Defendant is entitled to costs as a prevailing party under Fed. R. Civ. P. 54(d)(1). In allowing costs to a prevailing party, a court may tax only those costs enumerated in 28 U.S.C. § 1920. Crawford Fitting Co. v. J.T. Gibbons, Inc., 482 U.S. 437, 107 S. Ct. 2494, 96 L. Ed. 2d 385 (1987). A court has no discretion to award costs not listed in § 1920, but a court has broad discretion in determining whether costs listed in § 1920 are reasonable and necessary and therefore appropriate in a given case. BDT Prods. v. Lexmark Int'l, Inc., 405 F.3d 415, 419 (6th Cir. 2005). Thus the Court must first determine "whether the expenses are allowable cost items [under § 1920] and then [the Court must determine] whether the amounts are reasonable and necessary." Jefferson v. Jefferson Cty. Pub. Sch. Sys., 360 F.3d 583, 591 (6th Cir. 2004).
+Rule 54(d) creates a "presumption in favor of awarding costs, but allows denial of costs at the discretion of the trial court" in a limited number of situations, such as when the requested costs are "'unnecessarily or unreasonably large,' . . . cases where the prevailing party should be penalized for unnecessarily prolonging trial or for injecting unmeritorious issues . . . , cases where the prevailing party's recovery is so insignificant that the judgment amounts to a victory for the defendants . . . , and cases that are 'close and difficult.'" White & White, Inc. v. American Hospital Supply Corp., 786 F.2d 728, 730 (1986) (internal citations omitted). [*4]  Plaintiff argues only that Defendant's submitted costs and expenses are "unreasonable." (ECF No. 33, PageID.389.) After reviewing the record, the Court concludes that Plaintiff has not rebutted the presumption that favors awarding costs, and therefore declines to deny Defendant's motion as it relates to costs and expenses.
+Defendant has made an earnest effort at recording the purpose and the amount of the sums expended in furtherance of this case, but it is not clear from Defendant's submissions which amounts are those Defendant believes are valid § 1920 costs. The Court is therefore unable to perform the necessary review. Defendant may file an amended Bill of Costs with the Court detailing its § 1920 costs within 21 days of this Order.
+ACCORDINGLY, IT IS ORDERED THAT:
+Defendant's Motion for Costs, Expenses, and Attorney Fees (ECF No. 30) is DENIED IN PART and GRANTED IN PART.
+1. Defendant's motion for attorney's fees under 42 U.S.C. § 2205 is DENIED.
+2. Defendant may file an amended Bill of Costs with the Court for costs they are entitled to as a prevailing party under Fed. R. Civ. P. 54(d)(1) and 28 U.S.C. § 1920 within 21 days of this Order.
+IT IS SO ORDERED.
+Dated: August 30, 2017
+/s/ Robert J. Jonker
+ROBERT J. JONKER
+CHIEF UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

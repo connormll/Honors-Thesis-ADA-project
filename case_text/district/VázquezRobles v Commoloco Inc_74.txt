@@ -1,0 +1,72 @@
+Vázquez-Robles v. Commoloco, Inc.
+United States District Court for the District of Puerto Rico
+May 15, 2017, Decided; May 15, 2017, Filed
+Civil No. 12-1600 (FAB)
+
+Reporter
+252 F. Supp. 3d 111 *; 2017 U.S. Dist. LEXIS 74632 **; 2016 WL 3574628
+MARIBELVÁZQUEZ-ROBLES, Plaintiff, v. COMMOLOCO, INC., Defendant.
+Prior History: Vazquez-Robles v. CommoLoCo, Inc., 932 F. Supp. 2d 259, 2013 U.S. Dist. LEXIS 42543 (D.P.R., Mar. 25, 2013)
+Counsel:  [**1] For Maribel Vázquez-Robles, formerly known as Maribel Velazquez-Robles, Plaintiff: Graciela J. Belaval-Bruno, Martinez Odell & Calabria, San Juan, PR; Alejandro Bellver-Espinosa, Bellver Espinosa Law firm, San Juan, PR.
+For Commoloco, Inc., Defendant: Hector M. Laffitte, Maria Antongiorgi, LEAD ATTORNEYS, Ana Maria Cordero-Varela, Sandra L. Negron-Monge, McConnell Valdes, LLC, San Juan, PR.
+Judges: FRANCISCO A. BESOSA, UNITED STATES DISTRICT JUDGE.
+Opinion by: FRANCISCO A. BESOSA
+Opinion
+
+
+
+ [*113]  MEMORANDUM AND ORDER
+BESOSA, District Judge.
+Before the Court is a motion for summary judgment filed by defendant CommoLoCo, Inc. ("CommoLoCo"). (Docket No. 251.) For the reasons discussed below, the Court GRANTS defendant's motion.
+
+BACKGROUND
+Plaintiff Maribel Vázquez-Robles ("Vazquez") filed suit against her erstwhile employer, CommoLoCo, for disability discrimination and retaliation pursuant to the Americans with Disability Act ("ADA"), Title VII of the Civil Rights Act of 1964, and Commonwealth laws. (Docket No. 1.) The Court granted summary judgment in favor of CommoLoCo on all claims except Vazquez's failure to provide reasonable accommodation claim pursuant to P.R. Laws Ann. tit. 1, § 501 ("Law 44"). (Docket Nos. 226 and 246.)
+CommoLoCo now moves for summary [**2]  judgment pursuant to Federal Rule of Civil Procedure 56, arguing that Vazquez's Law 44 claim is time barred. (Docket No. 251.) Vazquez opposed the motion, (Docket No. 255), and CommoLoco replied, (Docket No. 258).
+
+LEGAL STANDARD
+A court will grant summary judgment if the moving party shows, based on materials in the record, "that there is no genuine dispute as to any material fact and [that the moving party] is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). "A dispute is genuine if the evidence about the fact is such that a reasonable jury could resolve the point in the favor of the non-moving party." Farmers Ins. Exch. v. RNK, Inc., 632 F.3d 777, 786 (1st Cir. 2011) (quoting Rodriguez-Rivera v. Federico Trilla Reg'l. Hosp. of Carolina, 532 F.3d 28, 30 (1st Cir. 2008)). "A fact is material if it has the potential of determining the outcome of the litigation." Maymi v. P.R. Ports Auth., 515 F.3d 20, 25 (1st Cir. 2008).
+At the summary judgment stage, a court must construe the entire record in the light most favorable to the nonmoving party, drawing all reasonable inferences in its favor. See DePoutot v. Raffaelly, 424 F.3d 112, 117  [*114]  (1st Cir. 2005). A court must refrain from making credibility determinations and weighing the evidence. See McGrath v. Tavares, 757 F.3d 20, 25 (1st Cir. 2014). A court also must disregard conclusory allegations and unsupported speculation. Id.
+
+DISCUSSION
+CommoLoCo argues (1) that Vazquez's Law 44 claim is time-barred, (2) that her filling with the Anti-Discrimination Unit ("ADU") did not toll the running of the statute [**3]  of limitations, and (3) that she cannot establish that her mental illness tolled the one-year statute of limitations period because she did not meet the applicable insanity standard. (Docket No. 251.) In her opposition, Vazquez claims that the Court should not allow CommoLoCo's new motion for summary judgment and argues that her filing with the ADU tolled the statute of limitations. (Docket No. 255.)
+
+I. Defendant's New Motion for Summary Judgment
+Vazquez claims that the "Court [should] not allow defendant's [second] motion for summary judgment" because the Court's previous Opinion and Order1 solved all controversies regarding Law 44. (Docket No. 255 at p. 3.) Vazquez also claims that CommoLoco's second motion for summary judgment "runs afoul" of the Federal Rules of Civil Procedure, but fails to elaborate on the issue.
+It is black-letter law "that issues adverted to in a perfunctory manner, unaccompanied by some effort at developed argumentation, are deemed waived." U.S. v. Zannino, 895 F.2d 3, 17 (1st Cir. 1990). Here, Vazquez fails to develop an argument as to why the Court should not allow CommoLoCo's motion. Vazquez's claim regarding CommoLoco's second motion for summary judgment motion is therefore waived.
+The Court concluded in [**4]  its previous Memorandum and Order2 that only Vazquez's failure to accommodate claim brought pursuant to Law 44 remained. (Docket No. 246 at p. 6.) The Court specifically stated that defendant could file a motion for summary judgment on whether Vazquez's Law 44 claim is time-barred or otherwise time-barred based on an administrative exhaustion requirement. (Docket No. 246 at p. 6.) It is within a district court's discretion whether to allow a second motion for summary judgment. See Zurich American Ins. Co. v. Watts Regulator Co., 860 F.Supp.2d 81, 94 (D. Mass. 2012). Accordingly, the Court ALLOWS CommoLoCo's second motion for summary judgment.
+
+II. Law 44 and the Statute of Limitations
+Law 44 is "the Puerto Rico analogue" to the American with Disability Act ("ADA") and is structured to harmonize Puerto Rico law with the ADA. See Ruiz Rivera v. Pfizer Pharm., LLC, 521 F.3d 76, 88 (1st Cir. 2008); see also Torres-Alman v. Verizon Wireless, 522 F.Supp.2d 367, 402 (D.P.R. 2007) (Lopez, M. J.). Law 44 prohibits institutions from "discriminat[ing] against persons with some type of physical or mental disability." P.R. Laws Ann. tit. 1 § 504.
+A one-year statute of limitations applies to Law 44 claims. See Toledo-Colon v. P.R., 812 F.Supp.2d 110, 119 (D.P.R.) (Gelpi, J.). State law determines the limitations period, while the date of accrual is a federal law question. Id. at 120. "Under federal law, the limitations period begins to run when the plaintiff  [*115]  'knows or has reason to know of the injury which is the basis for [**5]  [her] claim.'" Rodriguez-Garcia v. Municipality of Caguas, 354 F.3d 91, 96-97 (1st Cir. 2004) (quoting Rodriguez Narvaez v. Nazario, 895 F.2d 38, 41 n. 5 (1st Cir. 1990). One day after the date of accrual, the one-year statute of limitations begins to run. See Gonzalez Garcia v. P.R. Elec. Power Auth., 214 F.Supp.2d 194, 200 (D.P.R. 2002); see also Benitez-Pons v. Commonwealth of P.R., 136 F.3d 54, 59 (1st Cir. 1998).
+Filing an administrative charge with the Puerto Rico ADU tolls the statute of limitations for Law 44 claims until the administrative proceeding concludes. See Torres v. Junta de Gobierno del Servicio de Emergencia, 91 F.Supp.3d 243, 256 (D.P.R. 2015). In order for the extrajudicial claim to toll the statute of limitations, the claim must (1) present an identical cause of action and (2) request the same relief as the claim later presented in court. See Martinez v. Eagle Glob. Logistics (CEVA), Civil No. 09-2265 (PG), 2011 U.S. Dist. LEXIS 124282, 2011 WL 5025904 (D.P.R. Oct. 21, 2011); Matos Ortiz v. Com. of P.R., 103 F.Supp.2d 59, 65 (D.P.R. 2000); Riofrio Anda v. Ralston Purina, Co., 959 F.2d 1149, 1154 (1st Cir. 1992). A somewhat related action arising from the same facts is not enough; the action plaintiff presented at the ADU must be the same in the action presented in this case to toll the statute of limitations. Martinez  2011 U.S. Dist. LEXIS 124282, [WL] at *4; Ramirez de Arellano v. Alvarez de Choudens, 575 F.2d 315, 320 (1st Cir. 1978).
+Here, Vazquez filed a charge against CommoLoCo with the ADU on September 1, 2010, claiming disability discrimination and failure to accommodate. (Docket No. 252-6.) In her charge, Vazquez requested that defendant CommoLoCo "cease and desist" discriminating against her. (Docket No. 252-6 at p. 8.) On July 26, 2016, Vazquez filed her complaint alleging disability discrimination and failure to provide reasonable accommodation pursuant [**6]  to Law 44. Here, she requested damages "not less than one million dollars ($1,000,000.00)" for her Law 44 claim. (Docket No. 1 at p. 21.) While Vazquez's ADU charge and Law 44 claim present the same cause of action and satisfy the first prong, they do not request the same relief and therefore fail to meet the second prong. Therefore, the Court finds that Vazquez's charge before the ADU did not toll the statute of limitations.
+According to the complaint, CommoLoCo denied Vazquez's request for reasonable accommodation on August 24, 2010. (Docket No. 1 at p. 8.) Thus, the one-year statute of limitations began to run on August 25, 2010, which means that Vazquez had until August 25, 2011 to file her Law 44 claim. Vazquez filed her complaint on July 26, 2012, eleven months after the one-year statute of limitations period. (Docket No. 1.)
+Because Vazquez's ADU charge did not toll the one-year statute of limitations, the Court finds that Vazquez's Law 44 claim is time-barred.
+
+III. Applicable Insanity Standard
+Puerto Rico Law 40 provides that an action may be tolled if the person entitled to bring the action is insane. P.R. Laws Ann. tit. 32, § 254 ("Law 40"). In order to toll the running of the statute of limitations, the [**7]  person must show that she was incapable of comprehending her legal rights and liabilities or administering her own affairs. Torres v. A.F.F., 96 P.R.R. 634, 96 D.P.R. 648, 652 (1968). The Supreme Court of Puerto Rico has stated that the person alleging insanity has the burden of proof. Id.
+CommoLoCo argues that Vazquez cannot establish that her mental disability tolled the statute of limitations because  [*116]  she does not meet the applicable insanity standard pursuant to Law 44. (Docket No. 251 at pp. 9-11.) Vazquez does not address this issue in her opposition. (Docket No. 255.)
+Previously, Vazquez presented evidence that she suffered from severe back pain, which limited her mobility. She was also in a depressive state. Vazquez presents no evidence, however, proving that her depressive state was so severe that she was incapable of comprehending her legal rights or administering her own affairs.
+Even though Vazquez demonstrated that she suffered from physical pain and an emotional condition, she did not prove that she was insane pursuant to Law 40. Because Vazquez does not meet the applicable insanity standard pursuant to Law 40, the statute of limitations was not tolled. Accordingly, the Court finds that Vazquez's Law 44 claim is timed-barred.
+
+CONCLUSION [**8] 
+For the reasons explained above, the Court DECLINES to toll the statute of limitations. Accordingly, Vazquez's failure to accommodate claim brought pursuant to the Law 44 is time-barred. The Court GRANTS summary judgment in favor of the defendant. Vazquez's Law 44 claim is DISMISSED with prejudice, leaving no remaining claims. Final Judgment shall be entered dismissing this case in its entirety.
+IT IS SO ORDERED.
+San Juan, Puerto Rico, May 15, 2017.
+/s/ Francisco A. Besosa
+FRANCISCO A. BESOSA
+UNITED STATES DISTRICT JUDGE
+[EDITOR'S NOTE: The following court-provided text does not appear at this cite in F. Supp. 3d.]
+
+ [*none]  JUDGMENT
+In accordance with the MEMORANDUM AND ORDER entered today (Docket No. 261), plaintiff's Law 44 claim is DISMISSED with prejudice.
+This case is now closed for statistical purposes.
+IT IS SO ORDERED.
+San Juan, Puerto Rico, May 15, 2017.
+/s/ Francisco A. Besosa
+FRANCISCO A. BESOSA
+UNITED STATES DISTRICT JUDGE
+
+
+End of Document
+

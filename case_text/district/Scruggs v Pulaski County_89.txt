@@ -1,0 +1,71 @@
+Scruggs v. Pulaski County
+United States District Court for the Eastern District of Arkansas, Western Division
+December 29, 2014, Decided; December 29, 2014, Filed
+No. 4:14CV00375-JJV
+
+Reporter
+2014 U.S. Dist. LEXIS 177766 *; 2014 WL 7399194
+JAVONDA SCRUGGS, Plaintiff, v. PULASKI COUNTY, ARKANSAS, Defendant,
+Subsequent History: Affirmed by Scruggs v. Pulaski Cnty., 2016 U.S. App. LEXIS 5970 (8th Cir. Ark., Apr. 1, 2016)
+Counsel:  [*1] For Javonda Scruggs, Plaintiff: Luther Oneal Sutter, LEAD ATTORNEY, Sutter & Gillham, PLLC, Benton, AR.
+For Pulaski County, Arkansas, Defendant: David M. Fuqua, LEAD ATTORNEY, Sam Baber, Fuqua Campbell PA, Little Rock, AR.
+Judges: JOE J. VOLPE, UNITED STATES MAGISTRATE JUDGE.
+Opinion by: JOE J. VOLPE
+Opinion
+
+
+
+MEMORANDUM AND ORDER
+
+I. INTRODUCTION
+Plaintiff, Javonda Scruggs, brings this action alleging violation of the Americans with Disabilities Act (ADA), the Arkansas Civil Rights Act (ACRA), Section 504 of the Rehabilitation Act, the Family and Medical Leave Act (FMLA), and race and gender discrimination pursuant to 42 U.S.C. § 1983 and the ACRA (Doc. No. 3). Defendant, Pulaski County, has moved for summary judgment1 (Doc. Nos. 13-15). Plaintiff has responded (Doc. Nos. 27-29), and Defendant replied (Doc. No. 30). Therefore, the matter is now ripe for disposition. After careful consideration of the pleadings, for the specific reasons outlined below, the Court concludes summary judgment is appropriate and this matter should be dismissed with prejudice.
+
+II. FACTS
+Ms. Scruggs was employed as a Pulaski County Juvenile Detention Officer [*2]  from 2001 to May 21, 2013. Ms. Scruggs has a number of health problems, including fibromyalgia and degenerative disc disease. She has worked despite her medical impairments and, as necessary, exercised unpaid leave pursuant to the Family and Medical Leave Act (FMLA), 29 U.S.C. §§ 2601-2654. Ms. Scruggs's condition worsened over the years, and in February 2013, one of her treating physicians, Christopher Mocek, M.D., placed significant work restrictions upon her. Those restrictions included "no sitting, standing, bending, stooping for extended periods," as well as a prohibition on lifting "more than 25 lbs." (Doc. No. 14-5 at 9.) Given these restrictions, Pulaski County officials determined Ms. Scruggs could not perform the job and placed her on continuous FMLA leave until it expired on May 15, 2013. On May 21, 2013, Pulaski County terminated Ms. Scruggs's employment.
+
+III. SUMMARY JUDGMENT STANDARD
+Summary judgment is appropriate only when there is no genuine issue of material fact, so that the dispute may be decided on purely legal grounds. Holloway v. Lockhart, 813 F.2d 874 (8th Cir. 1987); Fed. R. Civ. P. 56. Summary judgment will be granted only after viewing the evidence and drawing all reasonable inferences in the light most favorable to the nonmovant, and then finding [*3]  that no genuine issues of material fact exist. Nelson v. Corr. Med. Servs., 533 F.3d 958, 961 (8th Cir. 2008) (citing Fed. R. Civ .P. 56); see also Brown v. Fortner, 518 F.3d 552, 558 (8th Cir. 2008). The United States Supreme Court has established guidelines to assist trial courts in determining whether this standard has been met: "The inquiry performed is the threshold inquiry of determining whether there is the need for a trial -- whether, in other words, there are any genuine factual issues that properly can be resolved only by a finder of fact because they may reasonably be resolved in favor of either party." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986).
+The United States Court of Appeals for the Eighth Circuit has held "that summary judgment should seldom be granted in the context of employment actions, as such actions are inherently fact based." Keathley v. Ameritech Corp., 187 F.3d 915, 919 (8th Cir. 1999). Nevertheless, summary judgment promotes judicial economy by preventing trial when no genuine issue of fact remains. Inland Oil & Transport Co. v. United States, 600 F.2d 725, 727 (8th Cir. 1979). This Court must view the facts in the light most favorable to the party opposing the motion. Id. at 727-28. The United States Court of Appeals for the Eighth Circuit has also set out the burden of the parties in connection with a summary judgment motion:
+[T]he burden on the party moving for summary judgment is only to demonstrate, i.e., "[to point] out to the District Court," that the record does not disclose [*4]  a genuine dispute on a material fact. It is enough for the movant to bring up the fact that the record does not contain such an issue and to identify that part of the record which bears out his assertion. Once this is done, his burden is discharged, and, if the record in fact bears out the claim that no genuine dispute exists on any material fact, it is then the respondent's burden to set forth affirmative evidence, specific facts, showing that there is a genuine dispute on that issue. If the respondent fails to carry that burden, summary judgment should be granted.
+Counts v. MK-Ferguson Co., 862 F.2d 1338, 1339 (8th Cir. 1988).
+Only disputes over facts that may affect the outcome of the suit under governing law will properly preclude the entry of summary judgment. Anderson, 477 U.S. at 248. "Evidence, not contentions, avoids summary judgment." Mayer v. Nextel West Corp., 318 F.3d 803, 809 (8th Cir. 2003).
+Ms. Scruggs's disability discrimination claims must be analyzed under the burden-shifting framework of McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). Under McDonnell Douglas, the plaintiff must first establish a prima facie case of discrimination. The burden of production then shifts to the employer, who must articulate some legitimate, nondiscriminatory reason for the employment decision. McDonnell Douglas, 411 U.S. at 802.
+
+IV. ANALYSIS
+
+A. Race and Gender Claims
+Plaintiff has abandoned her race and gender claims. [*5]  (Doc. No. 27 at 4.) Therefore, Pulaski County's Motion for Summary Judgment is GRANTED with regard to the allegations of violations of 42 U.S.C. § 1983 and the race and gender claims brought pursuant to the ACRA.
+
+B. ADA and Section 504 Claims
+Pulaski County argues that Plaintiff fails to make a prima facie claim of discrimination under the ADA or Section 504 of the Rehabilitation Act. To establish a prima facie case of discrimination under the both of these provisions, Ms. Scruggs must establish that: (1) she is disabled within the meaning of the ADA; (2) she is qualified to perform the essential functions of her job, with or without accommodation; and (3) she suffered an adverse employment action under circumstances from which an inference of unlawful discrimination arises. Young v. Warner-Jenkinson Co., Inc., 152 F.3d 1018, 1021-22 (8th Cir. 1998). Specifically, Pulaski County argues Ms. Scruggs is not qualified to perform the essential functions of her job. The Court agrees.
+Dr. Mocek, a pain management specialist, treated Ms. Scruggs from October 9, 2012, to February 12, 2013. (Doc. No. 14-5 at 9.) He saw her on eight occasions. Based on his medical assessment, Dr. Mocek determined Ms. Scruggs had limitations on standing, sitting, bending, stooping and lifting. Id. Although Dr. Mocek does not state [*6]  this in his assessment, he presumably provided these limitations with Ms. Scruggs's best interests in mind. And by Plaintiff's own account, Dr. Mocek was not willing to remove the restrictions. (Doc. No. 14-1 at 50.)
+While there is some concern about Plaintiff's limitations in standing, sitting, bending and stooping, the main issue is with Ms. Scruggs's restriction from lifting more than 25 pounds. This is because the job of Juvenile Detention Officer specifically requires the "Ability to lift and carry up to 40 lbs." (Doc. No. 14-3.)
+Plaintiff takes issue with this job requirement and her counsel does a good job trying to create a question of material fact on this point. But the evidence is uncontroverted that the job of Juvenile Detention Officer is physically demanding and requires the ability to lift at least 40 pounds. (Doc. No. 14-1.) For example, Plaintiff admitted the job required her to lift detainees off the ground and restrain juveniles when necessary. (Id. at 54-55.) She also admitted she would have to "lift things up when [doing] a shakedown." (Id. at 33.)
+The testimony of the Facility Director, Carma Gardner, also confirms the requirement to lift 40 pounds. (Doc. No. 27-2.) Although her job [*7]  as director does not require her to lift a certain amount of weight, Ms. Gardner recounted a situation where she had to lift well beyond 40 pounds to help save the life of a detainee who had attempted to hang himself. (Id. at 10-11.) She further confirmed that all of her employees were capable of meeting the 40-pound requirement. (Id. at 13.) Both Ms. Scruggs and Ms. Gardner testified that the job of Juvenile Detention Officer is a physically demanding job.
+Plaintiff's counsel claims "there is a genuine issue of material fact on whether the ability to lift up to 40 lbs is an essential job function." (Doc. No. 29 at 2.) But based on the testimony of Ms. Gardner and Ms. Scruggs, the only real question left is whether the job requires the ability to lift more than 40 pounds. And this question fails to add any viability to Ms. Scruggs's claims.
+The Court has also considered Plaintiff's argument that Pulaski County failed to engage in a "good-faith interactive process." Recognizing this is generally a question for a jury, "[u]nder the ADA, an employer is required to provide reasonable accommodations to the known physical or mental limitations of an otherwise qualified employee with a disability, unless the requisite [*8]  accommodation would impose an undue hardship on the employer's business." Battle v. United Parcel Service, Inc., 438 F.3d 856, 862 (8th Cir. 2006) (emphasis added). In Ms. Scruggs's case, based on her inability to lift 40 pounds, she is not qualified. Also, the Court has considered Plaintiff's argument that Pulaski County's actions amount to a "100% healed policy," and finds it to be without merit. Accordingly, her ADA and Section 504 claims must be dismissed.
+
+C. Retaliation Claims
+FMLA provides eligible employees up to twelve work-weeks of unpaid leave in any twelve-month period and prohibits employers from discriminating against employees for exercising their rights under the Act. 29 U.S.C. §§ 2612, 2615(a)(2). Taking an adverse employment action in retaliation for exercising FMLA leave is therefore actionable. See Darby v. Bratch, 287 F.3d 673, 679 (8th Cir. 2002.)
+To establish a prima facie case of retaliation, Ms. Scruggs must show that: (1) she exercised rights afforded by the Act; (2) she suffered an adverse employment action; and 3) there was a causal connection between her exercise of rights and the adverse employment action. Id.
+Pulaski County argues there is no causal connection between her exercise of FMLA and her termination. It point to the fact that Ms. Scruggs regularly took FMLA from 2008 to 2013, with no negative employment [*9]  action and that she was only terminated once all leave options were exhausted. The Court finds that Pulaski County has offered compelling support for its position. Additionally, Plaintiff's own testimony wholly fails to support an allegation of retaliation. (Doc. No. 14-1 at 66-68). Accordingly, the Court concludes Plaintiff fails to make a prima facie case of discrimination.
+Even if Plaintiff could pass prima facie muster, her claims would fail because she was no longer medically qualified to perform the job. The Court agrees with Pulaski County's points that it had a legitimate reason to terminate Ms. Scruggs and its action was not pretextual. (Doc. No. 15 at 11-14.)
+
+V. CONCLUSION
+It is an unfortunate circumstance that Ms. Scruggs's health has deteriorated to the point she is no longer medically qualified to perform the job of Juvenile Detention Officer. She was apparently good at her job and did fine work for the citizens of Pulaski County.
+The Court is sympathetic to Ms. Scruggs and regrets the unfortunate degradation of her health. But there has been no discrimination shown here. The job is very physically demanding, and Pulaski County had no choice but to discharge Ms. Scruggs when [*10]  her treating physician prohibited her from lifting more than 25 pounds. Given her own account of the demands of the job - it was potentially harmful to both Ms. Scruggs and her coworkers to allow her to remain on duty. Accordingly, for the reasons recited herein, the Motion for Summary Judgement is GRANTED in all respects. Plaintiff's Complaint is DISMISSED with prejudice.
+IT IS SO ORDERED this 29th day of December, 2014.
+/s/ Joe J. Volpe
+JOE J. VOLPE
+UNITED STATES MAGISTRATE JUDGE
+
+JUDGMENT
+Consistent with the Order that was entered on this day, it is CONSIDERED, ORDERED, and ADJUDGED that this case is DISMISSED WITH PREJUDICE.
+IT IS SO ORDERED this 29th day of December, 2014.
+/s/ Joe J. Volpe
+JOE J. VOLPE
+UNITED STATES MAGISTRATE JUDGE
+
+
+End of Document
+
