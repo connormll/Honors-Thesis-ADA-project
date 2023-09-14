@@ -1,18 +1,16 @@
 library(dplyr)
-library(tidytext)
+library(wordcloud)
+library(tm)
 
-cases <- "case_text/appellate"
-directory_files <- list.files(cases, full.names = TRUE)
+#reads files into R
 
-cases_frame <- data.frame(
-  title = directory_files,
-  text = for (i in seq_along(directory_files)) {
-    txt_file_content[i] <- paste(readLines(directory_files[i]), collapse = "\n")
-  }
-)
+directory <- "case_text"
+files_in_directory <- list.files(directory, full.names = TRUE)
 
-print(cases_frame)
+txt_file_content <- character(length(files_in_directory))
 
-# case_words <- case_documents() %>%
-#   unnest_tokens(word, text) %>%
-#   count(word)
+for (i in seq_along(files_in_directory)) {
+  txt_file_content[i] <- paste(readLines(files_in_directory[i]), collapse = "\n")
+}
+
+str(txt_file_content)
