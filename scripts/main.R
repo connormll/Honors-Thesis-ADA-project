@@ -10,10 +10,8 @@ options(java.parameters = "-Xmx6g")
 #alpha < 1 = distribution nearer to the topics, less mixture of topics
 #alpha => 1 = distribution is mixed together, more representative of all topics
 #should generally be alpha = 1/# of topics
-
 #@beta : determines how many words are associated w each topic. 
 #lower value = fewer words
-
 #tl;dr
 #lower beta -> sharper topics, fewer words
 #lower alpha -> sharper categorization
@@ -31,10 +29,10 @@ options(java.parameters = "-Xmx6g")
 #word/phrase. finds log of rare/freq words (don't worry about it too much)
 
 library(mallet)
+library(tidyverse)
 
 alpha_iterations <- 20
 alpha_sum <- 1
-
 beta <- .01
 
 burn_in <- 10
