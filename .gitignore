@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.renv.lock
+.rDataTmp
+.Rprofile
+.gitattributes
