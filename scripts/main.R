@@ -90,9 +90,6 @@ topic.words <- mallet.topic.words(topic.model, smoothed = TRUE, normalized = TRU
 
 mallet.top.words(topic.model, word.weights = topic.words[2,], num.top.words = 5)
 
-#ggplot graphing
-library(ggplot2)
-ggplot(best.model.logLik.df, aes(x=topics, y=LL)) +
-  xlab("Number of topics") + ylab("Log likelihood of the model") +
-  geom_line() +
-  theme_bw()
+###topic evaluators
+
+#coherence
