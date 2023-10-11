@@ -1,11 +1,25 @@
-#https://rdrr.io/cran/mallet/f/vignettes/mallet.Rmd
-#https://www.tidytextmining.com/
+#####package set up
+package_list <- c("mallet", "ggplot2", "ggdendro", "tm")
 
-#RAM allocation
-options(java.parameters = "-Xmx6g")
+install_packages <- function(packages) {
+  for (p in packages) {
+    if (p %in% rownames(installed.packages())) {
+      library(p, character.only = TRUE)
+    } else {
+      install.packages(p)
+      library(p, character.only = TRUE)
+    }
+  }
+}
 
-#basic Mallet setup
+install_packages(package_list)
 
+#RAM allocation - 16 gigs
+options(java.parameters = "-Xmx16g")
+
+##### Mallet setup
+
+###variables
 #@alpha_iterations : controls the mixture of topics. 
 #alpha < 1 = distribution nearer to the topics, less mixture of topics
 #alpha => 1 = distribution is mixed together, more representative of all topics
@@ -22,15 +36,6 @@ options(java.parameters = "-Xmx6g")
 
 #@iterations : # of times sampling is ran to train model
 
-#@freq_words : the maximum number of documents a phrase can be in without being 
-#pruned. A freq_words of 10, for instance, would prune a word/phrase if it was 
-#10 or more documents. 
-#@rare_words : opposite of freq_words, min # of documents a word/phrase needs to
-#appear in. 
-#@min_IDF & @max_idf = inverse document frequency. Measure of importance of a 
-#word/phrase. finds log of rare/freq words (don't worry about it too much)
-
-library(mallet)
 
 alpha_iterations <- 20
 alpha_sum <- 1
@@ -39,59 +44,62 @@ beta <- .01
 
 burn_in <- 10
 iterations <- 200
-freq_words <- 
-rare_words <-
-topics <- 10
+topics <- 73 #found using CaoJuan 
 
-min_IDF <- log(rare_words)
-max_IDF <- log(freq_words)
+seed <- 359 #for reproducability (359 was chosen arbitrarily, it's JP Crawford's wOBA for the 2023 season)
 
+stopwords <- "top_words.txt" #calculated using tf-idf
 
-#reads data into R
+###read data into R
 
-stopwords <- mallet_stoplist_file_path("en")
-directory <- "case_text"
-files_in_directory <- list.files(directory, full.names = TRUE)
+appellate_files <- list.files(
+  path = "data/appellate", 
+  pattern = "\\.txt$", 
+  full.names = TRUE)
+district_files <- list.files(
+  path = "data/district", 
+  pattern = "\\.txt$", 
+  full.names = TRUE)
 
-txt_file_content <- character(length(files_in_directory))
+file_list <- c(appellate_files, district_files)
 
-for (i in seq_along(files_in_directory)) {
-  txt_file_content[i] <- paste(readLines(files_in_directory[i]), collapse = "\n")
-}
+corpus <- Corpus(URISource(file_list))
+###text cleaning
 
-str(txt_file_content)
+corpus <- tm_map(corpus, content_transformer(tolower)) #conerts all text to lowercase
+corpus <- tm_map(corpus, removePunctuation) #removes punctuation
+corpus <- tm_map(corpus, removeNumbers) #removes numbers
+corpus <- tm_map(corpus, stripWhitespace) #removes blank space 
+corpus <- tm_map(corpus, removeWords, stopwords) #removes stopwords
 
-#text cleaner
+##### running mallet
 
-cases.instances <-
-  mallet.import(id.array = row.names(txt_file_content),
-                text.array = files_in_directory,
-                stoplist = stopwords,
-                token.regexp = "\\p{L}[\\p{L}\\p{P}]+\\p{L}"
-                  )
+#create topic model
+topic_model <- MalletLDA(
+  num.topics = topics, 
+  alpha.sum = alpha_sum, 
+  beta = beta)
+topic_model$loadDocuments(cases_instances)
 
-#topic trainer
+#train model
+topic_model$train(iterations)
 
-topic.model <- MalletLDA(num.topics = topics, alpha.sum = alpha_sum, beta = 0.1)
-topic.model$loadDocuments(cases.instances)
+#####analysis
 
-vocabulary <- topic.model$getVocabulary()
-head(vocabulary)
-
-word_freq <- mallet.word.freqs(topic.model)
-head(word_freq)
-
-topic.model$setAlphaOptimization(alpha_iterations,burn_in)
-
-#basic analysis - adds smoothing so no probability = 0
-#smoothing amount = alpha_sum
+###gather basic results for further processing
+# adds smoothing so no probability = 0smoothing amount = alpha_sum
 #NOTE - Java indexes from 0, so the 1st model is topic 0, 2nd is topic 1, etc.
+doc_topics <- mallet.doc.topics(topic.model, smoothed = TRUE, normalized = TRUE) #returns matrix w 1 row per document and 1 column per topic
+topic_words <- mallet.topic.words(topic.model, smoothed = TRUE, normalized = TRUE) #returns matrix w 1 row per topic and 1 column per word 
 
-doc.topics <- mallet.doc.topics(topic.model, smoothed = TRUE, normalized = TRUE)
-topic.words <- mallet.topic.words(topic.model, smoothed = TRUE, normalized = TRUE)
+topic_labels <- mallet.topic.labels(topic_model) #returns vector for each topic w the most probable words in that topic
 
-mallet.top.words(topic.model, word.weights = topic.words[2,], num.top.words = 5)
+top_words <- mallet.top.words(topic.model, word.weights = topic.words[2,], num.top.words = 5) #returns df w 2 columns, 1 containing probable words as vector and the other containing weight assigned. 
 
-###topic evaluators
+##dendrogram
+#balance = value between 0 and 1 where 0 = only document similarity & 1 = only word-level similarity
+#0.3 is default
 
-#coherence
+plot(mallet.topic.hclust(doc_topics, topic_words, balance = 0.3), labels=topic_labels)
+
+
