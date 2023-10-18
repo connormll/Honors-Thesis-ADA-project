@@ -64,16 +64,20 @@ appellate_files <- list.files(
 
 # file_list <- c(appellate_files, district_files)
 file_list <- appellate_files
-corpus <- Corpus(URISource(file_list))
-###text cleaning
 
-corpus <- tm_map(corpus, content_transformer(tolower)) #conerts all text to lowercase
-corpus <- tm_map(corpus, removePunctuation) #removes punctuation
-corpus <- tm_map(corpus, removeNumbers) #removes numbers
-corpus <- tm_map(corpus, stripWhitespace) #removes blank space 
-corpus <- tm_map(corpus, removeWords, stopwords) #removes stopwords
+df <- mallet.read.dir("data/input/appellate")
+# corpus <- Corpus(URISource(file_list))
+# ###text cleaning
+
+# corpus <- tm_map(corpus, content_transformer(tolower)) #conerts all text to lowercase
+# corpus <- tm_map(corpus, removePunctuation) #removes punctuation
+# corpus <- tm_map(corpus, removeNumbers) #removes numbers
+# corpus <- tm_map(corpus, stripWhitespace) #removes blank space 
+# corpus <- tm_map(corpus, removeWords, stopwords) #removes stopwords
 
 ##### running mallet
+
+cases_instances <- mallet.import(df$id, df$text, "top_words.txt")
 
 ##create topic model
 topic_model <- MalletLDA(
@@ -89,13 +93,13 @@ topic_model$setAlphaOptimization(alpha_iterations, burn_in)
 # topic_model$setRandomSeed(seed)
 
 ##load docs
-topic_model$loadDocuments(corpus)
+topic_model$loadDocuments(cases_instances)
 
 ##train model
 topic_model$train(iterations)
 
 ##save model
-state_file <- file.path(tempdir(), "/data/output/temp_mallet_state.gz")
+state_file <- file.path(tempdir(), "C:/Users/conno/OneDrive/Documents/GitHub/Honors-Thesis-ADA-project/data/output/temp_mallet_state.gz")
 save.mallet.state(topic.model = topic_model, state.file = state_file)
 
 
@@ -106,12 +110,12 @@ save.mallet.state(topic.model = topic_model, state.file = state_file)
 # adds smoothing so no probability = 0; smoothing amount = alpha_sum
 #NOTE - Java indexes from 0, so the 1st model is topic 0, 2nd is topic 1, etc.
 
-doc_topics <- mallet.doc.topics(topic.model, smoothed = TRUE, normalized = TRUE) #returns matrix w 1 row per document and 1 column per topic
-topic_words <- mallet.topic.words(topic.model, smoothed = TRUE, normalized = TRUE) #returns matrix w 1 row per topic and 1 column per word 
+doc_topics <- mallet.doc.topics(topic_model, smoothed = TRUE, normalized = TRUE) #returns matrix w 1 row per document and 1 column per topic
+topic_words <- mallet.topic.words(topic_model, smoothed = TRUE, normalized = TRUE) #returns matrix w 1 row per topic and 1 column per word 
 
 topic_labels <- mallet.topic.labels(topic_model) #returns vector for each topic w the most probable words in that topic
 
-top_words <- mallet.top.words(topic.model, word.weights = topic.words[2,], num.top.words = 5) #returns df w 2 columns, 1 containing probable words as vector and the other containing weight assigned. 
+top_words <- mallet.top.words(topic_model, word.weights = topic_words[2,], num.top.words = 5) #returns df w 2 columns, 1 containing probable words as vector and the other containing weight assigned. 
 
 ###perplexity
 ##function to calculate perplexity
@@ -164,7 +168,7 @@ compute_doc_word_counts <- function(documents, vocabulary) {
 }
 
 ##run functions
-word_prob <- compute_doc_word_counts(corpus, topic_words)
+word_prob <- compute_doc_word_counts(cases_instances, topic_words)
 topic_perplexity <- calculate_perplexity(word_prob, doc_topics, topic_words)
 
 
@@ -178,7 +182,7 @@ plot(mallet.topic.hclust(doc_topics, topic_words, balance = 0.3), labels=topic_l
 
 ###import data and manipulation
 ##import meta data & tidy
-meta_data <- tidy(read.csv(file = "data/court_opinions_data.csv", header = TRUE))
+meta_data <- tidy(read.csv(file = "data/input/court_opinions_data.csv", header = TRUE))
 
 ##tidy doc_topics
 doc_topics <- tidy(doc_topics)
