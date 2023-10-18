@@ -1,5 +1,6 @@
 #####package set up
-package_list <- c("mallet", "ggplot2", "ggdendro", "tm", "tidyverse", "dplyr")
+###https://github.com/agoldst/dfrtopics/tree/b547081f5159d38e24309c439192f48bfd0a2357
+package_list <- c("mallet", "tidyverse", "ggdendro", "tm")
 
 install_packages <- function(packages) {
   for (p in packages) {
@@ -13,7 +14,7 @@ install_packages <- function(packages) {
 }
 
 install_packages(package_list)
-
+lapply(package_list, require, character.only=TRUE)
 
 ##### Mallet setup
 
@@ -43,24 +44,26 @@ topics <- 73 #found using CaoJuan
 
 seed <- 359 #for reproducability (359 was chosen arbitrarily, it's JP Crawford's wOBA for the 2023 season)
 
-stopwords <- "top_words.txt" #calculated using tf-idf
+stoplist_file <- file.path("top_words.txt") #calculated using tf-idf
+stoplist <- readLines(stoplist_file)
 
-#RAM allocation - 16 gigs
-options(java.parameters = "-Xmx16g")
+
+#RAM allocation - 24 gigs
+options(java.parameters = "-Xmx6g")
 
 ###read data into R
 
 appellate_files <- list.files(
-  path = "data/appellate", 
+  path = "data/input/appellate", 
   pattern = "\\.txt$", 
   full.names = TRUE)
-district_files <- list.files(
-  path = "data/district", 
-  pattern = "\\.txt$", 
-  full.names = TRUE)
+# district_files <- list.files(
+#   path = "data/input/district", 
+#   pattern = "\\.txt$", 
+#   full.names = TRUE)
 
-file_list <- c(appellate_files, district_files)
-
+# file_list <- c(appellate_files, district_files)
+file_list <- appellate_files
 corpus <- Corpus(URISource(file_list))
 ###text cleaning
 
@@ -83,10 +86,10 @@ topic_model <- MalletLDA(
 topic_model$setAlphaOptimization(alpha_iterations, burn_in)
 
 ##set seed
-topic_model$model$setRandomSeed(as.interger(seed))
+# topic_model$setRandomSeed(seed)
 
 ##load docs
-topic_model$loadDocuments(cases_instances)
+topic_model$loadDocuments(corpus)
 
 ##train model
 topic_model$train(iterations)
@@ -185,7 +188,7 @@ meta_w_probs <- merge()
 #export
 write.table(meta_w_probs, file = "data/output/meta_w_probs.csv")
 ##time graph
-ggplot2
+for t in time
 
 ##level graph
 ggplot2
